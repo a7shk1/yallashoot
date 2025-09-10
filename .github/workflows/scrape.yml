@@ -1,9 +1,13 @@
-name: Scrape Matches (images)
+name: Scrape YallaShoot (today.json)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/15 * * * *"   # كل 15 دقيقة (UTC)
+  workflow_dispatch:
+    inputs:
+      force_url:
+        description: "اختياري: URL مخصص بدل الافتراضي"
+        required: false
 
 permissions:
   contents: write
@@ -22,23 +26,25 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install deps (Playwright)
         run: |
           python -m pip install --upgrade pip
-          pip install playwright
-          playwright install chromium
+          pip install playwright pyyaml
+          playwright install --with-deps chromium
 
       - name: Run scraper
+        env:
+          FORCE_URL: ${{ github.event.inputs.force_url }}
         run: |
-          python scripts/scrape_matches.py
+          python scripts/scrape_yallashoot_to_json.py
 
-      - name: Show tree
+      - name: Show output
         run: |
-          ls -la shots || true
-          find shots -maxdepth 2 -type f -printf "%P\n" | sort || true
+          echo "---- matches/today.json ----"
+          cat matches/today.json || true
 
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update match screenshots"
-          file_pattern: shots/**/*.png shots/**/*.html shots/**/*.json
+          commit_message: "chore: update matches/today.json (scraped)"
+          file_pattern: matches/today.json
