@@ -1,0 +1,39 @@
+name: Scrape Matches (images)
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # كل 15 دقيقة (توقيت UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install chromium
+
+      - name: Run scraper
+        run: |
+          python scripts/scrape_matches.py
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update match screenshots"
+          file_pattern: shots/*.png
