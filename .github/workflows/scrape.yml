@@ -2,7 +2,7 @@ name: Scrape YallaShoot (today.json)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # كل 15 دقيقة (UTC)
+    - cron: "*/5 * * * *"   # كل 15 دقيقة (UTC)
   workflow_dispatch:
     inputs:
       force_url:
