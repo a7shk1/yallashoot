@@ -63,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكآسفي-اتحادتواركة-2025-09-12",
+      "home": "أولمبيك آسفي",
+      "away": "اتحاد تواركة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14597-127x150.png",
+      "time_baghdad": "08:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أولمبيكالدش-نهضةبركان-2025-09-12",
       "home": "أولمبيك الدشيرة",
       "away": "نهضة بركان",
@@ -108,18 +123,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكآسفي-اتحادتواركة-2025-09-12",
-      "home": "أولمبيك آسفي",
-      "away": "اتحاد تواركة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14597-127x150.png",
-      "time_baghdad": "08:00 PM",
+      "id": "الاتحاد-الفتح-2025-09-12",
+      "home": "الاتحاد",
+      "away": "الفتح",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8942-111x150.png",
+      "time_baghdad": "09:00 PM",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     },
     {
@@ -135,21 +150,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحاد-الفتح-2025-09-12",
-      "home": "الاتحاد",
-      "away": "الفتح",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8942-111x150.png",
-      "time_baghdad": "09:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     },
     {
