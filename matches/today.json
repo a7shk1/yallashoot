@@ -168,6 +168,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الودادالبيض-الكوكبالمرا-2025-09-12",
+      "home": "الوداد البيضاوي",
+      "away": "الكوكب المراكشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
+      "time_baghdad": "10:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إشبيلية-إلتشي-2025-09-12",
       "home": "إشبيلية",
       "away": "إلتشي",
@@ -195,21 +210,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الودادالبيض-الكوكبالمرا-2025-09-12",
-      "home": "الوداد البيضاوي",
-      "away": "الكوكب المراكشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
-      "time_baghdad": "10:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     }
   ]
