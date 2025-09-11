@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
-      "id": "ترجيمستغانم-مستقبلالروي-2025-09-11",
-      "home": "ترجي مستغانم",
-      "away": "مستقبل الرويسات",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11118.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11113-150x150.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-1",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "الجزائر, الدوري الجزائري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "شبابالاهلي-بنيياس-2025-09-11",
-      "home": "شباب الاهلي",
-      "away": "بني ياس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8347-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8345.png",
-      "time_baghdad": "19:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "وفاقسطيف-الناديالريا-2025-09-11",
       "home": "وفاق سطيف",
       "away": "النادي الرياضي القسنطيني",
@@ -48,18 +18,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "خورفكان-الشارقة-2025-09-11",
-      "home": "خورفكان",
-      "away": "الشارقة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11134-150x146.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8351-150x150.png",
-      "time_baghdad": "19:15",
+      "id": "ترجيمستغانم-مستقبلالروي-2025-09-11",
+      "home": "ترجي مستغانم",
+      "away": "مستقبل الرويسات",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11118.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11113-150x150.png",
+      "time_baghdad": "21:00",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "2-2",
+      "result_text": "1-1",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "competition": "الجزائر, الدوري الجزائري",
       "_source": "yalla1shoot"
     }
   ]
