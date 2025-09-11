@@ -32,7 +32,9 @@ def scrape():
         ctx = browser.new_context(
             viewport={"width": 1366, "height": 864},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127 Safari/537.36",
-            locale="ar"
+            locale="ar",
+            # 👇 أهم سطر: خلي المتصفح على توقيت بغداد حتى الموقع يطلع الأوقات صح
+            timezone_id="Asia/Baghdad",
         )
         page = ctx.new_page()
         page.set_default_timeout(60000)
@@ -110,6 +112,7 @@ def scrape():
             "away": c["away"],
             "home_logo": c["home_logo"],
             "away_logo": c["away_logo"],
+            # 👇 الآن هذا وقت بغداد لأن المتصفح مهيأ على Asia/Baghdad
             "time_baghdad": c["time_local"],
             "status": normalize_status(c["status_text"]),
             "status_text": c["status_text"],
