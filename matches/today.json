@@ -10,7 +10,7 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/50527.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -23,9 +23,9 @@
       "away": "حسنية أكادير",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14596-121x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8323-150x150.png",
-      "time_baghdad": "06:00 PM",
+      "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
@@ -60,21 +60,6 @@
       "channel": "ثمانية 3",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "زد-الإسماعيلي-2025-09-12",
-      "home": "زد",
-      "away": "الإسماعيلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8299-150x150.png",
-      "time_baghdad": "08:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -118,6 +103,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "زد-الإسماعيلي-2025-09-12",
+      "home": "زد",
+      "away": "الإسماعيلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8299-150x150.png",
+      "time_baghdad": "08:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-إلتشي-2025-09-12",
-      "home": "إشبيلية",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "10:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إبسويتشتاون-شيفيلديوناي-2025-09-12",
       "home": "إبسويتش تاون",
       "away": "شيفيلد يونايتد",
@@ -225,6 +210,21 @@
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إشبيلية-إلتشي-2025-09-12",
+      "home": "إشبيلية",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "10:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
