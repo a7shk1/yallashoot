@@ -11,7 +11,7 @@
       "time_baghdad": "21:30",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "2-1",
+      "result_text": "3-1",
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
@@ -56,7 +56,7 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "2-0",
+      "result_text": "1-1",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
@@ -71,7 +71,7 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "2-0",
+      "result_text": "4-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فاركو-الاتحادالسك-2025-09-12",
-      "home": "فاركو",
-      "away": "الاتحاد السكندري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكآسفي-اتحادتواركة-2025-09-12",
       "home": "أولمبيك آسفي",
       "away": "اتحاد تواركة",
@@ -165,6 +150,21 @@
       "channel": "الرياضية المغربية 1",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فاركو-الاتحادالسك-2025-09-12",
+      "home": "فاركو",
+      "away": "الاتحاد السكندري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     }
   ]
