@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
+      "id": "فاركو-الاتحادالسك-2025-09-12",
+      "home": "فاركو",
+      "away": "الاتحاد السكندري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "زد-الإسماعيلي-2025-09-12",
       "home": "زد",
       "away": "الإسماعيلي",
@@ -48,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فاركو-الاتحادالسك-2025-09-12",
-      "home": "فاركو",
-      "away": "الاتحاد السكندري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باو-ريدستار-2025-09-12",
       "home": "باو",
       "away": "ريد ستار",
@@ -71,7 +71,7 @@
       "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-1",
+      "result_text": "0-2",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الودادالبيض-الكوكبالمرا-2025-09-12",
+      "home": "الوداد البيضاوي",
+      "away": "الكوكب المراكشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إشبيلية-إلتشي-2025-09-12",
       "home": "إشبيلية",
       "away": "إلتشي",
@@ -150,21 +165,6 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الودادالبيض-الكوكبالمرا-2025-09-12",
-      "home": "الوداد البيضاوي",
-      "away": "الكوكب المراكشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
