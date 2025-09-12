@@ -33,36 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-وولفرهامبتون-2025-09-13",
-      "home": "نيوكاسل يونايتد",
-      "away": "وولفرهامبتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/15-1-150x142.png",
-      "time_baghdad": "05:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيفرتون-أستونفيلا-2025-09-13",
-      "home": "إيفرتون",
-      "away": "أستون فيلا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/109-1-121x150.png",
-      "time_baghdad": "05:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فولهام-ليدزيونايتد-2025-09-13",
       "home": "فولهام",
       "away": "ليدز يونايتد",
@@ -98,6 +68,36 @@
       "away": "برايتون",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/50-1-126x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
+      "time_baghdad": "05:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-وولفرهامبتون-2025-09-13",
+      "home": "نيوكاسل يونايتد",
+      "away": "وولفرهامبتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/15-1-150x142.png",
+      "time_baghdad": "05:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-أستونفيلا-2025-09-13",
+      "home": "إيفرتون",
+      "away": "أستون فيلا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/109-1-121x150.png",
       "time_baghdad": "05:00 PM",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
-      "home": "الفتح الرباطي",
-      "away": "الرجاء البيضاوي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
-      "time_baghdad": "08:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-المصري-2025-09-13",
       "home": "الزمالك",
       "away": "المصري",
@@ -213,6 +198,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
+      "home": "الفتح الرباطي",
+      "away": "الرجاء البيضاوي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
+      "time_baghdad": "08:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الهلال-القادسية-2025-09-13",
       "home": "الهلال",
       "away": "القادسية",
@@ -225,36 +225,6 @@
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحاد-الفتح-2025-09-13",
-      "home": "الاتحاد",
-      "away": "الفتح",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8942-111x150.png",
-      "time_baghdad": "21:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "4-2",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باو-ريدستار-2025-09-13",
-      "home": "باو",
-      "away": "ريد ستار",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/7046-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8538.png",
-      "time_baghdad": "21:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-3",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
       "_source": "yalla1shoot"
     },
     {
@@ -288,21 +258,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إبسويتشتاون-شيفيلديوناي-2025-09-13",
-      "home": "إبسويتش تاون",
-      "away": "شيفيلد يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/9-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/20-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "5-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الودادالبيض-الكوكبالمرا-2025-09-13",
       "home": "الوداد البيضاوي",
       "away": "الكوكب المراكشي",
@@ -315,6 +270,21 @@
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إبسويتشتاون-شيفيلديوناي-2025-09-13",
+      "home": "إبسويتش تاون",
+      "away": "شيفيلد يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/9-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/20-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "5-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
       "_source": "yalla1shoot"
     },
     {
