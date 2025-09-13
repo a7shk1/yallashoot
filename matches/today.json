@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستادرين-أولمبيكليون-2025-09-14",
-      "home": "ستاد رين",
-      "away": "أولمبيك ليون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/477-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/465-150x150.png",
-      "time_baghdad": "09:45 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ميلان-بولونيا-2025-09-14",
       "home": "ميلان",
       "away": "بولونيا",
@@ -243,6 +228,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستادرين-أولمبيكليون-2025-09-14",
+      "home": "ستاد رين",
+      "away": "أولمبيك ليون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/477-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/465-150x150.png",
+      "time_baghdad": "09:45 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برشلونة-فالنسيا-2025-09-14",
       "home": "برشلونة",
       "away": "فالنسيا",
@@ -255,21 +255,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أوكسير-موناكو-2025-09-14",
-      "home": "أوكسير",
-      "away": "موناكو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/476-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/471-1-94x150.png",
-      "time_baghdad": "22:05",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-2",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     }
   ]
