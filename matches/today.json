@@ -3,18 +3,33 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
-      "id": "هايدينهايم-بوروسيادورت-2025-09-13",
-      "home": "هايدينهايم",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/434.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/341-150x150.png",
-      "time_baghdad": "16:30",
+      "id": "فولهام-ليدزيونايتد-2025-09-13",
+      "home": "فولهام",
+      "away": "ليدز يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
+      "time_baghdad": "17:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-2",
-      "channel": "شاهد - Shahid VIP",
+      "result_text": "0-0",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريستالبالا-سندرلاند-2025-09-13",
+      "home": "كريستال بالاس",
+      "away": "سندرلاند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/10-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/117-150x137.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -63,36 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-ليدزيونايتد-2025-09-13",
-      "home": "فولهام",
-      "away": "ليدز يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كريستالبالا-سندرلاند-2025-09-13",
-      "home": "كريستال بالاس",
-      "away": "سندرلاند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/10-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/117-150x137.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالسوسيداد-ريالمدريد-2025-09-13",
       "home": "ريال سوسيداد",
       "away": "ريال مدريد",
@@ -101,7 +86,7 @@
       "time_baghdad": "17:15",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-2",
+      "result_text": "1-2",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
@@ -138,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بايرنميونخ-هامبورج-2025-09-13",
+      "home": "بايرن ميونخ",
+      "away": "هامبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/331-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/334.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أتلتيكبلباو-ألافيس-2025-09-13",
       "home": "أتلتيك بلباو",
       "away": "ألافيس",
@@ -168,21 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
-      "home": "الفتح الرباطي",
-      "away": "الرجاء البيضاوي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
-      "time_baghdad": "08:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-المصري-2025-09-13",
       "home": "الزمالك",
       "away": "المصري",
@@ -195,6 +180,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
+      "home": "الفتح الرباطي",
+      "away": "الرجاء البيضاوي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
+      "time_baghdad": "08:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -213,6 +213,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فيورنتينا-نابولي-2025-09-13",
+      "home": "فيورنتينا",
+      "away": "نابولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
+      "time_baghdad": "09:45 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "خيتافي-ريالأوفييدو-2025-09-13",
       "home": "خيتافي",
       "away": "ريال أوفييدو",
@@ -225,6 +240,21 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "هايدينهايم-بوروسيادورت-2025-09-13",
+      "home": "هايدينهايم",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/434.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/341-150x150.png",
+      "time_baghdad": "16:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-2",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     }
   ]
