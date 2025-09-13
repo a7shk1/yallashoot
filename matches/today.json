@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجيشالملكي-اتحاديعقوب-2025-09-13",
-      "home": "الجيش الملكي",
-      "away": "اتحاد يعقوب المنصور",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5455-139x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/82477.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-فياريال-2025-09-13",
       "home": "أتلتيكو مدريد",
       "away": "فياريال",
@@ -86,10 +71,25 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "1-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجيشالملكي-اتحاديعقوب-2025-09-13",
+      "home": "الجيش الملكي",
+      "away": "اتحاد يعقوب المنصور",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5455-139x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/82477.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وستهاميونا-توتنهامهوتس-2025-09-13",
-      "home": "وست هام يونايتد",
-      "away": "توتنهام هوتسبر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/113-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
-      "time_baghdad": "19:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-3",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرنميونخ-هامبورج-2025-09-13",
       "home": "بايرن ميونخ",
       "away": "هامبورج",
@@ -168,6 +153,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "وستهاميونا-توتنهامهوتس-2025-09-13",
+      "home": "وست هام يونايتد",
+      "away": "توتنهام هوتسبر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/113-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
+      "time_baghdad": "19:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-3",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-المصري-2025-09-13",
+      "home": "الزمالك",
+      "away": "المصري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8201-132x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8303-150x150.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "3-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيراميكاكلي-سموحة-2025-09-13",
       "home": "سيراميكا كليوباترا",
       "away": "سموحة",
@@ -195,21 +210,6 @@
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الزمالك-المصري-2025-09-13",
-      "home": "الزمالك",
-      "away": "المصري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8201-132x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8303-150x150.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "3-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     }
   ]
