@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
-      "home": "الفتح الرباطي",
-      "away": "الرجاء البيضاوي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
-      "time_baghdad": "08:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-المصري-2025-09-13",
       "home": "الزمالك",
       "away": "المصري",
@@ -210,6 +195,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الفتحالرباط-الرجاءالبيض-2025-09-13",
+      "home": "الفتح الرباطي",
+      "away": "الرجاء البيضاوي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8206.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8204.png",
+      "time_baghdad": "08:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
