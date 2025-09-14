@@ -168,21 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيراميدز-أوكلاندسيتي-2025-09-14",
-      "home": "بيراميدز",
-      "away": "أوكلاند سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8884-150x150.png",
-      "time_baghdad": "09:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "SSC SPORT 1HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس إنتركونتيننتال - المرحلة الاولى",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النصر-الخلود-2025-09-14",
       "home": "النصر",
       "away": "الخلود",
@@ -195,6 +180,21 @@
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيراميدز-أوكلاندسيتي-2025-09-14",
+      "home": "بيراميدز",
+      "away": "أوكلاند سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8884-150x150.png",
+      "time_baghdad": "09:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "SSC SPORT 1HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس إنتركونتيننتال - المرحلة الاولى",
       "_source": "yalla1shoot"
     },
     {
