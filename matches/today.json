@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
-      "id": "انترميامي-شارلوت-2025-09-14",
-      "home": "انتر ميامي",
-      "away": "شارلوت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/54729-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/12966.png",
-      "time_baghdad": "02:40",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Apple TV",
-      "commentator": "غير معروف",
-      "competition": "الولايات المتحدة, الدوري الأمريكي الممتاز",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "روما-تورينو-2025-09-14",
       "home": "روما",
       "away": "تورينو",
@@ -48,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليل-تولوز-2025-09-14",
-      "home": "ليل",
-      "away": "تولوز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/482-1-150x150.png",
-      "time_baghdad": "04:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيرنلي-ليفربول-2025-09-14",
       "home": "بيرنلي",
       "away": "ليفربول",
@@ -75,6 +45,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليل-تولوز-2025-09-14",
+      "home": "ليل",
+      "away": "تولوز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/482-1-150x150.png",
+      "time_baghdad": "04:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -93,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-باريسأف.سي.-2025-09-14",
-      "home": "بريست",
-      "away": "باريس أف.سي.",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/534-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/6075.png",
-      "time_baghdad": "06:15 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريسسانجي-لانس-2025-09-14",
       "home": "باريس سان جيرمان",
       "away": "لانس",
@@ -118,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-باريسأف.سي.-2025-09-14",
+      "home": "بريست",
+      "away": "باريس أف.سي.",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/534-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/6075.png",
+      "time_baghdad": "06:15 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
@@ -255,6 +240,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "انترميامي-شارلوت-2025-09-14",
+      "home": "انتر ميامي",
+      "away": "شارلوت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/54729-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/12966.png",
+      "time_baghdad": "02:40",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Apple TV",
+      "commentator": "غير معروف",
+      "competition": "الولايات المتحدة, الدوري الأمريكي الممتاز",
       "_source": "yalla1shoot"
     }
   ]
