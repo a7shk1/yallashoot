@@ -48,6 +48,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "هيلاسفيرونا-كريمونيسي-2025-09-15",
+      "home": "هيلاس فيرونا",
+      "away": "كريمونيسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/316-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/290.png",
+      "time_baghdad": "07:30 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الأهليالسعو-ناسافكارشي-2025-09-15",
       "home": "الأهلي السعودي",
       "away": "ناساف كارشي",
@@ -93,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كومو-جنوى-2025-09-15",
+      "home": "كومو",
+      "away": "جنوى",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
+      "time_baghdad": "09:45 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إسبانيول-ريالمايوركا-2025-09-15",
       "home": "إسبانيول",
       "away": "ريال مايوركا",
@@ -108,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستادرين-أولمبيكليون-2025-09-15",
-      "home": "ستاد رين",
-      "away": "أولمبيك ليون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/477-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/465-150x150.png",
-      "time_baghdad": "21:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "3-1",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ميلان-بولونيا-2025-09-15",
       "home": "ميلان",
       "away": "بولونيا",
@@ -135,6 +150,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ستادرين-أولمبيكليون-2025-09-15",
+      "home": "ستاد رين",
+      "away": "أولمبيك ليون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/477-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/465-150x150.png",
+      "time_baghdad": "21:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "3-1",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
