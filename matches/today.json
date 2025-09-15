@@ -10,9 +10,24 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6993.png",
       "time_baghdad": "04:45 PM",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوحدة-الاتحاد-2025-09-15",
+      "home": "الوحدة",
+      "away": "الاتحاد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8350-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
+      "time_baghdad": "07:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الكأس 6 HD",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
@@ -33,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الوحدة-الاتحاد-2025-09-15",
-      "home": "الوحدة",
-      "away": "الاتحاد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8350-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
-      "time_baghdad": "07:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الكأس 6 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هيلاسفيرونا-كريمونيسي-2025-09-15",
       "home": "هيلاس فيرونا",
       "away": "كريمونيسي",
@@ -60,21 +60,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهليالسعو-ناسافكارشي-2025-09-15",
-      "home": "الأهلي السعودي",
-      "away": "ناساف كارشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/ahliksa-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8596-150x150.png",
-      "time_baghdad": "09:15 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     },
     {
@@ -93,18 +78,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-جنوى-2025-09-15",
-      "home": "كومو",
-      "away": "جنوى",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
-      "time_baghdad": "09:45 PM",
+      "id": "الأهليالسعو-ناسافكارشي-2025-09-15",
+      "home": "الأهلي السعودي",
+      "away": "ناساف كارشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/ahliksa-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8596-150x150.png",
+      "time_baghdad": "09:15 PM",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "Starzplay",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     },
     {
@@ -120,6 +105,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كومو-جنوى-2025-09-15",
+      "home": "كومو",
+      "away": "جنوى",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
+      "time_baghdad": "09:45 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
