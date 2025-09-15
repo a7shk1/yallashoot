@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادطنجة-أولمبيكآسفي-2025-09-15",
-      "home": "اتحاد طنجة",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14596-121x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
-      "time_baghdad": "07:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوحدة-الاتحاد-2025-09-15",
       "home": "الوحدة",
       "away": "الاتحاد",
@@ -45,6 +30,21 @@
       "channel": "الكأس 6 HD",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادطنجة-أولمبيكآسفي-2025-09-15",
+      "home": "اتحاد طنجة",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14596-121x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
+      "time_baghdad": "07:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
