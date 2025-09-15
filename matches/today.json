@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
+      "id": "اتحادطنجة-أولمبيكآسفي-2025-09-15",
+      "home": "اتحاد طنجة",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14596-121x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-1",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الوحدة-الاتحاد-2025-09-15",
       "home": "الوحدة",
       "away": "الاتحاد",
@@ -15,21 +30,6 @@
       "channel": "الكأس 6 HD",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اتحادطنجة-أولمبيكآسفي-2025-09-15",
-      "home": "اتحاد طنجة",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/14596-121x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8210.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشرطة-السد-2025-09-15",
-      "home": "الشرطة",
-      "away": "السد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8246-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6992-150x150.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-ناسافكارشي-2025-09-15",
       "home": "الأهلي السعودي",
       "away": "ناساف كارشي",
@@ -78,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الشرطة-السد-2025-09-15",
+      "home": "الشرطة",
+      "away": "السد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8246-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6992-150x150.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "جانجون-مونبلييه-2025-09-15",
       "home": "جانجون",
       "away": "مونبلييه",
@@ -85,7 +85,7 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/491.png",
       "time_baghdad": "09:45 PM",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -100,7 +100,7 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
       "time_baghdad": "09:45 PM",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Starzplay",
       "commentator": "غير معروف",
