@@ -41,7 +41,7 @@
       "time_baghdad": "19:45",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "0-1",
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
@@ -60,6 +60,36 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-أولمبيكمارس-2025-09-16",
+      "home": "ريال مدريد",
+      "away": "أولمبيك مارسيليا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/131-1-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/469-1.png",
+      "time_baghdad": "10:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الكوكبالمرا-نهضةبركان-2025-09-16",
+      "home": "الكوكب المراكشي",
+      "away": "نهضة بركان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
+      "time_baghdad": "10:00 PM",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -135,36 +165,6 @@
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمدريد-أولمبيكمارس-2025-09-16",
-      "home": "ريال مدريد",
-      "away": "أولمبيك مارسيليا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/131-1-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/469-1.png",
-      "time_baghdad": "10:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الكوكبالمرا-نهضةبركان-2025-09-16",
-      "home": "الكوكب المراكشي",
-      "away": "نهضة بركان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8209-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
-      "time_baghdad": "10:00 PM",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     }
   ]
