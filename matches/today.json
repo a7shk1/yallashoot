@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_1/",
   "matches": [
     {
-      "id": "غانغوون-شنغهايشنهوا-2025-09-16",
-      "home": "غانغوون",
-      "away": "شنغهاي شنهوا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9825.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/2179-150x150.png",
-      "time_baghdad": "13:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-1",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ماتشيدازيرو-سيؤول-2025-09-16",
       "home": "ماتشيدا زيروبيا",
       "away": "سيؤول",
@@ -33,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "غانغوون-شنغهايشنهوا-2025-09-16",
+      "home": "غانغوون",
+      "away": "شنغهاي شنهوا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9825.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/2179-150x150.png",
+      "time_baghdad": "13:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "1-1",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بوريراميونا-جوهور-2025-09-16",
       "home": "بوريرام يونايتد",
       "away": "جوهور",
@@ -40,7 +40,7 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/10080-150x150.png",
       "time_baghdad": "03:15 PM",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
