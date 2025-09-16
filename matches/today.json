@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سلافيابراغ-???-2025-09-17",
-      "home": "سلافيا براغ",
-      "away": "???",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1789.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0--",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبياكوس-أيه.أي.بافو-2025-09-17",
       "home": "أولمبياكوس",
       "away": "أيه.أي. بافوس",
@@ -73,6 +58,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سلافيابراغ-???-2025-09-17",
+      "home": "سلافيا براغ",
+      "away": "???",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1789.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "19:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0--",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
