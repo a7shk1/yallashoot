@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرنميونخ-تشيلسي-2025-09-17",
-      "home": "بايرن ميونخ",
-      "away": "تشيلسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أياكس-إنترميلان-2025-09-17",
       "home": "أياكس",
       "away": "إنتر ميلان",
@@ -208,6 +193,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرنميونخ-تشيلسي-2025-09-17",
+      "home": "بايرن ميونخ",
+      "away": "تشيلسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
