@@ -78,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المصري-غزلالمحلة-2025-09-17",
-      "home": "المصري",
-      "away": "غزل المحلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجونة-بتروجت-2025-09-17",
       "home": "الجونة",
       "away": "بتروجت",
@@ -108,18 +93,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المحرق-الوحدات-2025-09-17",
-      "home": "المحرق",
-      "away": "الوحدات",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8275.png",
-      "time_baghdad": "21:15",
+      "id": "المصري-غزلالمحلة-2025-09-17",
+      "home": "المصري",
+      "away": "غزل المحلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -133,6 +118,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المحرق-الوحدات-2025-09-17",
+      "home": "المحرق",
+      "away": "الوحدات",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8275.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
