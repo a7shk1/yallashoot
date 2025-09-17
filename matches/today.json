@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشبيبةالري-الناديالأفر-2025-09-17",
-      "home": "الشبيبة الرياضية بالعمران",
-      "away": "النادي الأفريقي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13813.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8239.png",
-      "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "الوطنية 1",
-      "commentator": "غير معروف",
-      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الصفاقسي-اتحادبنقرد-2025-09-17",
       "home": "الصفاقسي",
       "away": "اتحاد بن قردان",
@@ -40,9 +25,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2126.png",
       "time_baghdad": "17:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الوطنية 2",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشبيبةالري-الناديالأفر-2025-09-17",
+      "home": "الشبيبة الرياضية بالعمران",
+      "away": "النادي الأفريقي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13813.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8239.png",
+      "time_baghdad": "17:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "الوطنية 1",
       "commentator": "غير معروف",
       "competition": "تونس, الرابطة التونسية المحترفة الأولى",
       "_source": "yalla1shoot"
@@ -168,6 +168,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "باريسسانجي-أتالانتا-2025-09-17",
+      "home": "باريس سان جيرمان",
+      "away": "أتالانتا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ليفربول-أتلتيكومدري-2025-09-17",
       "home": "ليفربول",
       "away": "أتلتيكو مدريد",
@@ -225,21 +240,6 @@
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باريسسانجي-أتالانتا-2025-09-17",
-      "home": "باريس سان جيرمان",
-      "away": "أتالانتا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     }
   ]
