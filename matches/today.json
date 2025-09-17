@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-الخالدية-2025-09-17",
-      "home": "الأهلي",
-      "away": "الخالدية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوصل-استقلال-2025-09-17",
       "home": "الوصل",
       "away": "استقلال",
@@ -43,6 +28,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الخالدية-2025-09-17",
+      "home": "الأهلي",
+      "away": "الخالدية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
@@ -78,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجونة-بتروجت-2025-09-17",
-      "home": "الجونة",
-      "away": "بتروجت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/653.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المصري-غزلالمحلة-2025-09-17",
       "home": "المصري",
       "away": "غزل المحلة",
@@ -108,18 +93,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-استقلالدوشن-2025-09-17",
-      "home": "النصر",
-      "away": "استقلال دوشنبه",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
-      "time_baghdad": "21:15",
+      "id": "الجونة-بتروجت-2025-09-17",
+      "home": "الجونة",
+      "away": "بتروجت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/653.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "Bein Sports HD2",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -133,6 +118,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-استقلالدوشن-2025-09-17",
+      "home": "النصر",
+      "away": "استقلال دوشنبه",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
@@ -202,7 +202,7 @@
       "home": "الرجاء البيضاوي",
       "away": "الجيش الملكي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
