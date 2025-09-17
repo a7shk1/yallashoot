@@ -108,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-استقلالدوشن-2025-09-17",
-      "home": "النصر",
-      "away": "استقلال دوشنبه",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المحرق-الوحدات-2025-09-17",
       "home": "المحرق",
       "away": "الوحدات",
@@ -138,33 +123,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أياكس-إنترميلان-2025-09-17",
-      "home": "أياكس",
-      "away": "إنتر ميلان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/152.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
-      "time_baghdad": "22:00",
+      "id": "النصر-استقلالدوشن-2025-09-17",
+      "home": "النصر",
+      "away": "استقلال دوشنبه",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
+      "time_baghdad": "21:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرجاءالبيض-الجيشالملكي-2025-09-17",
-      "home": "الرجاء البيضاوي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
     },
     {
@@ -210,6 +180,36 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أياكس-إنترميلان-2025-09-17",
+      "home": "أياكس",
+      "away": "إنتر ميلان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/152.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الرجاءالبيض-الجيشالملكي-2025-09-17",
+      "home": "الرجاء البيضاوي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     }
   ]
