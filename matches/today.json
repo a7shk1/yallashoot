@@ -33,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الرجاءالبيض-الجيشالملكي-2025-09-17",
+      "home": "الرجاء البيضاوي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "باريسسانجي-أتالانتا-2025-09-17",
       "home": "باريس سان جيرمان",
       "away": "أتالانتا",
@@ -93,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الرجاءالبيض-الجيشالملكي-2025-09-17",
-      "home": "الرجاء البيضاوي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المقاولونال-فاركو-2025-09-17",
       "home": "المقاولون العرب",
       "away": "فاركو",
@@ -127,7 +127,7 @@
       "home": "الصفاقسي",
       "away": "اتحاد بن قردان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
-      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2126.png",
       "time_baghdad": "17:30",
       "status": "FT",
       "status_text": "انتهت",
@@ -153,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-الخالدية-2025-09-17",
-      "home": "الأهلي",
-      "away": "الخالدية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوصل-استقلال-2025-09-17",
       "home": "الوصل",
       "away": "استقلال",
@@ -178,6 +163,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الخالدية-2025-09-17",
+      "home": "الأهلي",
+      "away": "الخالدية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
