@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "سبورتنجلشبو-كايراتألمات-2025-09-18",
-      "home": "سبورتنج لشبونة",
-      "away": "كايرات ألماتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "آينتراختفرا-غلطةسراي-2025-09-18",
       "home": "آينتراخت فرانكفورت",
       "away": "غلطة سراي",
@@ -26,7 +11,7 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "0-1",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
@@ -58,6 +43,21 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سبورتنجلشبو-كايراتألمات-2025-09-18",
+      "home": "سبورتنج لشبونة",
+      "away": "كايرات ألماتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الاتحادالسك-كهرباءالاسم-2025-09-18",
-      "home": "الاتحاد السكندري",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-زد-2025-09-18",
       "home": "بيراميدز",
       "away": "زد",
@@ -148,6 +133,21 @@
       "status_text": "انتهت",
       "result_text": "1-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحادالسك-كهرباءالاسم-2025-09-18",
+      "home": "الاتحاد السكندري",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
