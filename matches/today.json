@@ -93,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "آينتراختفرا-غلطةسراي-2025-09-18",
+      "home": "آينتراخت فرانكفورت",
+      "away": "غلطة سراي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مانشسترسيتي-نابولي-2025-09-18",
       "home": "مانشستر سيتي",
       "away": "نابولي",
@@ -133,21 +148,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "آينتراختفرا-غلطةسراي-2025-09-18",
-      "home": "آينتراخت فرانكفورت",
-      "away": "غلطة سراي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
