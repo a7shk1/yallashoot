@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كلوببروج-موناكو-2025-09-18",
-      "home": "كلوب بروج",
-      "away": "موناكو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كوبنهاجن-بايرليفركوز-2025-09-18",
       "home": "كوبنهاجن",
       "away": "باير ليفركوزن",
@@ -58,6 +43,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كلوببروج-موناكو-2025-09-18",
+      "home": "كلوب بروج",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "time_baghdad": "19:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -90,6 +90,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سبورتنجلشبو-كايراتألمات-2025-09-18",
+      "home": "سبورتنج لشبونة",
+      "away": "كايرات ألماتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -133,21 +148,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سبورتنجلشبو-كايراتألمات-2025-09-18",
-      "home": "سبورتنج لشبونة",
-      "away": "كايرات ألماتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
