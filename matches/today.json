@@ -108,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالبيتيس-ريالسوسيداد-2025-09-19",
+      "home": "ريال بيتيس",
+      "away": "ريال سوسيداد",
+      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "اتحاديعقوب-الودادالبيض-2025-09-19",
       "home": "اتحاد يعقوب المنصور",
       "away": "الوداد البيضاوي",
@@ -120,21 +135,6 @@
       "channel": "الرياضية المغربية",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالبيتيس-ريالسوسيداد-2025-09-19",
-      "home": "ريال بيتيس",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
