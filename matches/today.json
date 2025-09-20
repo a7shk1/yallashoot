@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "نانت-ستادرين-2025-09-20",
-      "home": "نانت",
-      "away": "ستاد رين",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/312.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النجمة-الاتحاد-2025-09-20",
       "home": "النجمة",
       "away": "الاتحاد",
@@ -45,21 +30,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فياريال-أوساسونا-2025-09-20",
-      "home": "فياريال",
-      "away": "أوساسونا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -93,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فياريال-أوساسونا-2025-09-20",
+      "home": "فياريال",
+      "away": "أوساسونا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بريست-نيس-2025-09-20",
       "home": "بريست",
       "away": "نيس",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "بى أن سبورت 8 HD",
       "commentator": "غير معروف",
@@ -345,6 +330,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نانت-ستادرين-2025-09-20",
+      "home": "نانت",
+      "away": "ستاد رين",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/312.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     }
   ]
