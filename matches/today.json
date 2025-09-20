@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "وستهاميونا-كريستالبالا-2025-09-20",
-      "home": "وست هام يونايتد",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "برايتون-توتنهامهوتس-2025-09-20",
       "home": "برايتون",
       "away": "توتنهام هوتسبر",
@@ -28,6 +13,21 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستهاميونا-كريستالبالا-2025-09-20",
+      "home": "وست هام يونايتد",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -71,7 +71,7 @@
       "time_baghdad": "17:15",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "2-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
@@ -100,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
       "time_baghdad": "18:40",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "ثمانية 2",
       "commentator": "غير معروف",
@@ -120,21 +120,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ألافيس-إشبيلية-2025-09-20",
-      "home": "ألافيس",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -163,6 +148,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ألافيس-إشبيلية-2025-09-20",
+      "home": "ألافيس",
+      "away": "إشبيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-برينتفورد-2025-09-20",
-      "home": "فولهام",
-      "away": "برينتفورد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فالنسيا-أتلتيكبلباو-2025-09-20",
       "home": "فالنسيا",
       "away": "أتلتيك بلباو",
@@ -240,6 +225,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فولهام-برينتفورد-2025-09-20",
+      "home": "فولهام",
+      "away": "برينتفورد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
