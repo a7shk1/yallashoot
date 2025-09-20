@@ -10,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/دي-سي-يونايتد.png",
       "time_baghdad": "03:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -228,21 +228,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكمارس-باريسسانجي-2025-09-21",
-      "home": "أولمبيك مارسيليا",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنترميلان-ساسولو-2025-09-21",
       "home": "إنتر ميلان",
       "away": "ساسولو",
@@ -255,6 +240,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكمارس-باريسسانجي-2025-09-21",
+      "home": "أولمبيك مارسيليا",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
