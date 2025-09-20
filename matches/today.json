@@ -10,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
       "time_baghdad": "14:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -78,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "وولفرهامبتون-ليدزيونايتد-2025-09-20",
+      "home": "وولفرهامبتون",
+      "away": "ليدز يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بيرنلي-نوتنجهامفور-2025-09-20",
       "home": "بيرنلي",
       "away": "نوتنجهام فورست",
@@ -118,21 +133,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "وولفرهامبتون-ليدزيونايتد-2025-09-20",
-      "home": "وولفرهامبتون",
-      "away": "ليدز يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
