@@ -33,36 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بورنموث-نيوكاسليونا-2025-09-21",
-      "home": "بورنموث",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سندرلاند-أستونفيلا-2025-09-21",
-      "home": "سندرلاند",
-      "away": "أستون فيلا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تورينو-أتالانتا-2025-09-21",
       "home": "تورينو",
       "away": "أتالانتا",
@@ -105,6 +75,36 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بورنموث-نيوكاسليونا-2025-09-21",
+      "home": "بورنموث",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سندرلاند-أستونفيلا-2025-09-21",
+      "home": "سندرلاند",
+      "away": "أستون فيلا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
