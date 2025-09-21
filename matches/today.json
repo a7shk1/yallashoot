@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "انترميامي-ديسييونايت-2025-09-21",
-      "home": "انتر ميامي",
-      "away": "دي سي يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/54729.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/دي-سي-يونايتد.png",
-      "time_baghdad": "03:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لاتسيو-روما-2025-09-21",
       "home": "لاتسيو",
       "away": "روما",
@@ -153,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-مانشسترسيتي-2025-09-21",
-      "home": "أرسنال",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
-      "time_baghdad": "18:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-بوروسيامونش-2025-09-21",
       "home": "باير ليفركوزن",
       "away": "بوروسيا مونشنجلادباخ",
@@ -180,6 +150,21 @@
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-مانشسترسيتي-2025-09-21",
+      "home": "أرسنال",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
+      "time_baghdad": "18:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -228,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكمارس-باريسسانجي-2025-09-21",
-      "home": "أولمبيك مارسيليا",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنترميلان-ساسولو-2025-09-21",
       "home": "إنتر ميلان",
       "away": "ساسولو",
@@ -258,6 +228,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكمارس-باريسسانجي-2025-09-21",
+      "home": "أولمبيك مارسيليا",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برشلونة-خيتافي-2025-09-21",
       "home": "برشلونة",
       "away": "خيتافي",
@@ -270,6 +255,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "انترميامي-ديسييونايت-2025-09-21",
+      "home": "انتر ميامي",
+      "away": "دي سي يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/54729.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/دي-سي-يونايتد.png",
+      "time_baghdad": "03:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     }
   ]
