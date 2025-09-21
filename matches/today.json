@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أوكسير-تولوز-2025-09-21",
+      "home": "أوكسير",
+      "away": "تولوز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/302.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/315.png",
+      "time_baghdad": "18:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "موناكو-ميتز-2025-09-21",
       "home": "موناكو",
       "away": "ميتز",
