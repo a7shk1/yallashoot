@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرليفركوز-بوروسيامونش-2025-09-21",
-      "home": "باير ليفركوزن",
-      "away": "بوروسيا مونشنجلادباخ",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/156.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/164.png",
-      "time_baghdad": "18:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-مانشسترسيتي-2025-09-21",
       "home": "أرسنال",
       "away": "مانشستر سيتي",
@@ -60,6 +45,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرليفركوز-بوروسيامونش-2025-09-21",
+      "home": "باير ليفركوزن",
+      "away": "بوروسيا مونشنجلادباخ",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/156.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/164.png",
+      "time_baghdad": "18:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -100,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/163.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "MBC Action",
       "commentator": "غير معروف",
