@@ -1,39 +1,9 @@
 {
-  "date": "2025-09-22",
+  "date": "2025-09-23",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "العدالة-الهلال-2025-09-22",
-      "home": "العدالة",
-      "away": "الهلال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/30662.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نابولي-بيسا-2025-09-22",
-      "home": "نابولي",
-      "away": "بيسا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/248.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فاركو-المصري-2025-09-22",
+      "id": "فاركو-المصري-2025-09-23",
       "home": "فاركو",
       "away": "المصري",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
@@ -48,22 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بتروجت-غزلالمحلة-2025-09-22",
-      "home": "بتروجت",
-      "away": "غزل المحلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/653.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "زد-الاتحادالسك-2025-09-22",
+      "id": "زد-الاتحادالسك-2025-09-23",
       "home": "زد",
       "away": "الاتحاد السكندري",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1683.png",
@@ -78,7 +33,37 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أبها-الشباب-2025-09-22",
+      "id": "بتروجت-غزلالمحلة-2025-09-23",
+      "home": "بتروجت",
+      "away": "غزل المحلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/653.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكمارس-باريسسانجي-2025-09-23",
+      "home": "أولمبيك مارسيليا",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أبها-الشباب-2025-09-23",
       "home": "أبها",
       "away": "الشباب",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14898.png",
@@ -93,7 +78,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الكرةالذهبي-الكرةالذهبي-2025-09-22",
+      "id": "الكرةالذهبي-الكرةالذهبي-2025-09-23",
       "home": "الكرة الذهبية",
       "away": "الكرة الذهبية",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/الكرة-الذهبية.jpg",
@@ -108,18 +93,33 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكمارس-باريسسانجي-2025-09-22",
-      "home": "أولمبيك مارسيليا",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "21:00",
+      "id": "العدالة-الهلال-2025-09-23",
+      "home": "العدالة",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/30662.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "time_baghdad": "21:30",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "1-0",
-      "channel": "beIN SPORTS HD 1",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
+      "competition": "السعودية, كأس الملك - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نابولي-بيسا-2025-09-23",
+      "home": "نابولي",
+      "away": "بيسا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/248.png",
+      "time_baghdad": "21:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     }
   ]
