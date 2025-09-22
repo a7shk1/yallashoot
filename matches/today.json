@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الكرةالذهبي-الكرةالذهبي-2025-09-22",
-      "home": "الكرة الذهبية",
-      "away": "الكرة الذهبية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/الكرة-الذهبية.jpg",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/الكرة-الذهبية.jpg",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "زد-الاتحادالسك-2025-09-22",
       "home": "زد",
       "away": "الاتحاد السكندري",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -48,18 +33,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أبها-الشباب-2025-09-22",
-      "home": "أبها",
-      "away": "الشباب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14898.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
+      "id": "الكرةالذهبي-الكرةالذهبي-2025-09-22",
+      "home": "الكرة الذهبية",
+      "away": "الكرة الذهبية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/الكرة-الذهبية.jpg",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/الكرة-الذهبية.jpg",
       "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "تطبيق ثمانية",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - دور الـ 32",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     },
     {
@@ -75,6 +60,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أبها-الشباب-2025-09-22",
+      "home": "أبها",
+      "away": "الشباب",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14898.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, كأس الملك - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
