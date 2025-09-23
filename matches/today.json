@@ -11,25 +11,10 @@
       "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "1-1",
+      "result_text": "1-3",
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "دولي, كأس إنتركونتيننتال - المرحلة الثانية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الوحدة-الاتحاد-2025-09-23",
-      "home": "الوحدة",
-      "away": "الاتحاد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -43,6 +28,21 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "ثمانية 2",
+      "commentator": "غير معروف",
+      "competition": "السعودية, كأس الملك - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوحدة-الاتحاد-2025-09-23",
+      "home": "الوحدة",
+      "away": "الاتحاد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
+      "time_baghdad": "21:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
       "commentator": "غير معروف",
       "competition": "السعودية, كأس الملك - دور الـ 32",
       "_source": "yalla1shoot"
@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميلان-ليتشي-2025-09-23",
-      "home": "ميلان",
-      "away": "ليتشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليفربول-ساوثهامبتون-2025-09-23",
       "home": "ليفربول",
       "away": "ساوثهامبتون",
@@ -123,18 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفانتي-ريالمدريد-2025-09-23",
-      "home": "ليفانتي",
-      "away": "ريال مدريد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/150.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
-      "time_baghdad": "22:30",
+      "id": "ميلان-ليتشي-2025-09-23",
+      "home": "ميلان",
+      "away": "ليتشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "MBC Action",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -148,6 +133,21 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفانتي-ريالمدريد-2025-09-23",
+      "home": "ليفانتي",
+      "away": "ريال مدريد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/150.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
@@ -198,36 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكبلباو-جيرونا-2025-09-23",
-      "home": "أتلتيك بلباو",
-      "away": "جيرونا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2014.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إسبانيول-فالنسيا-2025-09-23",
-      "home": "إسبانيول",
-      "away": "فالنسيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "طلائعالجيش-المقاولونال-2025-09-23",
       "home": "طلائع الجيش",
       "away": "المقاولون العرب",
@@ -255,6 +225,36 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكبلباو-جيرونا-2025-09-23",
+      "home": "أتلتيك بلباو",
+      "away": "جيرونا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2014.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إسبانيول-فالنسيا-2025-09-23",
+      "home": "إسبانيول",
+      "away": "فالنسيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
