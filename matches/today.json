@@ -55,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/263.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-برادفوردسيت-2025-09-24",
-      "home": "نيوكاسل يونايتد",
-      "away": "برادفورد سيتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/64.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - الدور 3",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "توتنهامهوتس-دونكاستر-2025-09-24",
       "home": "توتنهام هوتسبر",
       "away": "دونكاستر",
@@ -163,6 +148,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-برادفوردسيت-2025-09-24",
+      "home": "نيوكاسل يونايتد",
+      "away": "برادفورد سيتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/64.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, كأس الكاراباو - الدور 3",
       "_source": "yalla1shoot"
