@@ -168,6 +168,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نيس-روما-2025-09-24",
+      "home": "نيس",
+      "away": "روما",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ديناموزغرب-فنربخشة-2025-09-24",
       "home": "دينامو زغرب",
       "away": "فنربخشة",
@@ -198,36 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-ساسولو-2025-09-24",
-      "home": "كومو",
-      "away": "ساسولو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نيس-روما-2025-09-24",
-      "home": "نيس",
-      "away": "روما",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالبيتيس-نوتنجهامفور-2025-09-24",
       "home": "ريال بيتيس",
       "away": "نوتنجهام فورست",
@@ -255,6 +240,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كومو-ساسولو-2025-09-24",
+      "home": "كومو",
+      "away": "ساسولو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
