@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بارما-سبيزيا-2025-09-24",
-      "home": "بارما",
-      "away": "سبيزيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/263.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هيلاسفيرونا-فينيزيا-2025-09-24",
       "home": "هيلاس فيرونا",
       "away": "فينيزيا",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -70,11 +55,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "هدرسفيلدتاو-مانشسترسيتي-2025-09-24",
+      "home": "هدرسفيلد تاون",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/41.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - الدور 3",
       "_source": "yalla1shoot"
     },
     {
@@ -108,33 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هدرسفيلدتاو-مانشسترسيتي-2025-09-24",
-      "home": "هدرسفيلد تاون",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/41.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - الدور 3",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كومو-ساسولو-2025-09-24",
-      "home": "كومو",
-      "away": "ساسولو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
+      "id": "فرايبورج-بازل-2025-09-24",
+      "home": "فرايبورج",
+      "away": "بازل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/195.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
+      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
@@ -183,21 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فرايبورج-بازل-2025-09-24",
-      "home": "فرايبورج",
-      "away": "بازل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/195.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورتفيل-أرسنال-2025-09-24",
       "home": "بورت فيل",
       "away": "أرسنال",
@@ -210,6 +180,21 @@
       "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "إنجلترا, كأس الكاراباو - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كومو-ساسولو-2025-09-24",
+      "home": "كومو",
+      "away": "ساسولو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -273,6 +258,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الترجي-الأولمبيالب-2025-09-24",
+      "home": "الترجي",
+      "away": "الأولمبي الباجي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8237.png",
+      "time_baghdad": "17:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الوطنية 1",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ناديسليمان-النجمالساحل-2025-09-24",
       "home": "نادي سليمان الرياضي",
       "away": "النجم الساحلي",
@@ -288,18 +288,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-الأولمبيالب-2025-09-24",
-      "home": "الترجي",
-      "away": "الأولمبي الباجي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8237.png",
-      "time_baghdad": "17:30",
+      "id": "بارما-سبيزيا-2025-09-24",
+      "home": "بارما",
+      "away": "سبيزيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/263.png",
+      "time_baghdad": "18:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "الوطنية 1",
+      "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
-      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
       "_source": "yalla1shoot"
     }
   ]
