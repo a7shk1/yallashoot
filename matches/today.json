@@ -78,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "خيتافي-ألافيس-2025-09-24",
+      "home": "خيتافي",
+      "away": "ألافيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيراميكاكلي-مودرنسبورت-2025-09-24",
       "home": "سيراميكا كليوباترا",
       "away": "مودرن سبورت",
@@ -105,21 +120,6 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "خيتافي-ألافيس-2025-09-24",
-      "home": "خيتافي",
-      "away": "ألافيس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -168,36 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فرايبورج-بازل-2025-09-24",
-      "home": "فرايبورج",
-      "away": "بازل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/195.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نيس-روما-2025-09-24",
-      "home": "نيس",
-      "away": "روما",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورتفيل-أرسنال-2025-09-24",
       "home": "بورت فيل",
       "away": "أرسنال",
@@ -225,6 +195,36 @@
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
       "competition": "إيطاليا, كأس إيطاليا - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيس-روما-2025-09-24",
+      "home": "نيس",
+      "away": "روما",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فرايبورج-بازل-2025-09-24",
+      "home": "فرايبورج",
+      "away": "بازل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/195.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
