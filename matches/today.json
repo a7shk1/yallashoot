@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الشباب-الخلود-2025-09-25",
-      "home": "الشباب",
-      "away": "الخلود",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12745.png",
-      "time_baghdad": "18:25",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 2",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوصل-الشارقة-2025-09-25",
       "home": "الوصل",
       "away": "الشارقة",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/156.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
@@ -85,26 +70,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12747.png",
       "time_baghdad": "21:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "شتوتجارت-سيلتافيجو-2025-09-25",
-      "home": "شتوتجارت",
-      "away": "سيلتا فيجو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/160.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
@@ -153,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شتوتجارت-سيلتافيجو-2025-09-25",
+      "home": "شتوتجارت",
+      "away": "سيلتا فيجو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/160.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالأوفييدو-برشلونة-2025-09-25",
       "home": "ريال أوفييدو",
       "away": "برشلونة",
@@ -195,6 +180,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشباب-الخلود-2025-09-25",
+      "home": "الشباب",
+      "away": "الخلود",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12745.png",
+      "time_baghdad": "18:25",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "ثمانية 2",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     }
   ]
