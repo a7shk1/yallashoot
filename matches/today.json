@@ -108,6 +108,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شتوتجارت-سيلتافيجو-2025-09-25",
+      "home": "شتوتجارت",
+      "away": "سيلتا فيجو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/160.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوتريخت-أولمبيكليون-2025-09-25",
+      "home": "أوتريخت",
+      "away": "أولمبيك ليون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/698.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريدبولسالز-بورتو-2025-09-25",
       "home": "ريد بول سالزبورغ",
       "away": "بورتو",
@@ -133,21 +163,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أوتريخت-أولمبيكليون-2025-09-25",
-      "home": "أوتريخت",
-      "away": "أولمبيك ليون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/698.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
