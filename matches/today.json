@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أوساسونا-إلتشي-2025-09-25",
-      "home": "أوساسونا",
-      "away": "إلتشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/156.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الهلال-الأخدود-2025-09-25",
       "home": "الهلال",
       "away": "الأخدود",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
       "time_baghdad": "22:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -195,6 +180,21 @@
       "channel": "الكأس HD1",
       "commentator": "غير معروف",
       "competition": "قطر, الدوري القطري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوساسونا-إلتشي-2025-09-25",
+      "home": "أوساسونا",
+      "away": "إلتشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/156.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
