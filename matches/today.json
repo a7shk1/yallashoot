@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
+      "id": "اليابانتحت-مصر|تحت20-2025-09-28",
+      "home": "اليابان تحت 20",
+      "away": "مصر | تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5486.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1736.png",
+      "time_baghdad": "00:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "تورونتو-انترميامي-2025-09-28",
       "home": "تورونتو",
       "away": "انتر ميامي",
@@ -43,21 +58,6 @@
       "status_text": "جارية الان",
       "result_text": "0-2",
       "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اليابانتحت-مصر|تحت20-2025-09-28",
-      "home": "اليابان تحت 20",
-      "away": "مصر | تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5486.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1736.png",
-      "time_baghdad": "00:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -333,21 +333,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميلان-نابولي-2025-09-28",
-      "home": "ميلان",
-      "away": "نابولي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ستادرين-لانس-2025-09-28",
       "home": "ستاد رين",
       "away": "لانس",
@@ -360,6 +345,21 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ميلان-نابولي-2025-09-28",
+      "home": "ميلان",
+      "away": "نابولي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
