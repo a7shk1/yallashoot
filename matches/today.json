@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نوتنجهامفور-سندرلاند-2025-09-27",
-      "home": "نوتنجهام فورست",
-      "away": "سندرلاند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمايوركا-ألافيس-2025-09-27",
       "home": "ريال مايوركا",
       "away": "ألافيس",
@@ -243,18 +228,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تولوز-نانت-2025-09-27",
-      "home": "تولوز",
-      "away": "نانت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/315.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
-      "time_baghdad": "20:00",
+      "id": "نوتنجهامفور-سندرلاند-2025-09-27",
+      "home": "نوتنجهام فورست",
+      "away": "سندرلاند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
+      "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -285,6 +270,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تولوز-نانت-2025-09-27",
+      "home": "تولوز",
+      "away": "نانت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/315.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
