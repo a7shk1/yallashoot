@@ -228,21 +228,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المغربالفاس-الناديالمكن-2025-09-28",
-      "home": "المغرب الفاسي",
-      "away": "النادي المكناسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية 3",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "غزلالمحلة-إنبي-2025-09-28",
       "home": "غزل المحلة",
       "away": "إنبي",
@@ -270,6 +255,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغربالفاس-الناديالمكن-2025-09-28",
+      "home": "المغرب الفاسي",
+      "away": "النادي المكناسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية 3",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -330,6 +330,36 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "???-إسبانياتحت-2025-09-28",
+      "home": "???",
+      "away": "إسبانيا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "--0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيطالياتحت-أسترالياتحت-2025-09-28",
+      "home": "إيطاليا تحت 20",
+      "away": "أستراليا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5467.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12560.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
     }
   ]
