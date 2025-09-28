@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
-      "home": "المغرب | تحت 20",
-      "away": "إسبانيا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "time_baghdad": "00:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيطالياتحت-أسترالياتحت-2025-09-29",
       "home": "إيطاليا تحت 20",
       "away": "أستراليا تحت 20",
@@ -33,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
+      "home": "المغرب | تحت 20",
+      "away": "إسبانيا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "time_baghdad": "00:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كوباتحت20-الأرجنتينتح-2025-09-29",
       "home": "كوبا تحت 20",
       "away": "الأرجنتين تحت 20",
@@ -40,9 +40,9 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10055.png",
       "time_baghdad": "02:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
-      "channel": "غير معروف",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -55,9 +55,9 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12556.png",
       "time_baghdad": "02:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
-      "channel": "غير معروف",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -78,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الإسماعيلي-البنكالاهلي-2025-09-29",
-      "home": "الإسماعيلي",
-      "away": "البنك الاهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجونة-سيراميكاكلي-2025-09-29",
       "home": "الجونة",
       "away": "سيراميكا كليوباترا",
@@ -103,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الإسماعيلي-البنكالاهلي-2025-09-29",
+      "home": "الإسماعيلي",
+      "away": "البنك الاهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
