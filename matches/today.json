@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أستونفيلا-فولهام-2025-09-28",
-      "home": "أستون فيلا",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيس-باريسأف.سي.-2025-09-28",
       "home": "نيس",
       "away": "باريس أف.سي.",
@@ -78,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أستونفيلا-فولهام-2025-09-28",
+      "home": "أستون فيلا",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مودرنسبورت-فاركو-2025-09-28",
       "home": "مودرن سبورت",
       "away": "فاركو",
@@ -85,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المغربالفاس-الناديالمكن-2025-09-28",
-      "home": "المغرب الفاسي",
-      "away": "النادي المكناسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية 3",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "غزلالمحلة-إنبي-2025-09-28",
       "home": "غزل المحلة",
       "away": "إنبي",
@@ -255,6 +240,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغربالفاس-الناديالمكن-2025-09-28",
+      "home": "المغرب الفاسي",
+      "away": "النادي المكناسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية 3",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
