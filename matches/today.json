@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الأهلي-الزمالك-2025-09-29",
-      "home": "الأهلي",
-      "away": "الزمالك",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الدحيل-الأهلي-2025-09-29",
       "home": "الدحيل",
       "away": "الأهلي",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/136.png",
       "time_baghdad": "21:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/193.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -108,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
-      "home": "المغرب | تحت 20",
-      "away": "إسبانيا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "time_baghdad": "00:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيطالياتحت-أسترالياتحت-2025-09-29",
       "home": "إيطاليا تحت 20",
       "away": "أستراليا تحت 20",
@@ -133,6 +103,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
+      "home": "المغرب | تحت 20",
+      "away": "إسبانيا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "time_baghdad": "00:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -213,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الغرافة-الشرطة-2025-09-29",
-      "home": "الغرافة",
-      "away": "الشرطة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1218.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تراکتورسازي-الوحدة-2025-09-29",
       "home": "تراکتورسازي",
       "away": "الوحدة",
@@ -238,6 +208,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الغرافة-الشرطة-2025-09-29",
+      "home": "الغرافة",
+      "away": "الشرطة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1218.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
@@ -255,6 +240,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الزمالك-2025-09-29",
+      "home": "الأهلي",
+      "away": "الزمالك",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     }
   ]
