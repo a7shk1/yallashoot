@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
-      "home": "المغرب | تحت 20",
-      "away": "إسبانيا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "time_baghdad": "00:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيطالياتحت-أسترالياتحت-2025-09-29",
       "home": "إيطاليا تحت 20",
       "away": "أستراليا تحت 20",
@@ -223,6 +208,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغرب|تحت-إسبانياتحت-2025-09-29",
+      "home": "المغرب | تحت 20",
+      "away": "إسبانيا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1730.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "time_baghdad": "00:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
