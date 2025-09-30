@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "العين-سترة-2025-09-30",
-      "home": "العين",
-      "away": "سترة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
-      "time_baghdad": "18:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الكأس HD1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال الخليج للأندية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السد-الشارقة-2025-09-30",
       "home": "السد",
       "away": "الشارقة",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الكأس HD1",
       "commentator": "غير معروف",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
       "time_baghdad": "21:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -103,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "???-توتنهامهوتس-2025-09-30",
+      "home": "???",
+      "away": "توتنهام هوتسبر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "--0",
+      "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "???-توتنهامهوتس-2025-09-30",
-      "home": "???",
-      "away": "توتنهام هوتسبر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "--0",
-      "channel": "beIN SPORTS HD 9",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بنماتحت20-أوكرانياتحت-2025-09-30",
       "home": "بنما تحت 20",
       "away": "أوكرانيا تحت 20",
@@ -255,6 +240,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العين-سترة-2025-09-30",
+      "home": "العين",
+      "away": "سترة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
+      "time_baghdad": "18:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الكأس HD1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال الخليج للأندية",
       "_source": "yalla1shoot"
     }
   ]
