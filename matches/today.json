@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-كلوببروج-2025-09-30",
-      "home": "أتالانتا",
-      "away": "كلوب بروج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "بى أن سبورت 8 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كايراتألمات-ريالمدريد-2025-09-30",
       "home": "كايرات ألماتي",
       "away": "ريال مدريد",
@@ -58,6 +43,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-كلوببروج-2025-09-30",
+      "home": "أتالانتا",
+      "away": "كلوب بروج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
+      "time_baghdad": "19:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "بى أن سبورت 8 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
