@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أولمبيكآسفي-حسنيةأكادير-2025-10-01",
-      "home": "أولمبيك آسفي",
-      "away": "حسنية أكادير",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8323.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية 3",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوحدات-الوصل-2025-10-01",
       "home": "الوحدات",
       "away": "الوصل",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14596.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الرياضية المغربية 3",
       "commentator": "غير معروف",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أرسنال-أولمبياكوس-2025-10-01",
+      "home": "أرسنال",
+      "away": "أولمبياكوس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/225.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بايرليفركوز-آيندهوفن-2025-10-01",
       "home": "باير ليفركوزن",
       "away": "آيندهوفن",
@@ -103,6 +103,36 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-اتحاديعقوب-2025-10-01",
+      "home": "نهضة بركان",
+      "away": "اتحاد يعقوب المنصور",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/82477.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية 3",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بوروسيادورت-أتلتيكبلباو-2025-10-01",
+      "home": "بوروسيا دورتموند",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -153,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-أولمبياكوس-2025-10-01",
-      "home": "أرسنال",
-      "away": "أولمبياكوس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/225.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "موناكو-مانشسترسيتي-2025-10-01",
       "home": "موناكو",
       "away": "مانشستر سيتي",
@@ -180,36 +195,6 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بوروسيادورت-أتلتيكبلباو-2025-10-01",
-      "home": "بوروسيا دورتموند",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نهضةبركان-اتحاديعقوب-2025-10-01",
-      "home": "نهضة بركان",
-      "away": "اتحاد يعقوب المنصور",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/82477.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية 3",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -243,21 +228,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كورياالجنوب-باراغوايتحت-2025-10-01",
-      "home": "كوريا الجنوبية تحت 20",
-      "away": "باراغواي تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12555.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6200.png",
-      "time_baghdad": "02:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تشيليتحت20-اليابانتحت-2025-10-01",
       "home": "تشيلي تحت 20",
       "away": "اليابان تحت 20",
@@ -268,6 +238,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كورياالجنوب-باراغوايتحت-2025-10-01",
+      "home": "كوريا الجنوبية تحت 20",
+      "away": "باراغواي تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12555.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6200.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -345,6 +330,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكآسفي-حسنيةأكادير-2025-10-01",
+      "home": "أولمبيك آسفي",
+      "away": "حسنية أكادير",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8323.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية 3",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     }
   ]
