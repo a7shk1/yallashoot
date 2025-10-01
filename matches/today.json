@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البرازيلتحت-???-2025-10-02",
-      "home": "البرازيل تحت 20",
-      "away": "???",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "02:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0--",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأرجنتينتح-أسترالياتحت-2025-10-02",
       "home": "الأرجنتين تحت 20",
       "away": "أستراليا تحت 20",
@@ -58,6 +43,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيلتحت-???-2025-10-02",
+      "home": "البرازيل تحت 20",
+      "away": "???",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "02:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0--",
+      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -108,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بازل-شتوتجارت-2025-10-02",
+      "home": "بازل",
+      "away": "شتوتجارت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/160.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فاينورد-أستونفيلا-2025-10-02",
       "home": "فاينورد",
       "away": "أستون فيلا",
@@ -135,21 +150,6 @@
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بازل-شتوتجارت-2025-10-02",
-      "home": "بازل",
-      "away": "شتوتجارت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1138.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/160.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
