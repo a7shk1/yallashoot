@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الوحدات-الوصل-2025-10-01",
-      "home": "الوحدات",
-      "away": "الوصل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8275.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كارباغاغدام-كوبنهاجن-2025-10-01",
       "home": "كارباغ اغدام",
       "away": "كوبنهاجن",
@@ -70,26 +55,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
       "time_baghdad": "21:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نابولي-سبورتنجلشبو-2025-10-01",
-      "home": "نابولي",
-      "away": "سبورتنج لشبونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -183,6 +153,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نابولي-سبورتنجلشبو-2025-10-01",
+      "home": "نابولي",
+      "away": "سبورتنج لشبونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فياريال-يوفنتوس-2025-10-01",
       "home": "فياريال",
       "away": "يوفنتوس",
@@ -195,21 +180,6 @@
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيطالياتحت-كوباتحت20-2025-10-01",
-      "home": "إيطاليا تحت 20",
-      "away": "كوبا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5467.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12554.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
     },
     {
@@ -228,16 +198,16 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشيليتحت20-اليابانتحت-2025-10-01",
-      "home": "تشيلي تحت 20",
-      "away": "اليابان تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5476.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5486.png",
-      "time_baghdad": "02:00",
-      "status": "FT",
-      "status_text": "انتهت",
+      "id": "إيطالياتحت-كوباتحت20-2025-10-01",
+      "home": "إيطاليا تحت 20",
+      "away": "كوبا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5467.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12554.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "Bein Sports HD2",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -253,6 +223,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيليتحت20-اليابانتحت-2025-10-01",
+      "home": "تشيلي تحت 20",
+      "away": "اليابان تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5476.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5486.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -345,6 +330,21 @@
       "channel": "الرياضية المغربية 3",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوحدات-الوصل-2025-10-01",
+      "home": "الوحدات",
+      "away": "الوصل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8275.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
     }
   ]
