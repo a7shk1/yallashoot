@@ -153,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كولومبياتحت-النرويجتحت-2025-10-02",
-      "home": "كولومبيا تحت 20",
-      "away": "النرويج تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10056.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الولاياتالم-فرنساتحت20-2025-10-02",
       "home": "الولايات المتحدة تحت 20",
       "away": "فرنسا تحت 20",
@@ -178,6 +163,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كولومبياتحت-النرويجتحت-2025-10-02",
+      "home": "كولومبيا تحت 20",
+      "away": "النرويج تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10056.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
