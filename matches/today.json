@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "لودوجوريتس-ريالبيتيس-2025-10-02",
-      "home": "لودوجوريتس",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8528.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ديناموكييف-كريستالبالا-2025-10-02",
       "home": "دينامو كييف",
       "away": "كريستال بالاس",
@@ -63,16 +48,16 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نوتنجهامفور-ميتييلاند-2025-10-02",
-      "home": "نوتنجهام فورست",
-      "away": "ميتييلاند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1823.png",
-      "time_baghdad": "22:00",
+      "id": "لودوجوريتس-ريالبيتيس-2025-10-02",
+      "home": "لودوجوريتس",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8528.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "time_baghdad": "19:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "Bein Sports HD2",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
@@ -153,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نوتنجهامفور-ميتييلاند-2025-10-02",
+      "home": "نوتنجهام فورست",
+      "away": "ميتييلاند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1823.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الولاياتالم-فرنساتحت20-2025-10-02",
       "home": "الولايات المتحدة تحت 20",
       "away": "فرنسا تحت 20",
@@ -183,11 +183,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيطالياتحت-كوباتحت20-2025-10-02",
-      "home": "إيطاليا تحت 20",
-      "away": "كوبا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5467.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12554.png",
+      "id": "إسبانياتحت-المكسيكتحت-2025-10-02",
+      "home": "إسبانيا تحت 20",
+      "away": "المكسيك تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12556.png",
       "time_baghdad": "00:00",
       "status": "FT",
       "status_text": "انتهت",
@@ -198,11 +198,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانياتحت-المكسيكتحت-2025-10-02",
-      "home": "إسبانيا تحت 20",
-      "away": "المكسيك تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12556.png",
+      "id": "إيطالياتحت-كوباتحت20-2025-10-02",
+      "home": "إيطاليا تحت 20",
+      "away": "كوبا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5467.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12554.png",
       "time_baghdad": "00:00",
       "status": "FT",
       "status_text": "انتهت",
