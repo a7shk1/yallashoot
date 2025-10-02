@@ -63,6 +63,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نوتنجهامفور-ميتييلاند-2025-10-02",
+      "home": "نوتنجهام فورست",
+      "away": "ميتييلاند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1823.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شتورمغراتس-رينجرز-2025-10-02",
+      "home": "شتورم غراتس",
+      "away": "رينجرز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1741.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/753.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أولمبيكليون-ريدبولسالز-2025-10-02",
       "home": "أولمبيك ليون",
       "away": "ريد بول سالزبورغ",
@@ -120,36 +150,6 @@
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نوتنجهامفور-ميتييلاند-2025-10-02",
-      "home": "نوتنجهام فورست",
-      "away": "ميتييلاند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1823.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "شتورمغراتس-رينجرز-2025-10-02",
-      "home": "شتورم غراتس",
-      "away": "رينجرز",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1741.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/753.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البرازيلتحت-???-2025-10-02",
-      "home": "البرازيل تحت 20",
-      "away": "???",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "02:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0--",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأرجنتينتح-أسترالياتحت-2025-10-02",
       "home": "الأرجنتين تحت 20",
       "away": "أستراليا تحت 20",
@@ -238,6 +223,21 @@
       "status_text": "انتهت",
       "result_text": "1-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيلتحت-???-2025-10-02",
+      "home": "البرازيل تحت 20",
+      "away": "???",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0--",
+      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
