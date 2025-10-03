@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البنكالاهلي-المصري-2025-10-03",
-      "home": "البنك الاهلي",
-      "away": "المصري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحادالسك-المقاولونال-2025-10-03",
       "home": "الاتحاد السكندري",
       "away": "المقاولون العرب",
@@ -60,6 +45,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البنكالاهلي-المصري-2025-10-03",
+      "home": "البنك الاهلي",
+      "away": "المصري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -93,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
+      "home": "الرجاء البيضاوي",
+      "away": "المغرب الفاسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بورنموث-فولهام-2025-10-03",
       "home": "بورنموث",
       "away": "فولهام",
@@ -123,18 +138,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
-      "home": "الرجاء البيضاوي",
-      "away": "المغرب الفاسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "time_baghdad": "22:00",
+      "id": "بنماتحت20-كورياالجنوب-2025-10-03",
+      "home": "بنما تحت 20",
+      "away": "كوريا الجنوبية تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/23775.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12555.png",
+      "time_baghdad": "23:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "غير معروف",
+      "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
     },
     {
@@ -148,21 +163,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 9",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بنماتحت20-كورياالجنوب-2025-10-03",
-      "home": "بنما تحت 20",
-      "away": "كوريا الجنوبية تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/23775.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12555.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
