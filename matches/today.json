@@ -18,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الناديالمكن-الودادالريا-2025-10-03",
+      "home": "النادي المكناسي",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "البنكالاهلي-المصري-2025-10-03",
       "home": "البنك الاهلي",
       "away": "المصري",
@@ -45,21 +60,6 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الناديالمكن-الودادالريا-2025-10-03",
-      "home": "النادي المكناسي",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
