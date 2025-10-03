@@ -18,15 +18,15 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "???-تشيليتحت20-2025-10-04",
-      "home": "???",
+      "id": "مصر|تحت20-تشيليتحت20-2025-10-04",
+      "home": "مصر | تحت 20",
       "away": "تشيلي تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/1736.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5476.png",
       "time_baghdad": "02:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
-      "result_text": "--0",
+      "result_text": "0-0",
       "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "طلائعالجيش-الجونة-2025-10-04",
-      "home": "طلائع الجيش",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-وستهاميونا-2025-10-04",
       "home": "أرسنال",
       "away": "وست هام يونايتد",
@@ -178,6 +163,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "طلائعالجيش-الجونة-2025-10-04",
+      "home": "طلائع الجيش",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
