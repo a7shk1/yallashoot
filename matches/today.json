@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
+      "id": "الناديالمكن-الودادالريا-2025-10-03",
+      "home": "النادي المكناسي",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "البنكالاهلي-المصري-2025-10-03",
       "home": "البنك الاهلي",
       "away": "المصري",
@@ -33,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الناديالمكن-الودادالريا-2025-10-03",
-      "home": "النادي المكناسي",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8677.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هيلاسفيرونا-ساسولو-2025-10-03",
       "home": "هيلاس فيرونا",
       "away": "ساسولو",
@@ -55,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
       "time_baghdad": "21:45",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -70,11 +70,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/472-1.png",
       "time_baghdad": "21:45",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
+      "home": "الرجاء البيضاوي",
+      "away": "المغرب الفاسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -105,21 +120,6 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
-      "home": "الرجاء البيضاوي",
-      "away": "المغرب الفاسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
