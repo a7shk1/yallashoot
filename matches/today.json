@@ -63,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هيلاسفيرونا-ساسولو-2025-10-03",
-      "home": "هيلاس فيرونا",
-      "away": "ساسولو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1395.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريسأف.سي.-لوريان-2025-10-03",
       "home": "باريس أف.سي.",
       "away": "لوريان",
@@ -93,18 +78,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
-      "home": "الرجاء البيضاوي",
-      "away": "المغرب الفاسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "time_baghdad": "22:00",
+      "id": "هيلاسفيرونا-ساسولو-2025-10-03",
+      "home": "هيلاس فيرونا",
+      "away": "ساسولو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1395.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/266.png",
+      "time_baghdad": "21:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -138,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الرجاءالبيض-المغربالفاس-2025-10-03",
+      "home": "الرجاء البيضاوي",
+      "away": "المغرب الفاسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوكرانياتحت-باراغوايتحت-2025-10-03",
       "home": "أوكرانيا تحت 20",
       "away": "باراغواي تحت 20",
@@ -168,21 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جنوبإفريقيا-كاليدونياال-2025-10-03",
-      "home": "جنوب إفريقيا تحت 20",
-      "away": "كاليدونيا الجديدة تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6043.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/88911.png",
-      "time_baghdad": "02:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "???-السعوديةتحت-2025-10-03",
       "home": "???",
       "away": "السعودية تحت 20",
@@ -193,6 +178,21 @@
       "status_text": "انتهت",
       "result_text": "--0",
       "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جنوبإفريقيا-كاليدونياال-2025-10-03",
+      "home": "جنوب إفريقيا تحت 20",
+      "away": "كاليدونيا الجديدة تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6043.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/88911.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
