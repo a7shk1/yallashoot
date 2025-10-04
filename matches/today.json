@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "ميتز-أولمبيكمارس-2025-10-04",
-      "home": "ميتز",
-      "away": "أولمبيك مارسيليا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/484.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنترميلان-كريمونيسي-2025-10-04",
       "home": "إنتر ميلان",
       "away": "كريمونيسي",
@@ -30,21 +15,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "آينتراختفرا-بايرنميونخ-2025-10-04",
-      "home": "آينتراخت فرانكفورت",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -78,6 +48,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "آينتراختفرا-بايرنميونخ-2025-10-04",
+      "home": "آينتراخت فرانكفورت",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بريست-نانت-2025-10-04",
       "home": "بريست",
       "away": "نانت",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -115,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12723.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -318,36 +303,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "طلائعالجيش-الجونة-2025-10-04",
-      "home": "طلائع الجيش",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الزمالك-غزلالمحلة-2025-10-04",
-      "home": "الزمالك",
-      "away": "غزل المحلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشستريونا-سندرلاند-2025-10-04",
       "home": "مانشستر يونايتد",
       "away": "سندرلاند",
@@ -378,6 +333,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "طلائعالجيش-الجونة-2025-10-04",
+      "home": "طلائع الجيش",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-غزلالمحلة-2025-10-04",
+      "home": "الزمالك",
+      "away": "غزل المحلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "جيرونا-فالنسيا-2025-10-04",
       "home": "جيرونا",
       "away": "فالنسيا",
@@ -390,6 +375,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ميتز-أولمبيكمارس-2025-10-04",
+      "home": "ميتز",
+      "away": "أولمبيك مارسيليا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/484.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     }
   ]
