@@ -63,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرليفركوز-يونيونبرلين-2025-10-04",
-      "home": "باير ليفركوزن",
-      "away": "يونيون برلين",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/156.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2110.png",
-      "time_baghdad": "16:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيادورت-لايبزيج-2025-10-04",
       "home": "بوروسيا دورتموند",
       "away": "لايبزيج",
@@ -93,18 +78,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "طلائعالجيش-الجونة-2025-10-04",
-      "home": "طلائع الجيش",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "time_baghdad": "17:00",
+      "id": "بايرليفركوز-يونيونبرلين-2025-10-04",
+      "home": "باير ليفركوزن",
+      "away": "يونيون برلين",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/156.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2110.png",
+      "time_baghdad": "16:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "أون سبورت 2",
+      "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -148,6 +133,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "طلائعالجيش-الجونة-2025-10-04",
+      "home": "طلائع الجيش",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "آينتراختفرا-بايرنميونخ-2025-10-04",
-      "home": "آينتراخت فرانكفورت",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تشيلسي-ليفربول-2025-10-04",
       "home": "تشيلسي",
       "away": "ليفربول",
@@ -243,18 +228,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-نانت-2025-10-04",
-      "home": "بريست",
-      "away": "نانت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
-      "time_baghdad": "20:00",
+      "id": "آينتراختفرا-بايرنميونخ-2025-10-04",
+      "home": "آينتراخت فرانكفورت",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
+      "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "Bein Sports HD2",
+      "channel": "MBC Action",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -285,6 +270,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-نانت-2025-10-04",
+      "home": "بريست",
+      "away": "نانت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -333,21 +333,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانياتحت-البرازيلتحت-2025-10-04",
-      "home": "إسبانيا تحت 20",
-      "away": "البرازيل تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المكسيكتحت-???-2025-10-04",
       "home": "المكسيك تحت 20",
       "away": "???",
@@ -358,6 +343,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0--",
       "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إسبانياتحت-البرازيلتحت-2025-10-04",
+      "home": "إسبانيا تحت 20",
+      "away": "البرازيل تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
