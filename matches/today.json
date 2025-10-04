@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "طلائعالجيش-الجونة-2025-10-04",
-      "home": "طلائع الجيش",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-وستهاميونا-2025-10-04",
       "home": "أرسنال",
       "away": "وست هام يونايتد",
@@ -148,6 +133,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "طلائعالجيش-الجونة-2025-10-04",
+      "home": "طلائع الجيش",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
@@ -198,6 +198,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتلتيكبلباو-ريالمايوركا-2025-10-04",
+      "home": "أتلتيك بلباو",
+      "away": "ريال مايوركا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/121.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "آينتراختفرا-بايرنميونخ-2025-10-04",
       "home": "آينتراخت فرانكفورت",
       "away": "بايرن ميونخ",
@@ -225,21 +240,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-ريالمايوركا-2025-10-04",
-      "home": "أتلتيك بلباو",
-      "away": "ريال مايوركا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/121.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
