@@ -1,5 +1,36 @@
 {
   "date": "2025-10-06",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
-  "matches": []
+  "matches": [
+    {
+      "id": "جنوبإفريقيا-الولاياتالم-2025-10-06",
+      "home": "جنوب إفريقيا تحت 20",
+      "away": "الولايات المتحدة تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6043.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12550.png",
+      "time_baghdad": "00:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "1-1",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كاليدونياال-فرنساتحت20-2025-10-06",
+      "home": "كاليدونيا الجديدة تحت 20",
+      "away": "فرنسا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/88911.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8740.png",
+      "time_baghdad": "00:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-1",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    }
+  ]
 }
