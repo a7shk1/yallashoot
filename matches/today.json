@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "إشبيلية-برشلونة-2025-10-05",
-      "home": "إشبيلية",
-      "away": "برشلونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
-      "time_baghdad": "17:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "موناكو-نيس-2025-10-05",
       "home": "موناكو",
       "away": "نيس",
@@ -63,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-رايوفاييكان-2025-10-05",
-      "home": "ريال سوسيداد",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانيول-ريالبيتيس-2025-10-05",
       "home": "إسبانيول",
       "away": "ريال بيتيس",
@@ -85,11 +55,41 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
       "time_baghdad": "19:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالسوسيداد-رايوفاييكان-2025-10-05",
+      "home": "ريال سوسيداد",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيراميدز-الجيشالروان-2025-10-05",
+      "home": "بيراميدز",
+      "away": "الجيش الرواندي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10462.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -100,11 +100,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادتواركة-نهضةبركان-2025-10-05",
+      "home": "اتحاد تواركة",
+      "away": "نهضة بركان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/14597.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -138,6 +153,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكآسفي-الجيشالملكي-2025-10-05",
+      "home": "أولمبيك آسفي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيلتافيجو-أتلتيكومدري-2025-10-05",
       "home": "سيلتا فيجو",
       "away": "أتلتيكو مدريد",
@@ -153,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانياتحت-البرازيلتحت-2025-10-05",
-      "home": "إسبانيا تحت 20",
-      "away": "البرازيل تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
-      "time_baghdad": "00:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المكسيكتحت-المغرب|تحت-2025-10-05",
       "home": "المكسيك تحت 20",
       "away": "المغرب | تحت 20",
@@ -178,6 +193,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إسبانياتحت-البرازيلتحت-2025-10-05",
+      "home": "إسبانيا تحت 20",
+      "away": "البرازيل تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12551.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10057.png",
+      "time_baghdad": "00:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - المجموعات",
       "_source": "yalla1shoot"
@@ -243,21 +273,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وولفرهامبتون-برايتون-2025-10-05",
-      "home": "وولفرهامبتون",
-      "away": "برايتون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكليون-تولوز-2025-10-05",
       "home": "أولمبيك ليون",
       "away": "تولوز",
@@ -270,6 +285,21 @@
       "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وولفرهامبتون-برايتون-2025-10-05",
+      "home": "وولفرهامبتون",
+      "away": "برايتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -333,6 +363,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شبيبةالقيرو-الصفاقسي-2025-10-05",
+      "home": "شبيبة القيروان",
+      "away": "الصفاقسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8238.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الوطنية 2",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إنبي-زد-2025-10-05",
       "home": "إنبي",
       "away": "زد",
@@ -363,18 +408,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شبيبةالقيرو-الصفاقسي-2025-10-05",
-      "home": "شبيبة القيروان",
-      "away": "الصفاقسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8238.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
-      "time_baghdad": "17:00",
+      "id": "إشبيلية-برشلونة-2025-10-05",
+      "home": "إشبيلية",
+      "away": "برشلونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
+      "time_baghdad": "17:15",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "الوطنية 2",
+      "result_text": "1-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
