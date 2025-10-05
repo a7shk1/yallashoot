@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-نوتنجهامفور-2025-10-05",
-      "home": "نيوكاسل يونايتد",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "وولفرهامبتون-برايتون-2025-10-05",
       "home": "وولفرهامبتون",
       "away": "برايتون",
@@ -58,21 +43,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيفرتون-كريستالبالا-2025-10-05",
-      "home": "إيفرتون",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -93,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكليون-تولوز-2025-10-05",
-      "home": "أولمبيك ليون",
-      "away": "تولوز",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/315.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 9",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيورنتينا-روما-2025-10-05",
       "home": "فيورنتينا",
       "away": "روما",
@@ -120,6 +75,51 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-نوتنجهامفور-2025-10-05",
+      "home": "نيوكاسل يونايتد",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-كريستالبالا-2025-10-05",
+      "home": "إيفرتون",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-تولوز-2025-10-05",
+      "home": "أولمبيك ليون",
+      "away": "تولوز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/315.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
