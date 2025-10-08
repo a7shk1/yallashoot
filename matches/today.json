@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
+      "id": "إسواتيني-أنجولا-2025-10-08",
+      "home": "إسواتيني",
+      "away": "أنجولا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/683.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أثيوبيا-غينيابيساو-2025-10-08",
       "home": "أثيوبيا",
       "away": "غينيا بيساو",
@@ -48,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسواتيني-أنجولا-2025-10-08",
-      "home": "إسواتيني",
-      "away": "أنجولا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/683.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "عمان-قطر-2025-10-08",
       "home": "عمان",
       "away": "قطر",
@@ -70,26 +70,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/558.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "الكأس 5",
       "commentator": "غير معروف",
       "competition": "آسيا, تصفيات كأس العالم آسيا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشاد-مالي-2025-10-08",
-      "home": "تشاد",
-      "away": "مالي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5615.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
       "_source": "yalla1shoot"
     },
     {
@@ -143,6 +128,21 @@
       "away": "غانا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/11226.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5094.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشاد-مالي-2025-10-08",
+      "home": "تشاد",
+      "away": "مالي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5615.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
       "time_baghdad": "19:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
