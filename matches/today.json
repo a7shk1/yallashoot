@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بروناي-اليمن-2025-10-09",
-      "home": "بروناي",
-      "away": "اليمن",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/25122.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/7497.png",
-      "time_baghdad": "11:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, تصفيات كأس آسيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باكستان-أفغانستان-2025-10-09",
       "home": "باكستان",
       "away": "أفغانستان",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5084.png",
       "time_baghdad": "13:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "باراغوايتحت-النرويجتحت-2025-10-09",
+      "home": "باراغواي تحت 20",
+      "away": "النرويج تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6200.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - دور الـ 16",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "اليابانتحت-فرنساتحت20-2025-10-09",
       "home": "اليابان تحت 20",
       "away": "فرنسا تحت 20",
@@ -108,18 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "باراغوايتحت-النرويجتحت-2025-10-09",
-      "home": "باراغواي تحت 20",
-      "away": "النرويج تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/6200.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
-      "time_baghdad": "02:00",
+      "id": "بروناي-اليمن-2025-10-09",
+      "home": "بروناي",
+      "away": "اليمن",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/25122.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/7497.png",
+      "time_baghdad": "11:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - دور الـ 16",
+      "competition": "آسيا, تصفيات كأس آسيا",
       "_source": "yalla1shoot"
     }
   ]
