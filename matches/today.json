@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "لاتفيا-أندورا-2025-10-11",
-      "home": "لاتفيا",
-      "away": "أندورا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5052.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المجر-أرمينيا-2025-10-11",
       "home": "المجر",
       "away": "أرمينيا",
@@ -195,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "لاتفيا-أندورا-2025-10-11",
+      "home": "لاتفيا",
+      "away": "أندورا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5052.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     }
   ]
