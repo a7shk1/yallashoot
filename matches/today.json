@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الولاياتالم-الإكوادور-2025-10-11",
-      "home": "الولايات المتحدة",
-      "away": "الإكوادور",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/2389.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
-      "time_baghdad": "03:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الإمارات-عمان-2025-10-11",
       "home": "الإمارات",
       "away": "عمان",
@@ -99,6 +84,21 @@
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/2378.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/ohjuA.png",
       "time_baghdad": "03:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الولاياتالم-الإكوادور-2025-10-11",
+      "home": "الولايات المتحدة",
+      "away": "الإكوادور",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/2389.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
+      "time_baghdad": "03:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
