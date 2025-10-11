@@ -3,18 +3,18 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الإمارات-عمان-2025-10-11",
-      "home": "الإمارات",
-      "away": "عمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1245.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/296.png",
-      "time_baghdad": "20:15",
+      "id": "إستونيا-إيطاليا-2025-10-11",
+      "home": "إستونيا",
+      "away": "إيطاليا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5051.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
+      "time_baghdad": "21:45",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
-      "competition": "آسيا, تصفيات كأس العالم آسيا",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -28,21 +28,6 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إستونيا-إيطاليا-2025-10-11",
-      "home": "إستونيا",
-      "away": "إيطاليا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5051.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/281.png",
       "time_baghdad": "22:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -195,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الإمارات-عمان-2025-10-11",
+      "home": "الإمارات",
+      "away": "عمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1245.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/296.png",
+      "time_baghdad": "20:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, تصفيات كأس العالم آسيا",
       "_source": "yalla1shoot"
     }
   ]
