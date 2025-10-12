@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "هولندا-فنلندا-2025-10-12",
-      "home": "هولندا",
-      "away": "فنلندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/277.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5045.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "جزرالفارو-جمهوريةالتش-2025-10-12",
-      "home": "جزر الفارو",
-      "away": "جمهورية التشيك",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5058.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5040.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أسكتلندا-روسياالبيضا-2025-10-12",
       "home": "أسكتلندا",
       "away": "روسيا البيضاء",
@@ -40,9 +10,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5053.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "هولندا-فنلندا-2025-10-12",
+      "home": "هولندا",
+      "away": "فنلندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/277.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5045.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -55,11 +40,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/11226.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جزرالفارو-جمهوريةالتش-2025-10-12",
+      "home": "جزر الفارو",
+      "away": "جمهورية التشيك",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5058.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5040.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -75,21 +75,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الدنمارك-اليونان-2025-10-12",
-      "home": "الدنمارك",
-      "away": "اليونان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/46.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5030.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -133,6 +118,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الدنمارك-اليونان-2025-10-12",
+      "home": "الدنمارك",
+      "away": "اليونان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/46.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5030.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -228,21 +228,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "العراق-إندونيسيا-2025-10-12",
-      "home": "العراق",
-      "away": "إندونيسيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/281.png",
-      "time_baghdad": "00:12",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, تصفيات كأس العالم آسيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانياتحت-كولومبياتحت-2025-10-12",
       "home": "إسبانيا تحت 20",
       "away": "كولومبيا تحت 20",
@@ -255,6 +240,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العراق-إندونيسيا-2025-10-12",
+      "home": "العراق",
+      "away": "إندونيسيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/281.png",
+      "time_baghdad": "00:12",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, تصفيات كأس العالم آسيا",
       "_source": "yalla1shoot"
     },
     {
