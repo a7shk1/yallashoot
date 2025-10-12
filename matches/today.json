@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المكسيك-كولومبيا-2025-10-12",
-      "home": "المكسيك",
-      "away": "كولومبيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5106.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/tXHn.png",
-      "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "العراق-إندونيسيا-2025-10-12",
       "home": "العراق",
       "away": "إندونيسيا",
@@ -75,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "غير معروف",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المكسيك-كولومبيا-2025-10-12",
+      "home": "المكسيك",
+      "away": "كولومبيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5106.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/tXHn.png",
+      "time_baghdad": "04:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
     }
   ]
