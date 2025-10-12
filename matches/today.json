@@ -63,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بوركينافاسو-أثيوبيا-2025-10-12",
+      "home": "بوركينا فاسو",
+      "away": "أثيوبيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5420.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5413.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "جيبوتي-سيراليون-2025-10-12",
       "home": "جيبوتي",
       "away": "سيراليون",
@@ -123,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوركينافاسو-أثيوبيا-2025-10-12",
-      "home": "بوركينا فاسو",
-      "away": "أثيوبيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5420.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5413.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الولاياتالم-???-2025-10-12",
       "home": "الولايات المتحدة تحت 20",
       "away": "???",
@@ -145,7 +145,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
       "time_baghdad": "23:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0--",
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
