@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "زامبيا-النيجر-2025-10-12",
-      "home": "زامبيا",
-      "away": "النيجر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5101.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8443.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانمارينو-قبرص-2025-10-12",
       "home": "سان مارينو",
       "away": "قبرص",
@@ -30,6 +15,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "زامبيا-النيجر-2025-10-12",
+      "home": "زامبيا",
+      "away": "النيجر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5101.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8443.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
       "_source": "yalla1shoot"
     },
     {
@@ -168,6 +168,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "غانا-جزرالقمر-2025-10-12",
+      "home": "غانا",
+      "away": "جزر القمر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5094.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مالي-مدغشقر-2025-10-12",
+      "home": "مالي",
+      "away": "مدغشقر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/2200.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بوركينافاسو-أثيوبيا-2025-10-12",
       "home": "بوركينا فاسو",
       "away": "أثيوبيا",
@@ -208,36 +238,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "غانا-جزرالقمر-2025-10-12",
-      "home": "غانا",
-      "away": "جزر القمر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5094.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مالي-مدغشقر-2025-10-12",
-      "home": "مالي",
-      "away": "مدغشقر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/2200.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, تصفيات كأس العالم إفريقيا",
       "_source": "yalla1shoot"
