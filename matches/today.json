@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "العراق-إندونيسيا-2025-10-12",
-      "home": "العراق",
-      "away": "إندونيسيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/281.png",
-      "time_baghdad": "00:12",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, تصفيات كأس العالم آسيا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانياتحت-كولومبياتحت-2025-10-12",
       "home": "إسبانيا تحت 20",
       "away": "كولومبيا تحت 20",
@@ -30,6 +15,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العراق-إندونيسيا-2025-10-12",
+      "home": "العراق",
+      "away": "إندونيسيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/281.png",
+      "time_baghdad": "00:12",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, تصفيات كأس العالم آسيا",
       "_source": "yalla1shoot"
     },
     {
