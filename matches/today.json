@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المكسيكتحت-الأرجنتينتح-2025-10-12",
-      "home": "المكسيك تحت 20",
-      "away": "الأرجنتين تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12556.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10055.png",
-      "time_baghdad": "02:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اتلانتايونا-اتلانتايونا-2025-10-12",
-      "home": "اتلانتا يونايتد",
-      "away": "اتلانتا يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/اتلانتا-يونايتد.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/اتلانتا-يونايتد.png",
-      "time_baghdad": "03:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المكسيك-كولومبيا-2025-10-12",
       "home": "المكسيك",
       "away": "كولومبيا",
@@ -40,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/tXHn.png",
       "time_baghdad": "04:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -75,6 +45,36 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المكسيكتحت-الأرجنتينتح-2025-10-12",
+      "home": "المكسيك تحت 20",
+      "away": "الأرجنتين تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/12556.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10055.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتلانتايونا-اتلانتايونا-2025-10-12",
+      "home": "اتلانتا يونايتد",
+      "away": "اتلانتا يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/اتلانتا-يونايتد.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/اتلانتا-يونايتد.png",
+      "time_baghdad": "03:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     }
   ]
