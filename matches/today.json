@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "النرويجتحت-فرنساتحت20-2025-10-13",
-      "home": "النرويج تحت 20",
-      "away": "فرنسا تحت 20",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8740.png",
-      "time_baghdad": "02:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الولاياتالم-المغرب|تحت-2025-10-13",
       "home": "الولايات المتحدة تحت 20",
       "away": "المغرب | تحت 20",
@@ -28,6 +13,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النرويجتحت-فرنساتحت20-2025-10-13",
+      "home": "النرويج تحت 20",
+      "away": "فرنسا تحت 20",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/56291.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8740.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - ربع النهائي",
       "_source": "yalla1shoot"
