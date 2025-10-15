@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المكسيك-الإكوادور-2025-10-15",
-      "home": "المكسيك",
-      "away": "الإكوادور",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5106.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
-      "time_baghdad": "05:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المغرب|تحت-فرنساتحت20-2025-10-15",
       "home": "المغرب | تحت 20",
       "away": "فرنسا تحت 20",
@@ -72,6 +57,21 @@
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المكسيك-الإكوادور-2025-10-15",
+      "home": "المكسيك",
+      "away": "الإكوادور",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5106.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
+      "time_baghdad": "05:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
