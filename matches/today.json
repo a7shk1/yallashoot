@@ -63,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الإتحاد-المصري-2025-10-17",
+      "home": "الإتحاد",
+      "away": "المصري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8258.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "المقاولونال-إنبي-2025-10-17",
       "home": "المقاولون العرب",
       "away": "إنبي",
@@ -90,21 +105,6 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الإتحاد-المصري-2025-10-17",
-      "home": "الإتحاد",
-      "away": "المصري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8258.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     },
     {
