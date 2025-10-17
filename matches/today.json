@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الاتحادالمن-شبيبةالقبائ-2025-10-17",
-      "home": "الاتحاد المنستيري",
-      "away": "شبيبة القبائل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "واديدجلة-مودرنسبورت-2025-10-17",
-      "home": "وادي دجلة",
-      "away": "مودرن سبورت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الفيحاء-الاتحاد-2025-10-17",
       "home": "الفيحاء",
       "away": "الاتحاد",
@@ -45,6 +15,21 @@
       "channel": "ثمانية 2",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غزلالمحلة-كهرباءالاسم-2025-10-17",
+      "home": "غزل المحلة",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -73,21 +58,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "غزلالمحلة-كهرباءالاسم-2025-10-17",
-      "home": "غزل المحلة",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
@@ -150,6 +120,36 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحادالمن-شبيبةالقبائ-2025-10-17",
+      "home": "الاتحاد المنستيري",
+      "away": "شبيبة القبائل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "واديدجلة-مودرنسبورت-2025-10-17",
+      "home": "وادي دجلة",
+      "away": "مودرن سبورت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
