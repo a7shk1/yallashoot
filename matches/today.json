@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الأهلي-الشباب-2025-10-17",
-      "home": "الأهلي",
-      "away": "الشباب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريسسانجي-ستراسبورج-2025-10-17",
       "home": "باريس سان جيرمان",
       "away": "ستراسبورج",
@@ -108,6 +93,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "المقاولونال-إنبي-2025-10-17",
+      "home": "المقاولون العرب",
+      "away": "إنبي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غزلالمحلة-كهرباءالاسم-2025-10-17",
+      "home": "غزل المحلة",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الإتحاد-المصري-2025-10-17",
       "home": "الإتحاد",
       "away": "المصري",
@@ -138,33 +153,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المقاولونال-إنبي-2025-10-17",
-      "home": "المقاولون العرب",
-      "away": "إنبي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
-      "time_baghdad": "20:00",
+      "id": "الأهلي-الشباب-2025-10-17",
+      "home": "الأهلي",
+      "away": "الشباب",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
+      "time_baghdad": "21:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "أون سبورت 2",
+      "channel": "ثمانية 1",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "غزلالمحلة-كهرباءالاسم-2025-10-17",
-      "home": "غزل المحلة",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
+      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     }
   ]
