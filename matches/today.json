@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الاتحادالمن-شبيبةالقبائ-2025-10-17",
-      "home": "الاتحاد المنستيري",
-      "away": "شبيبة القبائل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "واديدجلة-مودرنسبورت-2025-10-17",
       "home": "وادي دجلة",
       "away": "مودرن سبورت",
@@ -48,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الاتحادالمن-شبيبةالقبائ-2025-10-17",
+      "home": "الاتحاد المنستيري",
+      "away": "شبيبة القبائل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الفيحاء-الاتحاد-2025-10-17",
       "home": "الفيحاء",
       "away": "الاتحاد",
@@ -60,21 +60,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الإتحاد-المصري-2025-10-17",
-      "home": "الإتحاد",
-      "away": "المصري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8258.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -105,6 +90,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الإتحاد-المصري-2025-10-17",
+      "home": "الإتحاد",
+      "away": "المصري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8258.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     },
     {
