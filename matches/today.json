@@ -243,6 +243,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فياريال-ريالبيتيس-2025-10-18",
+      "home": "فياريال",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فولهام-أرسنال-2025-10-18",
       "home": "فولهام",
       "away": "أرسنال",
@@ -270,21 +285,6 @@
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فياريال-ريالبيتيس-2025-10-18",
-      "home": "فياريال",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
