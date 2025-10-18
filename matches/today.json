@@ -108,16 +108,16 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "برايتون-نيوكاسليونا-2025-10-18",
-      "home": "برايتون",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "id": "بيرنلي-ليدزيونايتد-2025-10-18",
+      "home": "بيرنلي",
+      "away": "ليدز يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
       "time_baghdad": "17:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -138,16 +138,16 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-ليدزيونايتد-2025-10-18",
-      "home": "بيرنلي",
-      "away": "ليدز يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
+      "id": "برايتون-نيوكاسليونا-2025-10-18",
+      "home": "برايتون",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
       "time_baghdad": "17:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -243,6 +243,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ديكيداها-الزمالك-2025-10-18",
+      "home": "ديكيداها",
+      "away": "الزمالك",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "تورينو-نابولي-2025-10-18",
       "home": "تورينو",
       "away": "نابولي",
@@ -255,6 +270,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "رحيمو-الترجي-2025-10-18",
+      "home": "رحيمو",
+      "away": "الترجي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -348,6 +378,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكآسفي-الملعبالتون-2025-10-18",
+      "home": "أولمبيك آسفي",
+      "away": "الملعب التونسي",
+      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "النصر-الفتح-2025-10-18",
       "home": "النصر",
       "away": "الفتح",
@@ -360,6 +405,21 @@
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-إنترميلان-2025-10-18",
+      "home": "روما",
+      "away": "إنتر ميلان",
+      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     }
   ]
