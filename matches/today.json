@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الوحدة-الدحيل-2025-10-20",
-      "home": "الوحدة",
-      "away": "الدحيل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
-      "time_baghdad": "16:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشرطة-الاتحاد-2025-10-20",
       "home": "الشرطة",
       "away": "الاتحاد",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -120,6 +105,21 @@
       "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 20 - النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوحدة-الدحيل-2025-10-20",
+      "home": "الوحدة",
+      "away": "الدحيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
+      "time_baghdad": "16:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
