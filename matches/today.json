@@ -78,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نيوكاسليونا-بنفيكا-2025-10-21",
+      "home": "نيوكاسل يونايتد",
+      "away": "بنفيكا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "آيندهوفن-نابولي-2025-10-21",
       "home": "آيندهوفن",
       "away": "نابولي",
@@ -163,21 +178,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "بى أن سبورت 8 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نيوكاسليونا-بنفيكا-2025-10-21",
-      "home": "نيوكاسل يونايتد",
-      "away": "بنفيكا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
