@@ -3,31 +3,16 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الهلال-السد-2025-10-21",
-      "home": "الهلال",
-      "away": "السد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/646.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نيوكاسليونا-بنفيكا-2025-10-21",
-      "home": "نيوكاسل يونايتد",
-      "away": "بنفيكا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
+      "id": "يونيونسانت-إنترميلان-2025-10-21",
+      "home": "يونيون سانت جيلواز",
+      "away": "إنتر ميلان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1204-1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -43,21 +28,6 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "يونيونسانت-إنترميلان-2025-10-21",
-      "home": "يونيون سانت جيلواز",
-      "away": "إنتر ميلان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1204-1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -123,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نيوكاسليونا-بنفيكا-2025-10-21",
+      "home": "نيوكاسل يونايتد",
+      "away": "بنفيكا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الناديالأفر-الاتحادالمن-2025-10-21",
       "home": "النادي الأفريقي",
       "away": "الاتحاد المنستيري",
@@ -180,6 +165,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-السد-2025-10-21",
+      "home": "الهلال",
+      "away": "السد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/646.png",
+      "time_baghdad": "21:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
