@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-الاتحادالسك-2025-10-22",
-      "home": "الأهلي",
-      "away": "الاتحاد السكندري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الترجيالجرج-الترجي-2025-10-22",
       "home": "الترجي الجرجيسي",
       "away": "الترجي",
@@ -63,6 +48,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الأهلي-الاتحادالسك-2025-10-22",
+      "home": "الأهلي",
+      "away": "الاتحاد السكندري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "استقلال-الوحدات-2025-10-22",
       "home": "استقلال",
       "away": "الوحدات",
@@ -75,21 +75,6 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-كارباغاغدام-2025-10-22",
-      "home": "أتلتيك بلباو",
-      "away": "كارباغ اغدام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/7521.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -108,18 +93,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "القادسية-العين-2025-10-22",
-      "home": "القادسية",
-      "away": "العين",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
-      "time_baghdad": "20:00",
+      "id": "أتلتيكبلباو-كارباغاغدام-2025-10-22",
+      "home": "أتلتيك بلباو",
+      "away": "كارباغ اغدام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/7521.png",
+      "time_baghdad": "19:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال الخليج للأندية",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -135,6 +120,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "القادسية-العين-2025-10-22",
+      "home": "القادسية",
+      "away": "العين",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال الخليج للأندية",
       "_source": "yalla1shoot"
     },
     {
