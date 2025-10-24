@@ -25,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
       "time_baghdad": "21:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
@@ -78,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليدزيونايتد-وستهاميونا-2025-10-24",
+      "home": "ليدز يونايتد",
+      "away": "وست هام يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالسوسيداد-إشبيلية-2025-10-24",
       "home": "ريال سوسيداد",
       "away": "إشبيلية",
@@ -105,21 +120,6 @@
       "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-وستهاميونا-2025-10-24",
-      "home": "ليدز يونايتد",
-      "away": "وست هام يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
