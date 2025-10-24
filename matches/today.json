@@ -18,11 +18,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أودينيزي-ليتشي-2025-10-25",
-      "home": "أودينيزي",
-      "away": "ليتشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "id": "بارما-كومو-2025-10-25",
+      "home": "بارما",
+      "away": "كومو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -33,11 +33,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بارما-كومو-2025-10-25",
-      "home": "بارما",
-      "away": "كومو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "id": "أودينيزي-ليتشي-2025-10-25",
+      "home": "أودينيزي",
+      "away": "ليتشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -60,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-فولهام-2025-10-25",
+      "home": "نيوكاسل يونايتد",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -93,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-فولهام-2025-10-25",
-      "home": "نيوكاسل يونايتد",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانيول-إلتشي-2025-10-25",
       "home": "إسبانيول",
       "away": "إلتشي",
@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-باريسسانجي-2025-10-25",
-      "home": "بريست",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "التأمينالإث-بيراميدز-2025-10-25",
       "home": "التأمين الإثيوبي",
       "away": "بيراميدز",
@@ -150,6 +135,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-باريسسانجي-2025-10-25",
+      "home": "بريست",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -228,6 +228,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الرجاءالبيض-أولمبيكالدش-2025-10-25",
+      "home": "الرجاء البيضاوي",
+      "away": "أولمبيك الدشيرة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/21191.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الأهلي-أيجلنوار-2025-10-25",
       "home": "الأهلي",
       "away": "أيجل نوار",
@@ -270,21 +285,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرجاءالبيض-أولمبيكالدش-2025-10-25",
-      "home": "الرجاء البيضاوي",
-      "away": "أولمبيك الدشيرة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/21191.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
