@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الزمالك-ديكيداها-2025-10-24",
-      "home": "الزمالك",
-      "away": "ديكيداها",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/56897.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شباببلوزداد-هافياكوناكر-2025-10-24",
       "home": "شباب بلوزداد",
       "away": "هافيا كوناكري",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/51233.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الجزائرية السادسة",
       "commentator": "غير معروف",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالسوسيداد-إشبيلية-2025-10-24",
+      "home": "ريال سوسيداد",
+      "away": "إشبيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الودادالريا-أشانتيكوتوك-2025-10-24",
       "home": "الوداد الرياضي",
       "away": "أشانتي كوتوكو",
@@ -123,18 +123,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-إشبيلية-2025-10-24",
-      "home": "ريال سوسيداد",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "id": "الزمالك-ديكيداها-2025-10-24",
+      "home": "الزمالك",
+      "away": "ديكيداها",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/56897.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     }
   ]
