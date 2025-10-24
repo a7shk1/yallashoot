@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "شباببلوزداد-هافياكوناكر-2025-10-24",
-      "home": "شباب بلوزداد",
-      "away": "هافيا كوناكري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/51233.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الجزائرية السادسة",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحاد-الهلال-2025-10-24",
       "home": "الاتحاد",
       "away": "الهلال",
@@ -78,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليدزيونايتد-وستهاميونا-2025-10-24",
+      "home": "ليدز يونايتد",
+      "away": "وست هام يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالسوسيداد-إشبيلية-2025-10-24",
       "home": "ريال سوسيداد",
       "away": "إشبيلية",
@@ -85,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -100,26 +100,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8968.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-وستهاميونا-2025-10-24",
-      "home": "ليدز يونايتد",
-      "away": "وست هام يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -133,6 +118,21 @@
       "status_text": "انتهت",
       "result_text": "1-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شباببلوزداد-هافياكوناكر-2025-10-24",
+      "home": "شباب بلوزداد",
+      "away": "هافيا كوناكري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/51233.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الجزائرية السادسة",
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
