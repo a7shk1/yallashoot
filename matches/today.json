@@ -18,11 +18,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أودينيزي-ليتشي-2025-10-25",
-      "home": "أودينيزي",
-      "away": "ليتشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "id": "بارما-كومو-2025-10-25",
+      "home": "بارما",
+      "away": "كومو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -33,11 +33,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بارما-كومو-2025-10-25",
-      "home": "بارما",
-      "away": "كومو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "id": "أودينيزي-ليتشي-2025-10-25",
+      "home": "أودينيزي",
+      "away": "ليتشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -60,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "حرسالحدود-غزلالمحلة-2025-10-25",
+      "home": "حرس الحدود",
+      "away": "غزل المحلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -90,21 +105,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "حرسالحدود-غزلالمحلة-2025-10-25",
-      "home": "حرس الحدود",
-      "away": "غزل المحلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -153,6 +153,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
+      "home": "الملعب التونسي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نابولي-إنترميلان-2025-10-25",
       "home": "نابولي",
       "away": "إنتر ميلان",
@@ -168,18 +183,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
-      "home": "الملعب التونسي",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "time_baghdad": "19:00",
+      "id": "بوروسيادورت-كولن-2025-10-25",
+      "home": "بوروسيا دورتموند",
+      "away": "كولن",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/194.png",
+      "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -213,18 +228,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوروسيادورت-كولن-2025-10-25",
-      "home": "بوروسيا دورتموند",
-      "away": "كولن",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/194.png",
-      "time_baghdad": "19:30",
+      "id": "مودرنسبورت-المقاولونال-2025-10-25",
+      "home": "مودرن سبورت",
+      "away": "المقاولون العرب",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -270,21 +285,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مودرنسبورت-المقاولونال-2025-10-25",
-      "home": "مودرن سبورت",
-      "away": "المقاولون العرب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
