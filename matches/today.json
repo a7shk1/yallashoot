@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "انترميامي-ناشفيل-2025-10-25",
-      "home": "انتر ميامي",
-      "away": "ناشفيل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/54729.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جيرونا-ريالأوفييدو-2025-10-25",
       "home": "جيرونا",
       "away": "ريال أوفييدو",
@@ -348,6 +333,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فالنسيا-فياريال-2025-10-25",
+      "home": "فالنسيا",
+      "away": "فياريال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برينتفورد-ليفربول-2025-10-25",
       "home": "برينتفورد",
       "away": "ليفربول",
@@ -378,21 +378,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فالنسيا-فياريال-2025-10-25",
-      "home": "فالنسيا",
-      "away": "فياريال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لانس-أولمبيكمارس-2025-10-25",
       "home": "لانس",
       "away": "أولمبيك مارسيليا",
@@ -405,6 +390,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "انترميامي-ناشفيل-2025-10-25",
+      "home": "انتر ميامي",
+      "away": "ناشفيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/54729.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "04:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     }
   ]
