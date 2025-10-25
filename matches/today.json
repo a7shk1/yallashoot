@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "التأمينالإث-بيراميدز-2025-10-25",
+      "home": "التأمين الإثيوبي",
+      "away": "بيراميدز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "اتحادطنجة-المغربالفاس-2025-10-25",
       "home": "اتحاد طنجة",
       "away": "المغرب الفاسي",
@@ -153,18 +168,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "التأمينالإث-بيراميدز-2025-10-25",
-      "home": "التأمين الإثيوبي",
-      "away": "بيراميدز",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
-      "time_baghdad": "18:00",
+      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
+      "home": "الملعب التونسي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "time_baghdad": "19:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -183,18 +198,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
-      "home": "الملعب التونسي",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "time_baghdad": "19:00",
+      "id": "بوروسيادورت-كولن-2025-10-25",
+      "home": "بوروسيا دورتموند",
+      "away": "كولن",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/194.png",
+      "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -228,18 +243,33 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوروسيادورت-كولن-2025-10-25",
-      "home": "بوروسيا دورتموند",
-      "away": "كولن",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/194.png",
-      "time_baghdad": "19:30",
+      "id": "الأهلي-أيجلنوار-2025-10-25",
+      "home": "الأهلي",
+      "away": "أيجل نوار",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/30286.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مودرنسبورت-المقاولونال-2025-10-25",
+      "home": "مودرن سبورت",
+      "away": "المقاولون العرب",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -273,33 +303,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-أيجلنوار-2025-10-25",
-      "home": "الأهلي",
-      "away": "أيجل نوار",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/30286.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مودرنسبورت-المقاولونال-2025-10-25",
-      "home": "مودرن سبورت",
-      "away": "المقاولون العرب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
-      "time_baghdad": "20:00",
+      "id": "شبيبةالقبائ-الاتحادالمن-2025-10-25",
+      "home": "شبيبة القبائل",
+      "away": "الاتحاد المنستيري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
+      "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -318,21 +333,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شبيبةالقبائ-الاتحادالمن-2025-10-25",
-      "home": "شبيبة القبائل",
-      "away": "الاتحاد المنستيري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/784.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كريمونيسي-أتالانتا-2025-10-25",
       "home": "كريمونيسي",
       "away": "أتالانتا",
@@ -345,21 +345,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجيشالملكي-حوريا-2025-10-25",
-      "home": "الجيش الملكي",
-      "away": "حوريا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10476.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -390,6 +375,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجيشالملكي-حوريا-2025-10-25",
+      "home": "الجيش الملكي",
+      "away": "حوريا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10476.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
