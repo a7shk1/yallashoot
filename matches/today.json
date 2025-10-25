@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
+      "id": "انترميامي-ناشفيل-2025-10-25",
+      "home": "انتر ميامي",
+      "away": "ناشفيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/54729.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "04:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "جيرونا-ريالأوفييدو-2025-10-25",
       "home": "جيرونا",
       "away": "ريال أوفييدو",
@@ -18,11 +33,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أودينيزي-ليتشي-2025-10-25",
-      "home": "أودينيزي",
-      "away": "ليتشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "id": "بارما-كومو-2025-10-25",
+      "home": "بارما",
+      "away": "كومو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -33,11 +48,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بارما-كومو-2025-10-25",
-      "home": "بارما",
-      "away": "كومو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "id": "أودينيزي-ليتشي-2025-10-25",
+      "home": "أودينيزي",
+      "away": "ليتشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -123,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "التأمينالإث-بيراميدز-2025-10-25",
-      "home": "التأمين الإثيوبي",
-      "away": "بيراميدز",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بريست-باريسسانجي-2025-10-25",
       "home": "بريست",
       "away": "باريس سان جيرمان",
@@ -153,18 +153,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
-      "home": "الملعب التونسي",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "time_baghdad": "19:00",
+      "id": "التأمينالإث-بيراميدز-2025-10-25",
+      "home": "التأمين الإثيوبي",
+      "away": "بيراميدز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
+      "time_baghdad": "18:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -180,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الملعبالتون-أولمبيكآسفي-2025-10-25",
+      "home": "الملعب التونسي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -228,6 +243,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الرجاءالبيض-أولمبيكالدش-2025-10-25",
+      "home": "الرجاء البيضاوي",
+      "away": "أولمبيك الدشيرة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/21191.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الأهلي-أيجلنوار-2025-10-25",
       "home": "الأهلي",
       "away": "أيجل نوار",
@@ -270,21 +300,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرجاءالبيض-أولمبيكالدش-2025-10-25",
-      "home": "الرجاء البيضاوي",
-      "away": "أولمبيك الدشيرة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/21191.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
