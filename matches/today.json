@@ -33,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كهرباءالاسم-سيراميكاكلي-2025-10-26",
+      "home": "كهرباء الاسماعيلية",
+      "away": "سيراميكا كليوباترا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12723.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أستونفيلا-مانشسترسيتي-2025-10-26",
       "home": "أستون فيلا",
       "away": "مانشستر سيتي",
@@ -138,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كهرباءالاسم-سيراميكاكلي-2025-10-26",
-      "home": "كهرباء الاسماعيلية",
-      "away": "سيراميكا كليوباترا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12723.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-فرايبورج-2025-10-26",
       "home": "باير ليفركوزن",
       "away": "فرايبورج",
@@ -228,6 +228,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فاركو-الإسماعيلي-2025-10-26",
+      "home": "فاركو",
+      "away": "الإسماعيلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "طلائعالجيش-زد-2025-10-26",
       "home": "طلائع الجيش",
       "away": "زد",
@@ -258,21 +273,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فاركو-الإسماعيلي-2025-10-26",
-      "home": "فاركو",
-      "away": "الإسماعيلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوساسونا-سيلتافيجو-2025-10-26",
       "home": "أوساسونا",
       "away": "سيلتا فيجو",
@@ -288,21 +288,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لاتسيو-يوفنتوس-2025-10-26",
-      "home": "لاتسيو",
-      "away": "يوفنتوس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/136.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/135.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكليون-ستراسبورج-2025-10-26",
       "home": "أولمبيك ليون",
       "away": "ستراسبورج",
@@ -315,6 +300,21 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "لاتسيو-يوفنتوس-2025-10-26",
+      "home": "لاتسيو",
+      "away": "يوفنتوس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/136.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/135.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
