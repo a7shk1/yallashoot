@@ -1,9 +1,9 @@
 {
-  "date": "2025-10-28",
+  "date": "2025-10-29",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "ماراثينا-فالنسيا-2025-10-28",
+      "id": "ماراثينا-فالنسيا-2025-10-29",
       "home": "ماراثينا",
       "away": "فالنسيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/18042.png",
@@ -18,37 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-ميلان-2025-10-28",
-      "home": "أتالانتا",
-      "away": "ميلان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إنيرغيكوتبو-لايبزيج-2025-10-28",
-      "home": "إنيرغي كوتبوس",
-      "away": "لايبزيج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/9914.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/7171.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, كأس المانيا - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ويكومب-فولهام-2025-10-28",
+      "id": "ويكومب-فولهام-2025-10-29",
       "home": "ويكومب",
       "away": "فولهام",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/58.png",
@@ -63,7 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غريمسبيتاون-برينتفورد-2025-10-28",
+      "id": "غريمسبيتاون-برينتفورد-2025-10-29",
       "home": "غريمسبي تاون",
       "away": "برينتفورد",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/62.png",
@@ -78,7 +48,37 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "توليدو-إشبيلية-2025-10-28",
+      "id": "أتالانتا-ميلان-2025-10-29",
+      "home": "أتالانتا",
+      "away": "ميلان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنيرغيكوتبو-لايبزيج-2025-10-29",
+      "home": "إنيرغي كوتبوس",
+      "away": "لايبزيج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/9914.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/7171.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, كأس المانيا - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توليدو-إشبيلية-2025-10-29",
       "home": "توليدو",
       "away": "إشبيلية",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/196.png",
@@ -93,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأخدود-الهلال-2025-10-28",
+      "id": "الأخدود-الهلال-2025-10-29",
       "home": "الأخدود",
       "away": "الهلال",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12747.png",
@@ -108,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليتشي-نابولي-2025-10-28",
+      "id": "ليتشي-نابولي-2025-10-29",
       "home": "ليتشي",
       "away": "نابولي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
@@ -123,7 +123,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "آينتراختفرا-بوروسيادورت-2025-10-28",
+      "id": "آينتراختفرا-بوروسيادورت-2025-10-29",
       "home": "آينتراخت فرانكفورت",
       "away": "بوروسيا دورتموند",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
@@ -138,7 +138,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-الاتحاد-2025-10-28",
+      "id": "النصر-الاتحاد-2025-10-29",
       "home": "النصر",
       "away": "الاتحاد",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
