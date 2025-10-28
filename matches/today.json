@@ -10,26 +10,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
       "time_baghdad": "18:10",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "ثمانية 3",
       "commentator": "غير معروف",
       "competition": "السعودية, كأس الملك - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليتشي-نابولي-2025-10-28",
-      "home": "ليتشي",
-      "away": "نابولي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -48,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليتشي-نابولي-2025-10-28",
+      "home": "ليتشي",
+      "away": "نابولي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "النصر-الاتحاد-2025-10-28",
       "home": "النصر",
       "away": "الاتحاد",
@@ -63,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-ميلان-2025-10-28",
-      "home": "أتالانتا",
-      "away": "ميلان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنيرغيكوتبو-لايبزيج-2025-10-28",
       "home": "إنيرغي كوتبوس",
       "away": "لايبزيج",
@@ -90,6 +75,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ألمانيا, كأس المانيا - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-ميلان-2025-10-28",
+      "home": "أتالانتا",
+      "away": "ميلان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     }
   ]
