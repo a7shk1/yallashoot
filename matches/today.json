@@ -3,18 +3,18 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الأخدود-الهلال-2025-10-28",
-      "home": "الأخدود",
-      "away": "الهلال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12747.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "time_baghdad": "18:10",
+      "id": "آينتراختفرا-بوروسيادورت-2025-10-28",
+      "home": "آينتراخت فرانكفورت",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "time_baghdad": "20:30",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "ثمانية 3",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - دور الـ 16",
+      "competition": "ألمانيا, كأس المانيا - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -25,26 +25,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "آينتراختفرا-بوروسيادورت-2025-10-28",
-      "home": "آينتراخت فرانكفورت",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, كأس المانيا - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
       "time_baghdad": "21:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
@@ -90,6 +75,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ألمانيا, كأس المانيا - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأخدود-الهلال-2025-10-28",
+      "home": "الأخدود",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/12747.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "time_baghdad": "18:10",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "ثمانية 3",
+      "commentator": "غير معروف",
+      "competition": "السعودية, كأس الملك - دور الـ 16",
       "_source": "yalla1shoot"
     }
   ]
