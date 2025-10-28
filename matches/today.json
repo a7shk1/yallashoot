@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "النصر-الاتحاد-2025-10-28",
-      "home": "النصر",
-      "away": "الاتحاد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ماراثينا-فالنسيا-2025-10-28",
       "home": "ماراثينا",
       "away": "فالنسيا",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
       "time_baghdad": "23:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -127,7 +112,7 @@
       "home": "ليتشي",
       "away": "نابولي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
-      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
       "time_baghdad": "20:30",
       "status": "FT",
       "status_text": "انتهت",
@@ -141,8 +126,8 @@
       "id": "آينتراختفرا-بوروسيادورت-2025-10-28",
       "home": "آينتراخت فرانكفورت",
       "away": "بوروسيا دورتموند",
-      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
       "time_baghdad": "20:30",
       "status": "FT",
       "status_text": "انتهت",
@@ -150,6 +135,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ألمانيا, كأس المانيا - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-الاتحاد-2025-10-28",
+      "home": "النصر",
+      "away": "الاتحاد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, كأس الملك - دور الـ 16",
       "_source": "yalla1shoot"
     }
   ]
