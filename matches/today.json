@@ -63,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "عجمان-العين-2025-10-30",
-      "home": "عجمان",
-      "away": "العين",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/868.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
-      "time_baghdad": "18:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبابالاهلي-الشارقة-2025-10-30",
       "home": "شباب الاهلي",
       "away": "الشارقة",
@@ -88,6 +73,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "عجمان-العين-2025-10-30",
+      "home": "عجمان",
+      "away": "العين",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/868.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
+      "time_baghdad": "18:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "_source": "yalla1shoot"
