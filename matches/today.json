@@ -1,9 +1,9 @@
 {
-  "date": "2025-10-30",
+  "date": "2025-10-31",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بيسا-لاتسيو-2025-10-30",
+      "id": "بيسا-لاتسيو-2025-10-31",
       "home": "بيسا",
       "away": "لاتسيو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/248.png",
@@ -18,22 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكيدا-إسبانيول-2025-10-30",
-      "home": "أتلتيك يدا",
-      "away": "إسبانيول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91671.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 1",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بالماديلري-ريالبيتيس-2025-10-30",
+      "id": "بالماديلري-ريالبيتيس-2025-10-31",
       "home": "بالما ديل ريو",
       "away": "ريال بيتيس",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91688.png",
@@ -48,7 +33,22 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الوحدة-النصر-2025-10-30",
+      "id": "أتلتيكيدا-إسبانيول-2025-10-31",
+      "home": "أتلتيك يدا",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91671.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 1",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوحدة-النصر-2025-10-31",
       "home": "الوحدة",
       "away": "النصر",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
@@ -63,7 +63,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-البنزرتي-2025-10-30",
+      "id": "الترجي-البنزرتي-2025-10-31",
       "home": "الترجي",
       "away": "البنزرتي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
@@ -78,7 +78,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادخنشلة-مولوديةالجز-2025-10-30",
+      "id": "اتحادخنشلة-مولوديةالجز-2025-10-31",
       "home": "اتحاد خنشلة",
       "away": "مولودية الجزائر",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/46069.png",
@@ -93,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الغرافة-الدحيل-2025-10-30",
+      "id": "الغرافة-الدحيل-2025-10-31",
       "home": "الغرافة",
       "away": "الدحيل",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
@@ -108,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "عجمان-العين-2025-10-30",
+      "id": "عجمان-العين-2025-10-31",
       "home": "عجمان",
       "away": "العين",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/868.png",
@@ -123,7 +123,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شبابالاهلي-الشارقة-2025-10-30",
+      "id": "شبابالاهلي-الشارقة-2025-10-31",
       "home": "شباب الاهلي",
       "away": "الشارقة",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
@@ -138,7 +138,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيراميدز-التأمينالإث-2025-10-30",
+      "id": "بيراميدز-التأمينالإث-2025-10-31",
       "home": "بيراميدز",
       "away": "التأمين الإثيوبي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
@@ -153,7 +153,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السد-الريان-2025-10-30",
+      "id": "السد-الريان-2025-10-31",
       "home": "السد",
       "away": "الريان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/646.png",
@@ -168,7 +168,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البنكالاهلي-الزمالك-2025-10-30",
+      "id": "البنكالاهلي-الزمالك-2025-10-31",
       "home": "البنك الاهلي",
       "away": "الزمالك",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
@@ -183,22 +183,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-الرياض-2025-10-30",
-      "home": "الأهلي",
-      "away": "الرياض",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/181.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كالياري-ساسولو-2025-10-30",
+      "id": "كالياري-ساسولو-2025-10-31",
       "home": "كالياري",
       "away": "ساسولو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
@@ -210,6 +195,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الرياض-2025-10-31",
+      "home": "الأهلي",
+      "away": "الرياض",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/181.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     }
   ]
