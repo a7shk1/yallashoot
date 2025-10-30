@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بيراميدز-التأمينالإث-2025-10-30",
-      "home": "بيراميدز",
-      "away": "التأمين الإثيوبي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السد-الريان-2025-10-30",
       "home": "السد",
       "away": "الريان",
@@ -93,11 +78,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكيدا-إسبانيول-2025-10-30",
-      "home": "أتلتيك يدا",
-      "away": "إسبانيول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91671.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "id": "بالماديلري-ريالبيتيس-2025-10-30",
+      "home": "بالما ديل ريو",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91688.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
       "time_baghdad": "23:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -108,11 +93,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بالماديلري-ريالبيتيس-2025-10-30",
-      "home": "بالما ديل ريو",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91688.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "id": "أتلتيكيدا-إسبانيول-2025-10-30",
+      "home": "أتلتيك يدا",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91671.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
       "time_baghdad": "23:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -210,6 +195,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيراميدز-التأمينالإث-2025-10-30",
+      "home": "بيراميدز",
+      "away": "التأمين الإثيوبي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     }
   ]
