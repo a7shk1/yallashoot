@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "اتحادخنشلة-مولوديةالجز-2025-10-30",
-      "home": "اتحاد خنشلة",
-      "away": "مولودية الجزائر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/46069.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8218.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الجزائرية السادسة",
-      "commentator": "غير معروف",
-      "competition": "الجزائر, الدوري الجزائري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الغرافة-الدحيل-2025-10-30",
       "home": "الغرافة",
       "away": "الدحيل",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
       "time_baghdad": "18:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
       "time_baghdad": "18:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/20112.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1138.png",
       "time_baghdad": "19:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "الكاس 1",
       "commentator": "غير معروف",
@@ -108,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-الرياض-2025-10-30",
-      "home": "الأهلي",
-      "away": "الرياض",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/181.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كالياري-ساسولو-2025-10-30",
       "home": "كالياري",
       "away": "ساسولو",
@@ -138,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الأهلي-الرياض-2025-10-30",
+      "home": "الأهلي",
+      "away": "الرياض",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/181.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بيسا-لاتسيو-2025-10-30",
       "home": "بيسا",
       "away": "لاتسيو",
@@ -150,6 +135,36 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكيدا-إسبانيول-2025-10-30",
+      "home": "أتلتيك يدا",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91671.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 1",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بالماديلري-ريالبيتيس-2025-10-30",
+      "home": "بالما ديل ريو",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/91688.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 1",
       "_source": "yalla1shoot"
     },
     {
@@ -180,6 +195,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادخنشلة-مولوديةالجز-2025-10-30",
+      "home": "اتحاد خنشلة",
+      "away": "مولودية الجزائر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/46069.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8218.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الجزائرية السادسة",
+      "commentator": "غير معروف",
+      "competition": "الجزائر, الدوري الجزائري",
       "_source": "yalla1shoot"
     }
   ]
