@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الهلال-الشباب-2025-10-31",
-      "home": "الهلال",
-      "away": "الشباب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
-      "time_baghdad": "16:50",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوغسبورغ-بوروسيادورت-2025-10-31",
       "home": "أوغسبورغ",
       "away": "بوروسيا دورتموند",
@@ -45,6 +30,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-الشباب-2025-10-31",
+      "home": "الهلال",
+      "away": "الشباب",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
+      "time_baghdad": "16:50",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     }
   ]
