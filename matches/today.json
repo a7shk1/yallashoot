@@ -1,51 +1,5 @@
 {
   "date": "2025-11-01",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
-  "matches": [
-    {
-      "id": "أوغسبورغ-بوروسيادورت-2025-11-01",
-      "home": "أوغسبورغ",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/358.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "خيتافي-جيرونا-2025-11-01",
-      "home": "خيتافي",
-      "away": "جيرونا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2014.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الهلال-الشباب-2025-11-01",
-      "home": "الهلال",
-      "away": "الشباب",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/180.png",
-      "time_baghdad": "16:50",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "_source": "yalla1shoot"
-    }
-  ]
+  "matches": []
 }
