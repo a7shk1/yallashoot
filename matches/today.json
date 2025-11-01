@@ -18,6 +18,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "النجمالساحل-النجمالرياض-2025-11-01",
+      "home": "النجم الساحلي",
+      "away": "النجم الرياضي بالمتلوي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/231.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/14068.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الناديالأفر-ناديسليمان-2025-11-01",
+      "home": "النادي الأفريقي",
+      "away": "نادي سليمان الرياضي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8239.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50316.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أودينيزي-أتالانتا-2025-11-01",
       "home": "أودينيزي",
       "away": "أتالانتا",
@@ -30,6 +60,36 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريستالبالا-برينتفورد-2025-11-01",
+      "home": "كريستال بالاس",
+      "away": "برينتفورد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيرنلي-أرسنال-2025-11-01",
+      "home": "بيرنلي",
+      "away": "أرسنال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -93,36 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كريستالبالا-برينتفورد-2025-11-01",
-      "home": "كريستال بالاس",
-      "away": "برينتفورد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بيرنلي-أرسنال-2025-11-01",
-      "home": "بيرنلي",
-      "away": "أرسنال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-إشبيلية-2025-11-01",
       "home": "أتلتيكو مدريد",
       "away": "إشبيلية",
@@ -165,6 +195,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-الأهليطرابل-2025-11-01",
+      "home": "نهضة بركان",
+      "away": "الأهلي طرابلس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8259.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - تصفيات",
       "_source": "yalla1shoot"
     },
     {
@@ -273,21 +318,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-أستونفيلا-2025-11-01",
-      "home": "ليفربول",
-      "away": "أستون فيلا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-فالنسيا-2025-11-01",
       "home": "ريال مدريد",
       "away": "فالنسيا",
@@ -300,6 +330,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفربول-أستونفيلا-2025-11-01",
+      "home": "ليفربول",
+      "away": "أستون فيلا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/84.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
