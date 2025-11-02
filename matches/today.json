@@ -25,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
       "time_baghdad": "15:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -45,6 +45,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستهاميونا-نيوكاسليونا-2025-11-02",
+      "home": "وست هام يونايتد",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -78,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وستهاميونا-نيوكاسليونا-2025-11-02",
-      "home": "وست هام يونايتد",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كولن-هامبورج-2025-11-02",
       "home": "كولن",
       "away": "هامبورج",
@@ -105,21 +105,6 @@
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "المغربالفاس-أولمبيكآسفي-2025-11-02",
-      "home": "المغرب الفاسي",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -150,6 +135,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغربالفاس-أولمبيكآسفي-2025-11-02",
+      "home": "المغرب الفاسي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولفسبورج-هوفنهايم-2025-11-02",
-      "home": "فولفسبورج",
-      "away": "هوفنهايم",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/163.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/848.png",
-      "time_baghdad": "18:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشسترسيتي-بورنموث-2025-11-02",
       "home": "مانشستر سيتي",
       "away": "بورنموث",
@@ -228,18 +213,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الدفاعالحسن-الجيشالملكي-2025-11-02",
-      "home": "الدفاع الحسني الجديدي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/930.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
-      "time_baghdad": "19:00",
+      "id": "فولفسبورج-هوفنهايم-2025-11-02",
+      "home": "فولفسبورج",
+      "away": "هوفنهايم",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/163.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/848.png",
+      "time_baghdad": "18:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "الرياضية المغربية (3)",
+      "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -255,6 +240,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الدفاعالحسن-الجيشالملكي-2025-11-02",
+      "home": "الدفاع الحسني الجديدي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/930.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
