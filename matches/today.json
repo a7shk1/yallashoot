@@ -33,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الصفاقسي-الترجي-2025-11-02",
+      "home": "الصفاقسي",
+      "away": "الترجي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "وستهاميونا-نيوكاسليونا-2025-11-02",
       "home": "وست هام يونايتد",
       "away": "نيوكاسل يونايتد",
@@ -120,6 +135,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغربالفاس-أولمبيكآسفي-2025-11-02",
+      "home": "المغرب الفاسي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8321.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -213,6 +243,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الدفاعالحسن-الجيشالملكي-2025-11-02",
+      "home": "الدفاع الحسني الجديدي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/930.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برشلونة-إلتشي-2025-11-02",
       "home": "برشلونة",
       "away": "إلتشي",
@@ -225,6 +270,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-المصري-2025-11-02",
+      "home": "الأهلي",
+      "away": "المصري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     },
     {
@@ -243,18 +303,33 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-المصري-2025-11-02",
-      "home": "الأهلي",
-      "away": "المصري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/8.png",
-      "time_baghdad": "20:00",
+      "id": "الودادالريا-اتحادطنجة-2025-11-02",
+      "home": "الوداد الرياضي",
+      "away": "اتحاد طنجة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14596.png",
+      "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "أون سبورت 1",
+      "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الفتحالرباط-حسنيةأكادير-2025-11-02",
+      "home": "الفتح الرباطي",
+      "away": "حسنية أكادير",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/05/997.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8323.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "المغربية (5)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
