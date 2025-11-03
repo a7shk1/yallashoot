@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الغرافة-الهلال-2025-11-03",
-      "home": "الغرافة",
-      "away": "الهلال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "time_baghdad": "20:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لاتسيو-كالياري-2025-11-03",
       "home": "لاتسيو",
       "away": "كالياري",
@@ -78,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الدحيل-شبابالاهلي-2025-11-03",
-      "home": "الدحيل",
-      "away": "شباب الاهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تراکتورسازي-الشرطة-2025-11-03",
       "home": "تراکتورسازي",
       "away": "الشرطة",
@@ -103,6 +73,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الدحيل-شبابالاهلي-2025-11-03",
+      "home": "الدحيل",
+      "away": "شباب الاهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
@@ -120,6 +105,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الغرافة-الهلال-2025-11-03",
+      "home": "الغرافة",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "time_baghdad": "20:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
