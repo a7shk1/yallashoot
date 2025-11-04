@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "واديدجلة-حرسالحدود-2025-11-04",
-      "home": "وادي دجلة",
-      "away": "حرس الحدود",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السد-الأهلي-2025-11-04",
       "home": "السد",
       "away": "الأهلي",
@@ -33,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نابولي-آينتراختفرا-2025-11-04",
-      "home": "نابولي",
-      "away": "آينتراخت فرانكفورت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سلافيابراغ-أرسنال-2025-11-04",
       "home": "سلافيا براغ",
       "away": "أرسنال",
@@ -55,9 +25,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نابولي-آينتراختفرا-2025-11-04",
+      "home": "نابولي",
+      "away": "آينتراخت فرانكفورت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/196.png",
+      "time_baghdad": "19:45",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
@@ -120,6 +105,36 @@
       "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توتنهامهوتس-كوبنهاجن-2025-11-04",
+      "home": "توتنهام هوتسبر",
+      "away": "كوبنهاجن",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "باريسسانجي-بايرنميونخ-2025-11-04",
+      "home": "باريس سان جيرمان",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -198,36 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "توتنهامهوتس-كوبنهاجن-2025-11-04",
-      "home": "توتنهام هوتسبر",
-      "away": "كوبنهاجن",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باريسسانجي-بايرنميونخ-2025-11-04",
-      "home": "باريس سان جيرمان",
-      "away": "بايرن ميونخ",
-      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هايتيتحت17-مصرتحت17-2025-11-04",
       "home": "هايتي تحت 17",
       "away": "مصر تحت 17",
@@ -240,6 +225,21 @@
       "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "واديدجلة-حرسالحدود-2025-11-04",
+      "home": "وادي دجلة",
+      "away": "حرس الحدود",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
     }
   ]
