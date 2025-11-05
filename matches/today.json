@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الزوراء-استقلالدوشن-2025-11-05",
-      "home": "الزوراء",
-      "away": "استقلال دوشنبه",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8248.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الريان-الشباب-2025-11-05",
       "home": "الريان",
       "away": "الشباب",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9358.png",
       "time_baghdad": "20:15",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -115,11 +100,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/21985.png",
       "time_baghdad": "20:15",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-أتلتيكبلباو-2025-11-05",
+      "home": "نيوكاسل يونايتد",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-أتلتيكبلباو-2025-11-05",
-      "home": "نيوكاسل يونايتد",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بنفيكا-بايرليفركوز-2025-11-05",
       "home": "بنفيكا",
       "away": "باير ليفركوزن",
@@ -225,6 +210,21 @@
       "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النمساتحت1-السعوديةتحت-2025-11-05",
+      "home": "النمسا تحت 17",
+      "away": "السعودية تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5253.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5293.png",
+      "time_baghdad": "15:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
       "_source": "yalla1shoot"
     },
     {
@@ -258,18 +258,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النمساتحت1-السعوديةتحت-2025-11-05",
-      "home": "النمسا تحت 17",
-      "away": "السعودية تحت 17",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5253.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5293.png",
-      "time_baghdad": "15:30",
+      "id": "أركاداج-الأهلي-2025-11-05",
+      "home": "أركاداج",
+      "away": "الأهلي",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/74158.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "time_baghdad": "15:45",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "beIN Sports HD",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
     },
     {
@@ -288,21 +288,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أركاداج-الأهلي-2025-11-05",
-      "home": "أركاداج",
-      "away": "الأهلي",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/74158.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "time_baghdad": "15:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "حسنيةأكادير-الودادالريا-2025-11-05",
       "home": "حسنية أكادير",
       "away": "الوداد الرياضي",
@@ -315,6 +300,21 @@
       "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزوراء-استقلالدوشن-2025-11-05",
+      "home": "الزوراء",
+      "away": "استقلال دوشنبه",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8248.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/20237.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
     }
   ]
