@@ -1,5 +1,96 @@
 {
   "date": "2025-11-06",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
-  "matches": []
+  "matches": [
+    {
+      "id": "البرتغالتحت-???-2025-11-06",
+      "home": "البرتغال تحت 17",
+      "away": "???",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5218.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "14:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0--",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-الشبيبةالري-2025-11-06",
+      "home": "الترجي",
+      "away": "الشبيبة الرياضية بالعمران",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/254.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13813.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الملعبالتون-الناديالأفر-2025-11-06",
+      "home": "الملعب التونسي",
+      "away": "النادي الأفريقي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/924.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8239.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-سيراميكاكلي-2025-11-06",
+      "home": "الأهلي",
+      "away": "سيراميكا كليوباترا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12723.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس السوبر المصري - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-بيراميدز-2025-11-06",
+      "home": "الزمالك",
+      "away": "بيراميدز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس السوبر المصري - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجيشالملكي-الفتحالرباط-2025-11-06",
+      "home": "الجيش الملكي",
+      "away": "الفتح الرباطي",
+      "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "away_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    }
+  ]
 }
