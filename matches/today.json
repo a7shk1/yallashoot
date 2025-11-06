@@ -18,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كريستالبالا-ألكمار-2025-11-06",
+      "home": "كريستال بالاس",
+      "away": "ألكمار",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/362.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالبيتيس-أولمبيكليون-2025-11-06",
       "home": "ريال بيتيس",
       "away": "أولمبيك ليون",
@@ -60,21 +75,6 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كريستالبالا-ألكمار-2025-11-06",
-      "home": "كريستال بالاس",
-      "away": "ألكمار",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/362.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
       "_source": "yalla1shoot"
     },
     {
@@ -153,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "قطرتحت17-جنوبإفريقيا-2025-11-06",
-      "home": "قطر تحت 17",
-      "away": "جنوب إفريقيا تحت 17",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/23459.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/2333.png",
-      "time_baghdad": "17:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السنغالتحت-كوستاريكاتح-2025-11-06",
       "home": "السنغال تحت 17",
       "away": "كوستاريكا تحت 17",
@@ -178,6 +163,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "قطرتحت17-جنوبإفريقيا-2025-11-06",
+      "home": "قطر تحت 17",
+      "away": "جنوب إفريقيا تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/23459.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/2333.png",
+      "time_baghdad": "17:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 17",
       "_source": "yalla1shoot"
@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شتورمغراتس-نوتنجهامفور-2025-11-06",
-      "home": "شتورم غراتس",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1741.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "time_baghdad": "19:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيس-فرايبورج-2025-11-06",
       "home": "نيس",
       "away": "فرايبورج",
@@ -223,21 +208,6 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "النجمالأحمر-ليل-2025-11-06",
-      "home": "النجم الأحمر",
-      "away": "ليل",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/8957.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
-      "time_baghdad": "19:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
@@ -266,10 +236,40 @@
       "time_baghdad": "19:45",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "0-0",
+      "result_text": "2-1",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شتورمغراتس-نوتنجهامفور-2025-11-06",
+      "home": "شتورم غراتس",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/1741.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "time_baghdad": "19:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النجمالأحمر-ليل-2025-11-06",
+      "home": "النجم الأحمر",
+      "away": "ليل",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/8957.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
+      "time_baghdad": "19:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     }
   ]
