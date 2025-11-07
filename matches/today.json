@@ -1,5 +1,66 @@
 {
   "date": "2025-11-07",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
-  "matches": []
+  "matches": [
+    {
+      "id": "مصرتحت17-فنزويلاتحت-2025-11-07",
+      "home": "مصر تحت 17",
+      "away": "فنزويلا تحت 17",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/2330.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5273.png",
+      "time_baghdad": "15:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-1",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيلتحت-إندونيسياتح-2025-11-07",
+      "home": "البرازيل تحت 17",
+      "away": "إندونيسيا تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/77386.png",
+      "time_baghdad": "17:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النجمة-الهلال-2025-11-07",
+      "home": "النجمة",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/24240.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إلتشي-ريالسوسيداد-2025-11-07",
+      "home": "إلتشي",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/156.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    }
+  ]
 }
