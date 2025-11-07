@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "البرازيلتحت-إندونيسياتح-2025-11-07",
-      "home": "البرازيل تحت 17",
-      "away": "إندونيسيا تحت 17",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/77386.png",
-      "time_baghdad": "17:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النجمة-الهلال-2025-11-07",
       "home": "النجمة",
       "away": "الهلال",
@@ -58,6 +43,21 @@
       "status_text": "انتهت",
       "result_text": "0-1",
       "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيلتحت-إندونيسياتح-2025-11-07",
+      "home": "البرازيل تحت 17",
+      "away": "إندونيسيا تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/77386.png",
+      "time_baghdad": "17:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 17",
       "_source": "yalla1shoot"
