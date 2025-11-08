@@ -108,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وستهاميونا-بيرنلي-2025-11-08",
-      "home": "وست هام يونايتد",
-      "away": "بيرنلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيفرتون-فولهام-2025-11-08",
       "home": "إيفرتون",
       "away": "فولهام",
@@ -133,6 +118,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستهاميونا-بيرنلي-2025-11-08",
+      "home": "وست هام يونايتد",
+      "away": "بيرنلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -183,6 +183,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "سندرلاند-أرسنال-2025-11-08",
+      "home": "سندرلاند",
+      "away": "أرسنال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الاتحاد-الأهلي-2025-11-08",
       "home": "الاتحاد",
       "away": "الأهلي",
@@ -213,21 +228,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سندرلاند-أرسنال-2025-11-08",
-      "home": "سندرلاند",
-      "away": "أرسنال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوآفر-نانت-2025-11-08",
       "home": "لو آفر",
       "away": "نانت",
@@ -255,6 +255,36 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-وولفرهامبتون-2025-11-08",
+      "home": "تشيلسي",
+      "away": "وولفرهامبتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إسبانيول-فياريال-2025-11-08",
+      "home": "إسبانيول",
+      "away": "فياريال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
