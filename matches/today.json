@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "توتنهامهوتس-مانشستريونا-2025-11-08",
-      "home": "توتنهام هوتسبر",
-      "away": "مانشستر يونايتد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/95.png",
-      "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جيرونا-ألافيس-2025-11-08",
       "home": "جيرونا",
       "away": "ألافيس",
@@ -108,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هامبورج-بوروسيادورت-2025-11-08",
-      "home": "هامبورج",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/334.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "time_baghdad": "16:30",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "يونيونبرلين-بايرنميونخ-2025-11-08",
       "home": "يونيون برلين",
       "away": "بايرن ميونخ",
@@ -130,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/331.png",
       "time_baghdad": "16:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "MBC Action",
       "commentator": "غير معروف",
@@ -138,18 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيفرتون-فولهام-2025-11-08",
-      "home": "إيفرتون",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "17:00",
+      "id": "هامبورج-بوروسيادورت-2025-11-08",
+      "home": "هامبورج",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/334.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "time_baghdad": "16:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
+      "competition": "ألمانيا, الدوري الألماني",
       "_source": "yalla1shoot"
     },
     {
@@ -160,9 +130,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-فولهام-2025-11-08",
+      "home": "إيفرتون",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -175,7 +160,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
       "time_baghdad": "17:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -288,21 +273,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشيلسي-وولفرهامبتون-2025-11-08",
-      "home": "تشيلسي",
-      "away": "وولفرهامبتون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانيول-فياريال-2025-11-08",
       "home": "إسبانيول",
       "away": "فياريال",
@@ -318,6 +288,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "تشيلسي-وولفرهامبتون-2025-11-08",
+      "home": "تشيلسي",
+      "away": "وولفرهامبتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "موناكو-لانس-2025-11-08",
       "home": "موناكو",
       "away": "لانس",
@@ -330,6 +315,21 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توتنهامهوتس-مانشستريونا-2025-11-08",
+      "home": "توتنهام هوتسبر",
+      "away": "مانشستر يونايتد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/95.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     }
   ]
