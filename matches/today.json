@@ -48,11 +48,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-كالياري-2025-11-08",
-      "home": "كومو",
-      "away": "كالياري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
+      "id": "ليتشي-هيلاسفيرونا-2025-11-08",
+      "home": "ليتشي",
+      "away": "هيلاس فيرونا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1395.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -63,11 +63,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليتشي-هيلاسفيرونا-2025-11-08",
-      "home": "ليتشي",
-      "away": "هيلاس فيرونا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/204.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1395.png",
+      "id": "كومو-كالياري-2025-11-08",
+      "home": "كومو",
+      "away": "كالياري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/132.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -183,6 +183,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الاتحاد-الأهلي-2025-11-08",
+      "home": "الاتحاد",
+      "away": "الأهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أتلتيكومدري-ليفانتي-2025-11-08",
       "home": "أتلتيكو مدريد",
       "away": "ليفانتي",
@@ -210,21 +225,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحاد-الأهلي-2025-11-08",
-      "home": "الاتحاد",
-      "away": "الأهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
       "_source": "yalla1shoot"
     },
     {
