@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الأهلي-الزمالك-2025-11-09",
-      "home": "الأهلي",
-      "away": "الزمالك",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
-      "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس السوبر المصري - النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ستراسبورج-ليل-2025-11-09",
       "home": "ستراسبورج",
       "away": "ليل",
@@ -78,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادطنجة-نهضةبركان-2025-11-09",
-      "home": "اتحاد طنجة",
-      "away": "نهضة بركان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14596.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "روما-أودينيزي-2025-11-09",
       "home": "روما",
       "away": "أودينيزي",
@@ -108,18 +78,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمايوركا-خيتافي-2025-11-09",
-      "home": "ريال مايوركا",
-      "away": "خيتافي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/121.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "time_baghdad": "19:30",
+      "id": "اتحادطنجة-نهضةبركان-2025-11-09",
+      "home": "اتحاد طنجة",
+      "away": "نهضة بركان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/14596.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
+      "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
+      "competition": "المغرب, الدوري المغربي",
       "_source": "yalla1shoot"
     },
     {
@@ -130,9 +100,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
       "time_baghdad": "19:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمايوركا-خيتافي-2025-11-09",
+      "home": "ريال مايوركا",
+      "away": "خيتافي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/121.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
@@ -273,21 +258,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بولونيا-نابولي-2025-11-09",
-      "home": "بولونيا",
-      "away": "نابولي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نوتنجهامفور-ليدزيونايتد-2025-11-09",
       "home": "نوتنجهام فورست",
       "away": "ليدز يونايتد",
@@ -378,18 +348,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكآسفي-الودادالريا-2025-11-09",
-      "home": "أولمبيك آسفي",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
-      "time_baghdad": "17:00",
+      "id": "بولونيا-نابولي-2025-11-09",
+      "home": "بولونيا",
+      "away": "نابولي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "time_baghdad": "16:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "الرياضية المغربية (3)",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -408,6 +378,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكآسفي-الودادالريا-2025-11-09",
+      "home": "أولمبيك آسفي",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/540.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "رايوفاييكان-ريالمدريد-2025-11-09",
       "home": "رايو فاييكانو",
       "away": "ريال مدريد",
@@ -420,6 +405,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الزمالك-2025-11-09",
+      "home": "الأهلي",
+      "away": "الزمالك",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "time_baghdad": "17:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس السوبر المصري - النهائي",
       "_source": "yalla1shoot"
     }
   ]
