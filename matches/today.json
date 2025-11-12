@@ -1,5 +1,36 @@
 {
   "date": "2025-11-12",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
-  "matches": []
+  "matches": [
+    {
+      "id": "تونس-موريتانيا-2025-11-12",
+      "home": "تونس",
+      "away": "موريتانيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5599.png",
+      "time_baghdad": "18:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روسيا-بيرو-2025-11-12",
+      "home": "روسيا",
+      "away": "بيرو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5044.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5076.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    }
+  ]
 }
