@@ -18,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مولدوفا-إيطاليا-2025-11-13",
+      "home": "مولدوفا",
+      "away": "إيطاليا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5031.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إنجلترا-صربيا-2025-11-13",
       "home": "إنجلترا",
       "away": "صربيا",
@@ -73,21 +88,6 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مولدوفا-إيطاليا-2025-11-13",
-      "home": "مولدوفا",
-      "away": "إيطاليا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5031.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
