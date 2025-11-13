@@ -1,39 +1,9 @@
 {
-  "date": "2025-11-13",
+  "date": "2025-11-14",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الكاميرون-الكونغوالدي-2025-11-13",
-      "home": "الكاميرون",
-      "away": "الكونغو الديمقراطية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/27.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/14650.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا - الملحق",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مولدوفا-إيطاليا-2025-11-13",
-      "home": "مولدوفا",
-      "away": "إيطاليا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5031.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إنجلترا-صربيا-2025-11-13",
+      "id": "إنجلترا-صربيا-2025-11-14",
       "home": "إنجلترا",
       "away": "صربيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5054.png",
@@ -48,7 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أندورا-ألبانيا-2025-11-13",
+      "id": "أندورا-ألبانيا-2025-11-14",
       "home": "أندورا",
       "away": "ألبانيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5052.png",
@@ -63,7 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أيرلندا-البرتغال-2025-11-13",
+      "id": "أيرلندا-البرتغال-2025-11-14",
       "home": "أيرلندا",
       "away": "البرتغال",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5064.png",
@@ -78,7 +48,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فرنسا-أوكرانيا-2025-11-13",
+      "id": "فرنسا-أوكرانيا-2025-11-14",
       "home": "فرنسا",
       "away": "أوكرانيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/437.png",
@@ -93,7 +63,22 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تايلاند-سنغافورة-2025-11-13",
+      "id": "مولدوفا-إيطاليا-2025-11-14",
+      "home": "مولدوفا",
+      "away": "إيطاليا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5031.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/64.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تايلاند-سنغافورة-2025-11-14",
       "home": "تايلاند",
       "away": "سنغافورة",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5082.png",
@@ -108,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بنجلاديش-نيبال-2025-11-13",
+      "id": "بنجلاديش-نيبال-2025-11-14",
       "home": "بنجلاديش",
       "away": "نيبال",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/13895.png",
@@ -123,22 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيجيريا-الجابون-2025-11-13",
-      "home": "نيجيريا",
-      "away": "الجابون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2386.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/386.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا - الملحق",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الإمارات-العراق-2025-11-13",
+      "id": "الإمارات-العراق-2025-11-14",
       "home": "الإمارات",
       "away": "العراق",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1245.png",
@@ -153,7 +123,22 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجزائر-زيمبابوي-2025-11-13",
+      "id": "نيجيريا-الجابون-2025-11-14",
+      "home": "نيجيريا",
+      "away": "الجابون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2386.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/386.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا - الملحق",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزائر-زيمبابوي-2025-11-14",
       "home": "الجزائر",
       "away": "زيمبابوي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
@@ -168,7 +153,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النرويج-إستونيا-2025-11-13",
+      "id": "النرويج-إستونيا-2025-11-14",
       "home": "النرويج",
       "away": "إستونيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2376.png",
@@ -183,7 +168,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جمهوريةالتش-سانمارينو-2025-11-13",
+      "id": "جمهوريةالتش-سانمارينو-2025-11-14",
       "home": "جمهورية التشيك",
       "away": "سان مارينو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5040.png",
@@ -198,7 +183,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أذربيجان-أيسلندا-2025-11-13",
+      "id": "أذربيجان-أيسلندا-2025-11-14",
       "home": "أذربيجان",
       "away": "أيسلندا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5042.png",
@@ -213,7 +198,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرمينيا-المجر-2025-11-13",
+      "id": "أرمينيا-المجر-2025-11-14",
       "home": "أرمينيا",
       "away": "المجر",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5049.png",
@@ -225,6 +210,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الكاميرون-الكونغوالدي-2025-11-14",
+      "home": "الكاميرون",
+      "away": "الكونغو الديمقراطية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/27.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/14650.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, تصفيات كأس العالم إفريقيا - الملحق",
       "_source": "yalla1shoot"
     }
   ]
