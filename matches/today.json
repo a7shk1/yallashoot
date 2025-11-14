@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "كندا-الإكوادور-2025-11-14",
-      "home": "كندا",
-      "away": "الإكوادور",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/2388.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
-      "time_baghdad": "02:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "اليابان-غانا-2025-11-14",
       "home": "اليابان",
       "away": "غانا",
@@ -330,6 +315,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كندا-الإكوادور-2025-11-14",
+      "home": "كندا",
+      "away": "الإكوادور",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/2388.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5075.png",
+      "time_baghdad": "02:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
     }
   ]
