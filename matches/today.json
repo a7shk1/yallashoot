@@ -18,36 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الدنمارك-روسياالبيضا-2025-11-15",
-      "home": "الدنمارك",
-      "away": "روسيا البيضاء",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/46.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5053.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سلوفينيا-كوسوفو-2025-11-15",
-      "home": "سلوفينيا",
-      "away": "كوسوفو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5041.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/19414.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "اليونان-اسكتلندا-2025-11-15",
       "home": "اليونان",
       "away": "اسكتلندا",
@@ -88,6 +58,36 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الدنمارك-روسياالبيضا-2025-11-15",
+      "home": "الدنمارك",
+      "away": "روسيا البيضاء",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/46.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5053.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سلوفينيا-كوسوفو-2025-11-15",
+      "home": "سلوفينيا",
+      "away": "كوسوفو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5041.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/19414.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -153,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيطالياتحت-جمهوريةالتش-2025-11-15",
-      "home": "إيطاليا تحت 17",
-      "away": "جمهورية التشيك تحت 17",
-      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5259.png",
-      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5232.png",
-      "time_baghdad": "15:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 2",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17 - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جنوبأفريقيا-زامبيا-2025-11-15",
       "home": "جنوب أفريقيا",
       "away": "زامبيا",
@@ -180,6 +165,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيطالياتحت-جمهوريةالتش-2025-11-15",
+      "home": "إيطاليا تحت 17",
+      "away": "جمهورية التشيك تحت 17",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5259.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5232.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17 - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كازاخستان-بلجيكا-2025-11-15",
-      "home": "كازاخستان",
-      "away": "بلجيكا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5056.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2373.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-1",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليسوتو-مالاوي-2025-11-15",
       "home": "ليسوتو",
       "away": "مالاوي",
@@ -225,6 +210,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كازاخستان-بلجيكا-2025-11-15",
+      "home": "كازاخستان",
+      "away": "بلجيكا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5056.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2373.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-1",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
