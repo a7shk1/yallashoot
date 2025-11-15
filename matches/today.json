@@ -198,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البرازيل-السنغال-2025-11-15",
-      "home": "البرازيل",
-      "away": "السنغال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/zKLz.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الكويت-تنزانيا-2025-11-15",
       "home": "الكويت",
       "away": "تنزانيا",
@@ -223,6 +208,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيل-السنغال-2025-11-15",
+      "home": "البرازيل",
+      "away": "السنغال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/zKLz.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
@@ -348,21 +348,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اليونان-اسكتلندا-2025-11-15",
-      "home": "اليونان",
-      "away": "اسكتلندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5030.png",
-      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5069.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "البوسنةالهر-رومانيا-2025-11-15",
       "home": "البوسنة الهرسك",
       "away": "رومانيا",
@@ -418,6 +403,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اليونان-اسكتلندا-2025-11-15",
+      "home": "اليونان",
+      "away": "اسكتلندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5030.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5069.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
