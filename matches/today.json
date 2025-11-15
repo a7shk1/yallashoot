@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "اليابانتحت-جنوبإفريقيا-2025-11-15",
-      "home": "اليابان تحت 17",
-      "away": "جنوب إفريقيا تحت 17",
-      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5284.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/2333.png",
-      "time_baghdad": "15:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17 - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليسوتو-مالاوي-2025-11-15",
       "home": "ليسوتو",
       "away": "مالاوي",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
       "time_baghdad": "17:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/2334.png",
       "time_baghdad": "17:45",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports HD",
       "commentator": "غير معروف",
@@ -115,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/670.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -130,26 +115,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "قبرص-النمسا-2025-11-15",
-      "home": "قبرص",
-      "away": "النمسا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5065.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5059.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -210,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "قبرص-النمسا-2025-11-15",
+      "home": "قبرص",
+      "away": "النمسا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5065.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5059.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -390,6 +375,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اليابانتحت-جنوبإفريقيا-2025-11-15",
+      "home": "اليابان تحت 17",
+      "away": "جنوب إفريقيا تحت 17",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5284.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/2333.png",
+      "time_baghdad": "15:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17 - دور الـ 32",
       "_source": "yalla1shoot"
     }
   ]
