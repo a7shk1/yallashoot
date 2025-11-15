@@ -228,6 +228,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليبيا-موريتانيا-2025-11-15",
+      "home": "ليبيا",
+      "away": "موريتانيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/280.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5599.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ليختنشتاين-ويلز-2025-11-15",
       "home": "ليختنشتاين",
       "away": "ويلز",
@@ -300,21 +315,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليبيا-موريتانيا-2025-11-15",
-      "home": "ليبيا",
-      "away": "موريتانيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/280.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5599.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
     },
     {
