@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المجر-أيرلندا-2025-11-16",
-      "home": "المجر",
-      "away": "أيرلندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5026.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5064.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "البرتغال-أرمينيا-2025-11-16",
-      "home": "البرتغال",
-      "away": "أرمينيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/58.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5049.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "6-1",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجزيرة-الوصل-2025-11-16",
       "home": "الجزيرة",
       "away": "الوصل",
@@ -45,21 +15,6 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أذربيجان-فرنسا-2025-11-16",
-      "home": "أذربيجان",
-      "away": "فرنسا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5042.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/437.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -103,6 +58,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أذربيجان-فرنسا-2025-11-16",
+      "home": "أذربيجان",
+      "away": "فرنسا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5042.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/437.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -195,6 +165,36 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المجر-أيرلندا-2025-11-16",
+      "home": "المجر",
+      "away": "أيرلندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5026.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5064.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرتغال-أرمينيا-2025-11-16",
+      "home": "البرتغال",
+      "away": "أرمينيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/58.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5049.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "6-1",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     }
   ]
