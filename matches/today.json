@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "شبابالاهلي-النصر-2025-11-16",
-      "home": "شباب الاهلي",
-      "away": "النصر",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "time_baghdad": "14:50",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المجر-أيرلندا-2025-11-16",
       "home": "المجر",
       "away": "أيرلندا",
@@ -55,26 +40,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
       "time_baghdad": "17:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "صربيا-لاتفيا-2025-11-16",
-      "home": "صربيا",
-      "away": "لاتفيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2374.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -118,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "صربيا-لاتفيا-2025-11-16",
+      "home": "صربيا",
+      "away": "لاتفيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2374.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -195,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شبابالاهلي-النصر-2025-11-16",
+      "home": "شباب الاهلي",
+      "away": "النصر",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "time_baghdad": "14:50",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
       "_source": "yalla1shoot"
     }
   ]
