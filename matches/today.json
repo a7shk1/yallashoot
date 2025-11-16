@@ -3,18 +3,18 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الجزيرة-الوصل-2025-11-16",
-      "home": "الجزيرة",
-      "away": "الوصل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/875.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
-      "time_baghdad": "17:30",
+      "id": "صربيا-لاتفيا-2025-11-16",
+      "home": "صربيا",
+      "away": "لاتفيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2374.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
+      "time_baghdad": "19:00",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -58,21 +58,6 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "صربيا-لاتفيا-2025-11-16",
-      "home": "صربيا",
-      "away": "لاتفيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2374.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2300.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
@@ -195,6 +180,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزيرة-الوصل-2025-11-16",
+      "home": "الجزيرة",
+      "away": "الوصل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/875.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
+      "time_baghdad": "17:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
       "_source": "yalla1shoot"
     }
   ]
