@@ -63,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أذربيجان-فرنسا-2025-11-16",
+      "home": "أذربيجان",
+      "away": "فرنسا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5042.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/437.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوكرانيا-أيسلندا-2025-11-16",
       "home": "أوكرانيا",
       "away": "أيسلندا",
@@ -103,21 +118,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أذربيجان-فرنسا-2025-11-16",
-      "home": "أذربيجان",
-      "away": "فرنسا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5042.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/437.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
