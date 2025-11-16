@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "كولومبيا-نيوزلندا-2025-11-16",
-      "home": "كولومبيا",
-      "away": "نيوزلندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/tXHn.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2391.png",
-      "time_baghdad": "02:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المكسيك-أوروغواي-2025-11-16",
       "home": "المكسيك",
       "away": "أوروغواي",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أوكرانيا-أيسلندا-2025-11-16",
+      "home": "أوكرانيا",
+      "away": "أيسلندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5057.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5067.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ألبانيا-إنجلترا-2025-11-16",
       "home": "ألبانيا",
       "away": "إنجلترا",
@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوكرانيا-أيسلندا-2025-11-16",
-      "home": "أوكرانيا",
-      "away": "أيسلندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5057.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5067.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيجيريا-الكونغوالدي-2025-11-16",
       "home": "نيجيريا",
       "away": "الكونغو الديمقراطية",
@@ -189,6 +174,21 @@
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/2389.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/5070.png",
       "time_baghdad": "00:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كولومبيا-نيوزلندا-2025-11-16",
+      "home": "كولومبيا",
+      "away": "نيوزلندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/tXHn.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2391.png",
+      "time_baghdad": "02:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
