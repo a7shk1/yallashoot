@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "مدغشقر-غينياالاستو-2025-11-17",
-      "home": "مدغشقر",
-      "away": "غينيا الاستوائية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/2200.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5419.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مصر-الجزائر-2025-11-17",
       "home": "مصر",
       "away": "الجزائر",
@@ -28,6 +13,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مدغشقر-غينياالاستو-2025-11-17",
+      "home": "مدغشقر",
+      "away": "غينيا الاستوائية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/2200.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5419.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
@@ -90,21 +90,6 @@
       "channel": "Bahrain football association on YouTube",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيرلنداالشم-لوكسمبورج-2025-11-17",
-      "home": "إيرلندا الشمالية",
-      "away": "لوكسمبورج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5037.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5033.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -178,6 +163,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيرلنداالشم-لوكسمبورج-2025-11-17",
+      "home": "إيرلندا الشمالية",
+      "away": "لوكسمبورج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5037.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5033.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا",
       "_source": "yalla1shoot"
