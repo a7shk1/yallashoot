@@ -1,39 +1,9 @@
 {
-  "date": "2025-11-18",
+  "date": "2025-11-19",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المغرب-أوغندا-2025-11-18",
-      "home": "المغرب",
-      "away": "أوغندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/391.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "2-0",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "البرازيل-تونس-2025-11-18",
-      "home": "البرازيل",
-      "away": "تونس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/zKLz.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "السويد-سلوفينيا-2025-11-18",
+      "id": "السويد-سلوفينيا-2025-11-19",
       "home": "السويد",
       "away": "سلوفينيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2371.png",
@@ -48,7 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كوسوفو-سويسرا-2025-11-18",
+      "id": "كوسوفو-سويسرا-2025-11-19",
       "home": "كوسوفو",
       "away": "سويسرا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/19414.png",
@@ -63,7 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روسياالبيضا-اليونان-2025-11-18",
+      "id": "روسياالبيضا-اليونان-2025-11-19",
       "home": "روسيا البيضاء",
       "away": "اليونان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5053.png",
@@ -78,7 +48,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ويلز-مقدونياالشم-2025-11-18",
+      "id": "ويلز-مقدونياالشم-2025-11-19",
       "home": "ويلز",
       "away": "مقدونيا الشمالية",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5043.png",
@@ -93,7 +63,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "رومانيا-سانمارينو-2025-11-18",
+      "id": "رومانيا-سانمارينو-2025-11-19",
       "home": "رومانيا",
       "away": "سان مارينو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5060.png",
@@ -108,7 +78,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بلجيكا-ليختنشتاين-2025-11-18",
+      "id": "بلجيكا-ليختنشتاين-2025-11-19",
       "home": "بلجيكا",
       "away": "ليختنشتاين",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2373.png",
@@ -123,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النمسا-البوسنةالهر-2025-11-18",
+      "id": "النمسا-البوسنةالهر-2025-11-19",
       "home": "النمسا",
       "away": "البوسنة الهرسك",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5059.png",
@@ -138,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بلغاريا-جورجيا-2025-11-18",
+      "id": "بلغاريا-جورجيا-2025-11-19",
       "home": "بلغاريا",
       "away": "جورجيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5062.png",
@@ -153,7 +123,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانيا-تركيا-2025-11-18",
+      "id": "إسبانيا-تركيا-2025-11-19",
       "home": "إسبانيا",
       "away": "تركيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/48.png",
@@ -168,7 +138,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اسكتلندا-الدنمارك-2025-11-18",
+      "id": "اسكتلندا-الدنمارك-2025-11-19",
       "home": "اسكتلندا",
       "away": "الدنمارك",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5069.png",
@@ -183,7 +153,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "باكستان-سوريا-2025-11-18",
+      "id": "باكستان-سوريا-2025-11-19",
       "home": "باكستان",
       "away": "سوريا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/12992.png",
@@ -198,22 +168,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سيريلانكا-تايلاند-2025-11-18",
-      "home": "سيريلانكا",
-      "away": "تايلاند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5501.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5082.png",
-      "time_baghdad": "12:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-1",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, تصفيات كأس آسيا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اليابان-بوليفيا-2025-11-18",
+      "id": "اليابان-بوليفيا-2025-11-19",
       "home": "اليابان",
       "away": "بوليفيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/68.png",
@@ -228,7 +183,22 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جزرالمالديف-الفلبين-2025-11-18",
+      "id": "سيريلانكا-تايلاند-2025-11-19",
+      "home": "سيريلانكا",
+      "away": "تايلاند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5501.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5082.png",
+      "time_baghdad": "12:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-1",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, تصفيات كأس آسيا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جزرالمالديف-الفلبين-2025-11-19",
       "home": "جزر المالديف",
       "away": "الفلبين",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5502.png",
@@ -243,7 +213,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كورياالجنوب-غانا-2025-11-18",
+      "id": "كورياالجنوب-غانا-2025-11-19",
       "home": "كوريا الجنوبية",
       "away": "غانا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/288.png",
@@ -258,7 +228,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هونغكونغ-سنغافورة-2025-11-18",
+      "id": "هونغكونغ-سنغافورة-2025-11-19",
       "home": "هونغ كونغ",
       "away": "سنغافورة",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5490.png",
@@ -273,7 +243,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بروناي-لبنان-2025-11-18",
+      "id": "بروناي-لبنان-2025-11-19",
       "home": "بروناي",
       "away": "لبنان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/25122.png",
@@ -288,7 +258,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوغنداتحت1-بوركينافاسو-2025-11-18",
+      "id": "أوغنداتحت1-بوركينافاسو-2025-11-19",
       "home": "أوغندا تحت 17",
       "away": "بوركينا فاسو تحت 17",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/2337.png",
@@ -303,7 +273,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيطالياتحت-أوزبكستانتح-2025-11-18",
+      "id": "إيطالياتحت-أوزبكستانتح-2025-11-19",
       "home": "إيطاليا تحت 17",
       "away": "أوزبكستان تحت 17",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5259.png",
@@ -318,7 +288,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المكسيكتحت-البرتغالتحت-2025-11-18",
+      "id": "المكسيكتحت-البرتغالتحت-2025-11-19",
       "home": "المكسيك تحت 17",
       "away": "البرتغال تحت 17",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/2336.png",
@@ -333,7 +303,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيبال-ماليزيا-2025-11-18",
+      "id": "نيبال-ماليزيا-2025-11-19",
       "home": "نيبال",
       "away": "ماليزيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8584.png",
@@ -348,7 +318,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البرازيلتحت-فرنساتحت17-2025-11-18",
+      "id": "البرازيلتحت-فرنساتحت17-2025-11-19",
       "home": "البرازيل تحت 17",
       "away": "فرنسا تحت 17",
       "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
@@ -363,7 +333,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تركمانستان-الصينتايبيه-2025-11-18",
+      "id": "تركمانستان-الصينتايبيه-2025-11-19",
       "home": "تركمانستان",
       "away": "الصين تايبيه",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5084.png",
@@ -378,7 +348,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بنجلاديش-الهند-2025-11-18",
+      "id": "بنجلاديش-الهند-2025-11-19",
       "home": "بنجلاديش",
       "away": "الهند",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/13895.png",
@@ -393,7 +363,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اليمن-بوتان-2025-11-18",
+      "id": "اليمن-بوتان-2025-11-19",
       "home": "اليمن",
       "away": "بوتان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/7497.png",
@@ -408,7 +378,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سويسراتحت1-أيرلنداتحت-2025-11-18",
+      "id": "سويسراتحت1-أيرلنداتحت-2025-11-19",
       "home": "سويسرا تحت 17",
       "away": "أيرلندا تحت 17",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5223.png",
@@ -423,7 +393,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "عمان-كوتديفوار-2025-11-18",
+      "id": "عمان-كوتديفوار-2025-11-19",
       "home": "عمان",
       "away": "كوت ديفوار",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/296.png",
@@ -438,7 +408,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السنغال-كينيا-2025-11-18",
+      "id": "السنغال-كينيا-2025-11-19",
       "home": "السنغال",
       "away": "كينيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
@@ -453,7 +423,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كورياالشمال-اليابانتحت-2025-11-18",
+      "id": "كورياالشمال-اليابانتحت-2025-11-19",
       "home": "كوريا الشمالية تحت 17",
       "away": "اليابان تحت 17",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5288.png",
@@ -468,7 +438,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غينيا-النيجر-2025-11-18",
+      "id": "غينيا-النيجر-2025-11-19",
       "home": "غينيا",
       "away": "النيجر",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5095.png",
@@ -483,22 +453,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "???-ماليتحت17-2025-11-18",
-      "home": "???",
-      "away": "مالي تحت 17",
-      "home_logo": "https://www.yallashootkora.com/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/2325.png",
-      "time_baghdad": "17:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "--0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17 - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "النمساتحت1-إنجلتراتحت-2025-11-18",
+      "id": "النمساتحت1-إنجلتراتحت-2025-11-19",
       "home": "النمسا تحت 17",
       "away": "إنجلترا تحت 17",
       "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5253.png",
@@ -513,7 +468,22 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "العراق-الإمارات-2025-11-18",
+      "id": "???-ماليتحت17-2025-11-19",
+      "home": "???",
+      "away": "مالي تحت 17",
+      "home_logo": "https://www.yallashootkora.com/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/2325.png",
+      "time_baghdad": "17:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "--0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17 - دور الـ 16",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العراق-الإمارات-2025-11-19",
       "home": "العراق",
       "away": "الإمارات",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
@@ -528,7 +498,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوزبكستان-إيران-2025-11-18",
+      "id": "أوزبكستان-إيران-2025-11-19",
       "home": "أوزبكستان",
       "away": "إيران",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/291.png",
@@ -543,7 +513,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الكويت-جامبيا-2025-11-18",
+      "id": "الكويت-جامبيا-2025-11-19",
       "home": "الكويت",
       "away": "جامبيا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/435.png",
@@ -558,7 +528,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السعودية-الجزائر-2025-11-18",
+      "id": "السعودية-الجزائر-2025-11-19",
       "home": "السعودية",
       "away": "الجزائر",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/289.png",
@@ -573,7 +543,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوركينافاسو-بنين-2025-11-18",
+      "id": "بوركينافاسو-بنين-2025-11-19",
       "home": "بوركينا فاسو",
       "away": "بنين",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5420.png",
@@ -588,7 +558,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشيلي-بيرو-2025-11-18",
+      "id": "تشيلي-بيرو-2025-11-19",
       "home": "تشيلي",
       "away": "بيرو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/cI5r.png",
@@ -603,7 +573,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كتالونيا-فلسطين-2025-11-18",
+      "id": "كتالونيا-فلسطين-2025-11-19",
       "home": "كتالونيا",
       "away": "فلسطين",
       "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/18383.png",
@@ -618,7 +588,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأردن-مالي-2025-11-18",
+      "id": "الأردن-مالي-2025-11-19",
       "home": "الأردن",
       "away": "مالي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/745.png",
@@ -628,6 +598,36 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "الأردن الرياضية",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغرب-أوغندا-2025-11-19",
+      "home": "المغرب",
+      "away": "أوغندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/391.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-0",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرازيل-تونس-2025-11-19",
+      "home": "البرازيل",
+      "away": "تونس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/zKLz.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
+      "time_baghdad": "21:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "_source": "yalla1shoot"
