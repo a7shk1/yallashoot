@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وولفرهامبتون-كريستالبالا-2025-11-22",
-      "home": "وولفرهامبتون",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sport 8 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "برايتون-برينتفورد-2025-11-22",
       "home": "برايتون",
       "away": "برينتفورد",
@@ -178,6 +163,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وولفرهامبتون-كريستالبالا-2025-11-22",
+      "home": "وولفرهامبتون",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sport 8 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -288,21 +288,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مودرنسبورت-البنكالاهلي-2025-11-22",
-      "home": "مودرن سبورت",
-      "away": "البنك الاهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ستادرين-موناكو-2025-11-22",
       "home": "ستاد رين",
       "away": "موناكو",
@@ -328,6 +313,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مودرنسبورت-البنكالاهلي-2025-11-22",
+      "home": "مودرن سبورت",
+      "away": "البنك الاهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "_source": "yalla1shoot"
