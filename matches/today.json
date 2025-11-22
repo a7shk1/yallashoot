@@ -18,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "يانجافريكان-الجيشالملكي-2025-11-22",
+      "home": "يانج افريكانز",
+      "away": "الجيش الملكي",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/18957.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
+      "time_baghdad": "15:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ألافيس-سيلتافيجو-2025-11-22",
       "home": "ألافيس",
       "away": "سيلتا فيجو",
@@ -48,26 +63,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يانجافريكان-الجيشالملكي-2025-11-22",
-      "home": "يانج افريكانز",
-      "away": "الجيش الملكي",
-      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/18957.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/440.png",
-      "time_baghdad": "15:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كالياري-جنوى-2025-11-22",
-      "home": "كالياري",
-      "away": "جنوى",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/514.png",
+      "id": "أودينيزي-بولونيا-2025-11-22",
+      "home": "أودينيزي",
+      "away": "بولونيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -78,11 +78,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أودينيزي-بولونيا-2025-11-22",
-      "home": "أودينيزي",
-      "away": "بولونيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
+      "id": "كالياري-جنوى-2025-11-22",
+      "home": "كالياري",
+      "away": "جنوى",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/514.png",
       "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -198,6 +198,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "لانس-ستراسبورج-2025-11-22",
+      "home": "لانس",
+      "away": "ستراسبورج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/309.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الترجي-ستادمالي-2025-11-22",
       "home": "الترجي",
       "away": "ستاد مالي",
@@ -228,21 +243,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لانس-ستراسبورج-2025-11-22",
-      "home": "لانس",
-      "away": "ستراسبورج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/309.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيورنتينا-يوفنتوس-2025-11-22",
       "home": "فيورنتينا",
       "away": "يوفنتوس",
@@ -255,21 +255,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أوساسونا-ريالسوسيداد-2025-11-22",
-      "home": "أوساسونا",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -288,18 +273,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستادرين-موناكو-2025-11-22",
-      "home": "ستاد رين",
-      "away": "موناكو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/312.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "time_baghdad": "20:00",
+      "id": "أوساسونا-ريالسوسيداد-2025-11-22",
+      "home": "أوساسونا",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "غير معروف",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -333,18 +318,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نهضةبركان-باورديناموز-2025-11-22",
-      "home": "نهضة بركان",
-      "away": "باور ديناموز",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
-      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/76692.png",
-      "time_baghdad": "21:00",
+      "id": "ستادرين-موناكو-2025-11-22",
+      "home": "ستاد رين",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/312.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -373,6 +358,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-باورديناموز-2025-11-22",
+      "home": "نهضة بركان",
+      "away": "باور ديناموز",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/76692.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "_source": "yalla1shoot"
