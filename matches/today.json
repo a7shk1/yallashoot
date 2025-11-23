@@ -108,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النجمالساحل-الصفاقسي-2025-11-23",
-      "home": "النجم الساحلي",
-      "away": "الصفاقسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/231.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
-      "time_baghdad": "15:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "الوطنية 1",
-      "commentator": "غير معروف",
-      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالأوفييدو-رايوفاييكان-2025-11-23",
       "home": "ريال أوفييدو",
       "away": "رايو فاييكانو",
@@ -135,6 +120,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النجمالساحل-الصفاقسي-2025-11-23",
+      "home": "النجم الساحلي",
+      "away": "الصفاقسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/231.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/428.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الوطنية 1",
+      "commentator": "غير معروف",
+      "competition": "تونس, الرابطة التونسية المحترفة الأولى",
       "_source": "yalla1shoot"
     },
     {
