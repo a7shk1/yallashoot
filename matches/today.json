@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كريمونيسي-روما-2025-11-23",
-      "home": "كريمونيسي",
-      "away": "روما",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوكسير-أولمبيكليون-2025-11-23",
       "home": "أوكسير",
       "away": "أولمبيك ليون",
@@ -75,6 +60,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريمونيسي-روما-2025-11-23",
+      "home": "كريمونيسي",
+      "away": "روما",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -243,6 +243,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "اتحادالعاصم-سانبيدرو-2025-11-23",
+      "home": "اتحاد العاصمة",
+      "away": "سان بيدرو",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/8220.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/46018.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الودادالريا-نايروبييونا-2025-11-23",
       "home": "الوداد الرياضي",
       "away": "نايروبي يونايتد",
@@ -273,18 +288,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادالعاصم-سانبيدرو-2025-11-23",
-      "home": "اتحاد العاصمة",
-      "away": "سان بيدرو",
-      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/8220.png",
-      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/46018.png",
-      "time_baghdad": "21:00",
+      "id": "ليل-باريسأف.سي.-2025-11-23",
+      "home": "ليل",
+      "away": "باريس أف.سي.",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/6075.png",
+      "time_baghdad": "21:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -300,21 +315,6 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليل-باريسأف.سي.-2025-11-23",
-      "home": "ليل",
-      "away": "باريس أف.سي.",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/6075.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
