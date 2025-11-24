@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البرتغالتحت-البرازيلتحت-2025-11-24",
-      "home": "البرتغال تحت 17",
-      "away": "البرازيل تحت 17",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5218.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17 - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبابالاهلي-الغرافة-2025-11-24",
       "home": "شباب الاهلي",
       "away": "الغرافة",
@@ -75,6 +60,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرتغالتحت-البرازيلتحت-2025-11-24",
+      "home": "البرتغال تحت 17",
+      "away": "البرازيل تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5218.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5271.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17 - نصف النهائي",
       "_source": "yalla1shoot"
     },
     {
