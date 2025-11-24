@@ -33,6 +33,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شبابالاهلي-الغرافة-2025-11-24",
+      "home": "شباب الاهلي",
+      "away": "الغرافة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الدحيل-الاتحاد-2025-11-24",
       "home": "الدحيل",
       "away": "الاتحاد",
@@ -60,21 +75,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العالم تحت 17 - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "شبابالاهلي-الغرافة-2025-11-24",
-      "home": "شباب الاهلي",
-      "away": "الغرافة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     },
     {
