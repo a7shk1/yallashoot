@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "موريتانيا-الكويت-2025-11-25",
-      "home": "موريتانيا",
-      "away": "الكويت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5599.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/435.png",
-      "time_baghdad": "15:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-2",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العرب - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-المقاولونال-2025-11-25",
       "home": "بيراميدز",
       "away": "المقاولون العرب",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -210,6 +195,21 @@
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "موريتانيا-الكويت-2025-11-25",
+      "home": "موريتانيا",
+      "away": "الكويت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5599.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/435.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-2",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العرب - تصفيات",
       "_source": "yalla1shoot"
     },
     {
