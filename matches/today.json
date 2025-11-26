@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "سبورتنجلشبو-كلوببروج-2025-11-26",
-      "home": "سبورتنج لشبونة",
-      "away": "كلوب بروج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-بايرنميونخ-2025-11-26",
       "home": "أرسنال",
       "away": "بايرن ميونخ",
@@ -108,18 +93,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البحرين-جيبوتي-2025-11-26",
-      "home": "البحرين",
-      "away": "جيبوتي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/282.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5596.png",
-      "time_baghdad": "15:00",
-      "status": "FT",
-      "status_text": "انتهت",
+      "id": "سبورتنجلشبو-كلوببروج-2025-11-26",
+      "home": "سبورتنج لشبونة",
+      "away": "كلوب بروج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1169.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
+      "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
-      "competition": "دولي, كأس العرب - تصفيات",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -133,6 +118,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "ابوظبي الرياضية 2",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العرب - تصفيات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البحرين-جيبوتي-2025-11-26",
+      "home": "البحرين",
+      "away": "جيبوتي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/282.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5596.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب - تصفيات",
       "_source": "yalla1shoot"
@@ -168,6 +168,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الزوراء-غوا-2025-11-26",
+      "home": "الزوراء",
+      "away": "غوا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8248.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/21985.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-1",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "السودان-لبنان-2025-11-26",
       "home": "السودان",
       "away": "لبنان",
@@ -195,21 +210,6 @@
       "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب - تصفيات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الزوراء-غوا-2025-11-26",
-      "home": "الزوراء",
-      "away": "غوا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8248.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/21985.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "2-1",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
       "_source": "yalla1shoot"
     },
     {
