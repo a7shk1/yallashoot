@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فيورنتينا-أيكأثينا-2025-11-27",
+      "home": "فيورنتينا",
+      "away": "أيك أثينا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
+      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/1024.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ستراسبورج-كريستالبالا-2025-11-27",
       "home": "ستراسبورج",
       "away": "كريستال بالاس",
@@ -165,21 +180,6 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فيورنتينا-أيكأثينا-2025-11-27",
-      "home": "فيورنتينا",
-      "away": "أيك أثينا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
-      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/1024.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
       "_source": "yalla1shoot"
     }
   ]
