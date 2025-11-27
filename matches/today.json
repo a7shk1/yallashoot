@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "البرتغالتحت-النمساتحت1-2025-11-27",
-      "home": "البرتغال تحت 17",
-      "away": "النمسا تحت 17",
-      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5218.png",
-      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5253.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "الكاس 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العالم تحت 17 - النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بتروجت-واديدجلة-2025-11-27",
       "home": "بتروجت",
       "away": "وادي دجلة",
@@ -108,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فيورنتينا-أيكأثينا-2025-11-27",
+      "home": "فيورنتينا",
+      "away": "أيك أثينا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
+      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/1024.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ستراسبورج-كريستالبالا-2025-11-27",
       "home": "ستراسبورج",
       "away": "كريستال بالاس",
@@ -153,18 +153,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فيورنتينا-أيكأثينا-2025-11-27",
-      "home": "فيورنتينا",
-      "away": "أيك أثينا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
-      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/1024.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 1",
+      "id": "سموحة-غزلالمحلة-2025-11-27",
+      "home": "سموحة",
+      "away": "غزل المحلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/860.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "competition": "مصر, كأس مصر - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سموحة-غزلالمحلة-2025-11-27",
-      "home": "سموحة",
-      "away": "غزل المحلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/860.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "time_baghdad": "14:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "البنكالاهلي-بورفؤاد-2025-11-27",
       "home": "البنك الاهلي",
       "away": "بور فؤاد",
@@ -210,6 +195,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البرتغالتحت-النمساتحت1-2025-11-27",
+      "home": "البرتغال تحت 17",
+      "away": "النمسا تحت 17",
+      "home_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5218.png",
+      "away_logo": "https://www.yalla-shot.info/wp-content/uploads/2025/11/5253.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "الكاس 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العالم تحت 17 - النهائي",
       "_source": "yalla1shoot"
     }
   ]
