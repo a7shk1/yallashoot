@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-أوتريخت-2025-11-27",
-      "home": "ريال بيتيس",
-      "away": "أوتريخت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/698.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيورنتينا-أيكأثينا-2025-11-27",
       "home": "فيورنتينا",
       "away": "أيك أثينا",
@@ -178,6 +163,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-أوتريخت-2025-11-27",
+      "home": "ريال بيتيس",
+      "away": "أوتريخت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/698.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
