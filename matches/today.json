@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستراسبورج-كريستالبالا-2025-11-27",
+      "home": "ستراسبورج",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مكابيتلأبي-أولمبيكليون-2025-11-27",
       "home": "مكابي تل أبيب",
       "away": "أولمبيك ليون",
@@ -163,21 +178,6 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports Xtra 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ستراسبورج-كريستالبالا-2025-11-27",
-      "home": "ستراسبورج",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
       "_source": "yalla1shoot"
