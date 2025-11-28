@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "ازاميونايتد-الودادالريا-2025-11-28",
-      "home": "ازام يونايتد",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/10537.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريفرزيونايت-نهضةبركان-2025-11-28",
       "home": "ريفرز يونايتد",
       "away": "نهضة بركان",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1529.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
@@ -40,11 +25,26 @@
       "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/18957.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ازاميونايتد-الودادالريا-2025-11-28",
+      "home": "ازام يونايتد",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/10537.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/04/434.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
       "_source": "yalla1shoot"
     },
     {
