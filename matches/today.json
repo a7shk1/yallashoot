@@ -10,11 +10,41 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
       "time_baghdad": "14:40",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كايزرتشيفز-الزمالك-2025-11-29",
+      "home": "كايزر تشيفز",
+      "away": "الزمالك",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/5451.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
+      "time_baghdad": "15:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اوتوهو-شباببلوزداد-2025-11-29",
+      "home": "اوتوهو",
+      "away": "شباب بلوزداد",
+      "home_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/50852.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
+      "time_baghdad": "15:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
       "_source": "yalla1shoot"
     },
     {
@@ -27,7 +57,7 @@
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "غير معروف",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
@@ -60,21 +90,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
-      "home": "الاتحاد السكندري",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -120,6 +135,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
+      "home": "الاتحاد السكندري",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس مصر - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
