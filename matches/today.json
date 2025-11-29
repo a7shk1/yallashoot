@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "النصر-شبابالاهلي-2025-11-29",
-      "home": "النصر",
-      "away": "شباب الاهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
-      "time_baghdad": "14:40",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كايزرتشيفز-الزمالك-2025-11-29",
       "home": "كايزر تشيفز",
       "away": "الزمالك",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
+      "home": "الاتحاد السكندري",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مانشسترسيتي-ليدزيونايتد-2025-11-29",
       "home": "مانشستر سيتي",
       "away": "ليدز يونايتد",
@@ -100,7 +100,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/36.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -115,7 +115,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
@@ -130,26 +130,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
-      "home": "الاتحاد السكندري",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 32",
       "_source": "yalla1shoot"
     },
     {
@@ -160,7 +145,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
       "time_baghdad": "17:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -180,6 +165,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "موناكو-باريسسانجي-2025-11-29",
+      "home": "موناكو",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -210,21 +210,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "موناكو-باريسسانجي-2025-11-29",
-      "home": "موناكو",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -303,21 +288,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "توتنهامهوتس-فولهام-2025-11-29",
-      "home": "توتنهام هوتسبر",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-ريالأوفييدو-2025-11-29",
       "home": "أتلتيكو مدريد",
       "away": "ريال أوفييدو",
@@ -333,6 +303,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "توتنهامهوتس-فولهام-2025-11-29",
+      "home": "توتنهام هوتسبر",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/114.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أولمبيكمارس-تولوز-2025-11-29",
       "home": "أولمبيك مارسيليا",
       "away": "تولوز",
@@ -345,6 +330,21 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-شبابالاهلي-2025-11-29",
+      "home": "النصر",
+      "away": "شباب الاهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
+      "time_baghdad": "14:40",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
       "_source": "yalla1shoot"
     }
   ]
