@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بارما-أودينيزي-2025-11-29",
-      "home": "بارما",
-      "away": "أودينيزي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جنوى-هيلاسفيرونا-2025-11-29",
       "home": "جنوى",
       "away": "هيلاس فيرونا",
@@ -63,18 +48,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
-      "home": "الاتحاد السكندري",
-      "away": "كهرباء الاسماعيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "time_baghdad": "17:00",
+      "id": "بارما-أودينيزي-2025-11-29",
+      "home": "بارما",
+      "away": "أودينيزي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/139.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "time_baghdad": "16:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 32",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -123,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الاتحادالسك-كهرباءالاسم-2025-11-29",
+      "home": "الاتحاد السكندري",
+      "away": "كهرباء الاسماعيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برشلونة-ألافيس-2025-11-29",
       "home": "برشلونة",
       "away": "ألافيس",
@@ -150,21 +150,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "موناكو-باريسسانجي-2025-11-29",
-      "home": "موناكو",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -198,6 +183,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "موناكو-باريسسانجي-2025-11-29",
+      "home": "موناكو",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/237.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "يوفنتوس-كالياري-2025-11-29",
       "home": "يوفنتوس",
       "away": "كالياري",
@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفانتي-أتلتيكبلباو-2025-11-29",
-      "home": "ليفانتي",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/150.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيفرتون-نيوكاسليونا-2025-11-29",
       "home": "إيفرتون",
       "away": "نيوكاسل يونايتد",
@@ -240,6 +225,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفانتي-أتلتيكبلباو-2025-11-29",
+      "home": "ليفانتي",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/150.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -273,21 +273,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكومدري-ريالأوفييدو-2025-11-29",
-      "home": "أتلتيكو مدريد",
-      "away": "ريال أوفييدو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/193.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "توتنهامهوتس-فولهام-2025-11-29",
       "home": "توتنهام هوتسبر",
       "away": "فولهام",
@@ -300,6 +285,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكومدري-ريالأوفييدو-2025-11-29",
+      "home": "أتلتيكو مدريد",
+      "away": "ريال أوفييدو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/193.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
