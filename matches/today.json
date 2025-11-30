@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "إنترميامي-نيوركسيتي-2025-11-30",
-      "home": "إنتر ميامي",
-      "away": "نيورك سيتي",
-      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/12790.png",
-      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/UIpR4.png",
-      "time_baghdad": "02:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليتشي-تورينو-2025-11-30",
       "home": "ليتشي",
       "away": "تورينو",
@@ -63,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-فياريال-2025-11-30",
-      "home": "ريال سوسيداد",
-      "away": "فياريال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
-      "time_baghdad": "15:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانتإيلويل-الهلالالسود-2025-11-30",
       "home": "سانت إيلوي لوبوبو",
       "away": "الهلال السوداني",
@@ -90,6 +60,21 @@
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالسوسيداد-فياريال-2025-11-30",
+      "home": "ريال سوسيداد",
+      "away": "فياريال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/124.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "time_baghdad": "15:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -198,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أنجيه-لانس-2025-11-30",
-      "home": "أنجيه",
-      "away": "لانس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1542.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/309.png",
-      "time_baghdad": "18:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوآفر-ليل-2025-11-30",
       "home": "لو آفر",
       "away": "ليل",
@@ -233,6 +203,21 @@
       "away": "نيس",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/472-1.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
+      "time_baghdad": "18:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أنجيه-لانس-2025-11-30",
+      "home": "أنجيه",
+      "away": "لانس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1542.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/309.png",
       "time_baghdad": "18:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -330,6 +315,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنترميامي-نيوركسيتي-2025-11-30",
+      "home": "إنتر ميامي",
+      "away": "نيورك سيتي",
+      "home_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/12790.png",
+      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/UIpR4.png",
+      "time_baghdad": "02:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     }
   ]
