@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أولمبيكليون-نانت-2025-11-30",
-      "home": "أولمبيك ليون",
-      "away": "نانت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "روما-نابولي-2025-11-30",
       "home": "روما",
       "away": "نابولي",
@@ -33,6 +18,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكليون-نانت-2025-11-30",
+      "home": "أولمبيك ليون",
+      "away": "نانت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/244.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "جيرونا-ريالمدريد-2025-11-30",
       "home": "جيرونا",
       "away": "ريال مدريد",
@@ -40,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستراسبورج-بريست-2025-11-30",
-      "home": "ستراسبورج",
-      "away": "بريست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-1",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيسا-إنترميلان-2025-11-30",
       "home": "بيسا",
       "away": "إنتر ميلان",
@@ -165,6 +150,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ستراسبورج-بريست-2025-11-30",
+      "home": "ستراسبورج",
+      "away": "بريست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/300.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-1",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
