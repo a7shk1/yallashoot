@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "فاركو-تليفوناتبني-2025-11-30",
-      "home": "فاركو",
-      "away": "تليفونات بني سويف",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
-      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/8609.png",
-      "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 32",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانتإيلويل-الهلالالسود-2025-11-30",
       "home": "سانت إيلوي لوبوبو",
       "away": "الهلال السوداني",
@@ -78,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وستهاميونا-ليفربول-2025-11-30",
-      "home": "وست هام يونايتد",
-      "away": "ليفربول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
-      "time_baghdad": "16:05",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نوتنجهامفور-برايتون-2025-11-30",
       "home": "نوتنجهام فورست",
       "away": "برايتون",
@@ -100,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
       "time_baghdad": "16:05",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -115,9 +85,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/15.png",
       "time_baghdad": "16:05",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستهاميونا-ليفربول-2025-11-30",
+      "home": "وست هام يونايتد",
+      "away": "ليفربول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/103.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
+      "time_baghdad": "16:05",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -130,7 +115,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -258,21 +243,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-نابولي-2025-11-30",
-      "home": "روما",
-      "away": "نابولي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكليون-نانت-2025-11-30",
       "home": "أولمبيك ليون",
       "away": "نانت",
@@ -285,6 +255,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-نابولي-2025-11-30",
+      "home": "روما",
+      "away": "نابولي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     },
     {
@@ -345,6 +330,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فاركو-تليفوناتبني-2025-11-30",
+      "home": "فاركو",
+      "away": "تليفونات بني سويف",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
+      "away_logo": "https://www.newyalla-shoot.com/wp-content/uploads/2025/11/8609.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس مصر - دور الـ 32",
       "_source": "yalla1shoot"
     }
   ]
