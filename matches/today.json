@@ -3,18 +3,18 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بولونيا-كريمونيسي-2025-12-02",
-      "home": "بولونيا",
-      "away": "كريمونيسي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
-      "time_baghdad": "21:45",
+      "id": "رايوفاييكان-فالنسيا-2025-12-02",
+      "home": "رايو فاييكانو",
+      "away": "فالنسيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
+      "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
       "result_text": "0-0",
-      "channel": "Starzplay",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -30,21 +30,6 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "رايوفاييكان-فالنسيا-2025-12-02",
-      "home": "رايو فاييكانو",
-      "away": "فالنسيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -135,6 +120,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بولونيا-كريمونيسي-2025-12-02",
+      "home": "بولونيا",
+      "away": "كريمونيسي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
+      "time_baghdad": "21:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     }
   ]
