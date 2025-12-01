@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "فنربخشة-غلطةسراي-2025-12-01",
-      "home": "فنربخشة",
-      "away": "غلطة سراي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/350.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "تركيا, الدوري التركي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "طلائعالجيش-السكةالحديد-2025-12-01",
       "home": "طلائع الجيش",
       "away": "السكة الحديد",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
       "time_baghdad": "21:45",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -116,7 +101,7 @@
       "time_baghdad": "17:00",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "0-0",
+      "result_text": "3-1",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
@@ -135,6 +120,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فنربخشة-غلطةسراي-2025-12-01",
+      "home": "فنربخشة",
+      "away": "غلطة سراي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/350.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تركيا, الدوري التركي",
       "_source": "yalla1shoot"
     }
   ]
