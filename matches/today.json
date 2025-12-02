@@ -10,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
       "time_baghdad": "14:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -93,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "برشلونة-أتلتيكومدري-2025-12-02",
+      "home": "برشلونة",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نافالكارنيرو-خيتافي-2025-12-02",
       "home": "نافالكارنيرو",
       "away": "خيتافي",
@@ -150,21 +165,6 @@
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "برشلونة-أتلتيكومدري-2025-12-02",
-      "home": "برشلونة",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
