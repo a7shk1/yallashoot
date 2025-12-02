@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "مصر-الكويت-2025-12-02",
-      "home": "مصر",
-      "away": "الكويت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/435.png",
-      "time_baghdad": "16:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العرب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السعودية-عمان-2025-12-02",
       "home": "السعودية",
       "away": "عمان",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/296.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -75,6 +60,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نافالكارنيرو-خيتافي-2025-12-02",
+      "home": "نافالكارنيرو",
+      "away": "خيتافي",
+      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
       "_source": "yalla1shoot"
     },
     {
@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نافالكارنيرو-خيتافي-2025-12-02",
-      "home": "نافالكارنيرو",
-      "away": "خيتافي",
-      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيوكاسليونا-توتنهامهوتس-2025-12-02",
       "home": "نيوكاسل يونايتد",
       "away": "توتنهام هوتسبر",
@@ -174,6 +159,21 @@
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
       "time_baghdad": "14:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مصر-الكويت-2025-12-02",
+      "home": "مصر",
+      "away": "الكويت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/435.png",
+      "time_baghdad": "16:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
