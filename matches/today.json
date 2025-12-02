@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نافالكارنيرو-خيتافي-2025-12-02",
-      "home": "نافالكارنيرو",
-      "away": "خيتافي",
-      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيادورت-بايرليفركوز-2025-12-02",
       "home": "بوروسيا دورتموند",
       "away": "باير ليفركوزن",
@@ -165,6 +150,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نافالكارنيرو-خيتافي-2025-12-02",
+      "home": "نافالكارنيرو",
+      "away": "خيتافي",
+      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
       "_source": "yalla1shoot"
     },
     {
