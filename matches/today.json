@@ -63,6 +63,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بورنموث-إيفرتون-2025-12-02",
+      "home": "بورنموث",
+      "away": "إيفرتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "time_baghdad": "21:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فولهام-مانشسترسيتي-2025-12-02",
       "home": "فولهام",
       "away": "مانشستر سيتي",
@@ -78,18 +93,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بورنموث-إيفرتون-2025-12-02",
-      "home": "بورنموث",
-      "away": "إيفرتون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "time_baghdad": "21:30",
+      "id": "نافالكارنيرو-خيتافي-2025-12-02",
+      "home": "نافالكارنيرو",
+      "away": "خيتافي",
+      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
       "_source": "yalla1shoot"
     },
     {
@@ -150,21 +165,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نافالكارنيرو-خيتافي-2025-12-02",
-      "home": "نافالكارنيرو",
-      "away": "خيتافي",
-      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/22186.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 2",
       "_source": "yalla1shoot"
     },
     {
