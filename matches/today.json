@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أتالانتا-جنوى-2025-12-03",
-      "home": "أتالانتا",
-      "away": "جنوى",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/514.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "العراق-البحرين-2025-12-03",
       "home": "العراق",
       "away": "البحرين",
@@ -30,6 +15,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نابولي-كالياري-2025-12-03",
+      "home": "نابولي",
+      "away": "كالياري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
       "_source": "yalla1shoot"
     },
     {
@@ -78,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نابولي-كالياري-2025-12-03",
-      "home": "نابولي",
-      "away": "كالياري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/324.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكبلباو-ريالمدريد-2025-12-03",
       "home": "أتلتيك بلباو",
       "away": "ريال مدريد",
@@ -105,21 +90,6 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بيرنلي-كريستالبالا-2025-12-03",
-      "home": "بيرنلي",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -168,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بيرنلي-كريستالبالا-2025-12-03",
+      "home": "بيرنلي",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "21:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "يونيونبرلين-بايرنميونخ-2025-12-03",
       "home": "يونيون برلين",
       "away": "بايرن ميونخ",
@@ -180,6 +165,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "ألمانيا, كأس المانيا - دور الـ 16",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنترميلان-فينيزيا-2025-12-03",
+      "home": "إنتر ميلان",
+      "away": "فينيزيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/308.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
       "_source": "yalla1shoot"
     },
     {
@@ -228,18 +228,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إنترميلان-فينيزيا-2025-12-03",
-      "home": "إنتر ميلان",
-      "away": "فينيزيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/224.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/308.png",
-      "time_baghdad": "22:00",
+      "id": "ليفربول-سندرلاند-2025-12-03",
+      "home": "ليفربول",
+      "away": "سندرلاند",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
+      "time_baghdad": "22:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "MBC Action",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -258,21 +258,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-سندرلاند-2025-12-03",
-      "home": "ليفربول",
-      "away": "سندرلاند",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/93.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/117.png",
-      "time_baghdad": "22:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجزائر-السودان-2025-12-03",
       "home": "الجزائر",
       "away": "السودان",
@@ -285,6 +270,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-جنوى-2025-12-03",
+      "home": "أتالانتا",
+      "away": "جنوى",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/128.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/514.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
       "_source": "yalla1shoot"
     }
   ]
