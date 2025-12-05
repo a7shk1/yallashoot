@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بريست-موناكو-2025-12-05",
-      "home": "بريست",
-      "away": "موناكو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جزرالقمر-السعودية-2025-12-05",
       "home": "جزر القمر",
       "away": "السعودية",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/121.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
       "time_baghdad": "22:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -165,6 +150,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "غير معروف",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-موناكو-2025-12-05",
+      "home": "بريست",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/534.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     }
   ]
