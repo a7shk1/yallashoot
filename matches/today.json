@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "النصر-العين-2025-12-05",
-      "home": "النصر",
-      "away": "العين",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
-      "time_baghdad": "14:50",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "عمان-المغرب-2025-12-05",
       "home": "عمان",
       "away": "المغرب",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
       "time_baghdad": "16:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -150,6 +135,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "البرتغال, الدوري البرتغالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-العين-2025-12-05",
+      "home": "النصر",
+      "away": "العين",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
+      "time_baghdad": "14:50",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "ابوظبي الرياضية 2",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, كأس مصرف ابوظبي الإسلامي - نصف النهائي",
       "_source": "yalla1shoot"
     }
   ]
