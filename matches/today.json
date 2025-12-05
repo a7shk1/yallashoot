@@ -213,21 +213,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السودان-العراق-2025-12-06",
-      "home": "السودان",
-      "away": "العراق",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العرب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نانت-لانس-2025-12-06",
       "home": "نانت",
       "away": "لانس",
@@ -240,6 +225,21 @@
       "channel": "beIN Sport 8 HD",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "السودان-العراق-2025-12-06",
+      "home": "السودان",
+      "away": "العراق",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/740.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العرب",
       "_source": "yalla1shoot"
     },
     {
@@ -258,21 +258,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-برشلونة-2025-12-06",
-      "home": "ريال بيتيس",
-      "away": "برشلونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليدزيونايتد-ليفربول-2025-12-06",
       "home": "ليدز يونايتد",
       "away": "ليفربول",
@@ -285,6 +270,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-برشلونة-2025-12-06",
+      "home": "ريال بيتيس",
+      "away": "برشلونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
