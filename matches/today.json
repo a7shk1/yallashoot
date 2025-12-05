@@ -123,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيفرتون-نوتنجهامفور-2025-12-06",
-      "home": "إيفرتون",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورنموث-تشيلسي-2025-12-06",
       "home": "بورنموث",
       "away": "تشيلسي",
@@ -193,6 +178,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-نوتنجهامفور-2025-12-06",
+      "home": "إيفرتون",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
