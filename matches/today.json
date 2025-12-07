@@ -25,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/2014.png",
       "time_baghdad": "15:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لوآفر-باريسأف.سي.-2025-12-07",
-      "home": "لو آفر",
-      "away": "باريس أف.سي.",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/485.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/6075.png",
-      "time_baghdad": "18:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوكسير-ميتز-2025-12-07",
       "home": "أوكسير",
       "away": "ميتز",
@@ -123,18 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-كريستالبالا-2025-12-07",
-      "home": "فولهام",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "18:30",
+      "id": "لوآفر-باريسأف.سي.-2025-12-07",
+      "home": "لو آفر",
+      "away": "باريس أف.سي.",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/485.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/6075.png",
+      "time_baghdad": "18:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
@@ -150,6 +135,21 @@
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فولهام-كريستالبالا-2025-12-07",
+      "home": "فولهام",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "18:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
