@@ -48,6 +48,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شبيبةالقبائ-اتحادالعاصم-2025-12-08",
+      "home": "شبيبة القبائل",
+      "away": "اتحاد العاصمة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/10/8223.png",
+      "away_logo": "https://www.yallashootkora.com/wp-content/uploads/2025/11/8220.png",
+      "time_baghdad": "18:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "الجزائر, الدوري الجزائري",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أودينيزي-جنوى-2025-12-08",
       "home": "أودينيزي",
       "away": "جنوى",
@@ -90,6 +105,21 @@
       "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مولوديةالجز-شباببلوزداد-2025-12-08",
+      "home": "مولودية الجزائر",
+      "away": "شباب بلوزداد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8218.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "الجزائر, الدوري الجزائري",
       "_source": "yalla1shoot"
     },
     {
