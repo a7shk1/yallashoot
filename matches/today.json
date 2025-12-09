@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "كايراتألمات-أولمبياكوس-2025-12-09",
-      "home": "كايرات ألماتي",
-      "away": "أولمبياكوس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/225.png",
-      "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "البحرين-السودان-2025-12-09",
       "home": "البحرين",
       "away": "السودان",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/890.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -240,6 +225,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كايراتألمات-أولمبياكوس-2025-12-09",
+      "home": "كايرات ألماتي",
+      "away": "أولمبياكوس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/10564.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/225.png",
+      "time_baghdad": "17:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     }
   ]
