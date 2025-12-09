@@ -63,21 +63,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البحرين-السودان-2025-12-09",
-      "home": "البحرين",
-      "away": "السودان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/282.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports Xtra 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, كأس العرب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجزائر-العراق-2025-12-09",
       "home": "الجزائر",
       "away": "العراق",
@@ -88,6 +73,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports HD",
+      "commentator": "غير معروف",
+      "competition": "دولي, كأس العرب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البحرين-السودان-2025-12-09",
+      "home": "البحرين",
+      "away": "السودان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/282.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports Xtra 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب",
       "_source": "yalla1shoot"
