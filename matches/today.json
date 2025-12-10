@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كارباغاغدام-أياكس-2025-12-10",
-      "home": "كارباغ اغدام",
-      "away": "أياكس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/7521.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/152.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فياريال-كوبنهاجن-2025-12-10",
       "home": "فياريال",
       "away": "كوبنهاجن",
@@ -73,6 +58,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كارباغاغدام-أياكس-2025-12-10",
+      "home": "كارباغ اغدام",
+      "away": "أياكس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/7521.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/152.png",
+      "time_baghdad": "19:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
