@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فياريال-كوبنهاجن-2025-12-10",
-      "home": "فياريال",
-      "away": "كوبنهاجن",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كارباغاغدام-أياكس-2025-12-10",
       "home": "كارباغ اغدام",
       "away": "أياكس",
@@ -78,18 +63,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "زد-سموحة-2025-12-10",
-      "home": "زد",
-      "away": "سموحة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1683.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/860.png",
-      "time_baghdad": "20:00",
+      "id": "فياريال-كوبنهاجن-2025-12-10",
+      "home": "فياريال",
+      "away": "كوبنهاجن",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/127.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
+      "time_baghdad": "19:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
-      "channel": "أون سبورت 2",
+      "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
+      "competition": "أوروبا, دوري أبطال اوروبا",
       "_source": "yalla1shoot"
     },
     {
@@ -103,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "زد-سموحة-2025-12-10",
+      "home": "زد",
+      "away": "سموحة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1683.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/860.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
