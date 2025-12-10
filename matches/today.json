@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "النصر-الوحدة-2025-12-10",
-      "home": "النصر",
-      "away": "الوحدة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
-      "time_baghdad": "17:49",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كارباغاغدام-أياكس-2025-12-10",
       "home": "كارباغ اغدام",
       "away": "أياكس",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/152.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 7",
       "commentator": "غير معروف",
@@ -40,26 +25,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/1824.png",
       "time_baghdad": "19:45",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الإسماعيلي-الجونة-2025-12-10",
-      "home": "الإسماعيلي",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
     },
     {
@@ -70,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/860.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -78,18 +48,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بنفيكا-نابولي-2025-12-10",
-      "home": "بنفيكا",
-      "away": "نابولي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "time_baghdad": "22:00",
+      "id": "الإسماعيلي-الجونة-2025-12-10",
+      "home": "الإسماعيلي",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/5.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
+      "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
+      "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
     },
     {
@@ -168,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بنفيكا-نابولي-2025-12-10",
+      "home": "بنفيكا",
+      "away": "نابولي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/888.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "عمانتحت23-اليمنتحت23-2025-12-10",
       "home": "عمان تحت 23",
       "away": "اليمن تحت 23",
@@ -210,6 +195,21 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-الوحدة-2025-12-10",
+      "home": "النصر",
+      "away": "الوحدة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
+      "time_baghdad": "17:49",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
       "_source": "yalla1shoot"
     }
   ]
