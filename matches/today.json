@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ديناموزغرب-ريالبيتيس-2025-12-12",
-      "home": "دينامو زغرب",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2245.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "time_baghdad": "19:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-3",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيس-سبورتينجبرا-2025-12-12",
       "home": "نيس",
       "away": "سبورتينج براغا",
@@ -240,6 +225,21 @@
       "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ديناموزغرب-ريالبيتيس-2025-12-12",
+      "home": "دينامو زغرب",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2245.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "time_baghdad": "19:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-3",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي",
       "_source": "yalla1shoot"
     },
     {
