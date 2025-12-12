@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
+      "id": "بارماتحت19-مونزاتحت19-2025-12-12",
+      "home": "بارما تحت 19",
+      "away": "مونزا تحت 19",
+      "home_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/89290.png",
+      "away_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/76927.png",
+      "time_baghdad": "13:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, دوري الدرجة الأولى للشباب تحت 19",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الأردن-العراق-2025-12-12",
       "home": "الأردن",
       "away": "العراق",
@@ -15,6 +30,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الرجاءالبيض-2025-12-12",
+      "home": "الأهلي",
+      "away": "الرجاء البيضاوي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/451.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, المباريات الوديّة الدوليّة",
       "_source": "yalla1shoot"
     },
     {
