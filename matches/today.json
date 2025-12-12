@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بارماتحت19-مونزاتحت19-2025-12-12",
-      "home": "بارما تحت 19",
-      "away": "مونزا تحت 19",
-      "home_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/89290.png",
-      "away_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/76927.png",
-      "time_baghdad": "13:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, دوري الدرجة الأولى للشباب تحت 19",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأردن-العراق-2025-12-12",
       "home": "الأردن",
       "away": "العراق",
@@ -135,6 +120,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بارماتحت19-مونزاتحت19-2025-12-12",
+      "home": "بارما تحت 19",
+      "away": "مونزا تحت 19",
+      "home_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/89290.png",
+      "away_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/76927.png",
+      "time_baghdad": "13:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, دوري الدرجة الأولى للشباب تحت 19",
       "_source": "yalla1shoot"
     }
   ]
