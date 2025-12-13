@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "السعوديةتحت-العراقتحت2-2025-12-13",
-      "home": "السعودية تحت 23",
-      "away": "العراق تحت 23",
-      "home_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/28914.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/28913.png",
-      "time_baghdad": "13:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس الخليج تحت 23 - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الإماراتتحت-قطرتحت23-2025-12-13",
-      "home": "الإمارات تحت 23",
-      "away": "قطر تحت 23",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/28922.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/13399.png",
-      "time_baghdad": "13:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس الخليج تحت 23 - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-فالنسيا-2025-12-13",
       "home": "أتلتيكو مدريد",
       "away": "فالنسيا",
@@ -55,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/290.png",
       "time_baghdad": "16:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -168,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-فولهام-2025-12-13",
-      "home": "بيرنلي",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-كولن-2025-12-13",
       "home": "باير ليفركوزن",
       "away": "كولن",
@@ -210,6 +165,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيرنلي-فولهام-2025-12-13",
+      "home": "بيرنلي",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -285,6 +255,36 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "السعوديةتحت-العراقتحت2-2025-12-13",
+      "home": "السعودية تحت 23",
+      "away": "العراق تحت 23",
+      "home_logo": "https://www.yallashootking.tv/wp-content/uploads/2025/12/28914.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/28913.png",
+      "time_baghdad": "13:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس الخليج تحت 23 - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الإماراتتحت-قطرتحت23-2025-12-13",
+      "home": "الإمارات تحت 23",
+      "away": "قطر تحت 23",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/28922.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/13399.png",
+      "time_baghdad": "13:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس الخليج تحت 23 - نصف النهائي",
       "_source": "yalla1shoot"
     }
   ]
