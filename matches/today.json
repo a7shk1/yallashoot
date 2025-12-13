@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أتلتيكومدري-فالنسيا-2025-12-13",
-      "home": "أتلتيكو مدريد",
-      "away": "فالنسيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
-      "time_baghdad": "15:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تورينو-كريمونيسي-2025-12-13",
       "home": "تورينو",
       "away": "كريمونيسي",
@@ -40,26 +25,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
       "time_baghdad": "16:59",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, المباريات الوديّة الدوليّة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-إيفرتون-2025-12-13",
-      "home": "تشيلسي",
-      "away": "إيفرتون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -70,9 +40,24 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1426.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-إيفرتون-2025-12-13",
+      "home": "تشيلسي",
+      "away": "إيفرتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
@@ -85,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/156.png",
       "time_baghdad": "17:15",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -138,21 +123,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-فولهام-2025-12-13",
-      "home": "بيرنلي",
-      "away": "فولهام",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-كولن-2025-12-13",
       "home": "باير ليفركوزن",
       "away": "كولن",
@@ -180,6 +150,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيرنلي-فولهام-2025-12-13",
+      "home": "بيرنلي",
+      "away": "فولهام",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/12.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
@@ -213,21 +198,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "خيتافي-إسبانيول-2025-12-13",
-      "home": "خيتافي",
-      "away": "إسبانيول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-وولفرهامبتون-2025-12-13",
       "home": "أرسنال",
       "away": "وولفرهامبتون",
@@ -240,6 +210,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "خيتافي-إسبانيول-2025-12-13",
+      "home": "خيتافي",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -285,6 +270,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "آسيا, كأس الخليج تحت 23 - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكومدري-فالنسيا-2025-12-13",
+      "home": "أتلتيكو مدريد",
+      "away": "فالنسيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     }
   ]
