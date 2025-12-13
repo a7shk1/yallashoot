@@ -40,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/112.png",
       "time_baghdad": "15:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -168,6 +168,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "برشلونة-أوساسونا-2025-12-13",
+      "home": "برشلونة",
+      "away": "أوساسونا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بيرنلي-فولهام-2025-12-13",
       "home": "بيرنلي",
       "away": "فولهام",
@@ -195,21 +210,6 @@
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "برشلونة-أوساسونا-2025-12-13",
-      "home": "برشلونة",
-      "away": "أوساسونا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/111.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
