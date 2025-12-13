@@ -78,21 +78,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشيلسي-إيفرتون-2025-12-13",
-      "home": "تشيلسي",
-      "away": "إيفرتون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليفربول-برايتون-2025-12-13",
       "home": "ليفربول",
       "away": "برايتون",
@@ -103,6 +88,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-إيفرتون-2025-12-13",
+      "home": "تشيلسي",
+      "away": "إيفرتون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/89.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
