@@ -11,7 +11,7 @@
       "time_baghdad": "13:30",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "1-1",
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
@@ -40,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/13399.png",
       "time_baghdad": "14:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "الكأس 2 HD",
       "commentator": "غير معروف",
@@ -318,21 +318,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكمارس-موناكو-2025-12-14",
-      "home": "أولمبيك مارسيليا",
-      "away": "موناكو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بولونيا-يوفنتوس-2025-12-14",
       "home": "بولونيا",
       "away": "يوفنتوس",
@@ -345,6 +330,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكمارس-موناكو-2025-12-14",
+      "home": "أولمبيك مارسيليا",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/222.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
       "_source": "yalla1shoot"
     },
     {
