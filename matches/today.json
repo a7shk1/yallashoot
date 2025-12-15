@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المحرق-الخالدية-2025-12-15",
-      "home": "المحرق",
-      "away": "الخالدية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "البحرين, كأس السوبر البحريني - النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السعودية-الأردن-2025-12-15",
       "home": "السعودية",
       "away": "الأردن",
@@ -120,6 +105,21 @@
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
       "competition": "دولي, كأس العرب - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المحرق-الخالدية-2025-12-15",
+      "home": "المحرق",
+      "away": "الخالدية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/68794.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "البحرين, كأس السوبر البحريني - النهائي",
       "_source": "yalla1shoot"
     }
   ]
