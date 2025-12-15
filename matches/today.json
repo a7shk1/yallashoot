@@ -1,9 +1,9 @@
 {
-  "date": "2025-12-15",
+  "date": "2025-12-16",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "روما-كومو-2025-12-15",
+      "id": "روما-كومو-2025-12-16",
       "home": "روما",
       "away": "كومو",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/143.png",
@@ -18,7 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "رايوفاييكان-ريالبيتيس-2025-12-15",
+      "id": "رايوفاييكان-ريالبيتيس-2025-12-16",
       "home": "رايو فاييكانو",
       "away": "ريال بيتيس",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
@@ -33,7 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مانشستريونا-بورنموث-2025-12-15",
+      "id": "مانشستريونا-بورنموث-2025-12-16",
       "home": "مانشستر يونايتد",
       "away": "بورنموث",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/95.png",
@@ -41,14 +41,14 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "2-1",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشارقة-الخليج-2025-12-15",
+      "id": "الشارقة-الخليج-2025-12-16",
       "home": "الشارقة",
       "away": "الخليج",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
@@ -63,7 +63,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المغرب-الإمارات-2025-12-15",
+      "id": "المغرب-الإمارات-2025-12-16",
       "home": "المغرب",
       "away": "الإمارات",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
@@ -78,7 +78,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المحرق-الخالدية-2025-12-15",
+      "id": "المحرق-الخالدية-2025-12-16",
       "home": "المحرق",
       "away": "الخالدية",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
@@ -93,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السعودية-الأردن-2025-12-15",
+      "id": "السعودية-الأردن-2025-12-16",
       "home": "السعودية",
       "away": "الأردن",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/289.png",
@@ -108,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وفاقعينبني-شباببلوزداد-2025-12-15",
+      "id": "وفاقعينبني-شباببلوزداد-2025-12-16",
       "home": "وفاق عين بنيان",
       "away": "شباب بلوزداد",
       "home_logo": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
