@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الشارقة-الخليج-2025-12-15",
-      "home": "الشارقة",
-      "away": "الخليج",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/188.png",
-      "time_baghdad": "14:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, المباريات الوديّة الدوليّة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المغرب-الإمارات-2025-12-15",
       "home": "المغرب",
       "away": "الإمارات",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1245.png",
       "time_baghdad": "16:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مانشستريونا-بورنموث-2025-12-15",
+      "home": "مانشستر يونايتد",
+      "away": "بورنموث",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/95.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "رايوفاييكان-ريالبيتيس-2025-12-15",
       "home": "رايو فاييكانو",
       "away": "ريال بيتيس",
@@ -108,18 +108,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مانشستريونا-بورنموث-2025-12-15",
-      "home": "مانشستر يونايتد",
-      "away": "بورنموث",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/95.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1453.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "id": "الشارقة-الخليج-2025-12-15",
+      "home": "الشارقة",
+      "away": "الخليج",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/188.png",
+      "time_baghdad": "14:00",
+      "status": "FT",
+      "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
+      "competition": "دولي, المباريات الوديّة الدوليّة",
       "_source": "yalla1shoot"
     }
   ]
