@@ -33,21 +33,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتليتكوبالي-أتلتيكومدري-2025-12-17",
-      "home": "أتليتكو بالياريس",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/9237.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هويسكا-أوساسونا-2025-12-17",
       "home": "هويسكا",
       "away": "أوساسونا",
@@ -93,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتليتكوبالي-أتلتيكومدري-2025-12-17",
+      "home": "أتليتكو بالياريس",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://www.newyalla-shoot.live/wp-content/uploads/2025/12/9237.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/06/134.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مانشسترسيتي-برينتفورد-2025-12-17",
       "home": "مانشستر سيتي",
       "away": "برينتفورد",
@@ -108,11 +108,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تالافيرا-ريالمدريد-2025-12-17",
-      "home": "تالافيرا",
-      "away": "ريال مدريد",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/17901.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
+      "id": "ألافيس-إشبيلية-2025-12-17",
+      "home": "ألافيس",
+      "away": "إشبيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -123,11 +123,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ألافيس-إشبيلية-2025-12-17",
-      "home": "ألافيس",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/168.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
+      "id": "تالافيرا-ريالمدريد-2025-12-17",
+      "home": "تالافيرا",
+      "away": "ريال مدريد",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/17901.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
