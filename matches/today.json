@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "مانشسترسيتي-برينتفورد-2025-12-18",
-      "home": "مانشستر سيتي",
-      "away": "برينتفورد",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تالافيرا-ريالمدريد-2025-12-18",
       "home": "تالافيرا",
       "away": "ريال مدريد",
@@ -108,6 +93,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "هويسكا-أوساسونا-2025-12-18",
+      "home": "هويسكا",
+      "away": "أوساسونا",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/176.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-2",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ألباثيتي-سيلتافيجو-2025-12-18",
+      "home": "ألباثيتي",
+      "away": "سيلتا فيجو",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/170.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-2",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "راسينجسانتا-فياريال-2025-12-18",
       "home": "راسينج سانتاندير",
       "away": "فياريال",
@@ -138,33 +153,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هويسكا-أوساسونا-2025-12-18",
-      "home": "هويسكا",
-      "away": "أوساسونا",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/176.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/118.png",
-      "time_baghdad": "20:00",
+      "id": "مانشسترسيتي-برينتفورد-2025-12-18",
+      "home": "مانشستر سيتي",
+      "away": "برينتفورد",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/94.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1920.png",
+      "time_baghdad": "21:30",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "1-2",
-      "channel": "شاهد - Shahid VIP",
+      "result_text": "1-0",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ألباثيتي-سيلتافيجو-2025-12-18",
-      "home": "ألباثيتي",
-      "away": "سيلتا فيجو",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/170.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/117.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "2-2",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "competition": "إنجلترا, كأس الكاراباو - ربع النهائي",
       "_source": "yalla1shoot"
     }
   ]
