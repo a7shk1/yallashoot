@@ -93,21 +93,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لوزانسبورت-فيورنتينا-2025-12-18",
-      "home": "لوزان سبورت",
-      "away": "فيورنتينا",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1160.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "رايوفاييكان-دريتا-2025-12-18",
       "home": "رايو فاييكانو",
       "away": "دريتا",
@@ -150,6 +135,21 @@
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "لوزانسبورت-فيورنتينا-2025-12-18",
+      "home": "لوزان سبورت",
+      "away": "فيورنتينا",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1160.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
       "_source": "yalla1shoot"
     }
   ]
