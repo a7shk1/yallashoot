@@ -25,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5406.png",
       "time_baghdad": "16:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -108,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كريستالبالا-كوبيونبالوس-2025-12-18",
-      "home": "كريستال بالاس",
-      "away": "كوبيون بالوسورا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1935.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمورسيا-ريالبيتيس-2025-12-18",
       "home": "ريال مورسيا",
       "away": "ريال بيتيس",
@@ -163,6 +148,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريستالبالا-كوبيونبالوس-2025-12-18",
+      "home": "كريستال بالاس",
+      "away": "كوبيون بالوسورا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1935.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي",
       "_source": "yalla1shoot"
