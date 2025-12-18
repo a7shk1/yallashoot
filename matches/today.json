@@ -1,69 +1,9 @@
 {
-  "date": "2025-12-18",
+  "date": "2025-12-19",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "نابولي-ميلان-2025-12-18",
-      "home": "نابولي",
-      "away": "ميلان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-0",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, السوبر الإيطالي - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "لوزانسبورت-فيورنتينا-2025-12-18",
-      "home": "لوزان سبورت",
-      "away": "فيورنتينا",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1160.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "رايوفاييكان-دريتا-2025-12-18",
-      "home": "رايو فاييكانو",
-      "away": "دريتا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
-      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/45033.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كريستالبالا-كوبيونبالوس-2025-12-18",
-      "home": "كريستال بالاس",
-      "away": "كوبيون بالوسورا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1935.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمورسيا-ريالبيتيس-2025-12-18",
+      "id": "ريالمورسيا-ريالبيتيس-2025-12-19",
       "home": "ريال مورسيا",
       "away": "ريال بيتيس",
       "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/149.png",
@@ -78,7 +18,52 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السعودية-الإمارات-2025-12-18",
+      "id": "لوزانسبورت-فيورنتينا-2025-12-19",
+      "home": "لوزان سبورت",
+      "away": "فيورنتينا",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1160.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "رايوفاييكان-دريتا-2025-12-19",
+      "home": "رايو فاييكانو",
+      "away": "دريتا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/174.png",
+      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/45033.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريستالبالا-كوبيونبالوس-2025-12-19",
+      "home": "كريستال بالاس",
+      "away": "كوبيون بالوسورا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "away_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/1935.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "السعودية-الإمارات-2025-12-19",
       "home": "السعودية",
       "away": "الإمارات",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/289.png",
@@ -93,7 +78,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تونس-بوتسوانا-2025-12-18",
+      "id": "تونس-بوتسوانا-2025-12-19",
       "home": "تونس",
       "away": "بوتسوانا",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
@@ -108,7 +93,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البنكالاهلي-مودرنسبورت-2025-12-18",
+      "id": "البنكالاهلي-مودرنسبورت-2025-12-19",
       "home": "البنك الاهلي",
       "away": "مودرن سبورت",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
@@ -123,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غلطةسراي-باشاكشهير-2025-12-18",
+      "id": "غلطةسراي-باشاكشهير-2025-12-19",
       "home": "غلطة سراي",
       "away": "باشاك شهير",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
@@ -138,7 +123,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأردن-المغرب-2025-12-18",
+      "id": "الأردن-المغرب-2025-12-19",
       "home": "الأردن",
       "away": "المغرب",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/745.png",
@@ -153,7 +138,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بورغوس-خيتافي-2025-12-18",
+      "id": "بورغوس-خيتافي-2025-12-19",
       "home": "بورغوس",
       "away": "خيتافي",
       "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/180.png",
@@ -168,7 +153,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أورينسي-أتلتيكبلباو-2025-12-18",
+      "id": "أورينسي-أتلتيكبلباو-2025-12-19",
       "home": "أورينسي",
       "away": "أتلتيك بلباو",
       "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/55569.png",
@@ -180,6 +165,21 @@
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نابولي-ميلان-2025-12-19",
+      "home": "نابولي",
+      "away": "ميلان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/757.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/137.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-0",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, السوبر الإيطالي - نصف النهائي",
       "_source": "yalla1shoot"
     }
   ]
