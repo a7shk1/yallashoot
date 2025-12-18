@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "البنكالاهلي-مودرنسبورت-2025-12-18",
-      "home": "البنك الاهلي",
-      "away": "مودرن سبورت",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "1-1",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأردن-المغرب-2025-12-18",
       "home": "الأردن",
       "away": "المغرب",
@@ -33,11 +18,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أورينسي-أتلتيكبلباو-2025-12-18",
-      "home": "أورينسي",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/55569.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "id": "بورغوس-خيتافي-2025-12-18",
+      "home": "بورغوس",
+      "away": "خيتافي",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/180.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
       "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -48,11 +33,11 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بورغوس-خيتافي-2025-12-18",
-      "home": "بورغوس",
-      "away": "خيتافي",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/180.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/317.png",
+      "id": "أورينسي-أتلتيكبلباو-2025-12-18",
+      "home": "أورينسي",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/55569.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
       "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -75,21 +60,6 @@
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
       "competition": "إيطاليا, السوبر الإيطالي - نصف النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمورسيا-ريالبيتيس-2025-12-18",
-      "home": "ريال مورسيا",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/149.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
       "_source": "yalla1shoot"
     },
     {
@@ -138,6 +108,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالمورسيا-ريالبيتيس-2025-12-18",
+      "home": "ريال مورسيا",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/149.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/123.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "السعودية-الإمارات-2025-12-18",
       "home": "السعودية",
       "away": "الإمارات",
@@ -165,6 +150,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البنكالاهلي-مودرنسبورت-2025-12-18",
+      "home": "البنك الاهلي",
+      "away": "مودرن سبورت",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/50527.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-1",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
     }
   ]
