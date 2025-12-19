@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "بوروسيادورت-بوروسيامونش-2025-12-20",
-      "home": "بوروسيا دورتموند",
-      "away": "بوروسيا مونشنجلادباخ",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/164.png",
-      "time_baghdad": "21:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كانيهروسيون-مونبلييه-2025-12-20",
-      "home": "كانيه روسيون",
-      "away": "مونبلييه",
-      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/50414.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/993.png",
-      "time_baghdad": "21:45",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ64",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فالنسيا-ريالمايوركا-2025-12-20",
       "home": "فالنسيا",
       "away": "ريال مايوركا",
@@ -135,6 +105,36 @@
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
       "competition": "إيطاليا, السوبر الإيطالي - نصف النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بوروسيادورت-بوروسيامونش-2025-12-20",
+      "home": "بوروسيا دورتموند",
+      "away": "بوروسيا مونشنجلادباخ",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/154.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/164.png",
+      "time_baghdad": "21:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كانيهروسيون-مونبلييه-2025-12-20",
+      "home": "كانيه روسيون",
+      "away": "مونبلييه",
+      "home_logo": "https://www.m-yallashoot.com/wp-content/uploads/2025/12/50414.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/993.png",
+      "time_baghdad": "21:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
       "_source": "yalla1shoot"
     }
   ]
