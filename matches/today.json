@@ -55,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -70,7 +70,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
       "time_baghdad": "20:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -90,6 +90,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-إشبيلية-2025-12-20",
+      "home": "ريال مدريد",
+      "away": "إشبيلية",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -138,21 +153,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-إشبيلية-2025-12-20",
-      "home": "ريال مدريد",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/110.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/126.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيوكاسليونا-تشيلسي-2025-12-20",
       "home": "نيوكاسل يونايتد",
       "away": "تشيلسي",
@@ -183,21 +183,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سانمورلوزي-ليل-2025-12-20",
-      "home": "سان مور لوزي",
-      "away": "ليل",
-      "home_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/11354.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
-      "time_baghdad": "16:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-1",
-      "channel": "beIN SPORTS HD 9",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ64",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شتوتجارت-هوفنهايم-2025-12-20",
       "home": "شتوتجارت",
       "away": "هوفنهايم",
@@ -210,6 +195,21 @@
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سانمورلوزي-ليل-2025-12-20",
+      "home": "سان مور لوزي",
+      "away": "ليل",
+      "home_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/11354.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/310.png",
+      "time_baghdad": "16:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-1",
+      "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
       "_source": "yalla1shoot"
     },
     {
