@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إنبي-طلائعالجيش-2025-12-21",
-      "home": "إنبي",
-      "away": "طلائع الجيش",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "2-1",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورنموث-بيرنلي-2025-12-21",
       "home": "بورنموث",
       "away": "بيرنلي",
@@ -223,6 +208,21 @@
       "status_text": "انتهت",
       "result_text": "2-0",
       "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنبي-طلائعالجيش-2025-12-21",
+      "home": "إنبي",
+      "away": "طلائع الجيش",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/304.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-1",
+      "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
