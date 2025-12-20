@@ -273,21 +273,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيفرتون-أرسنال-2025-12-20",
-      "home": "إيفرتون",
-      "away": "أرسنال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-إشبيلية-2025-12-20",
       "home": "ريال مدريد",
       "away": "إشبيلية",
@@ -330,6 +315,21 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ64",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-أرسنال-2025-12-20",
+      "home": "إيفرتون",
+      "away": "أرسنال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/90.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     }
   ]
