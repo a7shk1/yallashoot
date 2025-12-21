@@ -18,6 +18,36 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أوكسير-موناكو-2025-12-21",
+      "home": "أوكسير",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/302.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/210.png",
+      "time_baghdad": "15:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "1-1",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيس-سانتإيتيان-2025-12-21",
+      "home": "نيس",
+      "away": "سانت إيتيان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/251.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/313.png",
+      "time_baghdad": "15:45",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "1-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ساسولو-تورينو-2025-12-21",
       "home": "ساسولو",
       "away": "تورينو",
@@ -150,6 +180,21 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-FCSaint-Cyr-2025-12-21",
+      "home": "أولمبيك ليون",
+      "away": "FC Saint-Cyr Collonges",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/85086.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
       "_source": "yalla1shoot"
     },
     {
