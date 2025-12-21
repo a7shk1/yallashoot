@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "غلطةسراي-قاسمباشا-2025-12-21",
-      "home": "غلطة سراي",
-      "away": "قاسم باشا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
-      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "تركيا, الدوري التركي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فيورنتينا-أودينيزي-2025-12-21",
-      "home": "فيورنتينا",
-      "away": "أودينيزي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "5-1",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إلتشي-رايوفاييكان-2025-12-21",
       "home": "إلتشي",
       "away": "رايو فاييكانو",
@@ -55,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
       "time_baghdad": "21:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
@@ -78,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكليون-FCSaint-Cyr-2025-12-21",
-      "home": "أولمبيك ليون",
-      "away": "FC Saint-Cyr Collonges",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
-      "away_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/85086.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ64",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالبيتيس-خيتافي-2025-12-21",
       "home": "ريال بيتيس",
       "away": "خيتافي",
@@ -105,6 +60,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-FCSaint-Cyr-2025-12-21",
+      "home": "أولمبيك ليون",
+      "away": "FC Saint-Cyr Collonges",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/211.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/85086.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ64",
       "_source": "yalla1shoot"
     },
     {
@@ -225,6 +195,36 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غلطةسراي-قاسمباشا-2025-12-21",
+      "home": "غلطة سراي",
+      "away": "قاسم باشا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/945.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تركيا, الدوري التركي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيورنتينا-أودينيزي-2025-12-21",
+      "home": "فيورنتينا",
+      "away": "أودينيزي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/323.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/145.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "5-1",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
       "_source": "yalla1shoot"
     }
   ]
