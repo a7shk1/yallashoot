@@ -138,21 +138,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مصر-زيمبابوي-2025-12-22",
-      "home": "مصر",
-      "away": "زيمبابوي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
       "home": "أتلتيك بلباو",
       "away": "إسبانيول",
@@ -180,6 +165,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مصر-زيمبابوي-2025-12-22",
+      "home": "مصر",
+      "away": "زيمبابوي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
       "_source": "yalla1shoot"
     }
   ]
