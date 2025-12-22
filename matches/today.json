@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-نوتنجهامفور-2025-12-22",
-      "home": "فولهام",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مصر-زيمبابوي-2025-12-22",
       "home": "مصر",
       "away": "زيمبابوي",
@@ -70,7 +55,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "الجزائرية الأولى",
       "commentator": "غير معروف",
@@ -85,11 +70,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فولهام-نوتنجهامفور-2025-12-22",
+      "home": "فولهام",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "بعد قليل",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
       "_source": "yalla1shoot"
     },
     {
