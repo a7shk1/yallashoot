@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "مالي-زامبيا-2025-12-22",
-      "home": "مالي",
-      "away": "زامبيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5101.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة أ",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-مسار-2025-12-22",
       "home": "بيراميدز",
       "away": "مسار",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -55,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
       "time_baghdad": "18:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -123,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-نوتنجهامفور-2025-12-22",
-      "home": "فولهام",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مصر-زيمبابوي-2025-12-22",
       "home": "مصر",
       "away": "زيمبابوي",
@@ -168,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فولهام-نوتنجهامفور-2025-12-22",
+      "home": "فولهام",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/120.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "المصري-دكرنس-2025-12-22",
       "home": "المصري",
       "away": "دكرنس",
@@ -180,6 +165,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مالي-زامبيا-2025-12-22",
+      "home": "مالي",
+      "away": "زامبيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5101.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة أ",
       "_source": "yalla1shoot"
     }
   ]
