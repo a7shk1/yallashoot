@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الشارقة-الهلال-2025-12-22",
-      "home": "الشارقة",
-      "away": "الهلال",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تراکتورسازي-الدحيل-2025-12-22",
-      "home": "تراکتورسازي",
-      "away": "الدحيل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جنوبأفريقيا-أنجولا-2025-12-22",
       "home": "جنوب أفريقيا",
       "away": "أنجولا",
@@ -55,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
       "time_baghdad": "20:15",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -70,7 +40,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
       "time_baghdad": "20:15",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -90,6 +60,21 @@
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
       "competition": "إيطاليا, السوبر الإيطالي - النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
+      "home": "أتلتيك بلباو",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -120,21 +105,6 @@
       "channel": "الجزائرية الأولى",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
-      "home": "أتلتيك بلباو",
-      "away": "إسبانيول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -180,6 +150,36 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشارقة-الهلال-2025-12-22",
+      "home": "الشارقة",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/872.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/269.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تراکتورسازي-الدحيل-2025-12-22",
+      "home": "تراکتورسازي",
+      "away": "الدحيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
