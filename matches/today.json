@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "جنوبأفريقيا-أنجولا-2025-12-22",
-      "home": "جنوب أفريقيا",
-      "away": "أنجولا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5103.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشرطة-الأهلي-2025-12-22",
       "home": "الشرطة",
       "away": "الأهلي",
@@ -55,26 +40,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/129.png",
       "time_baghdad": "21:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
       "competition": "إيطاليا, السوبر الإيطالي - النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
-      "home": "أتلتيك بلباو",
-      "away": "إسبانيول",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -105,6 +75,21 @@
       "channel": "الجزائرية الأولى",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
+      "home": "أتلتيك بلباو",
+      "away": "إسبانيول",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/144.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
       "_source": "yalla1shoot"
     },
     {
@@ -153,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "تراکتورسازي-الدحيل-2025-12-22",
+      "home": "تراکتورسازي",
+      "away": "الدحيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الشارقة-الهلال-2025-12-22",
       "home": "الشارقة",
       "away": "الهلال",
@@ -168,18 +168,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تراکتورسازي-الدحيل-2025-12-22",
-      "home": "تراکتورسازي",
-      "away": "الدحيل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
-      "time_baghdad": "18:00",
+      "id": "جنوبأفريقيا-أنجولا-2025-12-22",
+      "home": "جنوب أفريقيا",
+      "away": "أنجولا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5103.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
+      "time_baghdad": "19:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
       "_source": "yalla1shoot"
     }
   ]
