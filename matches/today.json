@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الشرطة-الأهلي-2025-12-22",
-      "home": "الشرطة",
-      "away": "الأهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1218.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "time_baghdad": "20:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الغرافة-الوحدة-2025-12-22",
-      "home": "الغرافة",
-      "away": "الوحدة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
-      "time_baghdad": "20:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نابولي-بولونيا-2025-12-22",
       "home": "نابولي",
       "away": "بولونيا",
@@ -48,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مصر-زيمبابوي-2025-12-22",
-      "home": "مصر",
-      "away": "زيمبابوي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكبلباو-إسبانيول-2025-12-22",
       "home": "أتلتيك بلباو",
       "away": "إسبانيول",
@@ -70,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/119.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -85,11 +40,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/29.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مصر-زيمبابوي-2025-12-22",
+      "home": "مصر",
+      "away": "زيمبابوي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "الجزائرية الأولى",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
       "_source": "yalla1shoot"
     },
     {
@@ -138,21 +108,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تراکتورسازي-الدحيل-2025-12-22",
-      "home": "تراکتورسازي",
-      "away": "الدحيل",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشارقة-الهلال-2025-12-22",
       "home": "الشارقة",
       "away": "الهلال",
@@ -163,6 +118,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تراکتورسازي-الدحيل-2025-12-22",
+      "home": "تراکتورسازي",
+      "away": "الدحيل",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/9353.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2034.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
@@ -180,6 +150,36 @@
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشرطة-الأهلي-2025-12-22",
+      "home": "الشرطة",
+      "away": "الأهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1218.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "time_baghdad": "20:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الغرافة-الوحدة-2025-12-22",
+      "home": "الغرافة",
+      "away": "الوحدة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/970.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/876.png",
+      "time_baghdad": "20:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
