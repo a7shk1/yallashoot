@@ -3,36 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "العين-زاخو-2025-12-23",
-      "home": "العين",
-      "away": "زاخو",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/11273.png",
-      "time_baghdad": "16:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال الخليج للأندية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "غزلالمحلة-الأهلي-2025-12-23",
-      "home": "غزل المحلة",
-      "away": "الأهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السنغال-بوتسوانا-2025-12-23",
       "home": "السنغال",
       "away": "بوتسوانا",
@@ -58,6 +28,21 @@
       "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غزلالمحلة-الأهلي-2025-12-23",
+      "home": "غزل المحلة",
+      "away": "الأهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/7.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
@@ -100,7 +85,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
       "time_baghdad": "19:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -195,6 +180,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس مصر - دور الـ 32",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العين-زاخو-2025-12-23",
+      "home": "العين",
+      "away": "زاخو",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/871.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/11273.png",
+      "time_baghdad": "16:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال الخليج للأندية",
       "_source": "yalla1shoot"
     }
   ]
