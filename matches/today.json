@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الاتحاد-ناسافكارشي-2025-12-23",
-      "home": "الاتحاد",
-      "away": "ناساف كارشي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8596.png",
-      "time_baghdad": "20:15",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-كريستالبالا-2025-12-23",
       "home": "أرسنال",
       "away": "كريستال بالاس",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/391.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
@@ -195,6 +180,21 @@
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ج",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحاد-ناسافكارشي-2025-12-23",
+      "home": "الاتحاد",
+      "away": "ناساف كارشي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/175.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8596.png",
+      "time_baghdad": "20:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
