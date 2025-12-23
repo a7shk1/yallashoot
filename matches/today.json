@@ -48,21 +48,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-كريستالبالا-2025-12-23",
-      "home": "أرسنال",
-      "away": "كريستال بالاس",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - ربع النهائي",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تونس-أوغندا-2025-12-23",
       "home": "تونس",
       "away": "أوغندا",
@@ -75,6 +60,21 @@
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ج",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-كريستالبالا-2025-12-23",
+      "home": "أرسنال",
+      "away": "كريستال بالاس",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/83.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/299.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - ربع النهائي",
       "_source": "yalla1shoot"
     },
     {
@@ -123,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "السنغال-بوتسوانا-2025-12-23",
+      "home": "السنغال",
+      "away": "بوتسوانا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5406.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "3-0",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة د",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مودرنسبورت-واديدجلة-2025-12-23",
       "home": "مودرن سبورت",
       "away": "وادي دجلة",
@@ -150,21 +165,6 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "السنغال-بوتسوانا-2025-12-23",
-      "home": "السنغال",
-      "away": "بوتسوانا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5102.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5406.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "3-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة د",
       "_source": "yalla1shoot"
     },
     {
