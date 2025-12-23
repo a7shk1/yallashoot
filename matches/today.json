@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "القادسية-سترة-2025-12-23",
-      "home": "القادسية",
-      "away": "سترة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال الخليج للأندية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيجيريا-تنزانيا-2025-12-23",
       "home": "نيجيريا",
       "away": "تنزانيا",
@@ -26,7 +11,7 @@
       "time_baghdad": "19:30",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "0-0",
+      "result_text": "2-1",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ج",
@@ -195,6 +180,21 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "القادسية-سترة-2025-12-23",
+      "home": "القادسية",
+      "away": "سترة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال الخليج للأندية",
       "_source": "yalla1shoot"
     }
   ]
