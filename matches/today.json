@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "السد-شبابالاهلي-2025-12-23",
-      "home": "السد",
-      "away": "شباب الاهلي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/646.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "القادسية-سترة-2025-12-23",
       "home": "القادسية",
       "away": "سترة",
@@ -55,26 +40,11 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/8596.png",
       "time_baghdad": "20:15",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تونس-أوغندا-2025-12-23",
-      "home": "تونس",
-      "away": "أوغندا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/391.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ج",
       "_source": "yalla1shoot"
     },
     {
@@ -90,6 +60,21 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "إنجلترا, كأس الكاراباو - ربع النهائي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تونس-أوغندا-2025-12-23",
+      "home": "تونس",
+      "away": "أوغندا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/33.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/391.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ج",
       "_source": "yalla1shoot"
     },
     {
@@ -138,6 +123,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مودرنسبورت-واديدجلة-2025-12-23",
+      "home": "مودرن سبورت",
+      "away": "وادي دجلة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-3",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "غزلالمحلة-الأهلي-2025-12-23",
       "home": "غزل المحلة",
       "away": "الأهلي",
@@ -168,21 +168,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مودرنسبورت-واديدجلة-2025-12-23",
-      "home": "مودرن سبورت",
-      "away": "وادي دجلة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/12724.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1016.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-3",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشباب-الريان-2025-12-23",
       "home": "الشباب",
       "away": "الريان",
@@ -195,6 +180,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال الخليج للأندية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "السد-شبابالاهلي-2025-12-23",
+      "home": "السد",
+      "away": "شباب الاهلي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/646.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8347.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "_source": "yalla1shoot"
     }
   ]
