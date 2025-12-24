@@ -1,9 +1,9 @@
 {
-  "date": "2025-12-24",
+  "date": "2025-12-25",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "الكاميرون-الجابون-2025-12-24",
+      "id": "الكاميرون-الجابون-2025-12-25",
       "home": "الكاميرون",
       "away": "الجابون",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/27.png",
@@ -18,7 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوركينافاسو-غينياالاستو-2025-12-24",
+      "id": "بوركينافاسو-غينياالاستو-2025-12-25",
       "home": "بوركينا فاسو",
       "away": "غينيا الاستوائية",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5420.png",
@@ -33,52 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البروق-الانوار-2025-12-24",
-      "home": "البروق",
-      "away": "الانوار",
-      "home_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "15:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "ليبيا, الدوري الليبي - المجموعات - المجموعة ج",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فاركو-إنبي-2025-12-24",
-      "home": "فاركو",
-      "away": "إنبي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كهرباءالاسم-الاتحادالسك-2025-12-24",
-      "home": "كهرباء الاسماعيلية",
-      "away": "الاتحاد السكندري",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-1",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فاركو-إنبي-2025-12-24",
+      "id": "فاركو-إنبي-2025-12-25",
       "home": "فاركو",
       "away": "إنبي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
@@ -93,7 +48,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجزائر-السودان-2025-12-24",
+      "id": "الجزائر-السودان-2025-12-25",
       "home": "الجزائر",
       "away": "السودان",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
@@ -108,7 +63,37 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-أنديجون-2025-12-24",
+      "id": "فاركو-إنبي-2025-12-25",
+      "home": "فاركو",
+      "away": "إنبي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1880.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8300.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كهرباءالاسم-الاتحادالسك-2025-12-25",
+      "home": "كهرباء الاسماعيلية",
+      "away": "الاتحاد السكندري",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/19506.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/13.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-1",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-أنديجون-2025-12-25",
       "home": "الأهلي",
       "away": "أنديجون",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
@@ -123,7 +108,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-الزوراء-2025-12-24",
+      "id": "النصر-الزوراء-2025-12-25",
       "home": "النصر",
       "away": "الزوراء",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/873.png",
@@ -138,7 +123,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المحرق-استقلال-2025-12-24",
+      "id": "المحرق-استقلال-2025-12-25",
       "home": "المحرق",
       "away": "استقلال",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16941.png",
@@ -153,7 +138,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الوصل-الوحدات-2025-12-24",
+      "id": "الوصل-الوحدات-2025-12-25",
       "home": "الوصل",
       "away": "الوحدات",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/869.png",
@@ -168,7 +153,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "القادسية-سترة-2025-12-24",
+      "id": "القادسية-سترة-2025-12-25",
       "home": "القادسية",
       "away": "سترة",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
@@ -183,7 +168,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كوتديفوار-موزمبيق-2025-12-24",
+      "id": "كوتديفوار-موزمبيق-2025-12-25",
       "home": "كوت ديفوار",
       "away": "موزمبيق",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2385.png",
@@ -198,7 +183,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "المقاولونال-طلائعالجيش-2025-12-24",
+      "id": "المقاولونال-طلائعالجيش-2025-12-25",
       "home": "المقاولون العرب",
       "away": "طلائع الجيش",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/8310.png",
