@@ -18,21 +18,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجزائر-السودان-2025-12-24",
-      "home": "الجزائر",
-      "away": "السودان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فاركو-إنبي-2025-12-24",
       "home": "فاركو",
       "away": "إنبي",
@@ -75,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزائر-السودان-2025-12-24",
+      "home": "الجزائر",
+      "away": "السودان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "الجزائرية الأولى",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
       "_source": "yalla1shoot"
     },
     {
