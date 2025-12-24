@@ -78,6 +78,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "البروق-الانوار-2025-12-24",
+      "home": "البروق",
+      "away": "الانوار",
+      "home_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "15:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "ليبيا, الدوري الليبي - المجموعات - المجموعة ج",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فاركو-إنبي-2025-12-24",
       "home": "فاركو",
       "away": "إنبي",
