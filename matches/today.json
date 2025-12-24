@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "القادسية-سترة-2025-12-24",
-      "home": "القادسية",
-      "away": "سترة",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال الخليج للأندية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كوتديفوار-موزمبيق-2025-12-24",
       "home": "كوت ديفوار",
       "away": "موزمبيق",
@@ -153,6 +138,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الأهلي-أنديجون-2025-12-24",
+      "home": "الأهلي",
+      "away": "أنديجون",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-0",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "النصر-الزوراء-2025-12-24",
       "home": "النصر",
       "away": "الزوراء",
@@ -198,18 +198,18 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-أنديجون-2025-12-24",
-      "home": "الأهلي",
-      "away": "أنديجون",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/02/1.png",
-      "away_logo": "https://www.kora-shoot.us/wp-content/themes/AlbaYallaShoot/public/img/default.png",
-      "time_baghdad": "18:00",
+      "id": "القادسية-سترة-2025-12-24",
+      "home": "القادسية",
+      "away": "سترة",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/179.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/16940.png",
+      "time_baghdad": "19:00",
       "status": "FT",
       "status_text": "انتهت",
-      "result_text": "2-0",
-      "channel": "beIN Sports 5 HD",
+      "result_text": "0-0",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - المجموعات",
+      "competition": "آسيا, دوري أبطال الخليج للأندية",
       "_source": "yalla1shoot"
     }
   ]
