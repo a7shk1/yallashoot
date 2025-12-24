@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "كوتديفوار-موزمبيق-2025-12-24",
-      "home": "كوت ديفوار",
-      "away": "موزمبيق",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2385.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/674.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN Sports Max 2 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة و",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المقاولونال-طلائعالجيش-2025-12-24",
       "home": "المقاولون العرب",
       "away": "طلائع الجيش",
@@ -40,7 +25,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/386.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
@@ -75,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "ليبيا, الدوري الليبي - المجموعات - المجموعة ج",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزائر-السودان-2025-12-24",
+      "home": "الجزائر",
+      "away": "السودان",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "3-0",
+      "channel": "الجزائرية الأولى",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
       "_source": "yalla1shoot"
     },
     {
@@ -120,21 +120,6 @@
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجزائر-السودان-2025-12-24",
-      "home": "الجزائر",
-      "away": "السودان",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5109.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5099.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "3-0",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
       "_source": "yalla1shoot"
     },
     {
@@ -210,6 +195,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال الخليج للأندية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كوتديفوار-موزمبيق-2025-12-24",
+      "home": "كوت ديفوار",
+      "away": "موزمبيق",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/2385.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/674.png",
+      "time_baghdad": "19:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN Sports Max 2 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة و",
       "_source": "yalla1shoot"
     }
   ]
