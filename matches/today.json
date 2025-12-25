@@ -1,24 +1,9 @@
 {
-  "date": "2025-12-25",
+  "date": "2025-12-26",
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "شباببلوزداد-وفاقسطيف-2025-12-25",
-      "home": "شباب بلوزداد",
-      "away": "وفاق سطيف",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
-      "away_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/8222.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "الجزائر, الدوري الجزائري",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجونة-البنكالاهلي-2025-12-25",
+      "id": "الجونة-البنكالاهلي-2025-12-26",
       "home": "الجونة",
       "away": "البنك الاهلي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/617.png",
@@ -33,7 +18,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "حرسالحدود-المصري-2025-12-25",
+      "id": "حرسالحدود-المصري-2025-12-26",
       "home": "حرس الحدود",
       "away": "المصري",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/149.png",
@@ -48,7 +33,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيراميدز-الإسماعيلي-2025-12-25",
+      "id": "بيراميدز-الإسماعيلي-2025-12-26",
       "home": "بيراميدز",
       "away": "الإسماعيلي",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/1451.png",
@@ -63,7 +48,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الزمالك-سموحة-2025-12-25",
+      "id": "الزمالك-سموحة-2025-12-26",
       "home": "الزمالك",
       "away": "سموحة",
       "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/2.png",
@@ -75,6 +60,21 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شباببلوزداد-وفاقسطيف-2025-12-26",
+      "home": "شباب بلوزداد",
+      "away": "وفاق سطيف",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/941.png",
+      "away_logo": "https://www.kora-shoot.us/wp-content/uploads/2025/12/8222.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "الجزائر, الدوري الجزائري",
       "_source": "yalla1shoot"
     }
   ]
