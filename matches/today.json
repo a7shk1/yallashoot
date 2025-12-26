@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "المغرب-مالي-2025-12-26",
-      "home": "المغرب",
-      "away": "مالي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة أ",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشستريونا-نيوكاسليونا-2025-12-26",
       "home": "مانشستر يونايتد",
       "away": "نيوكاسل يونايتد",
@@ -25,11 +10,26 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/01/97.png",
       "time_baghdad": "22:00",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المغرب-مالي-2025-12-26",
+      "home": "المغرب",
+      "away": "مالي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5093.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/19.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة أ",
       "_source": "yalla1shoot"
     },
     {
