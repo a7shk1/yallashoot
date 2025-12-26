@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "أنجولا-زيمبابوي-2025-12-26",
-      "home": "أنجولا",
-      "away": "زيمبابوي",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
-      "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مصر-جنوبأفريقيا-2025-12-26",
       "home": "مصر",
       "away": "جنوب أفريقيا",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5103.png",
       "time_baghdad": "17:00",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
@@ -75,6 +60,21 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أنجولا-زيمبابوي-2025-12-26",
+      "home": "أنجولا",
+      "away": "زيمبابوي",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/388.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/234.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
       "_source": "yalla1shoot"
     }
   ]
