@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla-shoot.info/matches-today/",
   "matches": [
     {
-      "id": "مصر-جنوبأفريقيا-2025-12-26",
-      "home": "مصر",
-      "away": "جنوب أفريقيا",
-      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
-      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5103.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "0-0",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "زامبيا-جزرالقمر-2025-12-26",
       "home": "زامبيا",
       "away": "جزر القمر",
@@ -25,7 +10,7 @@
       "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/03/1065.png",
       "time_baghdad": "19:30",
       "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status_text": "بعد قليل",
       "result_text": "0-0",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -73,6 +58,21 @@
       "status_text": "انتهت",
       "result_text": "0-0",
       "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مصر-جنوبأفريقيا-2025-12-26",
+      "home": "مصر",
+      "away": "جنوب أفريقيا",
+      "home_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/09/5100.png",
+      "away_logo": "https://www.yalla-shoot.info/wp-content/uploads/2025/08/5103.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "0-0",
+      "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ب",
       "_source": "yalla1shoot"
