@@ -1,4 +1,4 @@
-name: Scrape LiveOnSat (liveonsat_raw.json)
+name: Scrape YallaShoot (today.json)
 
 on:
   schedule:
@@ -8,21 +8,19 @@ on:
       force_url:
         description: "اختياري: URL مخصص بدل الافتراضي"
         required: false
-      debug_liveonsat:
-        description: "حفظ debug html/png (1 = تفعيل)"
-        required: false
-        default: "0"
 
 permissions:
   contents: write
 
+# يمنع تشغيل أكثر من مهمة بنفس الوقت (يتفادى تعارض الـpush)
 concurrency:
-  group: scrape-bot
+  group: scrape-yallashoot
   cancel-in-progress: true
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -34,39 +32,29 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps (Playwright + bs4)
+      - name: Install deps (Playwright + requests)
         run: |
           python -m pip install --upgrade pip
-          pip install playwright beautifulsoup4
+          pip install playwright requests
           playwright install --with-deps chromium
 
-      - name: Run LiveOnSat scraper
+      - name: Run scraper
         env:
           FORCE_URL: ${{ github.event.inputs.force_url }}
-          LOS_URL: https://m.liveonsat.com/2day.php
-          DEBUG_LIVEONSAT: ${{ github.event.inputs.debug_liveonsat }}
+          # تقدر تغيّرها بدون تعديل الكود إذا احتجت
+          LOS_URL: https://liveonsat.com/2day.php
         run: |
-          python scripts/scrape_liveonsat_only.py
+          python scripts/scrape_yallashoot_to_json.py
 
       - name: Show output
         run: |
-          echo "---- matches/liveonsat_raw.json ----"
-          cat matches/liveonsat_raw.json || true
-
-      - name: Upload debug artifacts (if enabled)
-        if: ${{ github.event.inputs.debug_liveonsat == '1' }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: liveonsat-debug
-          path: |
-            matches/liveonsat_debug.html
-            matches/liveonsat_debug.png
-            matches/liveonsat_error.png
+          echo "---- matches/today.json ----"
+          cat matches/today.json || true
 
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: main
-          commit_message: "chore: update matches/liveonsat_raw.json (scraped)"
-          file_pattern: matches/liveonsat_raw.json
-          pull_strategy: REBASE
+          commit_message: "chore: update matches/today.json (scraped)"
+          file_pattern: matches/today.json
+          pull_strategy: REBASE   # يحل مشكلة non-fast-forward بسحب تغييرات الريموت قبل الدفع
