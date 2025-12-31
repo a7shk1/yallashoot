@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "زد-حرسالحدود-2025-12-31",
-      "home": "زد",
-      "away": "حرس الحدود",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8307-150x150.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "جارية الان",
-      "result_text": "2-0",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجابون-كوتديفوار-2025-12-31",
       "home": "الجابون",
       "away": "كوت ديفوار",
@@ -26,7 +11,7 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "2-0",
+      "result_text": "2-1",
       "channel": "beIN SPORTS MAX 1",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة و",
@@ -41,40 +26,10 @@
       "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "جارية الان",
-      "result_text": "1-1",
+      "result_text": "1-2",
       "channel": "beIN Sports Max 2 HD",
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة و",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "السودان-بوركينافاسو-2025-12-31",
-      "home": "السودان",
-      "away": "بوركينا فاسو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5099-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5420-1-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "0-2",
-      "channel": "beIN Sports Max 2 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "غينياالاستو-الجزائر-2025-12-31",
-      "home": "غينيا الاستوائية",
-      "away": "الجزائر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5419-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5109-1-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-3",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المجموعة ه",
       "_source": "yalla1shoot"
     },
     {
@@ -105,6 +60,21 @@
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "زد-حرسالحدود-2025-12-31",
+      "home": "زد",
+      "away": "حرس الحدود",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8307-150x150.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "2-0",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
       "_source": "yalla1shoot"
     }
   ]
