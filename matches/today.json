@@ -3,6 +3,21 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
+      "id": "شيفيلديوناي-ليسترسيتي-2026-01-01",
+      "home": "شيفيلد يونايتد",
+      "away": "ليستر سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/20-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "جارية الان",
+      "result_text": "0-0",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كريستالبالا-فولهام-2026-01-01",
       "home": "كريستال بالاس",
       "away": "فولهام",
@@ -10,7 +25,7 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -25,26 +40,11 @@
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
       "time_baghdad": "20:30",
       "status": "NS",
-      "status_text": "بعد قليل",
+      "status_text": "جارية الان",
       "result_text": "0-0",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "شيفيلديوناي-ليسترسيتي-2026-01-01",
-      "home": "شيفيلد يونايتد",
-      "away": "ليستر سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/20-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "بعد قليل",
-      "result_text": "0-0",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
       "_source": "yalla1shoot"
     },
     {
@@ -93,6 +93,21 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ويكومب-كارديفسيتي-2026-01-01",
+      "home": "ويكومب",
+      "away": "كارديف سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/58.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/14-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "1-1",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, ليغ وان",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ساوثهامبتون-ميلوال-2026-01-01",
       "home": "ساوثهامبتون",
       "away": "ميلوال",
@@ -135,21 +150,6 @@
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ويكومب-كارديفسيتي-2026-01-01",
-      "home": "ويكومب",
-      "away": "كارديف سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/58.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/14-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "1-1",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, ليغ وان",
       "_source": "yalla1shoot"
     }
   ]
