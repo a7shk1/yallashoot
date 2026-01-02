@@ -3,21 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "خورفكان-الظفرة-2026-01-02",
-      "home": "خورفكان",
-      "away": "الظفرة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11134-150x146.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8352-150x150.png",
-      "time_baghdad": "15:55",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "0-0",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الوصل-الوحدة-2026-01-02",
       "home": "الوصل",
       "away": "الوحدة",
@@ -28,6 +13,21 @@
       "status_text": "لم تبدأ بعد",
       "result_text": "0-0",
       "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "خورفكان-الظفرة-2026-01-02",
+      "home": "خورفكان",
+      "away": "الظفرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/11134-150x146.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8352-150x150.png",
+      "time_baghdad": "15:55",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "0-0",
+      "channel": "ابوظبي الرياضية 2",
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "_source": "yalla1shoot"
