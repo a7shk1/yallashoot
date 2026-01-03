@@ -25,6 +25,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Setup Python
@@ -50,11 +51,21 @@ jobs:
         run: |
           echo "---- matches/today.json ----"
           cat matches/today.json || true
+          echo "---- debug files (if any) ----"
+          ls -la matches || true
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # بدل pull_strategy (غير مدعوم)، نسوي Pull/Rebase مع Autostash قبل الـ commit
+      - name: Sync with remote (rebase + autostash)
+        run: |
+          git pull --rebase --autostash origin main
 
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: main
           commit_message: "chore: update matches/today.json (scraped)"
           file_pattern: matches/today.json
-          pull_strategy: REBASE   # يحل مشكلة non-fast-forward بسحب تغييرات الريموت قبل الدفع
