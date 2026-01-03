@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "عجمان-كلباء-2026-01-03",
-      "home": "عجمان",
-      "away": "كلباء",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8652-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8355-150x150.png",
-      "time_baghdad": "15:55",
-      "status": "LIVE",
-      "status_text": "جارية الان",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/ajman-vs-kalba/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سيلتافيجو-فالنسيا-2026-01-03",
       "home": "سيلتا فيجو",
       "away": "فالنسيا",
@@ -179,6 +163,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "إلتشي-فياريال-2026-01-03",
+      "home": "إلتشي",
+      "away": "فياريال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/133-1.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/elche-vs-villarreal/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بورنموث-أرسنال-2026-01-03",
       "home": "بورنموث",
       "away": "أرسنال",
@@ -208,22 +208,6 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/union-vs-cooperation/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إلتشي-فياريال-2026-01-03",
-      "home": "إلتشي",
-      "away": "فياريال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/133-1.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/elche-vs-villarreal/",
       "_source": "yalla1shoot"
     },
     {
@@ -336,6 +320,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-nottingham-forest/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "عجمان-كلباء-2026-01-03",
+      "home": "عجمان",
+      "away": "كلباء",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8652-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8355-150x150.png",
+      "time_baghdad": "15:55",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/ajman-vs-kalba/",
       "_source": "yalla1shoot"
     }
   ]
