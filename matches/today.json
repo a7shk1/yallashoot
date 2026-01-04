@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "لاتسيو-نابولي-2026-01-04",
-      "home": "لاتسيو",
-      "away": "نابولي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
-      "time_baghdad": "14:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-napoli/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليدزيونايتد-مانشستريونا-2026-01-04",
       "home": "ليدز يونايتد",
       "away": "مانشستر يونايتد",
@@ -400,6 +384,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-atletico-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "لاتسيو-نابولي-2026-01-04",
+      "home": "لاتسيو",
+      "away": "نابولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-napoli/",
       "_source": "yalla1shoot"
     }
   ]
