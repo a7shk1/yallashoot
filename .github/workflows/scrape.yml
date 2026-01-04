@@ -24,22 +24,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
-
-      # هذا بديل pull_strategy (لان مو مدعوم بـ v5)
-      - name: Pull latest (avoid non-fast-forward)
-        run: |
-          git pull --rebase --autostash origin main || true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps (Playwright + requests)
+      - name: Install deps (Playwright)
         run: |
           python -m pip install --upgrade pip
-          pip install playwright requests
+          pip install playwright
           playwright install --with-deps chromium
 
       - name: Run scraper
@@ -52,12 +48,29 @@ jobs:
         run: |
           echo "---- matches/today.json ----"
           cat matches/today.json || true
-          echo "---- debug files (if any) ----"
+          echo "---- matches dir ----"
           ls -la matches || true
+
+      - name: Upload debug artifacts (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-debug
+          path: |
+            matches/debug_page.html
+            matches/debug_page.png
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync with remote (rebase + autostash)
+        run: |
+          git pull --rebase --autostash origin main
 
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: main
           commit_message: "chore: update matches/today.json (scraped)"
           file_pattern: matches/today.json
