@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/50527.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8311-131x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -80,22 +80,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-west-bromwich/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "المصري-سموحة-2026-01-05",
-      "home": "المصري",
-      "away": "سموحة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8303-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8309-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-smouha/",
       "_source": "yalla1shoot"
     }
   ]
