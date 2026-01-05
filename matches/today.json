@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ليسترسيتي-وستبروميتش-2026-01-06",
-      "home": "ليستر سيتي",
-      "away": "وست بروميتش",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-west-bromwich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيتنامتحت2-الأردنتحت2-2026-01-06",
       "home": "فيتنام تحت 23",
       "away": "الأردن تحت 23",
@@ -179,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البنكالاهلي-واديدجلة-2026-01-06",
-      "home": "البنك الاهلي",
-      "away": "وادي دجلة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/50527.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8311-131x150.png",
-      "time_baghdad": "21:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/national-bank-vs-wadi-degla/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيجيريا-موزمبيق-2026-01-06",
       "home": "نيجيريا",
       "away": "موزمبيق",
@@ -224,6 +192,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
       "match_url": "https://www.yalla1shoot.com/matches/montpellier-vs-dunkark/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليسترسيتي-وستبروميتش-2026-01-06",
+      "home": "ليستر سيتي",
+      "away": "وست بروميتش",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-west-bromwich/",
       "_source": "yalla1shoot"
     }
   ]
