@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "فيتنامتحت2-الأردنتحت2-2026-01-06",
-      "home": "فيتنام تحت 23",
-      "away": "الأردن تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28923.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28920.png",
-      "time_baghdad": "14:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
-      "match_url": "https://www.yalla1shoot.com/matches/vietnam-u23-vs-jordan-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النصرالامار-الشارقة-2026-01-06",
       "home": "النصر الاماراتي",
       "away": "الشارقة",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/1111334-70x70-1.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8351-150x150.png",
       "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "دبي الرياضية 1",
       "commentator": "غير معروف",
@@ -176,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/west-ham-united-vs-nottingham-forest/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيتنامتحت2-الأردنتحت2-2026-01-06",
+      "home": "فيتنام تحت 23",
+      "away": "الأردن تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28923.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28920.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
+      "match_url": "https://www.yalla1shoot.com/matches/vietnam-u23-vs-jordan-u23/",
       "_source": "yalla1shoot"
     }
   ]
