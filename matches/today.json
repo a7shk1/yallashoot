@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "النصرالامار-الشارقة-2026-01-06",
-      "home": "النصر الاماراتي",
-      "away": "الشارقة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/1111334-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8351-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "دبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-uae-vs-sharjah/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيسا-كومو-2026-01-06",
       "home": "بيسا",
       "away": "كومو",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8308-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8302-150x150.png",
       "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8300.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/50882-150x150.png",
       "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجزائر-الكونغوالدي-2026-01-06",
-      "home": "الجزائر",
-      "away": "الكونغو الديمقراطية",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5109-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/14650-1-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-democratic-republic-of-congo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السعوديةتحت-قرغيزستانتح-2026-01-06",
       "home": "السعودية تحت 23",
       "away": "قرغيزستان تحت 23",
@@ -112,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
       "match_url": "https://www.yalla1shoot.com/matches/saudi-arabia-u23-vs-kyrgyzstan-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزائر-الكونغوالدي-2026-01-06",
+      "home": "الجزائر",
+      "away": "الكونغو الديمقراطية",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5109-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/14650-1-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الجزائرية الأولى",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-democratic-republic-of-congo/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غرناطة-رايوفاييكان-2026-01-06",
-      "home": "غرناطة",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/159-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/granada-vs-rayo-vallecano/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحادالسك-زد-2026-01-06",
       "home": "الاتحاد السكندري",
       "away": "زد",
@@ -160,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
       "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-z/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غرناطة-رايوفاييكان-2026-01-06",
+      "home": "غرناطة",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/159-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/granada-vs-rayo-vallecano/",
       "_source": "yalla1shoot"
     },
     {
@@ -211,19 +195,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فيتنامتحت2-الأردنتحت2-2026-01-06",
-      "home": "فيتنام تحت 23",
-      "away": "الأردن تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28923.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28920.png",
-      "time_baghdad": "14:30",
+      "id": "النصرالامار-الشارقة-2026-01-06",
+      "home": "النصر الاماراتي",
+      "away": "الشارقة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/1111334-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8351-150x150.png",
+      "time_baghdad": "16:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "الكأس 5",
+      "channel": "دبي الرياضية 1",
       "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
-      "match_url": "https://www.yalla1shoot.com/matches/vietnam-u23-vs-jordan-u23/",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-uae-vs-sharjah/",
       "_source": "yalla1shoot"
     }
   ]
