@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجزائر-الكونغوالدي-2026-01-06",
-      "home": "الجزائر",
-      "away": "الكونغو الديمقراطية",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5109-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/14650-1-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-democratic-republic-of-congo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السعوديةتحت-قرغيزستانتح-2026-01-06",
       "home": "السعودية تحت 23",
       "away": "قرغيزستان تحت 23",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
       "match_url": "https://www.yalla1shoot.com/matches/saudi-arabia-u23-vs-kyrgyzstan-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزائر-الكونغوالدي-2026-01-06",
+      "home": "الجزائر",
+      "away": "الكونغو الديمقراطية",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5109-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/14650-1-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الجزائرية الأولى",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-democratic-republic-of-congo/",
       "_source": "yalla1shoot"
     },
     {
