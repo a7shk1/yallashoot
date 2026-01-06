@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ساسولو-يوفنتوس-2026-01-07",
-      "home": "ساسولو",
-      "away": "يوفنتوس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-juventus/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سبورتنجلشبو-فيتورياغيما-2026-01-07",
       "home": "سبورتنج لشبونة",
       "away": "فيتوريا غيماريش",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/cote-divoire-vs-burkina-faso/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ساسولو-يوفنتوس-2026-01-07",
+      "home": "ساسولو",
+      "away": "يوفنتوس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-juventus/",
       "_source": "yalla1shoot"
     }
   ]
