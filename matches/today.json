@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الجونة-بتروجت-2026-01-06",
-      "home": "الجونة",
-      "away": "بتروجت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8308-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8302-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/el-gouna-vs-petrojet/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنبي-سيراميكاكلي-2026-01-06",
       "home": "إنبي",
       "away": "سيراميكا كليوباترا",
@@ -32,6 +16,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, كأس الرابطة المصرية",
       "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-ceramica-cleopatra/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجونة-بتروجت-2026-01-06",
+      "home": "الجونة",
+      "away": "بتروجت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8308-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8302-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "match_url": "https://www.yalla1shoot.com/matches/el-gouna-vs-petrojet/",
       "_source": "yalla1shoot"
     },
     {
