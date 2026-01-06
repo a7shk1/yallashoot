@@ -57,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8350-127x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8345.png",
       "time_baghdad": "18:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "دبي الرياضية 1",
       "commentator": "غير معروف",
@@ -115,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الاتحادالسك-زد-2026-01-06",
-      "home": "الاتحاد السكندري",
-      "away": "زد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أون سبورت 2",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-z/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "غرناطة-رايوفاييكان-2026-01-06",
       "home": "غرناطة",
       "away": "رايو فاييكانو",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/granada-vs-rayo-vallecano/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحادالسك-زد-2026-01-06",
+      "home": "الاتحاد السكندري",
+      "away": "زد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 2",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-z/",
       "_source": "yalla1shoot"
     },
     {
