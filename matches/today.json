@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "السعوديةتحت-قرغيزستانتح-2026-01-06",
-      "home": "السعودية تحت 23",
-      "away": "قرغيزستان تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28914-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/24948-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
-      "match_url": "https://www.yalla1shoot.com/matches/saudi-arabia-u23-vs-kyrgyzstan-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليتشي-روما-2026-01-06",
       "home": "ليتشي",
       "away": "روما",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/159-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -73,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8312.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29732-136x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 2",
       "commentator": "غير معروف",
@@ -131,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيسا-كومو-2026-01-06",
-      "home": "بيسا",
-      "away": "كومو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/248-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/besa-vs-como/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجونة-بتروجت-2026-01-06",
       "home": "الجونة",
       "away": "بتروجت",
@@ -192,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/al-wahda-vs-baniyas/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "السعوديةتحت-قرغيزستانتح-2026-01-06",
+      "home": "السعودية تحت 23",
+      "away": "قرغيزستان تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28914-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/24948-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
+      "match_url": "https://www.yalla1shoot.com/matches/saudi-arabia-u23-vs-kyrgyzstan-u23/",
       "_source": "yalla1shoot"
     }
   ]
