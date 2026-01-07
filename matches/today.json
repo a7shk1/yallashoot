@@ -147,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "فولهام-تشيلسي-2026-01-07",
+      "home": "فولهام",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/fulham-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برينتفورد-سندرلاند-2026-01-07",
       "home": "برينتفورد",
       "away": "سندرلاند",
@@ -227,19 +243,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-تشيلسي-2026-01-07",
-      "home": "فولهام",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "time_baghdad": "22:30",
+      "id": "لاتسيو-فيورنتينا-2026-01-07",
+      "home": "لاتسيو",
+      "away": "فيورنتينا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
+      "time_baghdad": "22:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/fulham-vs-chelsea/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-fiorentina/",
       "_source": "yalla1shoot"
     },
     {
@@ -272,22 +288,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/torino-vs-udinese/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "لاتسيو-فيورنتينا-2026-01-07",
-      "home": "لاتسيو",
-      "away": "فيورنتينا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-fiorentina/",
       "_source": "yalla1shoot"
     },
     {
