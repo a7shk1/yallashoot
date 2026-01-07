@@ -147,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فولهام-تشيلسي-2026-01-07",
-      "home": "فولهام",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/fulham-vs-chelsea/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "برينتفورد-سندرلاند-2026-01-07",
       "home": "برينتفورد",
       "away": "سندرلاند",
@@ -243,19 +227,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لاتسيو-فيورنتينا-2026-01-07",
-      "home": "لاتسيو",
-      "away": "فيورنتينا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
-      "time_baghdad": "22:45",
+      "id": "فولهام-تشيلسي-2026-01-07",
+      "home": "فولهام",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/120-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "time_baghdad": "22:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-fiorentina/",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/fulham-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
@@ -291,19 +275,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-ليدزيونايتد-2026-01-07",
-      "home": "نيوكاسل يونايتد",
-      "away": "ليدز يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
-      "time_baghdad": "23:15",
+      "id": "لاتسيو-فيورنتينا-2026-01-07",
+      "home": "لاتسيو",
+      "away": "فيورنتينا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/236.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
+      "time_baghdad": "22:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-leeds-united/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-fiorentina/",
       "_source": "yalla1shoot"
     },
     {
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-manchester-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-ليدزيونايتد-2026-01-07",
+      "home": "نيوكاسل يونايتد",
+      "away": "ليدز يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
+      "time_baghdad": "23:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-leeds-united/",
       "_source": "yalla1shoot"
     }
   ]
