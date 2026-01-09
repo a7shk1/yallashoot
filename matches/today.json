@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "مالي-السنغال-2026-01-09",
-      "home": "مالي",
-      "away": "السنغال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5097-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5102-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS MAX 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/mali-vs-senegal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأردنتحت2-السعوديةتحت-2026-01-09",
       "home": "الأردن تحت 23",
       "away": "السعودية تحت 23",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "آينتراختفرا-بوروسيادورت-2026-01-09",
-      "home": "آينتراخت فرانكفورت",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/337.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/341-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-borussia-dortmund-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريكسهام-نوتنجهامفور-2026-01-09",
       "home": "ريكسهام",
       "away": "نوتنجهام فورست",
@@ -96,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/wrexham-vs-nottingham-forest/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "آينتراختفرا-بوروسيادورت-2026-01-09",
+      "home": "آينتراخت فرانكفورت",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/337.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/341-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-borussia-dortmund-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -115,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "قرغيزستانتح-فيتنامتحت2-2026-01-09",
-      "home": "قرغيزستان تحت 23",
-      "away": "فيتنام تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/24948-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28923.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة أ",
-      "match_url": "https://www.yalla1shoot.com/matches/kyrgyzstan-u23-vs-vietnam-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "التعاون-الشباب-2026-01-09",
       "home": "التعاون",
       "away": "الشباب",
@@ -144,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/cooperation-vs-youth/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مالي-السنغال-2026-01-09",
+      "home": "مالي",
+      "away": "السنغال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5097-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5102-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS MAX 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, كأس أمم إفريقيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/mali-vs-senegal/",
       "_source": "yalla1shoot"
     }
   ]
