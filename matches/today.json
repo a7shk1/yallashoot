@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ريكسهام-نوتنجهامفور-2026-01-10",
-      "home": "ريكسهام",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/75.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29-1-77x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/wrexham-vs-nottingham-forest/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيفرتون-سندرلاند-2026-01-10",
       "home": "إيفرتون",
       "away": "سندرلاند",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مانشسترسيتي-إكسيتر-2026-01-10",
-      "home": "مانشستر سيتي",
-      "away": "إكسيتر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/77-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-exeter/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيوكاسليونا-بورنموث-2026-01-10",
       "home": "نيوكاسل يونايتد",
       "away": "بورنموث",
@@ -112,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-bournemouth/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مانشسترسيتي-إكسيتر-2026-01-10",
+      "home": "مانشستر سيتي",
+      "away": "إكسيتر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/77-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-exeter/",
       "_source": "yalla1shoot"
     },
     {
@@ -256,6 +240,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-borussia-dortmund-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريكسهام-نوتنجهامفور-2026-01-10",
+      "home": "ريكسهام",
+      "away": "نوتنجهام فورست",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/75.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29-1-77x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/wrexham-vs-nottingham-forest/",
       "_source": "yalla1shoot"
     },
     {
