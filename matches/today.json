@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-10",
+  "date": "2026-01-11",
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "مصر-كوتديفوار-2026-01-10",
+      "id": "مصر-كوتديفوار-2026-01-11",
       "home": "مصر",
       "away": "كوت ديفوار",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5100.png",
@@ -19,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-تورينو-2026-01-10",
+      "id": "أتالانتا-تورينو-2026-01-11",
       "home": "أتالانتا",
       "away": "تورينو",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
@@ -35,23 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشارلتوناثل-تشيلسي-2026-01-10",
-      "home": "تشارلتون اثلتيك",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/charlton-athletic-vs-chelsea/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فالنسيا-إلتشي-2026-01-10",
+      "id": "فالنسيا-إلتشي-2026-01-11",
       "home": "فالنسيا",
       "away": "إلتشي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
@@ -67,23 +51,23 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "افرانش-ستراسبورج-2026-01-10",
-      "home": "افرانش",
-      "away": "ستراسبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/7059-134x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/479.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
+      "id": "تشارلتوناثل-تشيلسي-2026-01-11",
+      "home": "تشارلتون اثلتيك",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ 32",
-      "match_url": "https://www.yalla1shoot.com/matches/avranches-vs-strasbourg/",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/charlton-athletic-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ساسولو-2026-01-10",
+      "id": "روما-ساسولو-2026-01-11",
       "home": "روما",
       "away": "ساسولو",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
@@ -99,23 +83,23 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرليفركوز-شتوتجارت-2026-01-10",
-      "home": "باير ليفركوزن",
-      "away": "شتوتجارت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/338.png",
-      "time_baghdad": "20:30",
+      "id": "افرانش-ستراسبورج-2026-01-11",
+      "home": "افرانش",
+      "away": "ستراسبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/7059-134x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/479.png",
+      "time_baghdad": "20:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "شاهد - Shahid VIP",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-stuttgart/",
+      "competition": "فرنسا, كأس فرنسا - دور الـ 32",
+      "match_url": "https://www.yalla1shoot.com/matches/avranches-vs-strasbourg/",
       "_source": "yalla1shoot"
     },
     {
-      "id": "جيرونا-أوساسونا-2026-01-10",
+      "id": "جيرونا-أوساسونا-2026-01-11",
       "home": "جيرونا",
       "away": "أوساسونا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
@@ -131,7 +115,23 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "توتنهامهوتس-أستونفيلا-2026-01-10",
+      "id": "بايرليفركوز-شتوتجارت-2026-01-11",
+      "home": "باير ليفركوزن",
+      "away": "شتوتجارت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/338.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-stuttgart/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توتنهامهوتس-أستونفيلا-2026-01-11",
       "home": "توتنهام هوتسبر",
       "away": "أستون فيلا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
@@ -147,7 +147,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سوشو-لانس-2026-01-10",
+      "id": "سوشو-لانس-2026-01-11",
       "home": "سوشو",
       "away": "لانس",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/483-123x150.png",
