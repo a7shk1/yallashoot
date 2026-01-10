@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "جيرونا-أوساسونا-2026-01-10",
-      "home": "جيرونا",
-      "away": "أوساسونا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/143-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/girona-vs-osasuna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "توتنهامهوتس-أستونفيلا-2026-01-10",
       "home": "توتنهام هوتسبر",
       "away": "أستون فيلا",
@@ -176,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/roma-vs-sassuolo/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جيرونا-أوساسونا-2026-01-10",
+      "home": "جيرونا",
+      "away": "أوساسونا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/143-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/girona-vs-osasuna/",
       "_source": "yalla1shoot"
     },
     {
