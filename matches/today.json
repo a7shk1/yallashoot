@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "فالنسيا-إلتشي-2026-01-11",
-      "home": "فالنسيا",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشارلتوناثل-تشيلسي-2026-01-11",
-      "home": "تشارلتون اثلتيك",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/charlton-athletic-vs-chelsea/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليتشي-بارما-2026-01-11",
       "home": "ليتشي",
       "away": "بارما",
@@ -179,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرنميونخ-فولفسبورج-2026-01-11",
-      "home": "بايرن ميونخ",
-      "away": "فولفسبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/331-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/339-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-wolfsburg/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشستريونا-برايتون-2026-01-11",
       "home": "مانشستر يونايتد",
       "away": "برايتون",
@@ -208,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-brighton/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرنميونخ-فولفسبورج-2026-01-11",
+      "home": "بايرن ميونخ",
+      "away": "فولفسبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/331-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/339-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-wolfsburg/",
       "_source": "yalla1shoot"
     },
     {
@@ -288,6 +256,38 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-torino/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فالنسيا-إلتشي-2026-01-11",
+      "home": "فالنسيا",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشارلتوناثل-تشيلسي-2026-01-11",
+      "home": "تشارلتون اثلتيك",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/charlton-athletic-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
