@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غلطةسراي-فنربخشة-2026-01-10",
-      "home": "غلطة سراي",
-      "away": "فنربخشة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/945-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/946-150x150.png",
-      "time_baghdad": "18:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "تركيا, كأس السوبر - النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/galatasaray-vs-fenerbahce/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجزائر-نيجيريا-2026-01-10",
       "home": "الجزائر",
       "away": "نيجيريا",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ساسولو-2026-01-10",
-      "home": "روما",
-      "away": "ساسولو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
-      "time_baghdad": "20:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-sassuolo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "افرانش-ستراسبورج-2026-01-10",
       "home": "افرانش",
       "away": "ستراسبورج",
@@ -96,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ 32",
       "match_url": "https://www.yalla1shoot.com/matches/avranches-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-ساسولو-2026-01-10",
+      "home": "روما",
+      "away": "ساسولو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
+      "time_baghdad": "20:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-sassuolo/",
       "_source": "yalla1shoot"
     },
     {
@@ -137,8 +121,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/109-1-121x150.png",
       "time_baghdad": "20:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-alaves/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غلطةسراي-فنربخشة-2026-01-10",
+      "home": "غلطة سراي",
+      "away": "فنربخشة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/945-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/946-150x150.png",
+      "time_baghdad": "18:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "تركيا, كأس السوبر - النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/galatasaray-vs-fenerbahce/",
       "_source": "yalla1shoot"
     },
     {
