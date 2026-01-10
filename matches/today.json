@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "فاركو-الأهلي-2026-01-10",
-      "home": "فاركو",
-      "away": "الأهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
-      "time_baghdad": "17:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/pharco-vs-ahly/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كومو-بولونيا-2026-01-10",
       "home": "كومو",
       "away": "بولونيا",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/udinese-vs-besa/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فاركو-الأهلي-2026-01-10",
+      "home": "فاركو",
+      "away": "الأهلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/46242-138x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
+      "time_baghdad": "17:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "match_url": "https://www.yalla1shoot.com/matches/pharco-vs-ahly/",
       "_source": "yalla1shoot"
     },
     {
@@ -137,8 +137,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/945-127x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/946-150x150.png",
       "time_baghdad": "18:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -291,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فالنسيا-إلتشي-2026-01-10",
-      "home": "فالنسيا",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تشارلتوناثل-تشيلسي-2026-01-10",
       "home": "تشارلتون اثلتيك",
       "away": "تشيلسي",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/charlton-athletic-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فالنسيا-إلتشي-2026-01-10",
+      "home": "فالنسيا",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
       "_source": "yalla1shoot"
     },
     {
