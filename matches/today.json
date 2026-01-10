@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/48242-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28916-150x150.png",
       "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28922.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28912-150x150.png",
       "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -227,22 +227,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ساسولو-2026-01-10",
-      "home": "روما",
-      "away": "ساسولو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-sassuolo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "افرانش-ستراسبورج-2026-01-10",
       "home": "افرانش",
       "away": "ستراسبورج",
@@ -259,19 +243,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جيرونا-أوساسونا-2026-01-10",
-      "home": "جيرونا",
-      "away": "أوساسونا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/143-150x150.png",
-      "time_baghdad": "20:30",
+      "id": "روما-ساسولو-2026-01-10",
+      "home": "روما",
+      "away": "ساسولو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
+      "time_baghdad": "20:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/girona-vs-osasuna/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-sassuolo/",
       "_source": "yalla1shoot"
     },
     {
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-stuttgart/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جيرونا-أوساسونا-2026-01-10",
+      "home": "جيرونا",
+      "away": "أوساسونا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/143-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/girona-vs-osasuna/",
       "_source": "yalla1shoot"
     },
     {
@@ -339,22 +339,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فالنسيا-إلتشي-2026-01-10",
-      "home": "فالنسيا",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تشارلتوناثل-تشيلسي-2026-01-10",
       "home": "تشارلتون اثلتيك",
       "away": "تشيلسي",
@@ -384,6 +368,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ 32",
       "match_url": "https://www.yalla1shoot.com/matches/sochaux-vs-lance/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فالنسيا-إلتشي-2026-01-10",
+      "home": "فالنسيا",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-elche/",
       "_source": "yalla1shoot"
     }
   ]
