@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مانشستريونا-برايتون-2026-01-11",
-      "home": "مانشستر يونايتد",
-      "away": "برايتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/105-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-brighton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرنميونخ-فولفسبورج-2026-01-11",
       "home": "بايرن ميونخ",
       "away": "فولفسبورج",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-wolfsburg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مانشستريونا-برايتون-2026-01-11",
+      "home": "مانشستر يونايتد",
+      "away": "برايتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/105-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
+      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-brighton/",
       "_source": "yalla1shoot"
     },
     {
@@ -176,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/inter-milan-vs-napoli/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليتشي-بارما-2026-01-11",
-      "home": "ليتشي",
-      "away": "بارما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/246.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/241-150x150.png",
-      "time_baghdad": "14:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/lecce-vs-parma/",
       "_source": "yalla1shoot"
     },
     {
