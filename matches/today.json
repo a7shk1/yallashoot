@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-12",
+  "date": "2026-01-13",
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ليفربول-بارنزلي-2026-01-12",
+      "id": "ليفربول-بارنزلي-2026-01-13",
       "home": "ليفربول",
       "away": "بارنزلي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/108-90x150.png",
@@ -19,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-كريمونيسي-2026-01-12",
+      "id": "يوفنتوس-كريمونيسي-2026-01-13",
       "home": "يوفنتوس",
       "away": "كريمونيسي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
@@ -35,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-سيلتافيجو-2026-01-12",
+      "id": "إشبيلية-سيلتافيجو-2026-01-13",
       "home": "إشبيلية",
       "away": "سيلتا فيجو",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
@@ -51,7 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "باريسسانجي-باريسأف.سي.-2026-01-12",
+      "id": "باريسسانجي-باريسأف.سي.-2026-01-13",
       "home": "باريس سان جيرمان",
       "away": "باريس أف.سي.",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/480-150x150.png",
@@ -67,7 +67,103 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الهلال-النصر-2026-01-12",
+      "id": "أوزبكستانتح-كورياالجنوب-2026-01-13",
+      "home": "أوزبكستان تحت 23",
+      "away": "كوريا الجنوبية تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28919-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28916-150x150.png",
+      "time_baghdad": "14:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة ج",
+      "match_url": "https://www.yalla1shoot.com/matches/uzbekistan-u23-vs-south-korea-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيرانتحت23-لبنانتحت23-2026-01-13",
+      "home": "إيران تحت 23",
+      "away": "لبنان تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28911.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/48242-150x150.png",
+      "time_baghdad": "14:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة ج",
+      "match_url": "https://www.yalla1shoot.com/matches/iran-u23-vs-lebanon-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الإماراتتحت-سورياتحت23-2026-01-13",
+      "home": "الإمارات تحت 23",
+      "away": "سوريا تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28922.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28910-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة ب",
+      "match_url": "https://www.yalla1shoot.com/matches/uae-u23-vs-syria-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اليابانتحت-قطرتحت23-2026-01-13",
+      "home": "اليابان تحت 23",
+      "away": "قطر تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28912-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/13399-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة ب",
+      "match_url": "https://www.yalla1shoot.com/matches/japan-u23-vs-qatar-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "Bayeux-أولمبيكمارس-2026-01-13",
+      "home": "Bayeux",
+      "away": "أولمبيك مارسيليا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/92326-124x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/469-1.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ 32",
+      "match_url": "https://www.yalla1shoot.com/matches/bayeux-vs-olympique-marseille/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-مانشسترسيتي-2026-01-13",
+      "home": "نيوكاسل يونايتد",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-manchester-city-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-النصر-2026-01-13",
       "home": "الهلال",
       "away": "النصر",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/5457-127x150.png",
@@ -83,7 +179,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جنوى-كالياري-2026-01-12",
+      "id": "جنوى-كالياري-2026-01-13",
       "home": "جنوى",
       "away": "كالياري",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
