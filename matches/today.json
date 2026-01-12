@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جنوى-كالياري-2026-01-12",
-      "home": "جنوى",
-      "away": "كالياري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/243-136x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/genoa-vs-cagliari/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الهلال-النصر-2026-01-12",
       "home": "الهلال",
       "away": "النصر",
@@ -67,19 +51,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-كريمونيسي-2026-01-12",
-      "home": "يوفنتوس",
-      "away": "كريمونيسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/290.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "id": "جنوى-كالياري-2026-01-12",
+      "home": "جنوى",
+      "away": "كالياري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/231-123x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/243-136x150.png",
+      "time_baghdad": "20:30",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-cremonese/",
+      "match_url": "https://www.yalla1shoot.com/matches/genoa-vs-cagliari/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 3",
       "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-barnsley/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "يوفنتوس-كريمونيسي-2026-01-12",
+      "home": "يوفنتوس",
+      "away": "كريمونيسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/290.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-cremonese/",
       "_source": "yalla1shoot"
     },
     {
