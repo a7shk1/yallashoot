@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "نيوكاسليونا-مانشسترسيتي-2026-01-14",
-      "home": "نيوكاسل يونايتد",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-manchester-city-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "العراقتحت2-استرالياتحت-2026-01-14",
       "home": "العراق تحت 23",
       "away": "استراليا تحت 23",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لايبزيج-فرايبورج-2026-01-14",
-      "home": "لايبزيج",
-      "away": "فرايبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/7171-150x108.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/354-115x150.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/leipzig-vs-freiburg/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كولن-بايرنميونخ-2026-01-14",
       "home": "كولن",
       "away": "بايرن ميونخ",
@@ -115,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "لايبزيج-فرايبورج-2026-01-14",
+      "home": "لايبزيج",
+      "away": "فرايبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/7171-150x108.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/354-115x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/leipzig-vs-freiburg/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إنترميلان-ليتشي-2026-01-14",
       "home": "إنتر ميلان",
       "away": "ليتشي",
@@ -128,22 +112,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/inter-milan-vs-lecce/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-أرسنال-2026-01-14",
-      "home": "تشيلسي",
-      "away": "أرسنال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/104-1-140x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-arsenal-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -192,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, كأس أمم إفريقيا - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/nigeria-vs-morocco/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-أرسنال-2026-01-14",
+      "home": "تشيلسي",
+      "away": "أرسنال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/104-1-140x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-arsenal-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ 32",
       "match_url": "https://www.yalla1shoot.com/matches/bayeux-vs-olympique-marseille/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-مانشسترسيتي-2026-01-14",
+      "home": "نيوكاسل يونايتد",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-manchester-city-2/",
       "_source": "yalla1shoot"
     },
     {
