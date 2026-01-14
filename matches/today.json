@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "العراقتحت2-استرالياتحت-2026-01-14",
-      "home": "العراق تحت 23",
-      "away": "استراليا تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28913-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28921.png",
-      "time_baghdad": "14:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة د",
-      "match_url": "https://www.yalla1shoot.com/matches/iraq-u23-vs-australia-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تايلاندتحت-الصينتحت23-2026-01-14",
-      "home": "تايلاند تحت 23",
-      "away": "الصين تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28918.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/25010-150x150.png",
-      "time_baghdad": "14:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة د",
-      "match_url": "https://www.yalla1shoot.com/matches/thailand-u23-vs-china-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السنغال-مصر-2026-01-14",
       "home": "السنغال",
       "away": "مصر",
@@ -208,6 +176,38 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/albacete-vs-real-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "العراقتحت2-استرالياتحت-2026-01-14",
+      "home": "العراق تحت 23",
+      "away": "استراليا تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/28913-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28921.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة د",
+      "match_url": "https://www.yalla1shoot.com/matches/iraq-u23-vs-australia-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تايلاندتحت-الصينتحت23-2026-01-14",
+      "home": "تايلاند تحت 23",
+      "away": "الصين تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/28918.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/25010-150x150.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "الكأس 5",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - المجموعة د",
+      "match_url": "https://www.yalla1shoot.com/matches/thailand-u23-vs-china-u23/",
       "_source": "yalla1shoot"
     }
   ]
