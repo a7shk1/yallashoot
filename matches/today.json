@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الأهلي-طلائعالجيش-2026-01-15",
-      "home": "الأهلي",
-      "away": "طلائع الجيش",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8306-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-talaea-el-geish/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبابالاهلي-عجمان-2026-01-15",
       "home": "شباب الاهلي",
       "away": "عجمان",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/316-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
       "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/racing-santander-vs-barcelona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-طلائعالجيش-2026-01-15",
+      "home": "الأهلي",
+      "away": "طلائع الجيش",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8306-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-talaea-el-geish/",
       "_source": "yalla1shoot"
     }
   ]
