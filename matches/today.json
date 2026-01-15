@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "هيلاسفيرونا-بولونيا-2026-01-15",
-      "home": "هيلاس فيرونا",
-      "away": "بولونيا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/316-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/hellas-verona-vs-bologna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المصري-الزمالك-2026-01-15",
       "home": "المصري",
       "away": "الزمالك",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/358.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/392-1.png",
       "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
@@ -99,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهلي-طلائعالجيش-2026-01-15",
-      "home": "الأهلي",
-      "away": "طلائع الجيش",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8306-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-talaea-el-geish/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبابالاهلي-عجمان-2026-01-15",
       "home": "شباب الاهلي",
       "away": "عجمان",
@@ -128,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/shabab-al-ahly-vs-ajman/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "هيلاسفيرونا-بولونيا-2026-01-15",
+      "home": "هيلاس فيرونا",
+      "away": "بولونيا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/316-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/hellas-verona-vs-bologna/",
       "_source": "yalla1shoot"
     }
   ]
