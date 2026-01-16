@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الخليج-الأخدود-2026-01-16",
-      "home": "الخليج",
-      "away": "الأخدود",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12138-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/55794-150x150.png",
-      "time_baghdad": "17:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/gulf-vs-groove/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيتنامتحت2-الإماراتتحت-2026-01-16",
       "home": "فيتنام تحت 23",
       "away": "الإمارات تحت 23",
@@ -99,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "باريسسانجي-ليل-2026-01-16",
+      "home": "باريس سان جيرمان",
+      "away": "ليل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/480-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-lille/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "وستبروميتش-ميدلزبره-2026-01-16",
       "home": "وست بروميتش",
       "away": "ميدلزبره",
@@ -131,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "باريسسانجي-ليل-2026-01-16",
-      "home": "باريس سان جيرمان",
-      "away": "ليل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/480-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "id": "الخليج-الأخدود-2026-01-16",
+      "home": "الخليج",
+      "away": "الأخدود",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12138-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/55794-150x150.png",
+      "time_baghdad": "17:45",
+      "status": "FT",
+      "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-lille/",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/gulf-vs-groove/",
       "_source": "yalla1shoot"
     }
   ]
