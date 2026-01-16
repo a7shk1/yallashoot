@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "باريسسانجي-ليل-2026-01-17",
-      "home": "باريس سان جيرمان",
-      "away": "ليل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/480-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-lille/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "وستبروميتش-ميدلزبره-2026-01-17",
-      "home": "وست بروميتش",
-      "away": "ميدلزبره",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/115-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/west-bromwich-vs-middlesbrough/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إسبانيول-جيرونا-2026-01-17",
       "home": "إسبانيول",
       "away": "جيرونا",
@@ -115,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-بيرنلي-2026-01-17",
-      "home": "ليفربول",
-      "away": "بيرنلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/108-90x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-burnley/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليدزيونايتد-فولهام-2026-01-17",
       "home": "ليدز يونايتد",
       "away": "فولهام",
@@ -160,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-brentford/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفربول-بيرنلي-2026-01-17",
+      "home": "ليفربول",
+      "away": "بيرنلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/108-90x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-burnley/",
       "_source": "yalla1shoot"
     },
     {
@@ -352,6 +320,38 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/besa-vs-atalanta/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "باريسسانجي-ليل-2026-01-17",
+      "home": "باريس سان جيرمان",
+      "away": "ليل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/480-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/478-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-lille/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستبروميتش-ميدلزبره-2026-01-17",
+      "home": "وست بروميتش",
+      "away": "ميدلزبره",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/115-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/west-bromwich-vs-middlesbrough/",
       "_source": "yalla1shoot"
     }
   ]
