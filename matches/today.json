@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أستونفيلا-إيفرتون-2026-01-18",
-      "home": "أستون فيلا",
-      "away": "إيفرتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/109-1-121x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-everton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوغسبورغ-فرايبورج-2026-01-18",
       "home": "أوغسبورغ",
       "away": "فرايبورج",
@@ -208,6 +192,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-freiburg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أستونفيلا-إيفرتون-2026-01-18",
+      "home": "أستون فيلا",
+      "away": "إيفرتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/109-1-121x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
@@ -320,22 +320,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-barcelona/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كالياري-يوفنتوس-2026-01-18",
-      "home": "كالياري",
-      "away": "يوفنتوس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/243-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/cagliari-vs-juventus/",
       "_source": "yalla1shoot"
     },
     {
