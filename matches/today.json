@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "تولوز-نيس-2026-01-17",
-      "home": "تولوز",
-      "away": "نيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/482-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/470-1.png",
-      "time_baghdad": "21:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/toulouse-vs-nice/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كالياري-يوفنتوس-2026-01-17",
       "home": "كالياري",
       "away": "يوفنتوس",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/146.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/133-1.png",
       "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -57,29 +41,13 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/493-136x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/469-1.png",
       "time_baghdad": "23:05",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/angers-vs-olympique-marseille/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مصر-نيجيريا-2026-01-17",
-      "home": "مصر",
-      "away": "نيجيريا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5100.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/2386-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الجزائرية الأولى",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, كأس أمم إفريقيا - المركز الثالث",
-      "match_url": "https://www.yalla1shoot.com/matches/egypt-vs-nigeria-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/leipzig-vs-bayern-munich/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تولوز-نيس-2026-01-17",
+      "home": "تولوز",
+      "away": "نيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/482-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/470-1.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/toulouse-vs-nice/",
       "_source": "yalla1shoot"
     }
   ]
