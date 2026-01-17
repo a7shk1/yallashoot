@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "مانشستريونا-مانشسترسيتي-2026-01-17",
-      "home": "مانشستر يونايتد",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/105-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
-      "time_baghdad": "15:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-manchester-city/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-ليفانتي-2026-01-17",
       "home": "ريال مدريد",
       "away": "ليفانتي",
@@ -57,13 +41,29 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/351.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
       "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "MBC Action",
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/hoffenheim-vs-bayer-leverkusen/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-برينتفورد-2026-01-17",
+      "home": "تشيلسي",
+      "away": "برينتفورد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/63-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-fulham/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-برينتفورد-2026-01-17",
-      "home": "تشيلسي",
-      "away": "برينتفورد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/63-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
@@ -256,6 +240,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/angers-vs-olympique-marseille/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مانشستريونا-مانشسترسيتي-2026-01-17",
+      "home": "مانشستر يونايتد",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/105-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
+      "time_baghdad": "15:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-manchester-city/",
       "_source": "yalla1shoot"
     }
   ]
