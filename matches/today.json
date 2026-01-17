@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-17",
+  "date": "2026-01-18",
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "كالياري-يوفنتوس-2026-01-17",
+      "id": "كالياري-يوفنتوس-2026-01-18",
       "home": "كالياري",
       "away": "يوفنتوس",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/243-136x150.png",
@@ -19,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-فياريال-2026-01-17",
+      "id": "ريالبيتيس-فياريال-2026-01-18",
       "home": "ريال بيتيس",
       "away": "فياريال",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/146.png",
@@ -35,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أنجيه-أولمبيكمارس-2026-01-17",
+      "id": "أنجيه-أولمبيكمارس-2026-01-18",
       "home": "أنجيه",
       "away": "أولمبيك مارسيليا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/493-136x150.png",
@@ -51,23 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نابولي-ساسولو-2026-01-17",
-      "home": "نابولي",
-      "away": "ساسولو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/266.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-sassuolo/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نوتنجهامفور-أرسنال-2026-01-17",
+      "id": "نوتنجهامفور-أرسنال-2026-01-18",
       "home": "نوتنجهام فورست",
       "away": "أرسنال",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/29-1-77x150.png",
@@ -83,7 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-الشباب-2026-01-17",
+      "id": "النصر-الشباب-2026-01-18",
       "home": "النصر",
       "away": "الشباب",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/7549-150x150.png",
@@ -99,7 +83,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوساسونا-ريالأوفييدو-2026-01-17",
+      "id": "أوساسونا-ريالأوفييدو-2026-01-18",
       "home": "أوساسونا",
       "away": "ريال أوفييدو",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/143-150x150.png",
@@ -115,7 +99,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لايبزيج-بايرنميونخ-2026-01-17",
+      "id": "لايبزيج-بايرنميونخ-2026-01-18",
       "home": "لايبزيج",
       "away": "بايرن ميونخ",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/7171-150x108.png",
@@ -131,7 +115,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تولوز-نيس-2026-01-17",
+      "id": "تولوز-نيس-2026-01-18",
       "home": "تولوز",
       "away": "نيس",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/482-1-150x150.png",
