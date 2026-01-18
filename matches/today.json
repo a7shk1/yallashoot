@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/465-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/534-135x150.png",
       "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
@@ -41,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/246.png",
       "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -64,22 +64,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-barcelona/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الشارقة-كلباء-2026-01-18",
-      "home": "الشارقة",
-      "away": "كلباء",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8351-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8355-150x150.png",
-      "time_baghdad": "18:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/sharjah-vs-kalba/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سيلتافيجو-رايوفاييكان-2026-01-18",
-      "home": "سيلتا فيجو",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/158-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-rayo-vallecano/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيوم-الهلال-2026-01-18",
       "home": "نيوم",
       "away": "الهلال",
@@ -192,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/neom-vs-al-hilal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سيلتافيجو-رايوفاييكان-2026-01-18",
+      "home": "سيلتا فيجو",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/158-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-rayo-vallecano/",
       "_source": "yalla1shoot"
     }
   ]
