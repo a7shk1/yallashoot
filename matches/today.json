@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نانسي-جانجون-2026-01-19",
-      "home": "نانسي",
-      "away": "جانجون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/467-139x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/496-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/nancy-vs-guingamp/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لاتسيو-كومو-2026-01-19",
       "home": "لاتسيو",
       "away": "كومو",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-como/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نانسي-جانجون-2026-01-19",
+      "home": "نانسي",
+      "away": "جانجون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/467-139x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/496-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/nancy-vs-guingamp/",
       "_source": "yalla1shoot"
     },
     {
@@ -112,22 +112,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-bournemouth/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالسوسيداد-برشلونة-2026-01-19",
-      "home": "ريال سوسيداد",
-      "away": "برشلونة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/154-146x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/132-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-barcelona/",
       "_source": "yalla1shoot"
     }
   ]
