@@ -51,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "يوفنتوس-بنفيكا-2026-01-21",
+      "home": "يوفنتوس",
+      "away": "بنفيكا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/888.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-benfica/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نيوكاسليونا-آيندهوفن-2026-01-21",
       "home": "نيوكاسل يونايتد",
       "away": "آيندهوفن",
@@ -128,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "match_url": "https://www.yalla1shoot.com/matches/slavia-prague-vs-barcelona/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "يوفنتوس-بنفيكا-2026-01-21",
-      "home": "يوفنتوس",
-      "away": "بنفيكا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/888.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-benfica/",
       "_source": "yalla1shoot"
     }
   ]
