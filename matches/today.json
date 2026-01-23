@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/18957-150x150.png",
       "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -115,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفانتي-إلتشي-2026-01-23",
-      "home": "ليفانتي",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "دربيكاونتي-وستبروميتش-2026-01-23",
       "home": "دربي كاونتي",
       "away": "وست بروميتش",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/derby-county-vs-west-bromwich/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفانتي-إلتشي-2026-01-23",
+      "home": "ليفانتي",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-elche/",
       "_source": "yalla1shoot"
     }
   ]
