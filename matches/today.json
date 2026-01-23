@@ -131,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-سيمبا-2026-01-24",
-      "home": "الترجي",
-      "away": "سيمبا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبيبةالقبائ-الجيشالملكي-2026-01-24",
       "home": "شبيبة القبائل",
       "away": "الجيش الملكي",
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-royal-army/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-سيمبا-2026-01-24",
+      "home": "الترجي",
+      "away": "سيمبا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
-      "home": "إشبيلية",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورنموث-ليفربول-2026-01-24",
       "home": "بورنموث",
       "away": "ليفربول",
@@ -208,6 +192,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-liverpool/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
+      "home": "إشبيلية",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
       "_source": "yalla1shoot"
     },
     {
@@ -227,22 +227,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادالعاصم-دجوليباالما-2026-01-24",
-      "home": "اتحاد العاصمة",
-      "away": "دجوليبا المالي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8220.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/19392.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sport 8 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/us-capital-vs-djoliba-mali/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نهضةبركان-بيراميدز-2026-01-24",
       "home": "نهضة بركان",
       "away": "بيراميدز",
@@ -256,6 +240,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-pyramids/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادالعاصم-دجوليباالما-2026-01-24",
+      "home": "اتحاد العاصمة",
+      "away": "دجوليبا المالي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8220.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/19392.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sport 8 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/us-capital-vs-djoliba-mali/",
       "_source": "yalla1shoot"
     },
     {
@@ -288,22 +288,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-real-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "صنداونز-الهلالالسود-2026-01-24",
-      "home": "صن داونز",
-      "away": "الهلال السوداني",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/7277.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/12778.png",
-      "time_baghdad": "21:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/sun-downs-vs-al-hilal-sudan/",
       "_source": "yalla1shoot"
     },
     {
@@ -355,22 +339,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفانتي-إلتشي-2026-01-24",
-      "home": "ليفانتي",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "دربيكاونتي-وستبروميتش-2026-01-24",
       "home": "دربي كاونتي",
       "away": "وست بروميتش",
@@ -384,6 +352,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/derby-county-vs-west-bromwich/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفانتي-إلتشي-2026-01-24",
+      "home": "ليفانتي",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/156-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-elche/",
       "_source": "yalla1shoot"
     }
   ]
