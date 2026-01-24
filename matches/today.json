@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-سيمبا-2026-01-24",
-      "home": "الترجي",
-      "away": "سيمبا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبيبةالقبائ-الجيشالملكي-2026-01-24",
       "home": "شبيبة القبائل",
       "away": "الجيش الملكي",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-royal-army/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-سيمبا-2026-01-24",
+      "home": "الترجي",
+      "away": "سيمبا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
       "_source": "yalla1shoot"
     },
     {
@@ -211,22 +211,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
-      "home": "إشبيلية",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بورنموث-ليفربول-2026-01-24",
       "home": "بورنموث",
       "away": "ليفربول",
@@ -243,6 +227,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نيوم-الأهليالسعو-2026-01-24",
+      "home": "نيوم",
+      "away": "الأهلي السعودي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/55793-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/ahliksa-1.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/neom-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "يونيونبرلين-بوروسيادورت-2026-01-24",
       "home": "يونيون برلين",
       "away": "بوروسيا دورتموند",
@@ -256,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/union-berlin-vs-borussia-dortmund/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
+      "home": "إشبيلية",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
       "_source": "yalla1shoot"
     },
     {
