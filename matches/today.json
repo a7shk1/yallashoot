@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شبيبةالقبائ-الجيشالملكي-2026-01-24",
-      "home": "شبيبة القبائل",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8223-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5455-139x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-royal-army/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الترجي-سيمبا-2026-01-24",
       "home": "الترجي",
       "away": "سيمبا",
@@ -195,6 +179,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شبيبةالقبائ-الجيشالملكي-2026-01-24",
+      "home": "شبيبة القبائل",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8223-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5455-139x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-royal-army/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فيورنتينا-كالياري-2026-01-24",
       "home": "فيورنتينا",
       "away": "كالياري",
@@ -208,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-cagliari/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
+      "home": "إشبيلية",
+      "away": "أتلتيك بلباو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,22 +259,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-أتلتيكبلباو-2026-01-24",
-      "home": "إشبيلية",
-      "away": "أتلتيك بلباو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/135-1-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-athletic-bilbao/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوآفر-موناكو-2026-01-24",
       "home": "لو آفر",
       "away": "موناكو",
@@ -275,22 +275,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نهضةبركان-بيراميدز-2026-01-24",
-      "home": "نهضة بركان",
-      "away": "بيراميدز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-pyramids/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "اتحادالعاصم-دجوليباالما-2026-01-24",
       "home": "اتحاد العاصمة",
       "away": "دجوليبا المالي",
@@ -304,6 +288,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/us-capital-vs-djoliba-mali/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-بيراميدز-2026-01-24",
+      "home": "نهضة بركان",
+      "away": "بيراميدز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-pyramids/",
       "_source": "yalla1shoot"
     },
     {
