@@ -83,38 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-توتنهامهوتس-2026-01-24",
-      "home": "بيرنلي",
-      "away": "توتنهام هوتسبر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-tottenham-hotspur/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الصينتحت23-اليابانتحت-2026-01-24",
-      "home": "الصين تحت 23",
-      "away": "اليابان تحت 23",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/25010-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28912-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, كأس آسيا تحت 23 سنة - النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/china-u23-vs-japan-u23/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشسترسيتي-وولفرهامبتون-2026-01-24",
       "home": "مانشستر سيتي",
       "away": "وولفرهامبتون",
@@ -147,6 +115,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بيرنلي-توتنهامهوتس-2026-01-24",
+      "home": "بيرنلي",
+      "away": "توتنهام هوتسبر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-tottenham-hotspur/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الصينتحت23-اليابانتحت-2026-01-24",
+      "home": "الصين تحت 23",
+      "away": "اليابان تحت 23",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/25010-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/28912-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, كأس آسيا تحت 23 سنة - النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/china-u23-vs-japan-u23/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فالنسيا-إسبانيول-2026-01-24",
       "home": "فالنسيا",
       "away": "إسبانيول",
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-سيمبا-2026-01-24",
-      "home": "الترجي",
-      "away": "سيمبا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 7",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شبيبةالقبائ-الجيشالملكي-2026-01-24",
       "home": "شبيبة القبائل",
       "away": "الجيش الملكي",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-royal-army/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-سيمبا-2026-01-24",
+      "home": "الترجي",
+      "away": "سيمبا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 7",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-simba/",
       "_source": "yalla1shoot"
     },
     {
