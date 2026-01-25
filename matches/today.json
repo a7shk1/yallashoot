@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "يوفنتوس-نابولي-2026-01-25",
-      "home": "يوفنتوس",
-      "away": "نابولي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
-      "time_baghdad": "20:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-napoli/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالسوسيداد-سيلتافيجو-2026-01-25",
       "home": "ريال سوسيداد",
       "away": "سيلتا فيجو",
@@ -51,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الزمالك-المصري-2026-01-25",
-      "home": "الزمالك",
-      "away": "المصري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8201-132x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8303-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-al-masry/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الودادالريا-مانييمايوني-2026-01-25",
       "home": "الوداد الرياضي",
       "away": "مانييما يونيون",
@@ -83,19 +51,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ميلان-2026-01-25",
-      "home": "روما",
-      "away": "ميلان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
-      "time_baghdad": "22:45",
+      "id": "الزمالك-المصري-2026-01-25",
+      "home": "الزمالك",
+      "away": "المصري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8201-132x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8303-150x150.png",
+      "time_baghdad": "22:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "Starzplay",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-milan/",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-al-masry/",
       "_source": "yalla1shoot"
     },
     {
@@ -112,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/lille-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-ميلان-2026-01-25",
+      "home": "روما",
+      "away": "ميلان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-milan/",
       "_source": "yalla1shoot"
     },
     {
@@ -240,6 +224,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-manchester-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "يوفنتوس-نابولي-2026-01-25",
+      "home": "يوفنتوس",
+      "away": "نابولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/226-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
+      "time_baghdad": "20:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-napoli/",
       "_source": "yalla1shoot"
     }
   ]
