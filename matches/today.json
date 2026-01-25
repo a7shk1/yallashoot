@@ -83,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-بارما-2026-01-25",
-      "home": "أتالانتا",
-      "away": "بارما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/241-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-parma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيامونش-شتوتجارت-2026-01-25",
       "home": "بوروسيا مونشنجلادباخ",
       "away": "شتوتجارت",
@@ -307,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ميلان-2026-01-25",
-      "home": "روما",
-      "away": "ميلان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليل-ستراسبورج-2026-01-25",
       "home": "ليل",
       "away": "ستراسبورج",
@@ -336,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/lille-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-ميلان-2026-01-25",
+      "home": "روما",
+      "away": "ميلان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/225-1-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-milan/",
       "_source": "yalla1shoot"
     },
     {
@@ -355,6 +339,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نايروبييونا-عزاميونايتد-2026-01-25",
+      "home": "نايروبي يونايتد",
+      "away": "عزام يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/88197-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/10537.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 9",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/nairobi-united-vs-azam-united/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أتلتيكومدري-ريالمايوركا-2026-01-25",
       "home": "أتلتيكو مدريد",
       "away": "ريال مايوركا",
@@ -371,19 +371,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نايروبييونا-عزاميونايتد-2026-01-25",
-      "home": "نايروبي يونايتد",
-      "away": "عزام يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/88197-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/10537.png",
-      "time_baghdad": "16:00",
+      "id": "أتالانتا-بارما-2026-01-25",
+      "home": "أتالانتا",
+      "away": "بارما",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/241-150x150.png",
+      "time_baghdad": "17:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN SPORTS HD 9",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/nairobi-united-vs-azam-united/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-parma/",
       "_source": "yalla1shoot"
     }
   ]
