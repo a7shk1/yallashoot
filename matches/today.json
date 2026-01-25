@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-بارما-2026-01-25",
-      "home": "أتالانتا",
-      "away": "بارما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/241-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-parma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيوكاسليونا-أستونفيلا-2026-01-25",
       "home": "نيوكاسل يونايتد",
       "away": "أستون فيلا",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-nice/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-بارما-2026-01-25",
+      "home": "أتالانتا",
+      "away": "بارما",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/241-150x150.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-parma/",
       "_source": "yalla1shoot"
     },
     {
@@ -323,22 +323,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الودادالريا-مانييمايوني-2026-01-25",
-      "home": "الوداد الرياضي",
-      "away": "مانييما يونيون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/50818-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-maniema-union/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-المصري-2026-01-25",
       "home": "الزمالك",
       "away": "المصري",
@@ -352,6 +336,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-al-masry/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الودادالريا-مانييمايوني-2026-01-25",
+      "home": "الوداد الرياضي",
+      "away": "مانييما يونيون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8326-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/50818-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-maniema-union/",
       "_source": "yalla1shoot"
     },
     {
