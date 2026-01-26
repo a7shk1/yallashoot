@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ناديسبتة-ديبورتيفالي-2026-01-26",
+      "id": "ناديسبتة-ديبورتيفالي-2026-01-27",
       "home": "نادي سبتة",
       "away": "ديبورتيفا ليونيسا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/6144-150x150.png",
@@ -19,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هيلاسفيرونا-أودينيزي-2026-01-26",
+      "id": "هيلاسفيرونا-أودينيزي-2026-01-27",
       "home": "هيلاس فيرونا",
       "away": "أودينيزي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/316-150x150.png",
@@ -35,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نورويتشسيتي-كوفنتريسيتي-2026-01-26",
+      "id": "نورويتشسيتي-كوفنتريسيتي-2026-01-27",
       "home": "نورويتش سيتي",
       "away": "كوفنتري سيتي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/16-150x150.png",
@@ -51,7 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جيرونا-خيتافي-2026-01-26",
+      "id": "جيرونا-خيتافي-2026-01-27",
       "home": "جيرونا",
       "away": "خيتافي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/175-1-150x150.png",
@@ -67,7 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيفرتون-ليدزيونايتد-2026-01-26",
+      "id": "إيفرتون-ليدزيونايتد-2026-01-27",
       "home": "إيفرتون",
       "away": "ليدز يونايتد",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
@@ -83,7 +83,87 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الاتحاد-الأخدود-2026-01-26",
+      "id": "الأهلي-واديدجلة-2026-01-27",
+      "home": "الأهلي",
+      "away": "وادي دجلة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8311-131x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-wadi-degla/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سانتباولي-لايبزيج-2026-01-27",
+      "home": "سانت باولي",
+      "away": "لايبزيج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/359-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/7171-150x108.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/st-pauli-vs-leipzig/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيردربريمن-هوفنهايم-2026-01-27",
+      "home": "فيردر بريمن",
+      "away": "هوفنهايم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/332-107x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/351.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/werder-bremen-vs-hoffenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "دونكاستر-ليتونأورينت-2026-01-27",
+      "home": "دونكاستر",
+      "away": "ليتون أورينت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/30-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/35-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, ليغ وان",
+      "match_url": "https://www.yalla1shoot.com/matches/doncaster-vs-leyton-orient/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيورنتينا-كومو-2026-01-27",
+      "home": "فيورنتينا",
+      "away": "كومو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/228-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-como/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحاد-الأخدود-2026-01-27",
       "home": "الاتحاد",
       "away": "الأخدود",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
@@ -99,7 +179,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-التعاون-2026-01-26",
+      "id": "النصر-التعاون-2026-01-27",
       "home": "النصر",
       "away": "التعاون",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/7549-150x150.png",
