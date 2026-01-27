@@ -65,22 +65,6 @@
       "competition": "إيطاليا, كأس إيطاليا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-como/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهلي-واديدجلة-2026-01-27",
-      "home": "الأهلي",
-      "away": "وادي دجلة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8311-131x150.png",
-      "time_baghdad": "18:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-wadi-degla/",
-      "_source": "yalla1shoot"
     }
   ]
 }
