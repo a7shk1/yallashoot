@@ -51,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نابولي-تشيلسي-2026-01-28",
+      "home": "نابولي",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sport 8 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا",
+      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "آينتراختفرا-توتنهامهوتس-2026-01-28",
       "home": "آينتراخت فرانكفورت",
       "away": "توتنهام هوتسبر",
@@ -208,22 +224,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا",
       "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-kairat-almaty/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نابولي-تشيلسي-2026-01-28",
-      "home": "نابولي",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/234-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sport 8 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا",
-      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-chelsea/",
       "_source": "yalla1shoot"
     }
   ]
