@@ -19,6 +19,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "تروا-لومان-2026-01-31",
+      "home": "تروا",
+      "away": "لومان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/488.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/468-150x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/troyes-vs-le-mans/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "يانجافريكان-الأهلي-2026-01-31",
       "home": "يانج افريكانز",
       "away": "الأهلي",
@@ -51,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تروا-لومان-2026-01-31",
-      "home": "تروا",
-      "away": "لومان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/488.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/468-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/troyes-vs-le-mans/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيسا-ساسولو-2026-01-31",
       "home": "بيسا",
       "away": "ساسولو",
@@ -80,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/besa-vs-sassuolo/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوغسبورغ-سانتباولي-2026-01-31",
+      "home": "أوغسبورغ",
+      "away": "سانت باولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/358.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/359-150x150.png",
+      "time_baghdad": "17:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-st-pauli/",
       "_source": "yalla1shoot"
     },
     {
@@ -115,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوغسبورغ-سانتباولي-2026-01-31",
-      "home": "أوغسبورغ",
-      "away": "سانت باولي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/358.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/359-150x150.png",
-      "time_baghdad": "17:30",
+      "id": "برايتون-إيفرتون-2026-01-31",
+      "home": "برايتون",
+      "away": "إيفرتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
+      "time_baghdad": "18:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "شاهد - Shahid VIP",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-st-pauli/",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-arsenal/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "برايتون-إيفرتون-2026-01-31",
-      "home": "برايتون",
-      "away": "إيفرتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,6 +243,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليفانتي-أتلتيكومدري-2026-01-31",
+      "home": "ليفانتي",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/134-128x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-atletico-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "تشيلسي-وستهاميونا-2026-01-31",
       "home": "تشيلسي",
       "away": "وست هام يونايتد",
@@ -272,22 +288,6 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليفانتي-أتلتيكومدري-2026-01-31",
-      "home": "ليفانتي",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/134-128x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     },
     {
@@ -387,22 +387,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كليرمون-ستادريمس-2026-01-31",
-      "home": "كليرمون",
-      "away": "ستاد ريمس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/490-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/499-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/clermont-vs-stade-reims/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الهلالالسود-صنداونز-2026-01-31",
       "home": "الهلال السوداني",
       "away": "صن داونز",
@@ -416,6 +400,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/sudanese-crescent-vs-sun-downs/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كليرمون-ستادريمس-2026-01-31",
+      "home": "كليرمون",
+      "away": "ستاد ريمس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/490-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/499-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/clermont-vs-stade-reims/",
       "_source": "yalla1shoot"
     },
     {
@@ -483,22 +483,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانيول-ألافيس-2026-01-31",
-      "home": "إسبانيول",
-      "away": "ألافيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/136-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/168-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/espanyol-vs-alaves/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بريستولسيتي-دربيكاونتي-2026-01-31",
       "home": "بريستول سيتي",
       "away": "دربي كاونتي",
@@ -512,6 +496,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/bristol-city-vs-derby-county/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إسبانيول-ألافيس-2026-01-31",
+      "home": "إسبانيول",
+      "away": "ألافيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/136-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/168-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/espanyol-vs-alaves/",
       "_source": "yalla1shoot"
     }
   ]
