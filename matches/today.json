@@ -99,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "دباالفجيرة-العين-2026-01-31",
+      "home": "دبا الفجيرة",
+      "away": "العين",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/10880-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8353-115x150.png",
+      "time_baghdad": "17:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, كأس رئيس الدولة - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/dibba-al-fujairah-vs-al-ain/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوغسبورغ-سانتباولي-2026-01-31",
       "home": "أوغسبورغ",
       "away": "سانت باولي",
@@ -131,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بورتسموث-وستبروميتش-2026-01-31",
+      "home": "بورتسموث",
+      "away": "وست بروميتش",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/111-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/portsmouth-vs-west-bromwich/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ليدزيونايتد-أرسنال-2026-01-31",
       "home": "ليدز يونايتد",
       "away": "أرسنال",
@@ -160,22 +192,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-everton/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بورتسموث-وستبروميتش-2026-01-31",
-      "home": "بورتسموث",
-      "away": "وست بروميتش",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/111-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/5-137x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/portsmouth-vs-west-bromwich/",
       "_source": "yalla1shoot"
     },
     {
