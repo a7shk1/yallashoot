@@ -19,6 +19,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "يانجافريكان-الأهلي-2026-01-31",
+      "home": "يانج افريكانز",
+      "away": "الأهلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/18957-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/young-africans-vs-al-ahly/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالأوفييدو-جيرونا-2026-01-31",
       "home": "ريال أوفييدو",
       "away": "جيرونا",
@@ -48,22 +64,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
       "match_url": "https://www.yalla1shoot.com/matches/troyes-vs-le-mans/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "يانجافريكان-الأهلي-2026-01-31",
-      "home": "يانج افريكانز",
-      "away": "الأهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/18957-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/young-africans-vs-al-ahly/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليدزيونايتد-أرسنال-2026-01-31",
+      "home": "ليدز يونايتد",
+      "away": "أرسنال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/104-1-140x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-arsenal/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برايتون-إيفرتون-2026-01-31",
       "home": "برايتون",
       "away": "إيفرتون",
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/portsmouth-vs-west-bromwich/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-أرسنال-2026-01-31",
-      "home": "ليدز يونايتد",
-      "away": "أرسنال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/36-1-134x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/104-1-140x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-arsenal/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,6 +243,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "تشيلسي-وستهاميونا-2026-01-31",
+      "home": "تشيلسي",
+      "away": "وست هام يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/113-1.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-west-ham-united/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "هامبورج-بايرنميونخ-2026-01-31",
       "home": "هامبورج",
       "away": "بايرن ميونخ",
@@ -272,22 +288,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/levante-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-وستهاميونا-2026-01-31",
-      "home": "تشيلسي",
-      "away": "وست هام يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/106-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/113-1.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-west-ham-united/",
       "_source": "yalla1shoot"
     },
     {
