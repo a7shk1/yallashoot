@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تروا-لومان-2026-01-31",
-      "home": "تروا",
-      "away": "لومان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/488.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/468-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/troyes-vs-le-mans/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "يانجافريكان-الأهلي-2026-01-31",
       "home": "يانج افريكانز",
       "away": "الأهلي",
@@ -67,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "تروا-لومان-2026-01-31",
+      "home": "تروا",
+      "away": "لومان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/488.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/468-150x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/troyes-vs-le-mans/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بيسا-ساسولو-2026-01-31",
       "home": "بيسا",
       "away": "ساسولو",
@@ -80,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/besa-vs-sassuolo/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "آينتراختفرا-بايرليفركوز-2026-01-31",
+      "home": "آينتراخت فرانكفورت",
+      "away": "باير ليفركوزن",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/337.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
+      "time_baghdad": "17:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-bayer-leverkusen/",
       "_source": "yalla1shoot"
     },
     {
@@ -115,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "آينتراختفرا-بايرليفركوز-2026-01-31",
-      "home": "آينتراخت فرانكفورت",
-      "away": "باير ليفركوزن",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/337.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
-      "time_baghdad": "17:30",
+      "id": "برايتون-إيفرتون-2026-01-31",
+      "home": "برايتون",
+      "away": "إيفرتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
+      "time_baghdad": "18:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "MBC Action",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-bayer-leverkusen/",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-arsenal/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "برايتون-إيفرتون-2026-01-31",
-      "home": "برايتون",
-      "away": "إيفرتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/38-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/107-1-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/brighton-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
@@ -339,22 +339,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-نيوكاسليونا-2026-01-31",
-      "home": "ليفربول",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/108-90x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إلتشي-برشلونة-2026-01-31",
       "home": "إلتشي",
       "away": "برشلونة",
@@ -368,6 +352,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/elche-vs-barcelona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفربول-نيوكاسليونا-2026-01-31",
+      "home": "ليفربول",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/108-90x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/116-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-newcastle-united/",
       "_source": "yalla1shoot"
     },
     {
