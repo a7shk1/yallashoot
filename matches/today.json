@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ريالبيتيس-فالنسيا-2026-02-01",
-      "home": "ريال بيتيس",
-      "away": "فالنسيا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/146.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
-      "time_baghdad": "18:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-valencia/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-نهضةبركان-2026-02-01",
       "home": "بيراميدز",
       "away": "نهضة بركان",
@@ -99,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "توتنهامهوتس-مانشسترسيتي-2026-02-01",
-      "home": "توتنهام هوتسبر",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/tottenham-hotspur-vs-manchester-city/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيادورت-هايدينهايم-2026-02-01",
       "home": "بوروسيا دورتموند",
       "away": "هايدينهايم",
@@ -128,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-heidenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توتنهامهوتس-مانشسترسيتي-2026-02-01",
+      "home": "توتنهام هوتسبر",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/114-1-83x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/110-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/tottenham-hotspur-vs-manchester-city/",
       "_source": "yalla1shoot"
     },
     {
@@ -153,8 +137,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/140.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/158-1.png",
       "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -169,8 +153,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/24240-114x150.png",
       "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "ثمانية 1",
       "commentator": "غير معروف",
@@ -275,6 +259,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كومو-أتالانتا-2026-02-01",
+      "home": "كومو",
+      "away": "أتالانتا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/como-vs-atalanta/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نوتنجهامفور-كريستالبالا-2026-02-01",
       "home": "نوتنجهام فورست",
       "away": "كريستال بالاس",
@@ -339,22 +339,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-أتالانتا-2026-02-01",
-      "home": "كومو",
-      "away": "أتالانتا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/como-vs-atalanta/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شتوتجارت-فرايبورج-2026-02-01",
       "home": "شتوتجارت",
       "away": "فرايبورج",
@@ -368,6 +352,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-freiburg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-فالنسيا-2026-02-01",
+      "home": "ريال بيتيس",
+      "away": "فالنسيا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/146.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/139-130x150.png",
+      "time_baghdad": "18:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-valencia/",
       "_source": "yalla1shoot"
     }
   ]
