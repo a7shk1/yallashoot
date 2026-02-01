@@ -19,6 +19,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
+      "home": "ريال مدريد",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيمبا-الترجي-2026-02-01",
       "home": "سيمبا",
       "away": "الترجي",
@@ -35,19 +51,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
-      "home": "ريال مدريد",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "16:00",
+      "id": "كومو-أتالانتا-2026-02-01",
+      "home": "كومو",
+      "away": "أتالانتا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
+      "time_baghdad": "17:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/como-vs-atalanta/",
       "_source": "yalla1shoot"
     },
     {
@@ -115,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-أتالانتا-2026-02-01",
-      "home": "كومو",
-      "away": "أتالانتا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/6117-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/232-1-105x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/como-vs-atalanta/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شتوتجارت-فرايبورج-2026-02-01",
       "home": "شتوتجارت",
       "away": "فرايبورج",
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيراميدز-نهضةبركان-2026-02-01",
-      "home": "بيراميدز",
-      "away": "نهضة بركان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/pyramids-vs-nahdet-berkane/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريفرزيونايت-باورديناموز-2026-02-01",
       "home": "ريفرز يونايتد",
       "away": "باور ديناموز",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/rivers-united-vs-power-dynamos/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيراميدز-نهضةبركان-2026-02-01",
+      "home": "بيراميدز",
+      "away": "نهضة بركان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/22143-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/9974-131x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/pyramids-vs-nahdet-berkane/",
       "_source": "yalla1shoot"
     },
     {
