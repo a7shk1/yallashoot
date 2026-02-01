@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
-      "home": "ريال مدريد",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سيمبا-الترجي-2026-02-01",
       "home": "سيمبا",
       "away": "الترجي",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/simba-vs-esperance/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
+      "home": "ريال مدريد",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
       "_source": "yalla1shoot"
     },
     {
@@ -323,6 +323,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مولوديةالجز-سانتإيلويل-2026-02-01",
+      "home": "مولودية الجزائر",
+      "away": "سانت إيلوي لوبوبو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8218-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/29705-126x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-saint-eloi-lobobo/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أولمبيكآسفي-سانبيدرو-2026-02-01",
       "home": "أولمبيك آسفي",
       "away": "سان بيدرو",
@@ -352,22 +368,6 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-zamalek-2/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مولوديةالجز-سانتإيلويل-2026-02-01",
-      "home": "مولودية الجزائر",
-      "away": "سانت إيلوي لوبوبو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8218-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/29705-126x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-saint-eloi-lobobo/",
       "_source": "yalla1shoot"
     },
     {
