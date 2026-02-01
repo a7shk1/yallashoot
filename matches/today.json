@@ -3,19 +3,19 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "تورينو-ليتشي-2026-02-01",
-      "home": "تورينو",
-      "away": "ليتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/235-137x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/246.png",
-      "time_baghdad": "14:30",
+      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
+      "home": "ريال مدريد",
+      "away": "رايو فاييكانو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
+      "time_baghdad": "16:00",
       "status": "LIVE",
       "status_text": "مباشر",
       "result_text": "",
-      "channel": "Starzplay",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/torino-vs-lecce/",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
       "_source": "yalla1shoot"
     },
     {
@@ -25,29 +25,13 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/10464-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8235-150x150.png",
       "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/simba-vs-esperance/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمدريد-رايوفاييكان-2026-02-01",
-      "home": "ريال مدريد",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/174.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-rayo-vallecano/",
       "_source": "yalla1shoot"
     },
     {
@@ -416,6 +400,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تورينو-ليتشي-2026-02-01",
+      "home": "تورينو",
+      "away": "ليتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/235-137x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/246.png",
+      "time_baghdad": "14:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/torino-vs-lecce/",
       "_source": "yalla1shoot"
     }
   ]
