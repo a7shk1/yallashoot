@@ -3,19 +3,19 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-02",
-      "home": "أتلتيك بلباو",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/154-146x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
+      "id": "بنيياس-الجزيرة-2026-02-02",
+      "home": "بني ياس",
+      "away": "الجزيرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/09/8345.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8283.png",
+      "time_baghdad": "17:35",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 5 HD",
+      "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad/",
+      "competition": "الإمارات, كأس رئيس الدولة - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/baniyas-vs-al-jazira/",
       "_source": "yalla1shoot"
     },
     {
@@ -32,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/riyadh-vs-al-nasr/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كوجايليسبو-فنربخشة-2026-02-02",
+      "home": "كوجا يلي سبور",
+      "away": "فنربخشة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/963.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/946-150x150.png",
+      "time_baghdad": "20:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "تركيا, الدوري التركي",
+      "match_url": "https://www.yalla1shoot.com/matches/koca-yelispor-vs-fenerbahce/",
       "_source": "yalla1shoot"
     },
     {
@@ -64,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيلافرانكنس-سبورتينجبرا-2026-02-02",
+      "home": "فيلا فرانكنسي",
+      "away": "سبورتينج براغا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/27176-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/895-1.png",
+      "time_baghdad": "21:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "البرتغال, الدوري البرتغالي",
+      "match_url": "https://www.yalla1shoot.com/matches/villa-frankency-vs-sporting-braga/",
       "_source": "yalla1shoot"
     },
     {
@@ -112,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-sevilla/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كازابيا-بورتو-2026-02-02",
+      "home": "كازا بيا",
+      "away": "بورتو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6372-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/887-150x150.png",
+      "time_baghdad": "23:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "البرتغال, الدوري البرتغالي",
+      "match_url": "https://www.yalla1shoot.com/matches/casa-pia-vs-porto/",
       "_source": "yalla1shoot"
     },
     {
@@ -192,6 +240,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-paris-saint-germain/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-02",
+      "home": "أتلتيك بلباو",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/144-1-145x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/154-146x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad/",
       "_source": "yalla1shoot"
     }
   ]
