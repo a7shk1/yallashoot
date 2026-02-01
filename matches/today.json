@@ -3,54 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "خيتافي-سيلتافيجو-2026-02-01",
-      "home": "خيتافي",
-      "away": "سيلتا فيجو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/140.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/158-1.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-celta-vigo/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الاتحاد-النجمة-2026-02-01",
-      "home": "الاتحاد",
-      "away": "النجمة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/24240-114x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-vs-al-najma/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مولوديةالجز-سانتإيلويل-2026-02-01",
-      "home": "مولودية الجزائر",
-      "away": "سانت إيلوي لوبوبو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8218-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/29705-126x150.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-saint-eloi-lobobo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكآسفي-سانبيدرو-2026-02-01",
       "home": "أولمبيك آسفي",
       "away": "سان بيدرو",
@@ -80,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-zamalek-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مولوديةالجز-سانتإيلويل-2026-02-01",
+      "home": "مولودية الجزائر",
+      "away": "سانت إيلوي لوبوبو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8218-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/11/29705-126x150.png",
+      "time_baghdad": "22:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-saint-eloi-lobobo/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أنجيه-ميتز-2026-02-01",
+      "home": "أنجيه",
+      "away": "ميتز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/493-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/484-150x150.png",
+      "time_baghdad": "19:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-metz/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "تولوز-أوكسير-2026-02-01",
       "home": "تولوز",
       "away": "أوكسير",
@@ -192,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/nice-vs-brest/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أنجيه-ميتز-2026-02-01",
-      "home": "أنجيه",
-      "away": "ميتز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/493-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/484-150x150.png",
-      "time_baghdad": "19:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-metz/",
       "_source": "yalla1shoot"
     },
     {
@@ -256,6 +224,38 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/cremonese-vs-inter-milan/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "خيتافي-سيلتافيجو-2026-02-01",
+      "home": "خيتافي",
+      "away": "سيلتا فيجو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/140.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/158-1.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-celta-vigo/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحاد-النجمة-2026-02-01",
+      "home": "الاتحاد",
+      "away": "النجمة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8593-122x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/10/24240-114x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-vs-al-najma/",
       "_source": "yalla1shoot"
     }
   ]
