@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سندرلاند-بيرنلي-2026-02-03",
-      "home": "سندرلاند",
-      "away": "بيرنلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/117-150x137.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-burnley/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمايوركا-إشبيلية-2026-02-03",
       "home": "ريال مايوركا",
       "away": "إشبيلية",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-sevilla/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سندرلاند-بيرنلي-2026-02-03",
+      "home": "سندرلاند",
+      "away": "بيرنلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/117-150x137.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/12-1-143x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-burnley/",
       "_source": "yalla1shoot"
     },
     {
