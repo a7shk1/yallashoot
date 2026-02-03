@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرليفركوز-سانتباولي-2026-02-03",
-      "home": "باير ليفركوزن",
-      "away": "سانت باولي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/359-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, كأس المانيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-st-pauli/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بولونيا-ميلان-2026-02-03",
       "home": "بولونيا",
       "away": "ميلان",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/bologna-vs-milan/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرليفركوز-سانتباولي-2026-02-03",
+      "home": "باير ليفركوزن",
+      "away": "سانت باولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/333-150x127.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/359-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, كأس المانيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-st-pauli/",
       "_source": "yalla1shoot"
     },
     {
