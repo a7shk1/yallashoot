@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ضمك-الخلود-2026-02-03",
-      "home": "ضمك",
-      "away": "الخلود",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/24241-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/55800-150x150.png",
-      "time_baghdad": "18:40",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/damak-vs-eternity/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الخليج-القادسية-2026-02-03",
       "home": "الخليج",
       "away": "القادسية",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/50527.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/8200-1-126x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -176,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال أوروبا للشباب - دور الـ 32",
       "match_url": "https://www.yalla1shoot.com/matches/real-madrid-u19-vs-olympique-marseille-u19/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ضمك-الخلود-2026-02-03",
+      "home": "ضمك",
+      "away": "الخلود",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/24241-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/08/55800-150x150.png",
+      "time_baghdad": "18:40",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/damak-vs-eternity/",
       "_source": "yalla1shoot"
     }
   ]
