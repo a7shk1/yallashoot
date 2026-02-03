@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "أرسنال-تشيلسي-2026-02-04",
-      "home": "أرسنال",
-      "away": "تشيلسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-chelsea/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أولمبيكمارس-ستادرين-2026-02-04",
-      "home": "أولمبيك مارسيليا",
-      "away": "ستاد رين",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
-      "time_baghdad": "23:10",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-marseille-vs-stade-rennes/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريستحت19-DinamoMinsk-2026-02-04",
       "home": "باريس تحت 19",
       "away": "Dinamo Minsk U19",
@@ -259,22 +227,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البنكالاهلي-الأهلي-2026-02-04",
-      "home": "البنك الاهلي",
-      "away": "الأهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50527.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "time_baghdad": "21:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/national-bank-vs-national-bank/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ستادريمس-لومان-2026-02-04",
       "home": "ستاد ريمس",
       "away": "لومان",
@@ -288,22 +240,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/stade-reims-vs-le-mans/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بولونيا-ميلان-2026-02-04",
-      "home": "بولونيا",
-      "away": "ميلان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/bologna-vs-milan/",
       "_source": "yalla1shoot"
     },
     {
@@ -323,6 +259,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بولونيا-ميلان-2026-02-04",
+      "home": "بولونيا",
+      "away": "ميلان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/bologna-vs-milan/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-تشيلسي-2026-02-04",
+      "home": "أرسنال",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كأس الكاراباو - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ألباسيتي-برشلونة-2026-02-04",
       "home": "ألباسيتي",
       "away": "برشلونة",
@@ -336,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/albacete-vs-barcelona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكمارس-ستادرين-2026-02-04",
+      "home": "أولمبيك مارسيليا",
+      "away": "ستاد رين",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
+      "time_baghdad": "23:10",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-marseille-vs-stade-rennes/",
       "_source": "yalla1shoot"
     }
   ]
