@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "RealBetisU-توتنهامتحت-2026-02-04",
-      "home": "Real Betis U19",
-      "away": "توتنهام تحت 19",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/84774.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/44909-83x150.png",
-      "time_baghdad": "20:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال أوروبا للشباب - دور الـ 32",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-u19-vs-tottenham-u19/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كهرباءالاسم-الزمالك-2026-02-04",
       "home": "كهرباء الاسماعيلية",
       "away": "الزمالك",
@@ -115,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ألافيس-ريالسوسيداد-2026-02-04",
+      "home": "ألافيس",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/168-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/alaves-vs-real-sociedad/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مانشسترسيتي-نيوكاسليونا-2026-02-04",
       "home": "مانشستر سيتي",
       "away": "نيوكاسل يونايتد",
@@ -179,35 +179,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ألافيس-ريالسوسيداد-2026-02-04",
-      "home": "ألافيس",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/168-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/alaves-vs-real-sociedad/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "زد-المصري-2026-02-04",
-      "home": "زد",
-      "away": "المصري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29732-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "time_baghdad": "18:00",
+      "id": "RealBetisU-توتنهامتحت-2026-02-04",
+      "home": "Real Betis U19",
+      "away": "توتنهام تحت 19",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/84774.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/44909-83x150.png",
+      "time_baghdad": "20:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "أون سبورت 1",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/z-vs-al-masry/",
+      "competition": "أوروبا, دوري أبطال أوروبا للشباب - دور الـ 32",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-u19-vs-tottenham-u19/",
       "_source": "yalla1shoot"
     }
   ]
