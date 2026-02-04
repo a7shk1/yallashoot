@@ -3,6 +3,22 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
+      "id": "حرسالحدود-فاركو-2026-02-05",
+      "home": "حرس الحدود",
+      "away": "فاركو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8307-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/46242-138x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/border-guards-vs-varco/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الفيحاء-النجمة-2026-02-05",
       "home": "الفيحاء",
       "away": "النجمة",
@@ -16,22 +32,6 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-al-najma/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأخدود-الهلال-2026-02-05",
-      "home": "الأخدود",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
       "_source": "yalla1shoot"
     },
     {
@@ -51,19 +51,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستراسبورج-موناكو-2026-02-05",
-      "home": "ستراسبورج",
-      "away": "موناكو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
-      "time_baghdad": "23:00",
+      "id": "الأخدود-الهلال-2026-02-05",
+      "home": "الأخدود",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "20:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-monaco/",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
       "_source": "yalla1shoot"
     },
     {
@@ -99,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستراسبورج-موناكو-2026-02-05",
+      "home": "ستراسبورج",
+      "away": "موناكو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-monaco/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سبورتنجلشبو-فيلافرانكنس-2026-02-05",
       "home": "سبورتنج لشبونة",
       "away": "فيلا فرانكنسي",
@@ -112,22 +128,6 @@
       "commentator": "غير معروف",
       "competition": "البرتغال, كأس البرتغال - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-villa-francense/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أولمبيكليون-لافال-2026-02-05",
-      "home": "أولمبيك ليون",
-      "away": "لافال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/5434-132x150.png",
-      "time_baghdad": "22:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-laval/",
       "_source": "yalla1shoot"
     },
     {
@@ -176,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, كأس فرنسا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/lorient-vs-paris-f-c/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-لافال-2026-02-05",
+      "home": "أولمبيك ليون",
+      "away": "لافال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/5434-132x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-laval/",
       "_source": "yalla1shoot"
     },
     {
