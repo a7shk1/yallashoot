@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "حرسالحدود-فاركو-2026-02-05",
-      "home": "حرس الحدود",
-      "away": "فاركو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8307-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/46242-138x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/border-guards-vs-varco/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الفيحاء-النجمة-2026-02-05",
       "home": "الفيحاء",
       "away": "النجمة",
@@ -51,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأخدود-الهلال-2026-02-05",
-      "home": "الأخدود",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-الحزم-2026-02-05",
       "home": "الأهلي السعودي",
       "away": "الحزم",
@@ -83,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الأخدود-الهلال-2026-02-05",
+      "home": "الأخدود",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيراميكاكلي-غزلالمحلة-2026-02-05",
       "home": "سيراميكا كليوباترا",
       "away": "غزل المحلة",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/ceramica-cleopatra-vs-ghazl-el-mahalla/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-أتلتيكومدري-2026-02-05",
+      "home": "ريال بيتيس",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-أتلتيكومدري-2026-02-05",
-      "home": "ريال بيتيس",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سبورتنجلشبو-فيلافرانكنس-2026-02-05",
       "home": "سبورتنج لشبونة",
       "away": "فيلا فرانكنسي",
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "البرتغال, كأس البرتغال - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-villa-francense/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "حرسالحدود-فاركو-2026-02-05",
+      "home": "حرس الحدود",
+      "away": "فاركو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8307-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/46242-138x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/border-guards-vs-varco/",
       "_source": "yalla1shoot"
     }
   ]
