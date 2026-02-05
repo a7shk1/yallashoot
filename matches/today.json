@@ -41,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8351-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
       "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أبو ظبي الرياضية 1",
       "commentator": "غير معروف",
@@ -99,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتالانتا-يوفنتوس-2026-02-05",
+      "home": "أتالانتا",
+      "away": "يوفنتوس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-juventus/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ستراسبورج-موناكو-2026-02-05",
       "home": "ستراسبورج",
       "away": "موناكو",
@@ -128,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتالانتا-يوفنتوس-2026-02-05",
-      "home": "أتالانتا",
-      "away": "يوفنتوس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-juventus/",
       "_source": "yalla1shoot"
     },
     {
