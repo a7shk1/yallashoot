@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الأهليالسعو-الحزم-2026-02-05",
-      "home": "الأهلي السعودي",
-      "away": "الحزم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/14895-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-hazm/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأخدود-الهلال-2026-02-05",
-      "home": "الأخدود",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سيراميكاكلي-غزلالمحلة-2026-02-05",
       "home": "سيراميكا كليوباترا",
       "away": "غزل المحلة",
@@ -48,6 +16,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/ceramica-cleopatra-vs-ghazl-el-mahalla/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-أتلتيكومدري-2026-02-05",
+      "home": "ريال بيتيس",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     },
     {
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-أتلتيكومدري-2026-02-05",
-      "home": "ريال بيتيس",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سبورتنجلشبو-فيلافرانكنس-2026-02-05",
       "home": "سبورتنج لشبونة",
       "away": "فيلا فرانكنسي",
@@ -115,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفيحاء-النجمة-2026-02-05",
-      "home": "الفيحاء",
-      "away": "النجمة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/20733-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24240-114x150.png",
-      "time_baghdad": "18:20",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-al-najma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشارقة-شبابالاهلي-2026-02-05",
       "home": "الشارقة",
       "away": "شباب الاهلي",
@@ -144,6 +96,38 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/al-sharjah-vs-shabab-al-ahly/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهليالسعو-الحزم-2026-02-05",
+      "home": "الأهلي السعودي",
+      "away": "الحزم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/14895-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-hazm/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأخدود-الهلال-2026-02-05",
+      "home": "الأخدود",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55794-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/groove-vs-crescent/",
       "_source": "yalla1shoot"
     }
   ]
