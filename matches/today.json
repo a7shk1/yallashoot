@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8307-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/46242-138x150.png",
       "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/20733-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24240-114x150.png",
       "time_baghdad": "18:20",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "تطبيق ثمانية",
       "commentator": "غير معروف",
@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهليالسعو-الحزم-2026-02-05",
-      "home": "الأهلي السعودي",
-      "away": "الحزم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/14895-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-hazm/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأخدود-الهلال-2026-02-05",
       "home": "الأخدود",
       "away": "الهلال",
@@ -83,6 +67,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الأهليالسعو-الحزم-2026-02-05",
+      "home": "الأهلي السعودي",
+      "away": "الحزم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/14895-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-hazm/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيراميكاكلي-غزلالمحلة-2026-02-05",
       "home": "سيراميكا كليوباترا",
       "away": "غزل المحلة",
@@ -96,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/ceramica-cleopatra-vs-ghazl-el-mahalla/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتالانتا-يوفنتوس-2026-02-05",
-      "home": "أتالانتا",
-      "away": "يوفنتوس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-juventus/",
       "_source": "yalla1shoot"
     },
     {
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, كأس ملك إسبانيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-atletico-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-يوفنتوس-2026-02-05",
+      "home": "أتالانتا",
+      "away": "يوفنتوس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-juventus/",
       "_source": "yalla1shoot"
     },
     {
