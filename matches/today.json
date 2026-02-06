@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سيلتافيجو-أوساسونا-2026-02-06",
-      "home": "سيلتا فيجو",
-      "away": "أوساسونا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-osasuna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليدزيونايتد-نوتنجهامفور-2026-02-06",
       "home": "ليدز يونايتد",
       "away": "نوتنجهام فورست",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-nottingham-forest/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سيلتافيجو-أوساسونا-2026-02-06",
+      "home": "سيلتا فيجو",
+      "away": "أوساسونا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-osasuna/",
       "_source": "yalla1shoot"
     }
   ]
