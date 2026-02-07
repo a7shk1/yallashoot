@@ -41,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/76692-150x149.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
       "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 9",
       "commentator": "غير معروف",
@@ -64,22 +64,6 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/wolfsburg-vs-borussia-dortmund/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بورنموث-أستونفيلا-2026-02-07",
-      "home": "بورنموث",
-      "away": "أستون فيلا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-aston-villa/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,6 +115,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بورنموث-أستونفيلا-2026-02-07",
+      "home": "بورنموث",
+      "away": "أستون فيلا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-aston-villa/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "برشلونة-ريالمايوركا-2026-02-07",
       "home": "برشلونة",
       "away": "ريال مايوركا",
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-برينتفورد-2026-02-07",
-      "home": "نيوكاسل يونايتد",
-      "away": "برينتفورد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-brentford/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيامونش-بايرليفركوز-2026-02-07",
       "home": "بوروسيا مونشنجلادباخ",
       "away": "باير ليفركوزن",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-girona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-برينتفورد-2026-02-07",
+      "home": "نيوكاسل يونايتد",
+      "away": "برينتفورد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
