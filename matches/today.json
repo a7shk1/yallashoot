@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بورنموث-أستونفيلا-2026-02-07",
-      "home": "بورنموث",
-      "away": "أستون فيلا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-aston-villa/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فولهام-إيفرتون-2026-02-07",
       "home": "فولهام",
       "away": "إيفرتون",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بورنموث-أستونفيلا-2026-02-07",
+      "home": "بورنموث",
+      "away": "أستون فيلا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-aston-villa/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نيوكاسليونا-برينتفورد-2026-02-07",
-      "home": "نيوكاسل يونايتد",
-      "away": "برينتفورد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-brentford/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيامونش-بايرليفركوز-2026-02-07",
       "home": "بوروسيا مونشنجلادباخ",
       "away": "باير ليفركوزن",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-girona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نيوكاسليونا-برينتفورد-2026-02-07",
+      "home": "نيوكاسل يونايتد",
+      "away": "برينتفورد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
@@ -304,38 +304,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-olympique-lyonnais/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سيلتافيجو-أوساسونا-2026-02-07",
-      "home": "سيلتا فيجو",
-      "away": "أوساسونا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-osasuna/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-نوتنجهامفور-2026-02-07",
-      "home": "ليدز يونايتد",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-nottingham-forest/",
       "_source": "yalla1shoot"
     }
   ]
