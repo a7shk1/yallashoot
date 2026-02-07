@@ -1,25 +1,9 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "شبيبةالقبائ-الأهلي-2026-02-07",
-      "home": "شبيبة القبائل",
-      "away": "الأهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8223-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-al-ahly/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجيشالملكي-يانجافريكان-2026-02-07",
+      "id": "الجيشالملكي-يانجافريكان-2026-02-08",
       "home": "الجيش الملكي",
       "away": "يانج افريكانز",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
@@ -35,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فيورنتينا-تورينو-2026-02-07",
+      "id": "فيورنتينا-تورينو-2026-02-08",
       "home": "فيورنتينا",
       "away": "تورينو",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
@@ -51,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-إلتشي-2026-02-07",
+      "id": "ريالسوسيداد-إلتشي-2026-02-08",
       "home": "ريال سوسيداد",
       "away": "إلتشي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
@@ -67,7 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نانت-أولمبيكليون-2026-02-07",
+      "id": "نانت-أولمبيكليون-2026-02-08",
       "home": "نانت",
       "away": "أولمبيك ليون",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/486-127x150.png",
@@ -83,7 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جنوى-نابولي-2026-02-07",
+      "id": "جنوى-نابولي-2026-02-08",
       "home": "جنوى",
       "away": "نابولي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
@@ -99,23 +83,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-جيرونا-2026-02-07",
-      "home": "إشبيلية",
-      "away": "جيرونا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/175-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-girona/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نيوكاسليونا-برينتفورد-2026-02-07",
+      "id": "نيوكاسليونا-برينتفورد-2026-02-08",
       "home": "نيوكاسل يونايتد",
       "away": "برينتفورد",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
@@ -131,7 +99,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوروسيامونش-بايرليفركوز-2026-02-07",
+      "id": "بوروسيامونش-بايرليفركوز-2026-02-08",
       "home": "بوروسيا مونشنجلادباخ",
       "away": "باير ليفركوزن",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/349.png",
@@ -147,7 +115,23 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-لوريان-2026-02-07",
+      "id": "إشبيلية-جيرونا-2026-02-08",
+      "home": "إشبيلية",
+      "away": "جيرونا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/175-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-girona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-لوريان-2026-02-08",
       "home": "بريست",
       "away": "لوريان",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/brest-vs-lorient/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شبيبةالقبائ-الأهلي-2026-02-08",
+      "home": "شبيبة القبائل",
+      "away": "الأهلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8223-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/js-kabylie-vs-al-ahly/",
       "_source": "yalla1shoot"
     }
   ]
