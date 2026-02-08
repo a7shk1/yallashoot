@@ -19,38 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كايزرتشيفز-المصري-2026-02-08",
-      "home": "كايزر تشيفز",
-      "away": "المصري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5451.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/kaizer-chiefs-vs-al-masry/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "زيسكو-الزمالك-2026-02-08",
-      "home": "زيسكو",
-      "away": "الزمالك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/19391-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/zesco-vs-zamalek/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ألافيس-خيتافي-2026-02-08",
       "home": "ألافيس",
       "away": "خيتافي",
@@ -112,6 +80,38 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/otoho-vs-stellenbosch/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كايزرتشيفز-المصري-2026-02-08",
+      "home": "كايزر تشيفز",
+      "away": "المصري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5451.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/kaizer-chiefs-vs-al-masry/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "زيسكو-الزمالك-2026-02-08",
+      "home": "زيسكو",
+      "away": "الزمالك",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/19391-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/zesco-vs-zamalek/",
       "_source": "yalla1shoot"
     },
     {
@@ -195,6 +195,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستادمالي-الترجي-2026-02-08",
+      "home": "ستاد مالي",
+      "away": "الترجي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12172-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/stade-mali-vs-esperance/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سانبيدرو-اتحادالعاصم-2026-02-08",
       "home": "سان بيدرو",
       "away": "اتحاد العاصمة",
@@ -224,22 +240,6 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/singida-black-stars-vs-cs-belouizdad/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ستادمالي-الترجي-2026-02-08",
-      "home": "ستاد مالي",
-      "away": "الترجي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12172-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/stade-mali-vs-esperance/",
       "_source": "yalla1shoot"
     },
     {
@@ -275,22 +275,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرنميونخ-هوفنهايم-2026-02-08",
-      "home": "بايرن ميونخ",
-      "away": "هوفنهايم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/351.png",
-      "time_baghdad": "19:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-hoffenheim/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليفربول-مانشسترسيتي-2026-02-08",
       "home": "ليفربول",
       "away": "مانشستر سيتي",
@@ -304,6 +288,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-manchester-city/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرنميونخ-هوفنهايم-2026-02-08",
+      "home": "بايرن ميونخ",
+      "away": "هوفنهايم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/351.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-hoffenheim/",
       "_source": "yalla1shoot"
     },
     {
