@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ساسولو-إنترميلان-2026-02-08",
-      "home": "ساسولو",
-      "away": "إنتر ميلان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/266.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/224-150x150.png",
-      "time_baghdad": "20:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-inter-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-ريالبيتيس-2026-02-08",
       "home": "أتلتيكو مدريد",
       "away": "ريال بيتيس",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/19392.png",
       "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 6 HD",
       "commentator": "غير معروف",
@@ -99,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكبلباو-ليفانتي-2026-02-08",
-      "home": "أتلتيك بلباو",
-      "away": "ليفانتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
-      "time_baghdad": "18:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-levante/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانبيدرو-اتحادالعاصم-2026-02-08",
       "home": "سان بيدرو",
       "away": "اتحاد العاصمة",
@@ -163,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "لوآفر-ستراسبورج-2026-02-08",
+      "home": "لو آفر",
+      "away": "ستراسبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/485.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
+      "time_baghdad": "19:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/le-havre-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوكسير-باريسأف.سي.-2026-02-08",
       "home": "أوكسير",
       "away": "باريس أف.سي.",
@@ -179,19 +163,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لوآفر-ستراسبورج-2026-02-08",
-      "home": "لو آفر",
-      "away": "ستراسبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/485.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
-      "time_baghdad": "19:15",
+      "id": "بايرنميونخ-هوفنهايم-2026-02-08",
+      "home": "بايرن ميونخ",
+      "away": "هوفنهايم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/351.png",
+      "time_baghdad": "19:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN Sports 6 HD",
+      "channel": "MBC Action",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/le-havre-vs-strasbourg/",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-hoffenheim/",
       "_source": "yalla1shoot"
     },
     {
@@ -211,19 +195,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرنميونخ-هوفنهايم-2026-02-08",
-      "home": "بايرن ميونخ",
-      "away": "هوفنهايم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/351.png",
-      "time_baghdad": "19:30",
+      "id": "ساسولو-إنترميلان-2026-02-08",
+      "home": "ساسولو",
+      "away": "إنتر ميلان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/266.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/224-150x150.png",
+      "time_baghdad": "20:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "MBC Action",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-hoffenheim/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-inter-milan/",
       "_source": "yalla1shoot"
     }
   ]
