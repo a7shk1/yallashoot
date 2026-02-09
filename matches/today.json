@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شبابالاهلي-الهلال-2026-02-09",
-      "home": "شباب الاهلي",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/shabab-al-ahly-vs-al-hilal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الدحيل-الشارقة-2026-02-09",
       "home": "الدحيل",
       "away": "الشارقة",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/al-duhail-vs-sharjah/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شبابالاهلي-الهلال-2026-02-09",
+      "home": "شباب الاهلي",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/shabab-al-ahly-vs-al-hilal/",
       "_source": "yalla1shoot"
     },
     {
@@ -144,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "البرتغال, الدوري البرتغالي",
       "match_url": "https://www.yalla1shoot.com/matches/porto-vs-sporting-lisbon/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فالنسيا-ريالمدريد-2026-02-09",
-      "home": "فالنسيا",
-      "away": "ريال مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/139-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-real-madrid/",
       "_source": "yalla1shoot"
     }
   ]
