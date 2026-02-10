@@ -3,54 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "تشيلسي-ليدزيونايتد-2026-02-11",
-      "home": "تشيلسي",
-      "away": "ليدز يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-leeds-united/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيفرتون-بورنموث-2026-02-11",
-      "home": "إيفرتون",
-      "away": "بورنموث",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-bournemouth/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "توتنهامهوتس-نيوكاسليونا-2026-02-11",
-      "home": "توتنهام هوتسبر",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/114-83x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/tottenham-hotspur-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هرتابرلين-فرايبورج-2026-02-11",
       "home": "هرتا برلين",
       "away": "فرايبورج",
@@ -131,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كونغآنهانو-تامبينيزروف-2026-02-11",
-      "home": "كونغ آن هانوي",
-      "away": "تامبينيز روفرز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/72909.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2369.png",
-      "time_baghdad": "15:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/cong-an-hanoi-vs-tampines-rovers/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "راتشابوري-يرسيبباندون-2026-02-11",
       "home": "راتشابوري",
       "away": "يرسيب باندونغ",
@@ -160,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/ratchaburi-vs-rsep-bandung/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كونغآنهانو-تامبينيزروف-2026-02-11",
+      "home": "كونغ آن هانوي",
+      "away": "تامبينيز روفرز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/72909.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2369.png",
+      "time_baghdad": "15:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/cong-an-hanoi-vs-tampines-rovers/",
       "_source": "yalla1shoot"
     },
     {
@@ -227,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مانشسترسيتي-فولهام-2026-02-11",
-      "home": "مانشستر سيتي",
-      "away": "فولهام",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/120-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-fulham/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نوتنجهامفور-وولفرهامبتون-2026-02-11",
       "home": "نوتنجهام فورست",
       "away": "وولفرهامبتون",
@@ -275,6 +211,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مانشسترسيتي-فولهام-2026-02-11",
+      "home": "مانشستر سيتي",
+      "away": "فولهام",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/120-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-fulham/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بايرنميونخ-لايبزيج-2026-02-11",
       "home": "بايرن ميونخ",
       "away": "لايبزيج",
@@ -288,22 +240,6 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, كأس المانيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-leipzig/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-11",
-      "home": "أتلتيك بلباو",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -339,6 +275,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-11",
+      "home": "أتلتيك بلباو",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad-2/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سندرلاند-ليفربول-2026-02-11",
       "home": "سندرلاند",
       "away": "ليفربول",
@@ -368,6 +320,54 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-vs-al-gharafa/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-ليدزيونايتد-2026-02-11",
+      "home": "تشيلسي",
+      "away": "ليدز يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-leeds-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-بورنموث-2026-02-11",
+      "home": "إيفرتون",
+      "away": "بورنموث",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-bournemouth/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "توتنهامهوتس-نيوكاسليونا-2026-02-11",
+      "home": "توتنهام هوتسبر",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/114-83x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/tottenham-hotspur-vs-newcastle-united/",
       "_source": "yalla1shoot"
     }
   ]
