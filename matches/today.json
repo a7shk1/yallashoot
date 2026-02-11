@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "أركاداج-النصر-2026-02-11",
-      "home": "أركاداج",
-      "away": "النصر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/74158-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
-      "time_baghdad": "16:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/arkadag-vs-al-nasr_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهلي-الإسماعيلي-2026-02-11",
       "home": "الأهلي",
       "away": "الإسماعيلي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8299-150x150.png",
       "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -67,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كريستالبالا-بيرنلي-2026-02-11",
+      "home": "كريستال بالاس",
+      "away": "بيرنلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-burnley_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مانشسترسيتي-فولهام-2026-02-11",
       "home": "مانشستر سيتي",
       "away": "فولهام",
@@ -96,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-wolverhampton_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كريستالبالا-بيرنلي-2026-02-11",
-      "home": "كريستال بالاس",
-      "away": "بيرنلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-burnley_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -195,6 +179,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كونغآنهانو-تامبينيزروف-2026-02-11",
+      "home": "كونغ آن هانوي",
+      "away": "تامبينيز روفرز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/72909.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2369.png",
+      "time_baghdad": "15:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/cong-an-hanoi-vs-tampines-rovers_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "راتشابوري-يرسيبباندون-2026-02-11",
       "home": "راتشابوري",
       "away": "يرسيب باندونغ",
@@ -211,19 +211,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كونغآنهانو-تامبينيزروف-2026-02-11",
-      "home": "كونغ آن هانوي",
-      "away": "تامبينيز روفرز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/72909.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2369.png",
-      "time_baghdad": "15:15",
+      "id": "أركاداج-النصر-2026-02-11",
+      "home": "أركاداج",
+      "away": "النصر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/74158-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
+      "time_baghdad": "16:45",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/cong-an-hanoi-vs-tampines-rovers_end_1/",
+      "match_url": "https://www.yalla1shoot.com/matches/arkadag-vs-al-nasr_end_1/",
       "_source": "yalla1shoot"
     }
   ]
