@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "سباهان-الأهليالقطر-2026-02-11",
-      "home": "سباهان",
-      "away": "الأهلي القطري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/sepahan-vs-al-ahly-qatar_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-سموحة-2026-02-11",
       "home": "الزمالك",
       "away": "سموحة",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-wolverhampton_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أستونفيلا-برايتون-2026-02-11",
+      "home": "أستون فيلا",
+      "away": "برايتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/38-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-brighton/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أركاداج-النصر-2026-02-11",
-      "home": "أركاداج",
-      "away": "النصر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/74158-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
-      "time_baghdad": "16:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/arkadag-vs-al-nasr_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهلي-الإسماعيلي-2026-02-11",
       "home": "الأهلي",
       "away": "الإسماعيلي",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-ismaily_end_1-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سباهان-الأهليالقطر-2026-02-11",
+      "home": "سباهان",
+      "away": "الأهلي القطري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/sepahan-vs-al-ahly-qatar_end_1/",
       "_source": "yalla1shoot"
     }
   ]
