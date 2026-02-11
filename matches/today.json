@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الأهلي-الإسماعيلي-2026-02-11",
-      "home": "الأهلي",
-      "away": "الإسماعيلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8299-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-ismaily_end_1-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سباهان-الأهليالقطر-2026-02-11",
       "home": "سباهان",
       "away": "الأهلي القطري",
@@ -115,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-11",
+      "home": "أتلتيك بلباو",
+      "away": "ريال سوسيداد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad_end_1-2/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بولونيا-لاتسيو-2026-02-11",
       "home": "بولونيا",
       "away": "لاتسيو",
@@ -147,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكبلباو-ريالسوسيداد-2026-02-11",
-      "home": "أتلتيك بلباو",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/athletic-bilbao-vs-real-sociedad_end_1-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سندرلاند-ليفربول-2026-02-11",
       "home": "سندرلاند",
       "away": "ليفربول",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/arkadag-vs-al-nasr_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الإسماعيلي-2026-02-11",
+      "home": "الأهلي",
+      "away": "الإسماعيلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8299-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-ismaily_end_1-2/",
       "_source": "yalla1shoot"
     }
   ]
