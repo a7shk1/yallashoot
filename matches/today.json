@@ -3,6 +3,22 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
+      "id": "البطائح-الظفرة-2026-02-13",
+      "home": "البطائح",
+      "away": "الظفرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/57374-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8352-150x150.png",
+      "time_baghdad": "16:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-bataeh-vs-al-dhafra/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الشباب-الأهليالسعو-2026-02-13",
       "home": "الشباب",
       "away": "الأهلي السعودي",
@@ -32,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-ettifaq/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزيرة-كلباء-2026-02-13",
+      "home": "الجزيرة",
+      "away": "كلباء",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8283.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8355-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-jazeera-vs-kalba/",
       "_source": "yalla1shoot"
     },
     {
@@ -83,6 +115,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "هالسيتي-تشيلسي-2026-02-13",
+      "home": "هال سيتي",
+      "away": "تشيلسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
+      "match_url": "https://www.yalla1shoot.com/matches/hull-city-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بيسا-ميلان-2026-02-13",
       "home": "بيسا",
       "away": "ميلان",
@@ -131,6 +179,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أتلتيكومدري-برشلونة-2026-02-13",
+      "home": "أتلتيكو مدريد",
+      "away": "برشلونة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/132-1-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-barcelona_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أتليتكومدري-مانشستريونا-2026-02-13",
       "home": "أتليتكو مدريد - سيدات",
       "away": "مانشستر يونايتد - سيدات",
@@ -160,22 +224,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/brentford-vs-arsenal_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكومدري-برشلونة-2026-02-13",
-      "home": "أتلتيكو مدريد",
-      "away": "برشلونة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/132-1-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-barcelona_end_1/",
       "_source": "yalla1shoot"
     }
   ]
