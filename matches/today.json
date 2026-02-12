@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "ضمك-التعاون-2026-02-12",
-      "home": "ضمك",
-      "away": "التعاون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24241-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8941-150x150.png",
-      "time_baghdad": "18:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/damac-vs-al-taawoun/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الحزم-الأخدود-2026-02-12",
       "home": "الحزم",
       "away": "الأخدود",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24121-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/49802-150x150.png",
       "time_baghdad": "20:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -112,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال أوروبا للسيدات - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-women-vs-manchester-united-women_end_1-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ضمك-التعاون-2026-02-12",
+      "home": "ضمك",
+      "away": "التعاون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24241-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8941-150x150.png",
+      "time_baghdad": "18:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/damac-vs-al-taawoun/",
       "_source": "yalla1shoot"
     }
   ]
