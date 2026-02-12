@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "بانكوكيوناي-ماكارثر-2026-02-12",
-      "home": "بانكوك يونايتد",
-      "away": "ماكارثر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7753.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/67689-132x150.png",
-      "time_baghdad": "15:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/bangkok-united-vs-macarthur_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فولفسبورج--يوفنتوس-سي-2026-02-12",
       "home": "فولفسبورج - سيدات",
       "away": "يوفنتوس - سيدات",
@@ -83,19 +67,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوهانغستيلي-غامباأوساكا-2026-02-12",
-      "home": "بوهانغ ستيليرز",
-      "away": "غامبا أوساكا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9822.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2150-128x150.png",
-      "time_baghdad": "13:00",
+      "id": "بانكوكيوناي-ماكارثر-2026-02-12",
+      "home": "بانكوك يونايتد",
+      "away": "ماكارثر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7753.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/67689-132x150.png",
+      "time_baghdad": "15:15",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/pohang-steelers-vs-gamba-osaka_end_1/",
+      "match_url": "https://www.yalla1shoot.com/matches/bangkok-united-vs-macarthur_end_1/",
       "_source": "yalla1shoot"
     }
   ]
