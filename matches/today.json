@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الجزيرة-كلباء-2026-02-13",
-      "home": "الجزيرة",
-      "away": "كلباء",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8283.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8355-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-jazeera-vs-kalba/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحاد-الفيحاء-2026-02-13",
       "home": "الاتحاد",
       "away": "الفيحاء",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيسا-ميلان-2026-02-13",
-      "home": "بيسا",
-      "away": "ميلان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/248-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/besa-vs-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هالسيتي-تشيلسي-2026-02-13",
       "home": "هال سيتي",
       "away": "تشيلسي",
@@ -96,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
       "match_url": "https://www.yalla1shoot.com/matches/hull-city-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيسا-ميلان-2026-02-13",
+      "home": "بيسا",
+      "away": "ميلان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/248-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/227-1.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/besa-vs-milan/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشباب-الأهليالسعو-2026-02-13",
-      "home": "الشباب",
-      "away": "الأهلي السعودي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8945-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
-      "time_baghdad": "16:55",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-shabab-vs-al-ahly-saudi/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الهلال-الاتفاق-2026-02-13",
       "home": "الهلال",
       "away": "الاتفاق",
@@ -160,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-ettifaq/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجزيرة-كلباء-2026-02-13",
+      "home": "الجزيرة",
+      "away": "كلباء",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8283.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8355-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-jazeera-vs-kalba/",
       "_source": "yalla1shoot"
     }
   ]
