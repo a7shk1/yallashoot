@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_3/",
   "matches": [
     {
-      "id": "الزمالك-كايزرتشيفز-2026-02-14",
-      "home": "الزمالك",
-      "away": "كايزر تشيفز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5451.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-kaizer-chiefs/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الترجي-بترواتليتكو-2026-02-14",
-      "home": "الترجي",
-      "away": "بترو اتليتكو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11284-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-petro-atletico/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-ستراسبورج-2026-02-14",
       "home": "أولمبيك مارسيليا",
       "away": "ستراسبورج",
@@ -64,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-zesco/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-كايزرتشيفز-2026-02-14",
+      "home": "الزمالك",
+      "away": "كايزر تشيفز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5451.png",
+      "time_baghdad": "19:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-kaizer-chiefs/",
       "_source": "yalla1shoot"
     },
     {
@@ -137,29 +121,13 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
       "time_baghdad": "20:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
       "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نهضةبركان-ريفرزيونايت-2026-02-14",
-      "home": "نهضة بركان",
-      "away": "ريفرز يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6994-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-rivers-united/",
       "_source": "yalla1shoot"
     },
     {
@@ -176,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/usm-vs-olympique-safi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-ريفرزيونايت-2026-02-14",
+      "home": "نهضة بركان",
+      "away": "ريفرز يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6994-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-rivers-united/",
       "_source": "yalla1shoot"
     },
     {
@@ -240,22 +224,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/paris-fc-vs-lens/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرياض-الخليج-2026-02-14",
-      "home": "الرياض",
-      "away": "الخليج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12135-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12138-136x150.png",
-      "time_baghdad": "16:55",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/riyadh-vs-al-khaleej/",
       "_source": "yalla1shoot"
     },
     {
@@ -336,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-villarreal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-بترواتليتكو-2026-02-14",
+      "home": "الترجي",
+      "away": "بترو اتليتكو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11284-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-petro-atletico/",
       "_source": "yalla1shoot"
     }
   ]
