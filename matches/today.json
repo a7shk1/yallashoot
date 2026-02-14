@@ -137,8 +137,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/359-150x150.png",
       "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
@@ -153,8 +153,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/332-107x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
       "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "MBC Action",
       "commentator": "غير معروف",
@@ -259,22 +259,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شتوتجارت-كولن-2026-02-14",
-      "home": "شتوتجارت",
-      "away": "كولن",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/350.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-koln/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الفتح-النصر-2026-02-14",
       "home": "الفتح",
       "away": "النصر",
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-fateh-vs-al-nasr/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شتوتجارت-كولن-2026-02-14",
+      "home": "شتوتجارت",
+      "away": "كولن",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/350.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-koln/",
       "_source": "yalla1shoot"
     },
     {
@@ -355,22 +355,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-برايتون-2026-02-14",
-      "home": "ليفربول",
-      "away": "برايتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/38-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
-      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-brighton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-ريالسوسيداد-2026-02-14",
       "home": "ريال مدريد",
       "away": "ريال سوسيداد",
@@ -384,6 +368,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-real-sociedad/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفربول-برايتون-2026-02-14",
+      "home": "ليفربول",
+      "away": "برايتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/38-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
+      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-brighton/",
       "_source": "yalla1shoot"
     },
     {
