@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الهلالالسود-سانتإيلويل-2026-02-14",
-      "home": "الهلال السوداني",
-      "away": "سانت إيلوي لوبوبو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12778.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29705-126x150.png",
-      "time_baghdad": "16:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-sudan-vs-saint-eloi-lobobo/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مونبلييه-لومان-2026-02-14",
       "home": "مونبلييه",
       "away": "لومان",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/sun-downs-vs-mouloudia-algiers/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلالالسود-سانتإيلويل-2026-02-14",
+      "home": "الهلال السوداني",
+      "away": "سانت إيلوي لوبوبو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12778.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29705-126x150.png",
+      "time_baghdad": "16:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-sudan-vs-saint-eloi-lobobo/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-بترواتليتكو-2026-02-14",
-      "home": "الترجي",
-      "away": "بترو اتليتكو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11284-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-petro-atletico/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-ستراسبورج-2026-02-14",
       "home": "أولمبيك مارسيليا",
       "away": "ستراسبورج",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية",
       "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-kaizer-chiefs/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-بترواتليتكو-2026-02-14",
+      "home": "الترجي",
+      "away": "بترو اتليتكو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8235-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11284-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-petro-atletico/",
       "_source": "yalla1shoot"
     },
     {
@@ -291,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحادالعاصم-أولمبيكآسفي-2026-02-14",
-      "home": "اتحاد العاصمة",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8220.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/usm-vs-olympique-safi/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نهضةبركان-ريفرزيونايت-2026-02-14",
       "home": "نهضة بركان",
       "away": "ريفرز يونايتد",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/nahdet-berkane-vs-rivers-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادالعاصم-أولمبيكآسفي-2026-02-14",
+      "home": "اتحاد العاصمة",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8220.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/usm-vs-olympique-safi/",
       "_source": "yalla1shoot"
     },
     {
@@ -339,22 +339,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفربول-برايتون-2026-02-14",
-      "home": "ليفربول",
-      "away": "برايتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/38-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
-      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-brighton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-ريالسوسيداد-2026-02-14",
       "home": "ريال مدريد",
       "away": "ريال سوسيداد",
@@ -368,6 +352,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-real-sociedad/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفربول-برايتون-2026-02-14",
+      "home": "ليفربول",
+      "away": "برايتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/38-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
+      "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-brighton/",
       "_source": "yalla1shoot"
     },
     {
