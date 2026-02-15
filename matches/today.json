@@ -3,6 +3,22 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
+      "id": "الاتحادالسك-سموحة-2026-02-16",
+      "home": "الاتحاد السكندري",
+      "away": "سموحة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8312.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-smouha/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الشارقة-ناسافكارشي-2026-02-16",
       "home": "الشارقة",
       "away": "ناساف كارشي",
@@ -32,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-shabab-al-ahly/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنبي-البنكالاهلي-2026-02-16",
+      "home": "إنبي",
+      "away": "البنك الاهلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50527.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-national-bank/",
       "_source": "yalla1shoot"
     },
     {
@@ -80,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
       "match_url": "https://www.yalla1shoot.com/matches/macclesfield-vs-brentford/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "باستيا-تروا-2026-02-16",
+      "home": "باستيا",
+      "away": "تروا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/489-130x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/488.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/bastia-vs-troes/",
       "_source": "yalla1shoot"
     },
     {
