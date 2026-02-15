@@ -163,38 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكليون-نيس-2026-02-16",
-      "home": "أولمبيك ليون",
-      "away": "نيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/470-1.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-nice/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نابولي-روما-2026-02-16",
-      "home": "نابولي",
-      "away": "روما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-roma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمايوركا-ريالبيتيس-2026-02-16",
       "home": "ريال مايوركا",
       "away": "ريال بيتيس",
