@@ -72,13 +72,16 @@ def scrape():
                 "--no-sandbox",
                 "--disable-dev-shm-usage",
                 "--disable-blink-features=AutomationControlled",
+                "--ignore-certificate-errors",  # ضفتلك هاي
             ],
         )
+        # وضفتلك ignore_https_errors=True هنا
         ctx = browser.new_context(
             viewport={"width": 1366, "height": 864},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127 Safari/537.36",
             locale="ar",
             timezone_id="Asia/Baghdad",
+            ignore_https_errors=True,
         )
         ctx.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined});")
 
@@ -86,7 +89,12 @@ def scrape():
         page.set_default_timeout(60000)
 
         print("[open]", url)
-        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        # حتى لو صار error بالشهادة، الـ ignore الفوك راح يعالجه، بس للاحتياط نخلي try هنا هم
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        except Exception as e:
+            print(f"[warn] goto error (might be ignored): {e}")
+
         try:
             page.wait_for_load_state("networkidle", timeout=20000)
         except PWTimeout:
@@ -295,4 +303,4 @@ def scrape():
 
 
 if __name__ == "__main__":
-    scrape()
+    scrape()س
