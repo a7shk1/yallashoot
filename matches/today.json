@@ -3,19 +3,19 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ريالمايوركا-ريالبيتيس-2026-02-16",
-      "home": "ريال مايوركا",
-      "away": "ريال بيتيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
+      "id": "الأهليالسعو-شبابالاهلي-2026-02-16",
+      "home": "الأهلي السعودي",
+      "away": "شباب الاهلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-betis/",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-shabab-al-ahly/",
       "_source": "yalla1shoot"
     },
     {
@@ -32,22 +32,6 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/sharjah-vs-nasaf-karshi/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهليالسعو-شبابالاهلي-2026-02-16",
-      "home": "الأهلي السعودي",
-      "away": "شباب الاهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-shabab-al-ahly/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-roma/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمايوركا-ريالبيتيس-2026-02-16",
+      "home": "ريال مايوركا",
+      "away": "ريال بيتيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-betis/",
       "_source": "yalla1shoot"
     }
   ]
