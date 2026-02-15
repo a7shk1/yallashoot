@@ -3,19 +3,19 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ليفانتي-فالنسيا-2026-02-15",
-      "home": "ليفانتي",
-      "away": "فالنسيا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/139-130x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
+      "id": "نابولي-روما-2026-02-15",
+      "home": "نابولي",
+      "away": "روما",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-valencia/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-roma/",
       "_source": "yalla1shoot"
     },
     {
@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نابولي-روما-2026-02-15",
-      "home": "نابولي",
-      "away": "روما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-roma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمايوركا-ريالبيتيس-2026-02-15",
       "home": "ريال مايوركا",
       "away": "ريال بيتيس",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-betis/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الجيشالملكي-2026-02-15",
+      "home": "الأهلي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-royal-army/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/young-africans-vs-js-kabylie/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهلي-الجيشالملكي-2026-02-15",
-      "home": "الأهلي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
-      "time_baghdad": "19:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-royal-army/",
       "_source": "yalla1shoot"
     },
     {
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/torino-vs-bologna/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليفانتي-فالنسيا-2026-02-15",
+      "home": "ليفانتي",
+      "away": "فالنسيا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/139-130x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-valencia/",
       "_source": "yalla1shoot"
     }
   ]
