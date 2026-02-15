@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 BAGHDAD_TZ = ZoneInfo("Asia/Baghdad")
-DEFAULT_URL = "https://www.yalla1shoot.com/matches-today_3/"
+DEFAULT_URL = "https://www.yalla1shoot.com/matches-today_5/"
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = REPO_ROOT / "matches"
