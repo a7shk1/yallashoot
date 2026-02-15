@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "رايوفاييكان-أتلتيكومدري-2026-02-15",
-      "home": "رايو فاييكانو",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "time_baghdad": "18:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/rayo-vallecano-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهلي-الجيشالملكي-2026-02-15",
-      "home": "الأهلي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-royal-army/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "شباببلوزداد-اوتوهو-2026-02-15",
       "home": "شباب بلوزداد",
       "away": "اوتوهو",
@@ -64,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
       "match_url": "https://www.yalla1shoot.com/matches/young-africans-vs-js-kabylie/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-الجيشالملكي-2026-02-15",
+      "home": "الأهلي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
+      "time_baghdad": "19:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - المجموعات",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-royal-army/",
       "_source": "yalla1shoot"
     },
     {
@@ -99,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-ويجانأتلتيك-2026-02-15",
-      "home": "أرسنال",
-      "away": "ويجان أتلتيك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/119-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-wigan-athletic/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لايبزيج-فولفسبورج-2026-02-15",
       "home": "لايبزيج",
       "away": "فولفسبورج",
@@ -128,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/leipzig-vs-wolfsburg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-ويجانأتلتيك-2026-02-15",
+      "home": "أرسنال",
+      "away": "ويجان أتلتيك",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/119-150x150.png",
+      "time_baghdad": "19:30",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, كاس الاتحاد الإنجليزي - الدور 4",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-wigan-athletic/",
       "_source": "yalla1shoot"
     },
     {
@@ -153,8 +137,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/139-130x150.png",
       "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -211,22 +195,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الودادالريا-عزاميونايتد-2026-02-15",
-      "home": "الوداد الرياضي",
-      "away": "عزام يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8326-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/10537.png",
-      "time_baghdad": "17:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sport 8 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية",
-      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-azzam-united/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كريمونيسي-جنوى-2026-02-15",
       "home": "كريمونيسي",
       "away": "جنوى",
@@ -275,6 +243,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الودادالريا-عزاميونايتد-2026-02-15",
+      "home": "الوداد الرياضي",
+      "away": "عزام يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8326-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/10537.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sport 8 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية",
+      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-azzam-united/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوغسبورغ-هايدينهايم-2026-02-15",
       "home": "أوغسبورغ",
       "away": "هايدينهايم",
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-heidenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "رايوفاييكان-أتلتيكومدري-2026-02-15",
+      "home": "رايو فاييكانو",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "time_baghdad": "18:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/rayo-vallecano-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     }
   ]
