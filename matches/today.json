@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشارقة-ناسافكارشي-2026-02-16",
-      "home": "الشارقة",
-      "away": "ناساف كارشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8351-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8596-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/sharjah-vs-nasaf-karshi/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-شبابالاهلي-2026-02-16",
       "home": "الأهلي السعودي",
       "away": "شباب الاهلي",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-shabab-al-ahly/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشارقة-ناسافكارشي-2026-02-16",
+      "home": "الشارقة",
+      "away": "ناساف كارشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8351-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8596-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/sharjah-vs-nasaf-karshi/",
       "_source": "yalla1shoot"
     },
     {
