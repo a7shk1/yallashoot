@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الشرطة-الدحيل-2026-02-16",
-      "home": "الشرطة",
-      "away": "الدحيل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8246-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8329-133x150.png",
-      "time_baghdad": "21:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/al-shorta-vs-al-duhail/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الهلال-الوحدة-2026-02-16",
-      "home": "الهلال",
-      "away": "الوحدة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8350-127x150.png",
-      "time_baghdad": "21:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-wahda/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالسوسيداد-مالقا-2026-02-16",
       "home": "ريال سوسيداد ب",
       "away": "مالقا",
@@ -115,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريوآفي-موريرنسي-2026-02-16",
+      "home": "ريو آفي",
+      "away": "موريرنسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/904.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7573.png",
+      "time_baghdad": "23:15",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "البرتغال, الدوري البرتغالي",
+      "match_url": "https://www.yalla1shoot.com/matches/rio-ave-vs-moreirense/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إنبي-البنكالاهلي-2026-02-16",
       "home": "إنبي",
       "away": "البنك الاهلي",
@@ -128,6 +112,38 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-national-bank/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشرطة-الدحيل-2026-02-16",
+      "home": "الشرطة",
+      "away": "الدحيل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8246-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8329-133x150.png",
+      "time_baghdad": "21:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/al-shorta-vs-al-duhail/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-الوحدة-2026-02-16",
+      "home": "الهلال",
+      "away": "الوحدة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8350-127x150.png",
+      "time_baghdad": "21:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-wahda/",
       "_source": "yalla1shoot"
     }
   ]
