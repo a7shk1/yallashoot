@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الاتحادالسك-سموحة-2026-02-16",
-      "home": "الاتحاد السكندري",
-      "away": "سموحة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8312.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-smouha/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الشارقة-ناسافكارشي-2026-02-16",
       "home": "الشارقة",
       "away": "ناساف كارشي",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشرطة-الدحيل-2026-02-16",
-      "home": "الشرطة",
-      "away": "الدحيل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8246-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8329-133x150.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/al-shorta-vs-al-duhail/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الهلال-الوحدة-2026-02-16",
       "home": "الهلال",
       "away": "الوحدة",
@@ -96,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة",
       "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-wahda/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشرطة-الدحيل-2026-02-16",
+      "home": "الشرطة",
+      "away": "الدحيل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8246-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8329-133x150.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة",
+      "match_url": "https://www.yalla1shoot.com/matches/al-shorta-vs-al-duhail/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/girona-vs-barcelona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الاتحادالسك-سموحة-2026-02-16",
+      "home": "الاتحاد السكندري",
+      "away": "سموحة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8312.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-alexandria-vs-smouha/",
       "_source": "yalla1shoot"
     }
   ]
