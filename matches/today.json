@@ -193,38 +193,6 @@
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-atalanta/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "سيؤول-سانفريسهيرو-2026-02-17",
-      "home": "سيؤول",
-      "away": "سانفريس هيروشيما",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9820.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2159.png",
-      "time_baghdad": "13:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/seoul-vs-sanfrecce-hiroshima/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ماتشيدازيرو-تشينغدورونغ-2026-02-17",
-      "home": "ماتشيدا زيروبيا",
-      "away": "تشينغدو رونغتشنغ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9133.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29675-150x150.png",
-      "time_baghdad": "13:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/machida-zerobia-vs-chengdu-rongcheng/",
-      "_source": "yalla1shoot"
     }
   ]
 }
