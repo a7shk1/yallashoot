@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الزمالك-سيراميكاكلي-2026-02-17",
-      "home": "الزمالك",
-      "away": "سيراميكا كليوباترا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/50882-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-ceramica-cleopatra/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "السد-الاتحاد-2026-02-17",
       "home": "السد",
       "away": "الاتحاد",
@@ -163,35 +147,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوريراميونا-شنغهايشنهوا-2026-02-17",
-      "home": "بوريرام يونايتد",
-      "away": "شنغهاي شنهوا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7747.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2179-150x150.png",
-      "time_baghdad": "15:15",
+      "id": "الزمالك-سيراميكاكلي-2026-02-17",
+      "home": "الزمالك",
+      "away": "سيراميكا كليوباترا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/50882-150x150.png",
+      "time_baghdad": "18:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/buriram-united-vs-shanghai-shenhua/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "جوهور-فيسيلكوبي-2026-02-17",
-      "home": "جوهور",
-      "away": "فيسيل كوبي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10080-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2151.png",
-      "time_baghdad": "15:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة",
-      "match_url": "https://www.yalla1shoot.com/matches/johor-vs-vissel-kobe/",
+      "competition": "مصر, كأس مصر - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-ceramica-cleopatra/",
       "_source": "yalla1shoot"
     }
   ]
