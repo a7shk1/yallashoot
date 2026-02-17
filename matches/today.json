@@ -15,7 +15,7 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/fc-bandung-vs-ratchaburi/",
+      "match_url": "https://www.yalla1shoot.com/matches/fc-bandung-vs-ratchaburi_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -31,23 +31,7 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/karabag-aghdam-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الأهليالقطر-سباهان-2026-02-18",
-      "home": "الأهلي القطري",
-      "away": "سباهان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الكأس 7",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-sepahan/",
+      "match_url": "https://www.yalla1shoot.com/matches/karabag-aghdam-vs-newcastle-united_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -63,7 +47,23 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/victory-vs-arcadeg/",
+      "match_url": "https://www.yalla1shoot.com/matches/victory-vs-arcadeg_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهليالقطر-سباهان-2026-02-18",
+      "home": "الأهلي القطري",
+      "away": "سباهان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الكأس 7",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-sepahan_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -79,7 +79,7 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-villarreal/",
+      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-villarreal_end_1-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -95,7 +95,7 @@
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/milan-vs-como/",
+      "match_url": "https://www.yalla1shoot.com/matches/milan-vs-como_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -111,7 +111,7 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/bodo-glimt-vs-inter-milan/",
+      "match_url": "https://www.yalla1shoot.com/matches/bodo-glimt-vs-inter-milan_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -127,7 +127,7 @@
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/olympiacos-vs-bayer-leverkusen/",
+      "match_url": "https://www.yalla1shoot.com/matches/olympiacos-vs-bayer-leverkusen_end_1-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -143,7 +143,7 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/club-brugge-vs-atletico-madrid/",
+      "match_url": "https://www.yalla1shoot.com/matches/club-brugge-vs-atletico-madrid_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -159,7 +159,7 @@
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal/",
+      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -175,7 +175,7 @@
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/monaco-vs-paris-saint-germain/",
+      "match_url": "https://www.yalla1shoot.com/matches/monaco-vs-paris-saint-germain_end_1-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -191,7 +191,7 @@
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "إنجلترا, ليغ وان",
-      "match_url": "https://www.yalla1shoot.com/matches/blackpool-vs-mansfield/",
+      "match_url": "https://www.yalla1shoot.com/matches/blackpool-vs-mansfield_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -207,7 +207,7 @@
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/benfica-vs-real-madrid/",
+      "match_url": "https://www.yalla1shoot.com/matches/benfica-vs-real-madrid_end_1-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -223,7 +223,7 @@
       "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-atalanta/",
+      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-atalanta_end_1/",
       "_source": "yalla1shoot"
     }
   ]
