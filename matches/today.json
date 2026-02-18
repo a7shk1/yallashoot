@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "يرسيبباندون-راتشابوري-2026-02-18",
-      "home": "يرسيب باندونغ",
-      "away": "راتشابوري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6034-140x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10318-150x150.png",
-      "time_baghdad": "15:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/fc-bandung-vs-ratchaburi_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كارباغاغدام-نيوكاسليونا-2026-02-18",
       "home": "كارباغ اغدام",
       "away": "نيوكاسل يونايتد",
@@ -35,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأهليالقطر-سباهان-2026-02-18",
-      "home": "الأهلي القطري",
-      "away": "سباهان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
-      "time_baghdad": "21:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الكأس 7",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-sepahan_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النصر-أركاداج-2026-02-18",
       "home": "النصر",
       "away": "أركاداج",
@@ -64,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/victory-vs-arcadeg_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهليالقطر-سباهان-2026-02-18",
+      "home": "الأهلي القطري",
+      "away": "سباهان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7085-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9356.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الكأس 7",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-sepahan_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,22 +80,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/milan-vs-como_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "وولفرهامبتون-أرسنال-2026-02-18",
-      "home": "وولفرهامبتون",
-      "away": "أرسنال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,6 +128,38 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/club-brugge-vs-atletico-madrid_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وولفرهامبتون-أرسنال-2026-02-18",
+      "home": "وولفرهامبتون",
+      "away": "أرسنال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "يرسيبباندون-راتشابوري-2026-02-18",
+      "home": "يرسيب باندونغ",
+      "away": "راتشابوري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6034-140x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10318-150x150.png",
+      "time_baghdad": "15:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/fc-bandung-vs-ratchaburi_end_1/",
       "_source": "yalla1shoot"
     }
   ]
