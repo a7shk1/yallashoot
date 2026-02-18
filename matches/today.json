@@ -99,38 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كلوببروج-أتلتيكومدري-2026-02-18",
-      "home": "كلوب بروج",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1169-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/club-brugge-vs-atletico-madrid_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "وولفرهامبتون-أرسنال-2026-02-18",
-      "home": "وولفرهامبتون",
-      "away": "أرسنال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بودوجليمت-إنترميلان-2026-02-18",
       "home": "بودو جليمت",
       "away": "إنتر ميلان",
@@ -160,6 +128,38 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/olympiacos-vs-bayer-leverkusen_end_1-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كلوببروج-أتلتيكومدري-2026-02-18",
+      "home": "كلوب بروج",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1169-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/club-brugge-vs-atletico-madrid_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وولفرهامبتون-أرسنال-2026-02-18",
+      "home": "وولفرهامبتون",
+      "away": "أرسنال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-arsenal_end_1/",
       "_source": "yalla1shoot"
     }
   ]
