@@ -225,22 +225,6 @@
       "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/lille-vs-red-star_end_1/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "غامباأوساكا-بوهانغستيلي-2026-02-19",
-      "home": "غامبا أوساكا",
-      "away": "بوهانغ ستيليرز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2150-128x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9822.png",
-      "time_baghdad": "13:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/gamba-osaka-vs-pohang-steelers/",
-      "_source": "yalla1shoot"
     }
   ]
 }
