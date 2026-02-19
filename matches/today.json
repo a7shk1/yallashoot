@@ -163,6 +163,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "سيلتيك-شتوتجارت-2026-02-19",
+      "home": "سيلتيك",
+      "away": "شتوتجارت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/754.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/celtic-vs-stuttgart_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "لودوجوريتس-فيرينتسفاروش-2026-02-19",
+      "home": "لودوجوريتس",
+      "away": "فيرينتسفاروشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8528-123x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6020-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/ludogorets-vs-ferencvarosi_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أومونيانيقو-رييكا-2026-02-19",
       "home": "أومونيا نيقوسيا",
       "away": "رييكا",
@@ -224,38 +256,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/lille-vs-red-star_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سيلتيك-شتوتجارت-2026-02-19",
-      "home": "سيلتيك",
-      "away": "شتوتجارت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/754.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/celtic-vs-stuttgart_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "لودوجوريتس-فيرينتسفاروش-2026-02-19",
-      "home": "لودوجوريتس",
-      "away": "فيرينتسفاروشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8528-123x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6020-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/ludogorets-vs-ferencvarosi_end_1/",
       "_source": "yalla1shoot"
     }
   ]
