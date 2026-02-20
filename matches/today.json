@@ -12,7 +12,7 @@
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-haras-el-hodood/",
@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-أولمبيكمارس-2026-02-20",
-      "home": "بريست",
-      "away": "أولمبيك مارسيليا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/brest-vs-olympique-marseille/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ساسولو-هيلاسفيرونا-2026-02-20",
       "home": "ساسولو",
       "away": "هيلاس فيرونا",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-hellas-verona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-أولمبيكمارس-2026-02-20",
+      "home": "بريست",
+      "away": "أولمبيك مارسيليا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/brest-vs-olympique-marseille/",
       "_source": "yalla1shoot"
     },
     {
