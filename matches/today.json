@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تشيلسي-بيرنلي-2026-02-21",
-      "home": "تشيلسي",
-      "away": "بيرنلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-burnley/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "برينتفورد-برايتون-2026-02-21",
       "home": "برينتفورد",
       "away": "برايتون",
@@ -112,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-leeds-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-بيرنلي-2026-02-21",
+      "home": "تشيلسي",
+      "away": "بيرنلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-burnley/",
       "_source": "yalla1shoot"
     },
     {
@@ -160,22 +160,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/lecce-vs-inter-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أوساسونا-ريالمدريد-2026-02-21",
-      "home": "أوساسونا",
-      "away": "ريال مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/osasuna-vs-real-madrid/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,6 +227,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أوساسونا-ريالمدريد-2026-02-21",
+      "home": "أوساسونا",
+      "away": "ريال مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/osasuna-vs-real-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "تولوز-باريسأف.سي.-2026-02-21",
       "home": "تولوز",
       "away": "باريس أف.سي.",
@@ -259,22 +259,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الهلال-الاتحاد-2026-02-21",
-      "home": "الهلال",
-      "away": "الاتحاد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-ittihad/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النصر-الحزم-2026-02-21",
       "home": "النصر",
       "away": "الحزم",
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-al-hazm/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-الاتحاد-2026-02-21",
+      "home": "الهلال",
+      "away": "الاتحاد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-ittihad/",
       "_source": "yalla1shoot"
     },
     {
