@@ -73,8 +73,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/243-136x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/236.png",
       "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وستهاميونا-بورنموث-2026-02-21",
-      "home": "وست هام يونايتد",
-      "away": "بورنموث",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/113.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/west-ham-united-vs-bournemouth/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لايبزيج-بوروسيادورت-2026-02-21",
       "home": "لايبزيج",
       "away": "بوروسيا دورتموند",
@@ -240,6 +224,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/osasuna-vs-real-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "وستهاميونا-بورنموث-2026-02-21",
+      "home": "وست هام يونايتد",
+      "away": "بورنموث",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/113.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/west-ham-united-vs-bournemouth/",
       "_source": "yalla1shoot"
     }
   ]
