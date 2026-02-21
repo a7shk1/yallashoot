@@ -67,38 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كريستالبالا-وولفرهامبتون-2026-02-22",
-      "home": "كريستال بالاس",
-      "away": "وولفرهامبتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-wolverhampton/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتالانتا-نابولي-2026-02-22",
-      "home": "أتالانتا",
-      "away": "نابولي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-napoli/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سندرلاند-فولهام-2026-02-22",
       "home": "سندرلاند",
       "away": "فولهام",
@@ -144,6 +112,38 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-liverpool/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كريستالبالا-وولفرهامبتون-2026-02-22",
+      "home": "كريستال بالاس",
+      "away": "وولفرهامبتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/15-150x142.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-wolverhampton/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتالانتا-نابولي-2026-02-22",
+      "home": "أتالانتا",
+      "away": "نابولي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-napoli/",
       "_source": "yalla1shoot"
     },
     {
@@ -275,22 +275,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصر-خورفكان-2026-02-22",
-      "home": "النصر",
-      "away": "خورفكان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11134-150x146.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بنيياس-العين-2026-02-22",
       "home": "بني ياس",
       "away": "العين",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-real-mallorca/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-خورفكان-2026-02-22",
+      "home": "النصر",
+      "away": "خورفكان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11134-150x146.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ابوظبي الرياضية 2",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
       "_source": "yalla1shoot"
     },
     {
@@ -384,22 +384,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-valencia/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كالياري-لاتسيو-2026-02-22",
-      "home": "كالياري",
-      "away": "لاتسيو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/243-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/236.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/cagliari-vs-lazio/",
       "_source": "yalla1shoot"
     },
     {
