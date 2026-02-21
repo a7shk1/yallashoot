@@ -105,8 +105,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
       "time_baghdad": "18:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -144,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/lecce-vs-inter-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الوصل-البطائح-2026-02-21",
-      "home": "الوصل",
-      "away": "البطائح",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8346.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/57374-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-wasl-vs-al-bataeh/",
       "_source": "yalla1shoot"
     },
     {
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/kalba-vs-dibba-al-fujairah/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الوصل-البطائح-2026-02-21",
+      "home": "الوصل",
+      "away": "البطائح",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8346.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/57374-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-wasl-vs-al-bataeh/",
       "_source": "yalla1shoot"
     },
     {
@@ -307,22 +307,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتلتيكومدري-إسبانيول-2026-02-21",
-      "home": "أتلتيكو مدريد",
-      "away": "إسبانيول",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/136-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-espanyol/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشسترسيتي-نيوكاسليونا-2026-02-21",
       "home": "مانشستر سيتي",
       "away": "نيوكاسل يونايتد",
@@ -336,6 +320,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-newcastle-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أتلتيكومدري-إسبانيول-2026-02-21",
+      "home": "أتلتيكو مدريد",
+      "away": "إسبانيول",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/136-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-espanyol/",
       "_source": "yalla1shoot"
     },
     {
