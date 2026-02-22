@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "نهضةبركان-الفتحالرباط-2026-02-23",
-      "home": "نهضة بركان",
-      "away": "الفتح الرباطي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
-      "time_baghdad": "01:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "المغربية (5)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/rs-berkane-vs-fus-rabat/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الرجاءالبيض-اتحادطنجة-2026-02-23",
       "home": "الرجاء البيضاوي",
       "away": "اتحاد طنجة",
@@ -32,6 +16,22 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/raja-casablanca-vs-ittihad-tangier/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-الفتحالرباط-2026-02-23",
+      "home": "نهضة بركان",
+      "away": "الفتح الرباطي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
+      "time_baghdad": "01:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "المغربية (5)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/rs-berkane-vs-fus-rabat/",
       "_source": "yalla1shoot"
     },
     {
@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إيفرتون-مانشستريونا-2026-02-23",
-      "home": "إيفرتون",
-      "away": "مانشستر يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/105-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-manchester-united/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ألافيس-جيرونا-2026-02-23",
       "home": "ألافيس",
       "away": "جيرونا",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/alaves-vs-girona/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-مانشستريونا-2026-02-23",
+      "home": "إيفرتون",
+      "away": "مانشستر يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/105-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-manchester-united/",
       "_source": "yalla1shoot"
     },
     {
