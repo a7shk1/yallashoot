@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أولمبيكالدش-الودادالريا-2026-02-22",
-      "home": "أولمبيك الدشيرة",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/21191.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8326-150x150.png",
-      "time_baghdad": "01:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympic-dsheira-vs-wydad-athletic-club/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اتحادتواركة-الجيشالملكي-2026-02-22",
-      "home": "اتحاد تواركة",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/14597-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
-      "time_baghdad": "01:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "المغربية (5)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/ittihad-tawarka-vs-the-royal-army/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جنوى-تورينو-2026-02-22",
       "home": "جنوى",
       "away": "تورينو",
@@ -179,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أنجيه-ليل-2026-02-22",
+      "home": "أنجيه",
+      "away": "ليل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/493-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/478-150x150.png",
+      "time_baghdad": "19:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-lille/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نيس-لوريان-2026-02-22",
       "home": "نيس",
       "away": "لوريان",
@@ -208,22 +192,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-le-havre/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أنجيه-ليل-2026-02-22",
-      "home": "أنجيه",
-      "away": "ليل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/493-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/478-150x150.png",
-      "time_baghdad": "19:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-lille/",
       "_source": "yalla1shoot"
     },
     {
@@ -275,6 +243,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "النصر-خورفكان-2026-02-22",
+      "home": "النصر",
+      "away": "خورفكان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11134-150x146.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ابوظبي الرياضية 2",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بنيياس-العين-2026-02-22",
       "home": "بني ياس",
       "away": "العين",
@@ -304,22 +288,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-real-mallorca/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "النصر-خورفكان-2026-02-22",
-      "home": "النصر",
-      "away": "خورفكان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11134-150x146.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
       "_source": "yalla1shoot"
     },
     {
@@ -384,54 +352,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-valencia/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مانشسترسيتي-نيوكاسليونا-2026-02-22",
-      "home": "مانشستر سيتي",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/116-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكومدري-إسبانيول-2026-02-22",
-      "home": "أتلتيكو مدريد",
-      "away": "إسبانيول",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/136-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-espanyol/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باريسسانجي-ميتز-2026-02-22",
-      "home": "باريس سان جيرمان",
-      "away": "ميتز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
-      "time_baghdad": "23:05",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-metz/",
       "_source": "yalla1shoot"
     }
   ]
