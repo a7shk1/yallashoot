@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-كريمونيسي-2026-02-23",
-      "home": "روما",
-      "away": "كريمونيسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/290.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-cremonese/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فياريال-فالنسيا-2026-02-23",
       "home": "فياريال",
       "away": "فالنسيا",
@@ -51,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نهضةبركان-الفتحالرباط-2026-02-23",
-      "home": "نهضة بركان",
-      "away": "الفتح الرباطي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
-      "time_baghdad": "01:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "المغربية (5)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/rs-berkane-vs-fus-rabat/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الرجاءالبيض-اتحادطنجة-2026-02-23",
       "home": "الرجاء البيضاوي",
       "away": "اتحاد طنجة",
@@ -80,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/raja-casablanca-vs-ittihad-tangier/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-الفتحالرباط-2026-02-23",
+      "home": "نهضة بركان",
+      "away": "الفتح الرباطي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9974-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
+      "time_baghdad": "01:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "المغربية (5)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/rs-berkane-vs-fus-rabat/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,54 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النصرالامار-خورفكان-2026-02-23",
-      "home": "النصر الاماراتي",
-      "away": "خورفكان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/8349-70x70-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11134-150x146.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بنيياس-العين-2026-02-23",
-      "home": "بني ياس",
-      "away": "العين",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8345.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8353-115x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/baniyas-vs-al-ain/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سيلتافيجو-ريالمايوركا-2026-02-23",
-      "home": "سيلتا فيجو",
-      "away": "ريال مايوركا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-real-mallorca/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هايدينهايم-شتوتجارت-2026-02-23",
       "home": "هايدينهايم",
       "away": "شتوتجارت",
@@ -240,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/heidenheim-vs-stuttgart/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-كريمونيسي-2026-02-23",
+      "home": "روما",
+      "away": "كريمونيسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/290.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-cremonese/",
       "_source": "yalla1shoot"
     }
   ]
