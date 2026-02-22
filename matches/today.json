@@ -19,6 +19,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "سندرلاند-فولهام-2026-02-22",
+      "home": "سندرلاند",
+      "away": "فولهام",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/120-150x150.png",
+      "time_baghdad": "17:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-fulham/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوكسير-ستادرين-2026-02-22",
+      "home": "أوكسير",
+      "away": "ستاد رين",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/476-130x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
+      "time_baghdad": "17:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/auxerre-vs-stade-rennes/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نوتنجهامفور-ليفربول-2026-02-22",
       "home": "نوتنجهام فورست",
       "away": "ليفربول",
@@ -64,38 +96,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-napoli/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سندرلاند-فولهام-2026-02-22",
-      "home": "سندرلاند",
-      "away": "فولهام",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/120-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-fulham/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أوكسير-ستادرين-2026-02-22",
-      "home": "أوكسير",
-      "away": "ستاد رين",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/476-130x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
-      "time_baghdad": "17:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/auxerre-vs-stade-rennes/",
       "_source": "yalla1shoot"
     },
     {
@@ -227,6 +227,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بنيياس-العين-2026-02-22",
+      "home": "بني ياس",
+      "away": "العين",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8345.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8353-115x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أبو ظبي الرياضية 1",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/baniyas-vs-al-ain/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سيلتافيجو-ريالمايوركا-2026-02-22",
       "home": "سيلتا فيجو",
       "away": "ريال مايوركا",
@@ -256,22 +272,6 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-khor-fakkan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بنيياس-العين-2026-02-22",
-      "home": "بني ياس",
-      "away": "العين",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8345.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8353-115x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أبو ظبي الرياضية 1",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/baniyas-vs-al-ain/",
       "_source": "yalla1shoot"
     },
     {
