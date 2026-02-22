@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
       "time_baghdad": "14:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -32,22 +32,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-sevilla/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نوتنجهامفور-ليفربول-2026-02-22",
-      "home": "نوتنجهام فورست",
-      "away": "ليفربول",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-liverpool/",
       "_source": "yalla1shoot"
     },
     {
@@ -115,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نوتنجهامفور-ليفربول-2026-02-22",
+      "home": "نوتنجهام فورست",
+      "away": "ليفربول",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-liverpool/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فرايبورج-بوروسيامونش-2026-02-22",
       "home": "فرايبورج",
       "away": "بوروسيا مونشنجلادباخ",
@@ -147,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أنجيه-ليل-2026-02-22",
+      "home": "أنجيه",
+      "away": "ليل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/493-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/478-150x150.png",
+      "time_baghdad": "19:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-lille/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نيس-لوريان-2026-02-22",
       "home": "نيس",
       "away": "لوريان",
@@ -176,22 +192,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-le-havre/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أنجيه-ليل-2026-02-22",
-      "home": "أنجيه",
-      "away": "ليل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/493-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/478-150x150.png",
-      "time_baghdad": "19:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 6 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/angers-vs-lille/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,22 +243,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سيلتافيجو-ريالمايوركا-2026-02-22",
-      "home": "سيلتا فيجو",
-      "away": "ريال مايوركا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-real-mallorca/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النصر-خورفكان-2026-02-22",
       "home": "النصر",
       "away": "خورفكان",
@@ -291,6 +275,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "سيلتافيجو-ريالمايوركا-2026-02-22",
+      "home": "سيلتا فيجو",
+      "away": "ريال مايوركا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-real-mallorca/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "هايدينهايم-شتوتجارت-2026-02-22",
       "home": "هايدينهايم",
       "away": "شتوتجارت",
@@ -307,22 +307,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-كريمونيسي-2026-02-22",
-      "home": "روما",
-      "away": "كريمونيسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/290.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-cremonese/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ستراسبورج-أولمبيكليون-2026-02-22",
       "home": "ستراسبورج",
       "away": "أولمبيك ليون",
@@ -336,6 +320,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-olympique-lyonnais/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-كريمونيسي-2026-02-22",
+      "home": "روما",
+      "away": "كريمونيسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/290.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-cremonese/",
       "_source": "yalla1shoot"
     },
     {
