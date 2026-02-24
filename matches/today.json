@@ -14,7 +14,7 @@
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "غير معروف",
+      "competition": "أوروبا, دوري أبطال أوروبا للشباب",
       "match_url": "https://www.yalla1shoot.com/matches/inter-u19-vs-real-betis-u19/",
       "_source": "yalla1shoot"
     },
@@ -144,38 +144,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-karbag-agdam/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بولونيا-أودينيزي-2026-02-24",
-      "home": "بولونيا",
-      "away": "أودينيزي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/bologna-vs-udinese/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "لومان-جانجون-2026-02-24",
-      "home": "لومان",
-      "away": "جانجون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/468-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/496-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي - الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/le-mans-vs-guingamp/",
       "_source": "yalla1shoot"
     },
     {
