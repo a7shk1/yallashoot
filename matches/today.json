@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "المصري-مودرنسبورت-2026-02-26",
-      "home": "المصري",
-      "away": "مودرن سبورت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50877-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-modern-sport/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "يوفنتوس-غلطةسراي-2026-02-26",
       "home": "يوفنتوس",
       "away": "غلطة سراي",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كلباء-الظفرة-2026-02-26",
-      "home": "كلباء",
-      "away": "الظفرة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8355-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8352-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "ابوظبي الرياضية 2",
-      "commentator": "غير معروف",
-      "competition": "الإمارات, دوري أدنوك للمحترفين",
-      "match_url": "https://www.yalla1shoot.com/matches/kalba-vs-al-dhafra/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجزيرة-الشارقة-2026-02-26",
       "home": "الجزيرة",
       "away": "الشارقة",
@@ -112,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "الإمارات, دوري أدنوك للمحترفين",
       "match_url": "https://www.yalla1shoot.com/matches/al-jazira-vs-sharjah/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كلباء-الظفرة-2026-02-26",
+      "home": "كلباء",
+      "away": "الظفرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8355-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2025/12/8352-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ابوظبي الرياضية 2",
+      "commentator": "غير معروف",
+      "competition": "الإمارات, دوري أدنوك للمحترفين",
+      "match_url": "https://www.yalla1shoot.com/matches/kalba-vs-al-dhafra/",
       "_source": "yalla1shoot"
     },
     {
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-najma-vs-al-nasr/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المصري-مودرنسبورت-2026-02-26",
+      "home": "المصري",
+      "away": "مودرن سبورت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50877-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-modern-sport/",
       "_source": "yalla1shoot"
     }
   ]
