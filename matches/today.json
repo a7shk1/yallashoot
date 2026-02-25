@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-غلطةسراي-2026-02-26",
-      "home": "يوفنتوس",
-      "away": "غلطة سراي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/945-127x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-galatasaray/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كلباء-الظفرة-2026-02-26",
       "home": "كلباء",
       "away": "الظفرة",
@@ -179,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفيحاء-نيوم-2026-02-26",
-      "home": "الفيحاء",
-      "away": "نيوم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/20733-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55793-135x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-neom/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النجمة-النصر-2026-02-26",
       "home": "النجمة",
       "away": "النصر",
@@ -211,6 +179,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "الفيحاء-نيوم-2026-02-26",
+      "home": "الفيحاء",
+      "away": "نيوم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/20733-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/55793-135x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-neom/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "المصري-مودرنسبورت-2026-02-26",
       "home": "المصري",
       "away": "مودرن سبورت",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "مصر, الدوري المصري",
       "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-modern-sport/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "يوفنتوس-غلطةسراي-2026-02-26",
+      "home": "يوفنتوس",
+      "away": "غلطة سراي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/945-127x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-galatasaray/",
       "_source": "yalla1shoot"
     },
     {
