@@ -83,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-بنفيكا-2026-02-25",
-      "home": "ريال مدريد",
-      "away": "بنفيكا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/888.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-benfica/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "يوفنتوس-غلطةسراي-2026-02-25",
       "home": "يوفنتوس",
       "away": "غلطة سراي",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-monaco/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-بنفيكا-2026-02-25",
+      "home": "ريال مدريد",
+      "away": "بنفيكا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/888.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-benfica/",
       "_source": "yalla1shoot"
     }
   ]
