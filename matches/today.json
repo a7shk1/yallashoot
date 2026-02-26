@@ -131,38 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتح-ضمك-2026-02-27",
-      "home": "الفتح",
-      "away": "ضمك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8942-111x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/24241-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-fath-vs-dhamak/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الرياض-الأهليالسعو-2026-02-27",
-      "home": "الرياض",
-      "away": "الأهلي السعودي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12135-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-riyadh-vs-al-ahly/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نوتنجهامفور-فنربخشة-2026-02-27",
       "home": "نوتنجهام فورست",
       "away": "فنربخشة",
