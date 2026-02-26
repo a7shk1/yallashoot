@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فيورنتينا-ياغييلونياب-2026-02-26",
-      "home": "فيورنتينا",
-      "away": "ياغييلونيا بياويستوك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2220-102x150.png",
-      "time_baghdad": "20:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-jagiellonia-bialystok/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "النجمالأحمر-ليل-2026-02-26",
       "home": "النجم الأحمر",
       "away": "ليل",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-celtic/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيورنتينا-ياغييلونياب-2026-02-26",
+      "home": "فيورنتينا",
+      "away": "ياغييلونيا بياويستوك",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2220-102x150.png",
+      "time_baghdad": "20:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-jagiellonia-bialystok/",
       "_source": "yalla1shoot"
     },
     {
