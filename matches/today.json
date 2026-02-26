@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شتوتجارت-سيلتيك-2026-02-26",
-      "home": "شتوتجارت",
-      "away": "سيلتيك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/754.png",
-      "time_baghdad": "20:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-celtic/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيورنتينا-ياغييلونياب-2026-02-26",
       "home": "فيورنتينا",
       "away": "ياغييلونيا بياويستوك",
@@ -83,6 +67,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شتوتجارت-سيلتيك-2026-02-26",
+      "home": "شتوتجارت",
+      "away": "سيلتيك",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/754.png",
+      "time_baghdad": "20:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-celtic/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الرياض-الأهليالسعو-2026-02-26",
       "home": "الرياض",
       "away": "الأهلي السعودي",
@@ -96,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-riyadh-vs-al-ahly/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سيلتافيجو-باوكسالونيك-2026-02-26",
-      "home": "سيلتا فيجو",
-      "away": "باوك سالونيكا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1029.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-paok-salonika/",
       "_source": "yalla1shoot"
     },
     {
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-fenerbahce/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سيلتافيجو-باوكسالونيك-2026-02-26",
+      "home": "سيلتا فيجو",
+      "away": "باوك سالونيكا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/158.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1029.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-paok-salonika/",
       "_source": "yalla1shoot"
     }
   ]
