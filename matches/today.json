@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشباب-الهلال-2026-02-27",
-      "home": "الشباب",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8945-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-shabab-vs-al-hilal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحاد-الخليج-2026-02-27",
       "home": "الاتحاد",
       "away": "الخليج",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-vs-al-gulf/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشباب-الهلال-2026-02-27",
+      "home": "الشباب",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8945-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-shabab-vs-al-hilal/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كريستالبالا-موستار-2026-02-27",
+      "home": "كريستال بالاس",
+      "away": "موستار",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5650.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي - بلاي اوف",
+      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-mostar/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نوتنجهامفور-فنربخشة-2026-02-27",
       "home": "نوتنجهام فورست",
       "away": "فنربخشة",
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - بلاي اوف",
       "match_url": "https://www.yalla1shoot.com/matches/celta-vigo-vs-paok-salonika/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كريستالبالا-موستار-2026-02-27",
-      "home": "كريستال بالاس",
-      "away": "موستار",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5650.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي - بلاي اوف",
-      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-mostar/",
       "_source": "yalla1shoot"
     }
   ]
