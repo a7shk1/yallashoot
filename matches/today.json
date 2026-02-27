@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ستراسبورج-لانس-2026-02-27",
-      "home": "ستراسبورج",
-      "away": "لانس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/481.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-lens/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بارما-كالياري-2026-02-27",
       "home": "بارما",
       "away": "كالياري",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/parma-vs-cagliari/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ستراسبورج-لانس-2026-02-27",
+      "home": "ستراسبورج",
+      "away": "لانس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/481.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-lens/",
       "_source": "yalla1shoot"
     },
     {
