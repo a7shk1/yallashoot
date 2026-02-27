@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الشباب-الهلال-2026-02-27",
-      "home": "الشباب",
-      "away": "الهلال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8945-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-shabab-vs-al-hilal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الاتحاد-الخليج-2026-02-27",
       "home": "الاتحاد",
       "away": "الخليج",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ittihad-vs-al-gulf/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الشباب-الهلال-2026-02-27",
+      "home": "الشباب",
+      "away": "الهلال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8945-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-shabab-vs-al-hilal/",
       "_source": "yalla1shoot"
     },
     {
