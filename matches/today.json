@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ستادرين-تولوز-2026-02-28",
-      "home": "ستاد رين",
-      "away": "تولوز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
-      "time_baghdad": "19:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/stade-rennes-vs-toulouse/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هيلاسفيرونا-نابولي-2026-02-28",
       "home": "هيلاس فيرونا",
       "away": "نابولي",
@@ -89,8 +73,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/493-136x150.png",
       "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 5 HD",
       "commentator": "غير معروف",
@@ -179,19 +163,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كومو-ليتشي-2026-02-28",
-      "home": "كومو",
-      "away": "ليتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6117-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/246.png",
-      "time_baghdad": "17:00",
+      "id": "بايرليفركوز-ماينز05-2026-02-28",
+      "home": "باير ليفركوزن",
+      "away": "ماينز 05",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/352.png",
+      "time_baghdad": "17:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "Starzplay",
+      "channel": "MBC Action",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/como-vs-lecce/",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-mainz-05/",
       "_source": "yalla1shoot"
     },
     {
@@ -208,22 +192,6 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/werder-bremen-vs-heidenheim/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بايرليفركوز-ماينز05-2026-02-28",
-      "home": "باير ليفركوزن",
-      "away": "ماينز 05",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/352.png",
-      "time_baghdad": "17:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-mainz-05/",
       "_source": "yalla1shoot"
     },
     {
@@ -288,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-villarreal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ستادرين-تولوز-2026-02-28",
+      "home": "ستاد رين",
+      "away": "تولوز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/477.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/stade-rennes-vs-toulouse/",
       "_source": "yalla1shoot"
     }
   ]
