@@ -83,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بيرنلي-برينتفورد-2026-02-28",
+      "home": "بيرنلي",
+      "away": "برينتفورد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-brentford/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ليفربول-وستهاميونا-2026-02-28",
       "home": "ليفربول",
       "away": "وست هام يونايتد",
@@ -112,22 +128,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/newcastle-united-vs-everton/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بيرنلي-برينتفورد-2026-02-28",
-      "home": "بيرنلي",
-      "away": "برينتفورد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/63-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بوروسيادورت-بايرنميونخ-2026-02-28",
-      "home": "بوروسيا دورتموند",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليدزيونايتد-مانشسترسيتي-2026-02-28",
       "home": "ليدز يونايتد",
       "away": "مانشستر سيتي",
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-sociedad/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بوروسيادورت-بايرنميونخ-2026-02-28",
+      "home": "بوروسيا دورتموند",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-bayern-munich/",
       "_source": "yalla1shoot"
     },
     {
