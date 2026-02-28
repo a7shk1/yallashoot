@@ -57,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/224-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
       "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -131,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "بوروسيادورت-بايرنميونخ-2026-02-28",
+      "home": "بوروسيا دورتموند",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-bayern-munich/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ليدزيونايتد-مانشسترسيتي-2026-02-28",
       "home": "ليدز يونايتد",
       "away": "مانشستر سيتي",
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-sociedad/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بوروسيادورت-بايرنميونخ-2026-02-28",
-      "home": "بوروسيا دورتموند",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-bayern-munich/",
       "_source": "yalla1shoot"
     }
   ]
