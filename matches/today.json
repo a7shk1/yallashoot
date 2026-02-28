@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "بورنموث-سندرلاند-2026-02-28",
-      "home": "بورنموث",
-      "away": "سندرلاند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
-      "time_baghdad": "15:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-sunderland/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "رايوفاييكان-أتلتيكبلباو-2026-02-28",
       "home": "رايو فاييكانو",
       "away": "أتلتيك بلباو",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/332-107x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/434.png",
       "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "شاهد - Shahid VIP",
       "commentator": "غير معروف",
@@ -73,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/352.png",
       "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "MBC Action",
       "commentator": "غير معروف",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/le-havre-vs-paris-saint-germain/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بورنموث-سندرلاند-2026-02-28",
+      "home": "بورنموث",
+      "away": "سندرلاند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
+      "time_baghdad": "15:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-sunderland/",
       "_source": "yalla1shoot"
     }
   ]
