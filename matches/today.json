@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الأهلي-زد-2026-03-01",
-      "home": "الأهلي",
-      "away": "زد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29732-136x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-z/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنترميلان-جنوى-2026-03-01",
       "home": "إنتر ميلان",
       "away": "جنوى",
@@ -211,22 +195,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميتز-بريست-2026-03-01",
-      "home": "ميتز",
-      "away": "بريست",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
-      "time_baghdad": "19:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-brest/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوريان-أوكسير-2026-03-01",
       "home": "لوريان",
       "away": "أوكسير",
@@ -259,19 +227,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "آينتراختفرا-فرايبورج-2026-03-01",
-      "home": "آينتراخت فرانكفورت",
-      "away": "فرايبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/337.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
-      "time_baghdad": "19:30",
+      "id": "ميتز-بريست-2026-03-01",
+      "home": "ميتز",
+      "away": "بريست",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
+      "time_baghdad": "19:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "MBC Action",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-freiburg/",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-brest/",
       "_source": "yalla1shoot"
     },
     {
@@ -288,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-chelsea/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "آينتراختفرا-فرايبورج-2026-03-01",
+      "home": "آينتراخت فرانكفورت",
+      "away": "فرايبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/337.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/eintracht-frankfurt-vs-freiburg/",
       "_source": "yalla1shoot"
     },
     {
@@ -403,54 +387,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليدزيونايتد-مانشسترسيتي-2026-03-01",
-      "home": "ليدز يونايتد",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-manchester-city/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمايوركا-ريالسوسيداد-2026-03-01",
-      "home": "ريال مايوركا",
-      "away": "ريال سوسيداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/142.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-real-sociedad/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بوروسيادورت-بايرنميونخ-2026-03-01",
-      "home": "بوروسيا دورتموند",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/borussia-dortmund-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "موناكو-أنجيه-2026-03-01",
       "home": "موناكو",
       "away": "أنجيه",
@@ -480,6 +416,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-al-nasr/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الأهلي-زد-2026-03-01",
+      "home": "الأهلي",
+      "away": "زد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8200-1-126x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29732-136x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/al-ahly-vs-z/",
       "_source": "yalla1shoot"
     }
   ]
