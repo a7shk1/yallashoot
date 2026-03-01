@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "بيراميدز-الزمالك-2026-03-02",
-      "home": "بيراميدز",
-      "away": "الزمالك",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/pyramids-vs-zamalek/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-أولمبيكليون-2026-03-02",
       "home": "أولمبيك مارسيليا",
       "away": "أولمبيك ليون",
@@ -35,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-يوفنتوس-2026-03-02",
-      "home": "روما",
-      "away": "يوفنتوس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-juventus/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "جيرونا-سيلتافيجو-2026-03-02",
       "home": "جيرونا",
       "away": "سيلتا فيجو",
@@ -64,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/girona-vs-celta-vigo/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الفتحالرباط-نهضةالزمامر-2026-03-02",
+      "home": "الفتح الرباطي",
+      "away": "نهضة الزمامرة",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/49266-150x150.png",
+      "time_baghdad": "01:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الرياضية المغربية (3) 1",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/fus-rabat-vs-rs-zemamra/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,22 +80,6 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-nahdet-berkane/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الفتحالرباط-نهضةالزمامر-2026-03-02",
-      "home": "الفتح الرباطي",
-      "away": "نهضة الزمامرة",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/49266-150x150.png",
-      "time_baghdad": "01:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3) 1",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/fus-rabat-vs-rs-zemamra/",
       "_source": "yalla1shoot"
     },
     {
@@ -195,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-إشبيلية-2026-03-02",
-      "home": "ريال بيتيس",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-sevilla/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هامبورج-لايبزيج-2026-03-02",
       "home": "هامبورج",
       "away": "لايبزيج",
@@ -224,6 +176,38 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-leipzig/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيراميدز-الزمالك-2026-03-02",
+      "home": "بيراميدز",
+      "away": "الزمالك",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/pyramids-vs-zamalek/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-يوفنتوس-2026-03-02",
+      "home": "روما",
+      "away": "يوفنتوس",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-juventus/",
       "_source": "yalla1shoot"
     }
   ]
