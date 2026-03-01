@@ -131,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هامبورج-لايبزيج-2026-03-02",
-      "home": "هامبورج",
-      "away": "لايبزيج",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/334.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7171-150x108.png",
-      "time_baghdad": "21:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-leipzig/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-الزمالك-2026-03-02",
       "home": "بيراميدز",
       "away": "الزمالك",
@@ -163,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-يوفنتوس-2026-03-02",
-      "home": "روما",
-      "away": "يوفنتوس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-juventus/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-أولمبيكليون-2026-03-02",
       "home": "أولمبيك مارسيليا",
       "away": "أولمبيك ليون",
@@ -192,6 +160,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-marseille-vs-olympique-lyonnais/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-يوفنتوس-2026-03-02",
+      "home": "روما",
+      "away": "يوفنتوس",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-juventus/",
       "_source": "yalla1shoot"
     },
     {
