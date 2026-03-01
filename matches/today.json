@@ -1,9 +1,9 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "بيراميدز-الزمالك-2026-03-01",
+      "id": "بيراميدز-الزمالك-2026-03-02",
       "home": "بيراميدز",
       "away": "الزمالك",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
@@ -19,7 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكمارس-أولمبيكليون-2026-03-01",
+      "id": "أولمبيكمارس-أولمبيكليون-2026-03-02",
       "home": "أولمبيك مارسيليا",
       "away": "أولمبيك ليون",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
@@ -35,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-يوفنتوس-2026-03-01",
+      "id": "روما-يوفنتوس-2026-03-02",
       "home": "روما",
       "away": "يوفنتوس",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
@@ -51,7 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جيرونا-سيلتافيجو-2026-03-01",
+      "id": "جيرونا-سيلتافيجو-2026-03-02",
       "home": "جيرونا",
       "away": "سيلتا فيجو",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/175-150x150.png",
@@ -67,7 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "حسنيةأكادير-الرجاءالبيض-2026-03-01",
+      "id": "حسنيةأكادير-الرجاءالبيض-2026-03-02",
       "home": "حسنية أكادير",
       "away": "الرجاء البيضاوي",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8323-150x150.png",
@@ -83,7 +83,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الودادالريا-نهضةبركان-2026-03-01",
+      "id": "الودادالريا-نهضةبركان-2026-03-02",
       "home": "الوداد الرياضي",
       "away": "نهضة بركان",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8326-150x150.png",
@@ -99,7 +99,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتحالرباط-نهضةالزمامر-2026-03-01",
+      "id": "الفتحالرباط-نهضةالزمامر-2026-03-02",
       "home": "الفتح الرباطي",
       "away": "نهضة الزمامرة",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
@@ -115,23 +115,87 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تورينو-لاتسيو-2026-03-01",
-      "home": "تورينو",
-      "away": "لاتسيو",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/236.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
+      "id": "شبابالاهلي-تراکتورسازي-2026-03-02",
+      "home": "شباب الاهلي",
+      "away": "تراکتورسازي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8347-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9353-150x150.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/shabab-al-ahly-vs-tractorsazi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيسا-بولونيا-2026-03-02",
+      "home": "بيسا",
+      "away": "بولونيا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/248-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2025/12/245-1-107x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/torino-vs-lazio/",
+      "match_url": "https://www.yalla1shoot.com/matches/pisa-vs-bologna/",
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-إشبيلية-2026-03-01",
+      "id": "الدحيل-الأهليالسعو-2026-03-02",
+      "home": "الدحيل",
+      "away": "الأهلي السعودي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8329-133x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
+      "time_baghdad": "21:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/al-duhail-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أودينيزي-فيورنتينا-2026-03-02",
+      "home": "أودينيزي",
+      "away": "فيورنتينا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/udinese-vs-fiorentina/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-خيتافي-2026-03-02",
+      "home": "ريال مدريد",
+      "away": "خيتافي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/140.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-getafe/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-إشبيلية-2026-03-02",
       "home": "ريال بيتيس",
       "away": "إشبيلية",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
@@ -147,7 +211,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هامبورج-لايبزيج-2026-03-01",
+      "id": "هامبورج-لايبزيج-2026-03-02",
       "home": "هامبورج",
       "away": "لايبزيج",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/334.png",
