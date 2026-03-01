@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ريالبيتيس-إشبيلية-2026-03-01",
-      "home": "ريال بيتيس",
-      "away": "إشبيلية",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
-      "time_baghdad": "20:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-sevilla/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هامبورج-لايبزيج-2026-03-01",
       "home": "هامبورج",
       "away": "لايبزيج",
@@ -41,8 +25,8 @@
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
       "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -99,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ميتز-بريست-2026-03-01",
+      "home": "ميتز",
+      "away": "بريست",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
+      "time_baghdad": "19:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-brest/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "لوريان-أوكسير-2026-03-01",
       "home": "لوريان",
       "away": "أوكسير",
@@ -131,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميتز-بريست-2026-03-01",
-      "home": "ميتز",
-      "away": "بريست",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/534-135x150.png",
-      "time_baghdad": "19:15",
+      "id": "أرسنال-تشيلسي-2026-03-01",
+      "home": "أرسنال",
+      "away": "تشيلسي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "time_baghdad": "19:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-brest/",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-تشيلسي-2026-03-01",
-      "home": "أرسنال",
-      "away": "تشيلسي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "time_baghdad": "19:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-chelsea/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تورينو-لاتسيو-2026-03-01",
       "home": "تورينو",
       "away": "لاتسيو",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/torino-vs-lazio/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-إشبيلية-2026-03-01",
+      "home": "ريال بيتيس",
+      "away": "إشبيلية",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-sevilla/",
       "_source": "yalla1shoot"
     }
   ]
