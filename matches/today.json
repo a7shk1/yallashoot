@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "غانغوون-ماتشيدازيرو-2026-03-03",
-      "home": "غانغوون",
-      "away": "ماتشيدا زيروبيا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9825.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9133.png",
-      "time_baghdad": "13:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/gangwon-vs-machida-zerobia/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-سندرلاند-2026-03-03",
-      "home": "ليدز يونايتد",
-      "away": "سندرلاند",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
-      "time_baghdad": "22:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-sunderland/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إيفرتون-بيرنلي-2026-03-03",
       "home": "إيفرتون",
       "away": "بيرنلي",
@@ -64,6 +32,38 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/bournemouth-vs-brentford/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليدزيونايتد-سندرلاند-2026-03-03",
+      "home": "ليدز يونايتد",
+      "away": "سندرلاند",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/117-150x137.png",
+      "time_baghdad": "22:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-sunderland/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "برشلونة-أتلتيكومدري-2026-03-03",
+      "home": "برشلونة",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/132-1-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     },
     {
@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "برشلونة-أتلتيكومدري-2026-03-03",
-      "home": "برشلونة",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/132-1-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, كأس ملك إسبانيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "وولفرهامبتون-ليفربول-2026-03-03",
       "home": "وولفرهامبتون",
       "away": "ليفربول",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "البرتغال, كأس البرتغال - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-porto/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غانغوون-ماتشيدازيرو-2026-03-03",
+      "home": "غانغوون",
+      "away": "ماتشيدا زيروبيا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9825.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9133.png",
+      "time_baghdad": "13:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/gangwon-vs-machida-zerobia/",
       "_source": "yalla1shoot"
     }
   ]
