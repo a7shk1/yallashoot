@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "سبورتنجلشبو-بورتو-2026-03-04",
-      "home": "سبورتنج لشبونة",
-      "away": "بورتو",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/890-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/887-150x150.png",
-      "time_baghdad": "23:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "البرتغال, كأس البرتغال - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-porto/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوريان-نيس-2026-03-04",
       "home": "لوريان",
       "away": "نيس",
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-liverpool/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سبورتنجلشبو-بورتو-2026-03-04",
+      "home": "سبورتنج لشبونة",
+      "away": "بورتو",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/890-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/887-150x150.png",
+      "time_baghdad": "23:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "البرتغال, كأس البرتغال - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-porto/",
       "_source": "yalla1shoot"
     }
   ]
