@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أولمبيكليون-لانس-2026-03-06",
-      "home": "أولمبيك ليون",
-      "away": "لانس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/481.png",
-      "time_baghdad": "23:10",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-lens/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-الاتحاد-2026-03-06",
       "home": "الأهلي السعودي",
       "away": "الاتحاد",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/tottenham-hotspur-vs-crystal-palace/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-لانس-2026-03-06",
+      "home": "أولمبيك ليون",
+      "away": "لانس",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/481.png",
+      "time_baghdad": "23:10",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-lens/",
       "_source": "yalla1shoot"
     }
   ]
