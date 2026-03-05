@@ -49,22 +49,6 @@
       "competition": "فرنسا, كأس فرنسا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-lens/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "بانكوكيوناي-تامبينيزروف-2026-03-05",
-      "home": "بانكوك يونايتد",
-      "away": "تامبينيز روفرز",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7753.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/2369.png",
-      "time_baghdad": "15:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/bangkok-united-vs-tampines-rovers/",
-      "_source": "yalla1shoot"
     }
   ]
 }
