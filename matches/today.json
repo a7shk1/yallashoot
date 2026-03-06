@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الهلال-النجمة-2026-03-06",
-      "home": "الهلال",
-      "away": "النجمة",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/24240-114x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-najma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-الاتحاد-2026-03-06",
       "home": "الأهلي السعودي",
       "away": "الاتحاد",
@@ -32,6 +16,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-ittihad/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الهلال-النجمة-2026-03-06",
+      "home": "الهلال",
+      "away": "النجمة",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/24240-114x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-hilal-vs-al-najma/",
       "_source": "yalla1shoot"
     },
     {
