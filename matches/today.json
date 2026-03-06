@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "نابولي-تورينو-2026-03-07",
-      "home": "نابولي",
-      "away": "تورينو",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-torino/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باريسسانجي-موناكو-2026-03-07",
-      "home": "باريس سان جيرمان",
-      "away": "موناكو",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-monaco/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "وولفرهامبتون-ليفربول-2026-03-07",
       "home": "وولفرهامبتون",
       "away": "ليفربول",
@@ -67,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحاديعقوب-الفتحالرباط-2026-03-07",
-      "home": "اتحاد يعقوب المنصور",
-      "away": "الفتح الرباطي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/82477.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
-      "time_baghdad": "01:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3) 1",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/ittihad-yacoub-el-mansour-vs-fus-rabat/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الناديالمكن-اتحادطنجة-2026-03-07",
       "home": "النادي المكناسي",
       "away": "اتحاد طنجة",
@@ -96,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/club-meknassi-vs-ittihad-tangier/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحاديعقوب-الفتحالرباط-2026-03-07",
+      "home": "اتحاد يعقوب المنصور",
+      "away": "الفتح الرباطي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/82477.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8206.png",
+      "time_baghdad": "01:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الرياضية المغربية (3) 1",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/ittihad-yacoub-el-mansour-vs-fus-rabat/",
       "_source": "yalla1shoot"
     },
     {
@@ -352,6 +320,38 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-borussia-monchengladbach/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "باريسسانجي-موناكو-2026-03-07",
+      "home": "باريس سان جيرمان",
+      "away": "موناكو",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-monaco/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نابولي-تورينو-2026-03-07",
+      "home": "نابولي",
+      "away": "تورينو",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/234-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
+      "time_baghdad": "22:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-torino/",
       "_source": "yalla1shoot"
     }
   ]
