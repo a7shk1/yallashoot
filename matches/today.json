@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "النصر-نيوم-2026-03-08",
-      "home": "النصر",
-      "away": "نيوم",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/55793-135x150.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-neom/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "يوفنتوس-بيسا-2026-03-08",
       "home": "يوفنتوس",
       "away": "بيسا",
@@ -387,22 +371,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أتالانتا-أودينيزي-2026-03-08",
-      "home": "أتالانتا",
-      "away": "أودينيزي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-udinese/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كولن-بوروسيادورت-2026-03-08",
       "home": "كولن",
       "away": "بوروسيا دورتموند",
@@ -464,6 +432,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/auxerre-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النصر-نيوم-2026-03-08",
+      "home": "النصر",
+      "away": "نيوم",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7549-1.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/55793-135x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-nasr-vs-neom/",
       "_source": "yalla1shoot"
     }
   ]
