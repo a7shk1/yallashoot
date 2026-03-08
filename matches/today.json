@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أولمبيكليون-باريسأف.سي.-2026-03-09",
-      "home": "أولمبيك ليون",
-      "away": "باريس أف.سي.",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/6075.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-paris-fc/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ميلان-إنترميلان-2026-03-09",
       "home": "ميلان",
       "away": "إنتر ميلان",
@@ -147,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-رايوفاييكان-2026-03-09",
-      "home": "إشبيلية",
-      "away": "رايو فاييكانو",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/135-135x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
-      "time_baghdad": "20:30",
+      "id": "أولمبيكليون-باريسأف.سي.-2026-03-09",
+      "home": "أولمبيك ليون",
+      "away": "باريس أف.سي.",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/6075.png",
+      "time_baghdad": "22:45",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "Bein Sports HD2",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-rayo-vallecano/",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-paris-fc/",
       "_source": "yalla1shoot"
     }
   ]
