@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "خيتافي-ريالبيتيس-2026-03-08",
-      "home": "خيتافي",
-      "away": "ريال بيتيس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/140.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "time_baghdad": "18:15",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-real-betis/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نيس-ستادرين-2026-03-08",
       "home": "نيس",
       "away": "ستاد رين",
@@ -89,8 +73,8 @@
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
       "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -115,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أولمبيكليون-باريسأف.سي.-2026-03-08",
-      "home": "أولمبيك ليون",
-      "away": "باريس أف.سي.",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/6075.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-paris-fc/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ميلان-إنترميلان-2026-03-08",
       "home": "ميلان",
       "away": "إنتر ميلان",
@@ -147,6 +115,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكليون-باريسأف.سي.-2026-03-08",
+      "home": "أولمبيك ليون",
+      "away": "باريس أف.سي.",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/465-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/6075.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-paris-fc/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فالنسيا-ألافيس-2026-03-08",
       "home": "فالنسيا",
       "away": "ألافيس",
@@ -160,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/valencia-vs-alaves/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فياريال-إلتشي-2026-03-08",
-      "home": "فياريال",
-      "away": "إلتشي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/133.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/156-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-elche/",
       "_source": "yalla1shoot"
     },
     {
@@ -256,6 +224,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/st-pauli-vs-eintracht-frankfurt/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "خيتافي-ريالبيتيس-2026-03-08",
+      "home": "خيتافي",
+      "away": "ريال بيتيس",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/140.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "time_baghdad": "18:15",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/getafe-vs-real-betis/",
       "_source": "yalla1shoot"
     }
   ]
