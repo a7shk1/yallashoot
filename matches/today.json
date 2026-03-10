@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ماتشيدازيرو-غانغوون-2026-03-10",
-      "home": "ماتشيدا زيروبيا",
-      "away": "غانغوون",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9133.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9825.png",
-      "time_baghdad": "13:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/machida-zerobia-vs-gangwon/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوريراميونا-ملبورنسيتي-2026-03-10",
       "home": "بوريرام يونايتد",
       "away": "ملبورن سيتي",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7747.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7550.png",
       "time_baghdad": "15:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -112,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/atalanta-vs-bayern-munich/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ماتشيدازيرو-غانغوون-2026-03-10",
+      "home": "ماتشيدا زيروبيا",
+      "away": "غانغوون",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9133.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9825.png",
+      "time_baghdad": "13:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/machida-zerobia-vs-gangwon/",
       "_source": "yalla1shoot"
     }
   ]
