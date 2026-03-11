@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "فيسيلكوبي-سيؤول-2026-03-11",
-      "home": "فيسيل كوبي",
-      "away": "سيؤول",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/2151.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9820.png",
-      "time_baghdad": "13:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/vissel-kobe-vs-seoul/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانفريسهيرو-جوهور-2026-03-11",
       "home": "سانفريس هيروشيما",
       "away": "جوهور",
@@ -83,6 +67,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالمدريد-مانشسترسيتي-2026-03-11",
+      "home": "ريال مدريد",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-manchester-city/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كوفنتريسيتي-بريستوننورث-2026-03-11",
       "home": "كوفنتري سيتي",
       "away": "بريستون نورث إند",
@@ -131,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-مانشسترسيتي-2026-03-11",
-      "home": "ريال مدريد",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "id": "فيسيلكوبي-سيؤول-2026-03-11",
+      "home": "فيسيل كوبي",
+      "away": "سيؤول",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/2151.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9820.png",
+      "time_baghdad": "13:00",
+      "status": "FT",
+      "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-manchester-city/",
+      "competition": "آسيا, دوري أبطال آسيا للنخبة - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/vissel-kobe-vs-seoul/",
       "_source": "yalla1shoot"
     }
   ]
