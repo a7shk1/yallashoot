@@ -3,19 +3,19 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "إنبي-الزمالك-2026-03-12",
-      "home": "إنبي",
-      "away": "الزمالك",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "time_baghdad": "22:30",
+      "id": "باريسسانجي-تشيلسي-2026-03-12",
+      "home": "باريس سان جيرمان",
+      "away": "تشيلسي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "time_baghdad": "23:00",
       "status": "LIVE",
       "status_text": "مباشر",
       "result_text": "",
-      "channel": "أون سبورت 1",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري",
-      "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-zamalek/",
+      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
@@ -64,22 +64,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/bodo-glimt-vs-sporting-lisbon/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "باريسسانجي-تشيلسي-2026-03-12",
-      "home": "باريس سان جيرمان",
-      "away": "تشيلسي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-chelsea/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,6 +163,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "كريستالبالا-آيكلارنكا-2026-03-12",
+      "home": "كريستال بالاس",
+      "away": "آيك لارنكا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2274.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري المؤتمر الأوروبي - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-aek-larnaca/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نوتنجهامفور-ميتييلاند-2026-03-12",
+      "home": "نوتنجهام فورست",
+      "away": "ميتييلاند",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/1823.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-midtjylland/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "فيرينتسفاروش-سبورتينجبرا-2026-03-12",
       "home": "فيرينتسفاروشي",
       "away": "سبورتينج براغا",
@@ -259,38 +275,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كريستالبالا-آيكلارنكا-2026-03-12",
-      "home": "كريستال بالاس",
-      "away": "آيك لارنكا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/10-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2274.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري المؤتمر الأوروبي - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-aek-larnaca/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نوتنجهامفور-ميتييلاند-2026-03-12",
-      "home": "نوتنجهام فورست",
-      "away": "ميتييلاند",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/1823.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-midtjylland/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-أرسنال-2026-03-12",
       "home": "باير ليفركوزن",
       "away": "أرسنال",
@@ -304,6 +288,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-arsenal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنبي-الزمالك-2026-03-12",
+      "home": "إنبي",
+      "away": "الزمالك",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, الدوري المصري",
+      "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-zamalek/",
       "_source": "yalla1shoot"
     }
   ]
