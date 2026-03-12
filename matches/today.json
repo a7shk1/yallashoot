@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ساندييجو-تولوكا-2026-03-12",
-      "home": "سان دييجو",
-      "away": "تولوكا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/80778.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2078-150x150.png",
-      "time_baghdad": "06:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "شمال امريكا, دوري أبطال ش. امريكا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/san-diego-vs-toluca/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "العين-الوصل-2026-03-12",
       "home": "العين",
       "away": "الوصل",
@@ -147,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نوتنجهامفور-ميتييلاند-2026-03-12",
-      "home": "نوتنجهام فورست",
-      "away": "ميتييلاند",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/1823.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-midtjylland/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيرينتسفاروش-سبورتينجبرا-2026-03-12",
       "home": "فيرينتسفاروشي",
       "away": "سبورتينج براغا",
@@ -259,19 +227,35 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "لوسأنجلوسغ-مونتبليسانت-2026-03-12",
-      "home": "لوس أنجلوس غالاكسي",
-      "away": "مونت بليسانت",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/1342-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/54489-150x150.png",
-      "time_baghdad": "04:30",
+      "id": "نوتنجهامفور-ميتييلاند-2026-03-12",
+      "home": "نوتنجهام فورست",
+      "away": "ميتييلاند",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/29-77x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/1823.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-midtjylland/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ساندييجو-تولوكا-2026-03-12",
+      "home": "سان دييجو",
+      "away": "تولوكا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/80778.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2078-150x150.png",
+      "time_baghdad": "06:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "شمال امريكا, دوري أبطال ش. امريكا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/los-angeles-galaxy-vs-mont-pleasant/",
+      "match_url": "https://www.yalla1shoot.com/matches/san-diego-vs-toluca/",
       "_source": "yalla1shoot"
     }
   ]
