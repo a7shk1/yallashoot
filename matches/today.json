@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الرياض-الاتحاد-2026-03-13",
-      "home": "الرياض",
-      "away": "الاتحاد",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12135-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/riyadh-vs-al-ittihad/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "القادسية-الأهليالسعو-2026-03-13",
       "home": "القادسية",
       "away": "الأهلي السعودي",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-qadisiyah-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الرياض-الاتحاد-2026-03-13",
+      "home": "الرياض",
+      "away": "الاتحاد",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12135-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/riyadh-vs-al-ittihad/",
       "_source": "yalla1shoot"
     },
     {
