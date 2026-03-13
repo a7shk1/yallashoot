@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "صنداونز-ستادمالي-2026-03-13",
-      "home": "صن داونز",
-      "away": "ستاد مالي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7277.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12172-150x150.png",
-      "time_baghdad": "21:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/sun-downs-vs-male-stadium/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الرياض-الاتحاد-2026-03-13",
       "home": "الرياض",
       "away": "الاتحاد",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تورينو-بارما-2026-03-13",
-      "home": "تورينو",
-      "away": "بارما",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/241-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/torino-vs-parma/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-أوكسير-2026-03-13",
       "home": "أولمبيك مارسيليا",
       "away": "أوكسير",
@@ -115,19 +83,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريكسهام-سوانزيسيتي-2026-03-13",
-      "home": "ريكسهام",
-      "away": "سوانزي سيتي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/75.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/28-150x150.png",
-      "time_baghdad": "23:00",
+      "id": "تورينو-بارما-2026-03-13",
+      "home": "تورينو",
+      "away": "بارما",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/235-137x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/241-150x150.png",
+      "time_baghdad": "22:45",
       "status": "LIVE",
       "status_text": "مباشر",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/wrexham-vs-swansea-city/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/torino-vs-parma/",
       "_source": "yalla1shoot"
     },
     {
@@ -147,6 +115,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريكسهام-سوانزيسيتي-2026-03-13",
+      "home": "ريكسهام",
+      "away": "سوانزي سيتي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/75.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/28-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/wrexham-vs-swansea-city/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الجيشالملكي-بيراميدز-2026-03-13",
       "home": "الجيش الملكي",
       "away": "بيراميدز",
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-pyramids/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "صنداونز-ستادمالي-2026-03-13",
+      "home": "صن داونز",
+      "away": "ستاد مالي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/7277.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12172-150x150.png",
+      "time_baghdad": "21:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/sun-downs-vs-male-stadium/",
       "_source": "yalla1shoot"
     }
   ]
