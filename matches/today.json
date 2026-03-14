@@ -57,8 +57,8 @@
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/224-2-150x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
       "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -259,22 +259,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الفتح-الهلال-2026-03-14",
-      "home": "الفتح",
-      "away": "الهلال",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8942-111x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "ثمانية 1",
-      "commentator": "غير معروف",
-      "competition": "السعودية, الدوري السعودي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-fateh-vs-al-hilal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الخليج-النصر-2026-03-14",
       "home": "الخليج",
       "away": "النصر",
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-khaleej-vs-al-nasr/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الفتح-الهلال-2026-03-14",
+      "home": "الفتح",
+      "away": "الهلال",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8942-111x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/5457-127x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "ثمانية 1",
+      "commentator": "غير معروف",
+      "competition": "السعودية, الدوري السعودي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-fateh-vs-al-hilal/",
       "_source": "yalla1shoot"
     },
     {
