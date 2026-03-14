@@ -51,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مانشستريونا-أستونفيلا-2026-03-15",
+      "home": "مانشستر يونايتد",
+      "away": "أستون فيلا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/105-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
+      "time_baghdad": "17:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-aston-villa/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كريستالبالا-ليدزيونايتد-2026-03-15",
       "home": "كريستال بالاس",
       "away": "ليدز يونايتد",
@@ -80,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-fulham/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مانشستريونا-أستونفيلا-2026-03-15",
-      "home": "مانشستر يونايتد",
-      "away": "أستون فيلا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/105-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/109-121x150.png",
-      "time_baghdad": "17:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/manchester-united-vs-aston-villa/",
       "_source": "yalla1shoot"
     },
     {
@@ -131,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميتز-تولوز-2026-03-15",
-      "home": "ميتز",
-      "away": "تولوز",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
-      "time_baghdad": "19:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-toulouse/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوآفر-أولمبيكليون-2026-03-15",
       "home": "لو آفر",
       "away": "أولمبيك ليون",
@@ -163,19 +147,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فرايبورج-يونيونبرلين-2026-03-15",
-      "home": "فرايبورج",
-      "away": "يونيون برلين",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/392-1.png",
-      "time_baghdad": "19:30",
+      "id": "ميتز-تولوز-2026-03-15",
+      "home": "ميتز",
+      "away": "تولوز",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/484-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
+      "time_baghdad": "19:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "شاهد - Shahid VIP",
+      "channel": "beIN SPORTS HD 4",
       "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/freiburg-vs-union-berlin/",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/metz-vs-toulouse/",
       "_source": "yalla1shoot"
     },
     {
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/liverpool-vs-tottenham-hotspur/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فرايبورج-يونيونبرلين-2026-03-15",
+      "home": "فرايبورج",
+      "away": "يونيون برلين",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/392-1.png",
+      "time_baghdad": "19:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/freiburg-vs-union-berlin/",
       "_source": "yalla1shoot"
     },
     {
@@ -291,19 +291,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أودينيزي-يوفنتوس-2026-03-15",
-      "home": "أودينيزي",
-      "away": "يوفنتوس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "time_baghdad": "22:45",
+      "id": "وستهاميونا-مانشسترسيتي-2026-03-15",
+      "home": "وست هام يونايتد",
+      "away": "مانشستر سيتي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/113-2.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
+      "time_baghdad": "23:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "Starzplay",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/udinese-vs-juventus/",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/west-ham-united-vs-manchester-city/",
       "_source": "yalla1shoot"
     },
     {
@@ -336,22 +336,6 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-cs-belouizdad/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "وستهاميونا-مانشسترسيتي-2026-03-15",
-      "home": "وست هام يونايتد",
-      "away": "مانشستر سيتي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/113-2.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/110-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/west-ham-united-vs-manchester-city/",
       "_source": "yalla1shoot"
     },
     {
