@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرليفركوز-بايرنميونخ-2026-03-14",
-      "home": "باير ليفركوزن",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "17:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بوروسيادورت-أوغسبورغ-2026-03-14",
       "home": "بوروسيا دورتموند",
       "away": "أوغسبورغ",
@@ -99,19 +83,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-بورنموث-2026-03-14",
-      "home": "بيرنلي",
-      "away": "بورنموث",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
-      "time_baghdad": "18:00",
+      "id": "بايرليفركوز-بايرنميونخ-2026-03-14",
+      "home": "باير ليفركوزن",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "time_baghdad": "17:30",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "MBC Action",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-bournemouth/",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-bayern-munich/",
       "_source": "yalla1shoot"
     },
     {
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-brighton/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيرنلي-بورنموث-2026-03-14",
+      "home": "بيرنلي",
+      "away": "بورنموث",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/12-1-143x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/50-126x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-bournemouth/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-إيفرتون-2026-03-14",
-      "home": "أرسنال",
-      "away": "إيفرتون",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-everton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هامبورج-كولن-2026-03-14",
       "home": "هامبورج",
       "away": "كولن",
@@ -240,6 +224,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-newcastle-united/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-إيفرتون-2026-03-14",
+      "home": "أرسنال",
+      "away": "إيفرتون",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-everton/",
       "_source": "yalla1shoot"
     },
     {
