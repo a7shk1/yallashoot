@@ -57,8 +57,8 @@
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
       "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -163,6 +163,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أرسنال-إيفرتون-2026-03-14",
+      "home": "أرسنال",
+      "away": "إيفرتون",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
+      "time_baghdad": "20:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-everton/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "هامبورج-كولن-2026-03-14",
       "home": "هامبورج",
       "away": "كولن",
@@ -208,22 +224,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-newcastle-united/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أرسنال-إيفرتون-2026-03-14",
-      "home": "أرسنال",
-      "away": "إيفرتون",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/107-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-everton/",
       "_source": "yalla1shoot"
     }
   ]
