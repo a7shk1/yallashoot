@@ -19,19 +19,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-أوساسونا-2026-03-16",
-      "home": "ريال سوسيداد",
-      "away": "أوساسونا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
-      "time_baghdad": "23:00",
+      "id": "أولمبيكآسفي-الودادالريا-2026-03-16",
+      "home": "أولمبيك آسفي",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8326-2-150x150.png",
+      "time_baghdad": "01:00",
       "status": "LIVE",
       "status_text": "مباشر",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-osasuna/",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympic-safi-vs-wydad-athletic-club/",
       "_source": "yalla1shoot"
     },
     {
@@ -128,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/lazio-vs-milan/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالسوسيداد-أوساسونا-2026-03-16",
+      "home": "ريال سوسيداد",
+      "away": "أوساسونا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/143-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-osasuna/",
       "_source": "yalla1shoot"
     }
   ]
