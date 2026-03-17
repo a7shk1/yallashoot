@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "بتروجت-بيراميدز-2026-03-18",
-      "home": "بتروجت",
-      "away": "بيراميدز",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8302-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
-      "time_baghdad": "22:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس مصر - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/petrojet-vs-pyramids_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-باريسسانجي-2026-03-18",
-      "home": "تشيلسي",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-paris-saint-germain_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-بايرليفركوز-2026-03-18",
       "home": "أرسنال",
       "away": "باير ليفركوزن",
@@ -64,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-real-madrid_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تشيلسي-باريسسانجي-2026-03-18",
+      "home": "تشيلسي",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/106-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
+      "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-paris-saint-germain_end_1/",
       "_source": "yalla1shoot"
     },
     {
@@ -224,6 +208,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - دور الـ 16",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-bodo-glimt_end_1/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بتروجت-بيراميدز-2026-03-18",
+      "home": "بتروجت",
+      "away": "بيراميدز",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8302-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/22143-150x150.png",
+      "time_baghdad": "22:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس مصر - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/petrojet-vs-pyramids_end_1/",
       "_source": "yalla1shoot"
     }
   ]
