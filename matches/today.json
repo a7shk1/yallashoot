@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الخلود-الاتحاد-2026-03-18",
-      "home": "الخلود",
-      "away": "الاتحاد",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/55800-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "السعودية, كأس الملك - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/eternity-vs-union/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهلي-الهلال-2026-03-18",
       "home": "الأهلي",
       "away": "الهلال",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, كأس الملك - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-al-hilal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الخلود-الاتحاد-2026-03-18",
+      "home": "الخلود",
+      "away": "الاتحاد",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/55800-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8593-122x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "السعودية, كأس الملك - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/eternity-vs-union/",
       "_source": "yalla1shoot"
     },
     {
