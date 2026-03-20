@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جنوى-أودينيزي-2026-03-20",
-      "home": "جنوى",
-      "away": "أودينيزي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/genoa-vs-udinese/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لانس-أنجيه-2026-03-20",
       "home": "لانس",
       "away": "أنجيه",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/lance-vs-angers/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "جنوى-أودينيزي-2026-03-20",
+      "home": "جنوى",
+      "away": "أودينيزي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/genoa-vs-udinese/",
       "_source": "yalla1shoot"
     },
     {
