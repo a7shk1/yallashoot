@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هايدينهايم-بايرليفركوز-2026-03-21",
-      "home": "هايدينهايم",
-      "away": "باير ليفركوزن",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/434.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
-      "time_baghdad": "17:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/heidenheim-vs-bayer-leverkusen/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرنميونخ-يونيونبرلين-2026-03-21",
       "home": "بايرن ميونخ",
       "away": "يونيون برلين",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-union-berlin/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "هايدينهايم-بايرليفركوز-2026-03-21",
+      "home": "هايدينهايم",
+      "away": "باير ليفركوزن",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/434.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/333-150x127.png",
+      "time_baghdad": "17:30",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/heidenheim-vs-bayer-leverkusen/",
       "_source": "yalla1shoot"
     },
     {
@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "تولوز-لوريان-2026-03-21",
-      "home": "تولوز",
-      "away": "لوريان",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/472.png",
-      "time_baghdad": "19:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/toulouse-vs-lorient/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-الجيشالملكي-2026-03-21",
       "home": "بيراميدز",
       "away": "الجيش الملكي",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/pyramids-vs-royal-army/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "تولوز-لوريان-2026-03-21",
+      "home": "تولوز",
+      "away": "لوريان",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/482-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/472.png",
+      "time_baghdad": "19:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/toulouse-vs-lorient/",
       "_source": "yalla1shoot"
     },
     {
@@ -211,22 +211,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "غزلالمحلة-البنكالاهلي-2026-03-21",
-      "home": "غزل المحلة",
-      "away": "البنك الاهلي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8610-112x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/50527.png",
-      "time_baghdad": "21:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري - المرحلة النهائية - مجموعة الهبوط",
-      "match_url": "https://www.yalla1shoot.com/matches/ghazl-el-mahalla-vs-national-bank/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أوكسير-بريست-2026-03-21",
       "home": "أوكسير",
       "away": "بريست",
@@ -243,19 +227,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شباببلوزداد-المصري-2026-03-21",
-      "home": "شباب بلوزداد",
-      "away": "المصري",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8225-120x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "time_baghdad": "22:00",
+      "id": "غزلالمحلة-البنكالاهلي-2026-03-21",
+      "home": "غزل المحلة",
+      "away": "البنك الاهلي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8610-112x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/50527.png",
+      "time_baghdad": "21:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 6 HD",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/chabab-belouizdad-vs-al-masry/",
+      "competition": "مصر, الدوري المصري - المرحلة النهائية - مجموعة الهبوط",
+      "match_url": "https://www.yalla1shoot.com/matches/ghazl-el-mahalla-vs-national-bank/",
       "_source": "yalla1shoot"
     },
     {
@@ -275,6 +259,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شباببلوزداد-المصري-2026-03-21",
+      "home": "شباب بلوزداد",
+      "away": "المصري",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8225-120x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 6 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/chabab-belouizdad-vs-al-masry/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "يوفنتوس-ساسولو-2026-03-21",
       "home": "يوفنتوس",
       "away": "ساسولو",
@@ -284,26 +284,10 @@
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-sassuolo/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليدزيونايتد-برينتفورد-2026-03-21",
-      "home": "ليدز يونايتد",
-      "away": "برينتفورد",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/63-2-150x150.png",
-      "time_baghdad": "23:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-valencia/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليدزيونايتد-برينتفورد-2026-03-21",
+      "home": "ليدز يونايتد",
+      "away": "برينتفورد",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/36-134x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/63-2-150x150.png",
+      "time_baghdad": "23:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-brentford/",
       "_source": "yalla1shoot"
     },
     {
