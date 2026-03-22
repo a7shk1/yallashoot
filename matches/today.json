@@ -1,57 +1,9 @@
 {
-  "date": "2026-03-22",
+  "date": "2026-03-23",
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "اتحادالعاصم-مانييمايوني-2026-03-22",
-      "home": "اتحاد العاصمة",
-      "away": "مانييما يونيون",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8220.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/50818-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/usm-vs-maniema-union/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الودادالريا-أولمبيكآسفي-2026-03-22",
-      "home": "الوداد الرياضي",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8326-2-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-olympique-safi/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نانت-ستراسبورج-2026-03-22",
-      "home": "نانت",
-      "away": "ستراسبورج",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/486-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
-      "time_baghdad": "22:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-strasbourg/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "فيورنتينا-إنترميلان-2026-03-22",
+      "id": "فيورنتينا-إنترميلان-2026-03-23",
       "home": "فيورنتينا",
       "away": "إنتر ميلان",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
@@ -67,7 +19,23 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-أتلتيكومدري-2026-03-22",
+      "id": "نانت-ستراسبورج-2026-03-23",
+      "home": "نانت",
+      "away": "ستراسبورج",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/486-127x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
+      "time_baghdad": "22:45",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-strasbourg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-أتلتيكومدري-2026-03-23",
       "home": "ريال مدريد",
       "away": "أتلتيكو مدريد",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
@@ -83,23 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "روما-ليتشي-2026-03-22",
-      "home": "روما",
-      "away": "ليتشي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/225-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/246.png",
-      "time_baghdad": "20:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/roma-vs-lecce/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-ريالبيتيس-2026-03-22",
+      "id": "أتلتيكبلباو-ريالبيتيس-2026-03-23",
       "home": "أتلتيك بلباو",
       "away": "ريال بيتيس",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/144-145x150.png",
@@ -115,7 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوغسبورغ-شتوتجارت-2026-03-22",
+      "id": "أوغسبورغ-شتوتجارت-2026-03-23",
       "home": "أوغسبورغ",
       "away": "شتوتجارت",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/358.png",
@@ -128,6 +80,38 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-stuttgart/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحادالعاصم-مانييمايوني-2026-03-23",
+      "home": "اتحاد العاصمة",
+      "away": "مانييما يونيون",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8220.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/50818-150x150.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/usm-vs-maniema-union/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الودادالريا-أولمبيكآسفي-2026-03-23",
+      "home": "الوداد الرياضي",
+      "away": "أولمبيك آسفي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8326-2-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
+      "time_baghdad": "22:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/wydad-athletic-club-vs-olympique-safi/",
       "_source": "yalla1shoot"
     }
   ]
