@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "فيورنتينا-إنترميلان-2026-03-23",
-      "home": "فيورنتينا",
-      "away": "إنتر ميلان",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/228-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/224-2-150x150.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-inter-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نانت-ستراسبورج-2026-03-23",
-      "home": "نانت",
-      "away": "ستراسبورج",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/486-127x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
-      "time_baghdad": "22:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/nantes-vs-strasbourg/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-أتلتيكومدري-2026-03-23",
       "home": "ريال مدريد",
       "away": "أتلتيكو مدريد",
