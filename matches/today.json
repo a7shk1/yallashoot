@@ -3,6 +3,22 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
+      "id": "واديدجلة-طلائعالجيش-2026-03-25",
+      "home": "وادي دجلة",
+      "away": "طلائع الجيش",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8311-131x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8306-2-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/wadi-degla-vs-talaea-el-gaish/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "ريالمدريد--برشلونة-سي-2026-03-25",
       "home": "ريال مدريد - سيدات",
       "away": "برشلونة - سيدات",
@@ -16,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال أوروبا للسيدات - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/real-madrid-women-vs-barcelona-women/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنبي-بتروجت-2026-03-25",
+      "home": "إنبي",
+      "away": "بتروجت",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8302-150x150.png",
+      "time_baghdad": "21:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/enppi-vs-petrojet/",
       "_source": "yalla1shoot"
     },
     {
