@@ -67,6 +67,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "إيطاليا-إيرلنداالشم-2026-03-26",
+      "home": "إيطاليا",
+      "away": "إيرلندا الشمالية",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2375.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5037.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, تصفيات كأس العالم أوروبا - البلاي أوف - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/italy-vs-northern-ireland/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أوكرانيا-السويد-2026-03-26",
       "home": "أوكرانيا",
       "away": "السويد",
@@ -128,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, تصفيات كأس العالم أوروبا - البلاي أوف - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/czech-republic-vs-ireland/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيطاليا-إيرلنداالشم-2026-03-26",
-      "home": "إيطاليا",
-      "away": "إيرلندا الشمالية",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2375.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5037.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, تصفيات كأس العالم أوروبا - البلاي أوف - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/italy-vs-northern-ireland/",
       "_source": "yalla1shoot"
     }
   ]
