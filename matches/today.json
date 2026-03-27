@@ -19,35 +19,35 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "النمسا-غانا-2026-03-27",
-      "home": "النمسا",
-      "away": "غانا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5059-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5094-150x150.png",
-      "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/austria-vs-ghana/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مونتينيغرو-أندورا-2026-03-27",
       "home": "مونتينيغرو",
       "away": "أندورا",
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5063-150x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5052-150x150.png",
       "time_baghdad": "20:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/montenegro-vs-andorra/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "النمسا-غانا-2026-03-27",
+      "home": "النمسا",
+      "away": "غانا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5059-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5094-150x150.png",
+      "time_baghdad": "20:00",
+      "status": "LIVE",
+      "status_text": "مباشر",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "match_url": "https://www.yalla1shoot.com/matches/austria-vs-ghana/",
       "_source": "yalla1shoot"
     },
     {
@@ -83,22 +83,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إنجلترا-أوروغواي-2026-03-27",
-      "home": "إنجلترا",
-      "away": "أوروغواي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5054-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/656.png",
-      "time_baghdad": "22:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/england-vs-uruguay/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هولندا-النرويج-2026-03-27",
       "home": "هولندا",
       "away": "النرويج",
@@ -131,6 +115,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "إنجلترا-أوروغواي-2026-03-27",
+      "home": "إنجلترا",
+      "away": "أوروغواي",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5054-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/656.png",
+      "time_baghdad": "22:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "match_url": "https://www.yalla1shoot.com/matches/england-vs-uruguay/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إسبانيا-صربيا-2026-03-27",
       "home": "إسبانيا",
       "away": "صربيا",
@@ -160,38 +160,6 @@
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/morocco-vs-ecuador/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الصومال-موريشيوس-2026-03-27",
-      "home": "الصومال",
-      "away": "موريشيوس",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/27810-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5598-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس الأمم الإفريقية - تصفيات أولية",
-      "match_url": "https://www.yalla1shoot.com/matches/somalia-vs-mauritius/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشاد-بورندي-2026-03-27",
-      "home": "تشاد",
-      "away": "بورندي",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5615-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5600.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, تصفيات كأس الأمم الإفريقية - تصفيات أولية",
-      "match_url": "https://www.yalla1shoot.com/matches/chad-vs-burundi/",
       "_source": "yalla1shoot"
     }
   ]
