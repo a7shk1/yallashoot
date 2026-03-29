@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "المصري-الجونة-2026-03-30",
-      "home": "المصري",
-      "away": "الجونة",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8308-150x150.png",
-      "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-el-gouna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أذربيجان-سيراليون-2026-03-30",
       "home": "أذربيجان",
       "away": "سيراليون",
@@ -32,6 +16,22 @@
       "commentator": "غير معروف",
       "competition": "دولي, سلسلة فيفا",
       "match_url": "https://www.yalla1shoot.com/matches/azerbaijan-vs-sierra-leone/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "المصري-الجونة-2026-03-30",
+      "home": "المصري",
+      "away": "الجونة",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8308-150x150.png",
+      "time_baghdad": "18:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-el-gouna/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,38 +96,6 @@
       "commentator": "غير معروف",
       "competition": "الجزائر, الدوري الجزائري",
       "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-usm-algiers/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ألميريا-ريالسوسيداد-2026-03-30",
-      "home": "ألميريا",
-      "away": "ريال سوسيداد ب",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/138.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9255-146x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/almeria-vs-real-sociedad-b/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كولومبيا-فرنسا-2026-03-30",
-      "home": "كولومبيا",
-      "away": "فرنسا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/189.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5061-150x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/colombia-vs-france/",
       "_source": "yalla1shoot"
     }
   ]
