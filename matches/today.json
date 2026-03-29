@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أرمينيا-روسياالبيضا-2026-03-29",
-      "home": "أرمينيا",
-      "away": "روسيا البيضاء",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5049-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5053-150x150.png",
-      "time_baghdad": "17:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/armenia-vs-belarus/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "طلائعالجيش-واديدجلة-2026-03-29",
       "home": "طلائع الجيش",
       "away": "وادي دجلة",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/lithuania-vs-georgia/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرمينيا-روسياالبيضا-2026-03-29",
+      "home": "أرمينيا",
+      "away": "روسيا البيضاء",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5049-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5053-150x150.png",
+      "time_baghdad": "17:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "دولي, مباريات ودية دولية",
+      "match_url": "https://www.yalla1shoot.com/matches/armenia-vs-belarus/",
       "_source": "yalla1shoot"
     }
   ]
