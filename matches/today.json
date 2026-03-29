@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ليتوانيا-جورجيا-2026-03-29",
-      "home": "ليتوانيا",
-      "away": "جورجيا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2312-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5066-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/lithuania-vs-georgia/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرمينيا-روسياالبيضا-2026-03-29",
       "home": "أرمينيا",
       "away": "روسيا البيضاء",
@@ -41,8 +25,8 @@
       "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8306-2-150x150.png",
       "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8311-131x150.png",
       "time_baghdad": "18:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "أون سبورت 1",
       "commentator": "غير معروف",
@@ -67,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ألميريا-ريالسوسيداد-2026-03-29",
+      "home": "ألميريا",
+      "away": "ريال سوسيداد ب",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/138.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9255-146x150.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/almeria-vs-real-sociedad-b/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كولومبيا-فرنسا-2026-03-29",
       "home": "كولومبيا",
       "away": "فرنسا",
@@ -83,19 +83,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ألميريا-ريالسوسيداد-2026-03-29",
-      "home": "ألميريا",
-      "away": "ريال سوسيداد ب",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/138.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/9255-146x150.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "id": "ليتوانيا-جورجيا-2026-03-29",
+      "home": "ليتوانيا",
+      "away": "جورجيا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2312-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5066-150x150.png",
+      "time_baghdad": "16:00",
+      "status": "FT",
+      "status_text": "انتهت",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/almeria-vs-real-sociedad-b/",
+      "competition": "دولي, مباريات ودية دولية",
+      "match_url": "https://www.yalla1shoot.com/matches/lithuania-vs-georgia/",
       "_source": "yalla1shoot"
     }
   ]
