@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "طلائعالجيش-واديدجلة-2026-03-29",
-      "home": "طلائع الجيش",
-      "away": "وادي دجلة",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8306-2-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8311-131x150.png",
-      "time_baghdad": "18:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/talaea-el-gaish-vs-wadi-degla/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بتروجت-إنبي-2026-03-29",
       "home": "بتروجت",
       "away": "إنبي",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليتوانيا-جورجيا-2026-03-29",
-      "home": "ليتوانيا",
-      "away": "جورجيا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2312-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5066-150x150.png",
-      "time_baghdad": "16:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/lithuania-vs-georgia/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرمينيا-روسياالبيضا-2026-03-29",
       "home": "أرمينيا",
       "away": "روسيا البيضاء",
@@ -96,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/armenia-vs-belarus/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "طلائعالجيش-واديدجلة-2026-03-29",
+      "home": "طلائع الجيش",
+      "away": "وادي دجلة",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8306-2-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/8311-131x150.png",
+      "time_baghdad": "18:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت 1",
+      "commentator": "غير معروف",
+      "competition": "مصر, كأس الرابطة المصرية - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/talaea-el-gaish-vs-wadi-degla/",
       "_source": "yalla1shoot"
     }
   ]
