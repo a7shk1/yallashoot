@@ -65,38 +65,6 @@
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-uruguay/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "ألمانيا-غانا-2026-03-31",
-      "home": "ألمانيا",
-      "away": "غانا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2372-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5094-150x150.png",
-      "time_baghdad": "21:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/germany-vs-ghana/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مولوديةالجز-اتحادالعاصم-2026-03-31",
-      "home": "مولودية الجزائر",
-      "away": "اتحاد العاصمة",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8218-131x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8220.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الجزائرية السادسة",
-      "commentator": "غير معروف",
-      "competition": "الجزائر, الدوري الجزائري",
-      "match_url": "https://www.yalla1shoot.com/matches/mouloudia-algiers-vs-usm-algiers/",
-      "_source": "yalla1shoot"
     }
   ]
 }
