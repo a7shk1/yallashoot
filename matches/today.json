@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إسبانيا-مصر-2026-04-01",
-      "home": "إسبانيا",
-      "away": "مصر",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5050-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5100.png",
-      "time_baghdad": "22:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/spain-vs-egypt/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الولاياتالم-البرتغال-2026-04-01",
       "home": "الولايات المتحدة",
       "away": "البرتغال",
@@ -83,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الأردن-نيجيريا-2026-04-01",
-      "home": "الأردن",
-      "away": "نيجيريا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5083-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2386-150x150.png",
-      "time_baghdad": "20:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت 1",
-      "commentator": "غير معروف",
-      "competition": "دولي, مباريات ودية دولية",
-      "match_url": "https://www.yalla1shoot.com/matches/jordan-vs-nigeria/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المغرب-باراغواي-2026-04-01",
       "home": "المغرب",
       "away": "باراغواي",
@@ -128,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "دولي, مباريات ودية دولية",
       "match_url": "https://www.yalla1shoot.com/matches/algeria-vs-uruguay/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "البوسنةالهر-إيطاليا-2026-04-01",
+      "home": "البوسنة الهرسك",
+      "away": "إيطاليا",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5048-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2375.png",
+      "time_baghdad": "21:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
+      "match_url": "https://www.yalla1shoot.com/matches/bosnia-herzegovina-vs-italy/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,19 +163,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "البوسنةالهر-إيطاليا-2026-04-01",
-      "home": "البوسنة الهرسك",
-      "away": "إيطاليا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5048-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/2375.png",
-      "time_baghdad": "21:45",
+      "id": "إسبانيا-مصر-2026-04-01",
+      "home": "إسبانيا",
+      "away": "مصر",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5050-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5100.png",
+      "time_baghdad": "22:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "أون سبورت 1",
       "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/bosnia-herzegovina-vs-italy/",
+      "competition": "دولي, مباريات ودية دولية",
+      "match_url": "https://www.yalla1shoot.com/matches/spain-vs-egypt/",
       "_source": "yalla1shoot"
     }
   ]
