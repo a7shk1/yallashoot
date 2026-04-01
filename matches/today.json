@@ -81,38 +81,6 @@
       "competition": "إنجلترا, ليغ تو",
       "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "تشيلسي-سيد-أرسنال-سيد-2026-04-02",
-      "home": "تشيلسي - سيدات",
-      "away": "أرسنال - سيدات",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/27814-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/24296-139x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال أوروبا للسيدات - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/chelsea-women-vs-arsenal-women/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أولمبيكآسفي-نهضةبركان-2026-04-02",
-      "home": "أولمبيك آسفي",
-      "away": "نهضة بركان",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/02/8210.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/9974-2-131x150.png",
-      "time_baghdad": "22:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympic-safi-vs-rs-berkane/",
-      "_source": "yalla1shoot"
     }
   ]
 }
