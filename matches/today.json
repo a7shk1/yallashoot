@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "كامبريدجيون-سويندونتاون-2026-04-02",
-      "home": "كامبريدج يونايتد",
-      "away": "سويندون تاون",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/79-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/40.png",
-      "time_baghdad": "22:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, ليغ تو",
-      "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجيشالملكي-أولمبيكالدش-2026-04-02",
       "home": "الجيش الملكي",
       "away": "أولمبيك الدشيرة",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال أوروبا للسيدات - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-women-vs-wolfsburg-women/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كامبريدجيون-سويندونتاون-2026-04-02",
+      "home": "كامبريدج يونايتد",
+      "away": "سويندون تاون",
+      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/79-150x150.png",
+      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/04/40.png",
+      "time_baghdad": "22:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, ليغ تو",
+      "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
       "_source": "yalla1shoot"
     },
     {
