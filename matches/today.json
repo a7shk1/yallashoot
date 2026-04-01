@@ -49,22 +49,6 @@
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/olympic-safi-vs-rs-berkane/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "العراق-بوليفيا-2026-04-01",
-      "home": "العراق",
-      "away": "بوليفيا",
-      "home_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/5078-150x150.png",
-      "away_logo": "https://www.yalla1shoot.com/wp-content/uploads/2026/03/747.png",
-      "time_baghdad": "06:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/iraq-vs-bolivia/",
-      "_source": "yalla1shoot"
     }
   ]
 }
