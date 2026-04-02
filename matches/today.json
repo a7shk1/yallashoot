@@ -115,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "رايوفاييكان-إلتشي-2026-04-03",
-      "home": "رايو فاييكانو",
-      "away": "إلتشي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/156-150x150.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/rayo-vallecano-vs-elche/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "كوفنتريسيتي-دربيكاونتي-2026-04-03",
       "home": "كوفنتري سيتي",
       "away": "دربي كاونتي",
@@ -163,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "رايوفاييكان-إلتشي-2026-04-03",
+      "home": "رايو فاييكانو",
+      "away": "إلتشي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/174.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/156-150x150.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/rayo-vallecano-vs-elche/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "كاستييون-ألميريا-2026-04-03",
       "home": "كاستييون",
       "away": "ألميريا",
@@ -176,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
       "match_url": "https://www.yalla1shoot.com/matches/castellon-vs-almeria/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "كامبريدجيون-سويندونتاون-2026-04-03",
+      "home": "كامبريدج يونايتد",
+      "away": "سويندون تاون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/79-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/40.png",
+      "time_baghdad": "10:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, ليغ تو",
+      "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
       "_source": "yalla1shoot"
     },
     {
@@ -208,22 +224,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال أوروبا للسيدات - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-women-vs-wolfsburg-women/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "كامبريدجيون-سويندونتاون-2026-04-03",
-      "home": "كامبريدج يونايتد",
-      "away": "سويندون تاون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/79-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/40.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, ليغ تو",
-      "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
       "_source": "yalla1shoot"
     }
   ]
