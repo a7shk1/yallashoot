@@ -8,9 +8,9 @@
       "away": "ريال مدريد - سيدات",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/24094-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/56903-150x150.png",
-      "time_baghdad": "19:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "time_baghdad": "07:45",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -32,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
       "match_url": "https://www.yalla1shoot.com/matches/castellon-vs-almeria/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجيشالملكي-أولمبيكالدش-2026-04-02",
+      "home": "الجيش الملكي",
+      "away": "أولمبيك الدشيرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/21191.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "تطبيق ثمانية",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-olympic-dsheira/",
       "_source": "yalla1shoot"
     },
     {
@@ -64,22 +80,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, ليغ تو",
       "match_url": "https://www.yalla1shoot.com/matches/cambridge-united-vs-swindon-town/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجيشالملكي-أولمبيكالدش-2026-04-02",
-      "home": "الجيش الملكي",
-      "away": "أولمبيك الدشيرة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/21191.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "تطبيق ثمانية",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-olympic-dsheira/",
       "_source": "yalla1shoot"
     }
   ]
