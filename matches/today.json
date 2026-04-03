@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أوكسفورديون-هالسيتي-2026-04-03",
-      "home": "أوكسفورد يونايتد",
-      "away": "هال سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/87-144x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11-150x150.png",
-      "time_baghdad": "05:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/oxford-united-vs-hull-city/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليسترسيتي-بريستوننورث-2026-04-03",
       "home": "ليستر سيتي",
       "away": "بريستون نورث إند",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-preston-north-end/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوكسفورديون-هالسيتي-2026-04-03",
+      "home": "أوكسفورد يونايتد",
+      "away": "هال سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/87-144x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/11-150x150.png",
+      "time_baghdad": "05:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/oxford-united-vs-hull-city/",
       "_source": "yalla1shoot"
     },
     {
