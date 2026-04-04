@@ -67,22 +67,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "فرايبورج-بايرنميونخ-2026-04-04",
-      "home": "فرايبورج",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "04:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "شاهد - Shahid VIP",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/freiburg-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-فولفسبورج-2026-04-04",
       "home": "باير ليفركوزن",
       "away": "فولفسبورج",
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/bayer-leverkusen-vs-wolfsburg/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فرايبورج-بايرنميونخ-2026-04-04",
+      "home": "فرايبورج",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/354-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "time_baghdad": "04:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "شاهد - Shahid VIP",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/freiburg-vs-bayern-munich/",
       "_source": "yalla1shoot"
     },
     {
@@ -163,22 +163,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شتوتجارت-بوروسيادورت-2026-04-04",
-      "home": "شتوتجارت",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
-      "time_baghdad": "07:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-borussia-dortmund/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالبيتيس-إسبانيول-2026-04-04",
       "home": "ريال بيتيس",
       "away": "إسبانيول",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-espanyol/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شتوتجارت-بوروسيادورت-2026-04-04",
+      "home": "شتوتجارت",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-borussia-dortmund/",
       "_source": "yalla1shoot"
     },
     {
