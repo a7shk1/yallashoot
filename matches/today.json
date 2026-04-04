@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ساسولو-كالياري-2026-04-04",
-      "home": "ساسولو",
-      "away": "كالياري",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/266-2.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/243-136x150.png",
-      "time_baghdad": "04:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-cagliari/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بايرليفركوز-فولفسبورج-2026-04-04",
       "home": "باير ليفركوزن",
       "away": "فولفسبورج",
@@ -73,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/479.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/470-1.png",
       "time_baghdad": "06:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -115,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "شتوتجارت-بوروسيادورت-2026-04-04",
-      "home": "شتوتجارت",
-      "away": "بوروسيا دورتموند",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
-      "time_baghdad": "07:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-borussia-dortmund/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالبيتيس-إسبانيول-2026-04-04",
       "home": "ريال بيتيس",
       "away": "إسبانيول",
@@ -144,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-espanyol/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "شتوتجارت-بوروسيادورت-2026-04-04",
+      "home": "شتوتجارت",
+      "away": "بوروسيا دورتموند",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/338.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/341-150x150.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-borussia-dortmund/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,6 +227,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالسوسيداد-ليفانتي-2026-04-04",
+      "home": "ريال سوسيداد",
+      "away": "ليفانتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
+      "time_baghdad": "03:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-levante/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "مونبلييه-تروا-2026-04-04",
       "home": "مونبلييه",
       "away": "تروا",
@@ -259,19 +259,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالسوسيداد-ليفانتي-2026-04-04",
-      "home": "ريال سوسيداد",
-      "away": "ليفانتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/154-146x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/150.png",
-      "time_baghdad": "03:00",
+      "id": "ساسولو-كالياري-2026-04-04",
+      "home": "ساسولو",
+      "away": "كالياري",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/266-2.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/243-136x150.png",
+      "time_baghdad": "04:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-sociedad-vs-levante/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/sassuolo-vs-cagliari/",
       "_source": "yalla1shoot"
     }
   ]
