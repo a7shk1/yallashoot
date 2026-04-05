@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إبسويتشتاون-برمنغهام-2026-04-06",
-      "home": "إبسويتش تاون",
-      "away": "برمنغهام",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1-116x150.png",
-      "time_baghdad": "05:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/ipswich-town-vs-birmingham/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "واتفورد-تشارلتوناثل-2026-04-06",
       "home": "واتفورد",
       "away": "تشارلتون اثلتيك",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/watford-vs-charlton-athletic/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إبسويتشتاون-برمنغهام-2026-04-06",
+      "home": "إبسويتش تاون",
+      "away": "برمنغهام",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/9-131x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/1-116x150.png",
+      "time_baghdad": "05:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/ipswich-town-vs-birmingham/",
       "_source": "yalla1shoot"
     },
     {
@@ -192,22 +192,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/girona-vs-villarreal/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "المصري-الزمالك-2026-04-06",
-      "home": "المصري",
-      "away": "الزمالك",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8303-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8201-132x150.png",
-      "time_baghdad": "09:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/al-masry-vs-zamalek/",
       "_source": "yalla1shoot"
     },
     {
