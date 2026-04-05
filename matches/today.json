@@ -211,22 +211,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "موناكو-أولمبيكمارس-2026-04-06",
-      "home": "موناكو",
-      "away": "أولمبيك مارسيليا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
-      "time_baghdad": "09:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/monaco-vs-olympique-marseille/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إنترميلان-روما-2026-04-06",
       "home": "إنتر ميلان",
       "away": "روما",
@@ -243,19 +227,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الكوكبالمرا-الجيشالملكي-2026-04-06",
-      "home": "الكوكب المراكشي",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8209-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
-      "time_baghdad": "10:00",
+      "id": "موناكو-أولمبيكمارس-2026-04-06",
+      "home": "موناكو",
+      "away": "أولمبيك مارسيليا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/471-94x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/469.png",
+      "time_baghdad": "09:45",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "الرياضية المغربية (3)",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/kawkab-marrakesh-vs-royal-army/",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/monaco-vs-olympique-marseille/",
       "_source": "yalla1shoot"
     },
     {
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/alaves-vs-osasuna/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الكوكبالمرا-الجيشالملكي-2026-04-06",
+      "home": "الكوكب المراكشي",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8209-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/5455-139x150.png",
+      "time_baghdad": "10:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/kawkab-marrakesh-vs-royal-army/",
       "_source": "yalla1shoot"
     }
   ]
