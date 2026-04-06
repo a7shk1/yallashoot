@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أودينيزي-كومو-2026-04-06",
-      "home": "أودينيزي",
-      "away": "كومو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6117-150x150.png",
-      "time_baghdad": "01:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/udinese-vs-como/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ليتشي-أتالانتا-2026-04-06",
       "home": "ليتشي",
       "away": "أتالانتا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/246.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/232-105x150.png",
       "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/girona-vs-villarreal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أودينيزي-كومو-2026-04-06",
+      "home": "أودينيزي",
+      "away": "كومو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/229-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/6117-150x150.png",
+      "time_baghdad": "01:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/udinese-vs-como/",
       "_source": "yalla1shoot"
     }
   ]
