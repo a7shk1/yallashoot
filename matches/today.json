@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "زد-المقاولونال-2026-04-06",
-      "home": "زد",
-      "away": "المقاولون العرب",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29732-136x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/8310-120x150.png",
-      "time_baghdad": "09:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري - المرحلة النهائية - مجموعة الهبوط",
-      "match_url": "https://www.yalla1shoot.com/matches/z-vs-arab-contractors/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نابولي-ميلان-2026-04-06",
       "home": "نابولي",
       "away": "ميلان",
@@ -83,35 +67,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-جنوى-2026-04-06",
-      "home": "يوفنتوس",
-      "away": "جنوى",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/226-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/231-123x150.png",
-      "time_baghdad": "07:00",
+      "id": "زد-المقاولونال-2026-04-06",
+      "home": "زد",
+      "away": "المقاولون العرب",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/29732-136x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/8310-120x150.png",
+      "time_baghdad": "09:00",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "Starzplay",
+      "channel": "أون سبورت",
       "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-genoa/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سوانزيسيتي-ميدلزبره-2026-04-06",
-      "home": "سوانزي سيتي",
-      "away": "ميدلزبره",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/28-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/115-150x150.png",
-      "time_baghdad": "07:30",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/swansea-city-vs-middlesbrough/",
+      "competition": "مصر, الدوري المصري - المرحلة النهائية - مجموعة الهبوط",
+      "match_url": "https://www.yalla1shoot.com/matches/z-vs-arab-contractors/",
       "_source": "yalla1shoot"
     }
   ]
