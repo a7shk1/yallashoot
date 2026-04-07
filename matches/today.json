@@ -23,7 +23,7 @@
       "home": "الفيحاء",
       "away": "الأهلي السعودي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/20733-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/01/alba_img_6977e5c40e10f-70x70-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/alba_img_6977e5c40e10f-70x70-logo-1.png",
       "time_baghdad": "06:55",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
@@ -32,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سبورتينجبرا-ريالبيتيس-2026-04-08",
+      "home": "سبورتينج براغا",
+      "away": "ريال بيتيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/895.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "time_baghdad": "07:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/sporting-braga-vs-real-betis/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,38 +112,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالمدريد-بايرنميونخ-2026-04-08",
-      "home": "ريال مدريد",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سبورتنجلشبو-أرسنال-2026-04-08",
-      "home": "سبورتنج لشبونة",
-      "away": "أرسنال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/890-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/104-140x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-arsenal/",
       "_source": "yalla1shoot"
     }
   ]
