@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-بايرنميونخ-2026-04-07",
-      "home": "ريال مدريد",
-      "away": "بايرن ميونخ",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-bayern-munich/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سبورتنجلشبو-أرسنال-2026-04-07",
       "home": "سبورتنج لشبونة",
       "away": "أرسنال",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-arsenal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالمدريد-بايرنميونخ-2026-04-07",
+      "home": "ريال مدريد",
+      "away": "بايرن ميونخ",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/131-4-115x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/331-150x150.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/real-madrid-vs-bayern-munich/",
       "_source": "yalla1shoot"
     }
   ]
