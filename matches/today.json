@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "سموحة-إنبي-2026-04-07",
-      "home": "سموحة",
-      "away": "إنبي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
-      "time_baghdad": "06:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "أون سبورت",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/smouha-vs-enppi/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سيراميكاكلي-الأهلي-2026-04-07",
       "home": "سيراميكا كليوباترا",
       "away": "الأهلي",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/sporting-lisbon-vs-arsenal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سموحة-إنبي-2026-04-07",
+      "home": "سموحة",
+      "away": "إنبي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8309-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/8300.png",
+      "time_baghdad": "06:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "أون سبورت",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
+      "match_url": "https://www.yalla1shoot.com/matches/smouha-vs-enppi/",
       "_source": "yalla1shoot"
     }
   ]
