@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "غامباأوساكا-بانكوكيوناي-2026-04-08",
-      "home": "غامبا أوساكا",
-      "away": "بانكوك يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2150-128x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7753.png",
-      "time_baghdad": "01:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/gamba-osaka-vs-bangkok-united/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الفيحاء-الأهليالسعو-2026-04-08",
       "home": "الفيحاء",
       "away": "الأهلي السعودي",
@@ -112,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-atletico-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "غامباأوساكا-بانكوكيوناي-2026-04-08",
+      "home": "غامبا أوساكا",
+      "away": "بانكوك يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/2150-128x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/7753.png",
+      "time_baghdad": "01:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "آسيا, دوري أبطال آسيا 2 - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/gamba-osaka-vs-bangkok-united/",
       "_source": "yalla1shoot"
     }
   ]
