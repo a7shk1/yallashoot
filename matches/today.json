@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "سبورتينجبرا-ريالبيتيس-2026-04-08",
-      "home": "سبورتينج براغا",
-      "away": "ريال بيتيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/895.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
-      "time_baghdad": "07:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/sporting-braga-vs-real-betis/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "غزلالمحلة-الجونة-2026-04-08",
       "home": "غزل المحلة",
       "away": "الجونة",
@@ -73,8 +57,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/480-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/108-90x150.png",
       "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -89,29 +73,13 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/132-1-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/134-128x150.png",
       "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "واديدجلة-فاركو-2026-04-08",
-      "home": "وادي دجلة",
-      "away": "فاركو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/03/8311-131x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/46242-138x150.png",
-      "time_baghdad": "06:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "أون سبورت",
-      "commentator": "غير معروف",
-      "competition": "مصر, الدوري المصري - المرحلة النهائية - مجموعة الهبوط",
-      "match_url": "https://www.yalla1shoot.com/matches/wadi-degla-vs-pharco/",
       "_source": "yalla1shoot"
     },
     {
@@ -128,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "السعودية, الدوري السعودي",
       "match_url": "https://www.yalla1shoot.com/matches/al-fayhaa-vs-al-ahly-saudi/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "سبورتينجبرا-ريالبيتيس-2026-04-08",
+      "home": "سبورتينج براغا",
+      "away": "ريال بيتيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/895.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/02/146.png",
+      "time_baghdad": "07:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/sporting-braga-vs-real-betis/",
       "_source": "yalla1shoot"
     }
   ]
