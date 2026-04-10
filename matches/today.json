@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أوغسبورغ-هوفنهايم-2026-04-10",
-      "home": "أوغسبورغ",
-      "away": "هوفنهايم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/358-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/351-logo.png",
-      "time_baghdad": "09:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-hoffenheim/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "روما-بيسا-2026-04-10",
-      "home": "روما",
-      "away": "بيسا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/225-logo-127x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/248-logo-150x150.png",
-      "time_baghdad": "09:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/rome-vs-pisa/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ريالمدريد-جيرونا-2026-04-10",
       "home": "ريال مدريد",
       "away": "جيرونا",
@@ -112,6 +80,38 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/paris-fc-vs-monaco/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أوغسبورغ-هوفنهايم-2026-04-10",
+      "home": "أوغسبورغ",
+      "away": "هوفنهايم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/358-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/351-logo.png",
+      "time_baghdad": "09:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/augsburg-vs-hoffenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "روما-بيسا-2026-04-10",
+      "home": "روما",
+      "away": "بيسا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/225-logo-127x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/248-logo-150x150.png",
+      "time_baghdad": "09:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/rome-vs-pisa/",
       "_source": "yalla1shoot"
     }
   ]
