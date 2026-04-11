@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/104-logo-140x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/50-logo-126x150.png",
       "time_baghdad": "02:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/16-logo-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9-logo-131x150.png",
       "time_baghdad": "02:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -99,22 +99,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بيرنلي-برايتون-2026-04-11",
-      "home": "بيرنلي",
-      "away": "برايتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/12-1-logo-143x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/38-logo-150x150.png",
-      "time_baghdad": "05:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-brighton/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "برينتفورد-إيفرتون-2026-04-11",
       "home": "برينتفورد",
       "away": "إيفرتون",
@@ -128,6 +112,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/brentford-vs-everton/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بيرنلي-برايتون-2026-04-11",
+      "home": "بيرنلي",
+      "away": "برايتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/12-1-logo-143x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/38-logo-150x150.png",
+      "time_baghdad": "05:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/burnley-vs-brighton/",
       "_source": "yalla1shoot"
     },
     {
@@ -179,6 +179,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "مالقا-لاسبالماس-2026-04-11",
+      "home": "مالقا",
+      "away": "لاس بالماس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/152-logo-145x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/167-logo-150x150.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/malaga-vs-las-palmas/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سانتباولي-بايرنميونخ-2026-04-11",
       "home": "سانت باولي",
       "away": "بايرن ميونخ",
@@ -224,22 +240,6 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-espanyol/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "مالقا-لاسبالماس-2026-04-11",
-      "home": "مالقا",
-      "away": "لاس بالماس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/152-logo-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/167-logo-150x150.png",
-      "time_baghdad": "07:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/malaga-vs-las-palmas/",
       "_source": "yalla1shoot"
     },
     {
@@ -291,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الجيشالملكي-نهضةبركان-2026-04-11",
-      "home": "الجيش الملكي",
-      "away": "نهضة بركان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo-139x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9974-logo-131x150.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-renaissance-berkane/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "إشبيلية-أتلتيكومدري-2026-04-11",
       "home": "إشبيلية",
       "away": "أتلتيكو مدريد",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-atletico-madrid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الجيشالملكي-نهضةبركان-2026-04-11",
+      "home": "الجيش الملكي",
+      "away": "نهضة بركان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo-139x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9974-logo-131x150.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-renaissance-berkane/",
       "_source": "yalla1shoot"
     },
     {
