@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "مالقا-لاسبالماس-2026-04-11",
-      "home": "مالقا",
-      "away": "لاس بالماس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/152-logo-145x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/167-logo-150x150.png",
-      "time_baghdad": "07:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
-      "match_url": "https://www.yalla1shoot.com/matches/malaga-vs-las-palmas/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "سانتباولي-بايرنميونخ-2026-04-11",
       "home": "سانت باولي",
       "away": "بايرن ميونخ",
@@ -240,6 +224,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/barcelona-vs-espanyol/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "مالقا-لاسبالماس-2026-04-11",
+      "home": "مالقا",
+      "away": "لاس بالماس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/152-logo-145x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/167-logo-150x150.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الاسباني الدرجة الثانية",
+      "match_url": "https://www.yalla1shoot.com/matches/malaga-vs-las-palmas/",
       "_source": "yalla1shoot"
     },
     {
@@ -291,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إشبيلية-أتلتيكومدري-2026-04-11",
-      "home": "إشبيلية",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/135-logo-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/134-logo-128x150.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الجيشالملكي-نهضةبركان-2026-04-11",
       "home": "الجيش الملكي",
       "away": "نهضة بركان",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-renaissance-berkane/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إشبيلية-أتلتيكومدري-2026-04-11",
+      "home": "إشبيلية",
+      "away": "أتلتيكو مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/135-logo-135x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/134-logo-128x150.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-atletico-madrid/",
       "_source": "yalla1shoot"
     },
     {
