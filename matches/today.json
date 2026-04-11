@@ -305,54 +305,6 @@
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/moghreb-fes-vs-wydad-athletic-club/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "إشبيلية-أتلتيكومدري-2026-04-12",
-      "home": "إشبيلية",
-      "away": "أتلتيكو مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/135-logo-135x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/134-logo-128x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 4",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/sevilla-vs-atletico-madrid/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الجيشالملكي-نهضةبركان-2026-04-12",
-      "home": "الجيش الملكي",
-      "away": "نهضة بركان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo-139x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9974-logo-131x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-renaissance-berkane/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ستادرين-أنجيه-2026-04-12",
-      "home": "ستاد رين",
-      "away": "أنجيه",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/477-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/493-logo-136x150.png",
-      "time_baghdad": "10:05",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/stade-rennes-vers-angers/",
-      "_source": "yalla1shoot"
     }
   ]
 }
