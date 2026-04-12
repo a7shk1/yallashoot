@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/231-logo-123x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/266-logo.png",
       "time_baghdad": "01:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -275,22 +275,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الترجي-صنداونز-2026-04-12",
-      "home": "الترجي",
-      "away": "صن داونز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8235-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/7277-logo.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-sun-downs/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "المغربالفاس-الودادالريا-2026-04-12",
       "home": "المغرب الفاسي",
       "away": "الوداد الرياضي",
@@ -304,6 +288,22 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/moghreb-fes-vs-wydad-athletic-club/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الترجي-صنداونز-2026-04-12",
+      "home": "الترجي",
+      "away": "صن داونز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8235-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/7277-logo.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/esperance-vs-sun-downs/",
       "_source": "yalla1shoot"
     }
   ]
