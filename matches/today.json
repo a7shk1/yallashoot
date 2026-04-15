@@ -33,22 +33,6 @@
       "competition": "أوروبا, دوري أبطال اوروبا - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-sporting-lisbon/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "بانكوكيوناي-غامباأوساكا-2026-04-15",
-      "home": "بانكوك يونايتد",
-      "away": "غامبا أوساكا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/7753-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/2150-logo.png",
-      "time_baghdad": "03:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/bangkok-united-vs-gamba-osaka/",
-      "_source": "yalla1shoot"
     }
   ]
 }
