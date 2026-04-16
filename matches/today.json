@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "سيلتافيجو-فرايبورج-2026-04-16",
-      "home": "سيلتا فيجو",
-      "away": "فرايبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/158-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/354-logo.png",
-      "time_baghdad": "07:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
-      "match_url": "https://www.yalla1shooot.com/matches/celta-vigo-vs-freiburg/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ألكمار-شاختاردونيت-2026-04-16",
       "home": "ألكمار",
       "away": "شاختار دونيتسك",
@@ -51,19 +35,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نوتنجهامفور-بورتو-2026-04-16",
-      "home": "نوتنجهام فورست",
-      "away": "بورتو",
-      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/29-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/887-logo-1.png",
-      "time_baghdad": "10:00",
+      "id": "سيلتافيجو-فرايبورج-2026-04-16",
+      "home": "سيلتا فيجو",
+      "away": "فرايبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/158-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/354-logo.png",
+      "time_baghdad": "07:45",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
-      "match_url": "https://www.yalla1shooot.com/matches/nottingham-forest-vs-porto/",
+      "match_url": "https://www.yalla1shooot.com/matches/celta-vigo-vs-freiburg/",
       "_source": "yalla1shoot"
     },
     {
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, دوري المؤتمر الأوروبي - ربع النهائي",
       "match_url": "https://www.yalla1shooot.com/matches/fiorentina-vs-crystal-palace/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نوتنجهامفور-بورتو-2026-04-16",
+      "home": "نوتنجهام فورست",
+      "away": "بورتو",
+      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/29-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/887-logo-1.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
+      "match_url": "https://www.yalla1shooot.com/matches/nottingham-forest-vs-porto/",
       "_source": "yalla1shoot"
     }
   ]
