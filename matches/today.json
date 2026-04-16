@@ -51,6 +51,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ريالبيتيس-سبورتينجبرا-2026-04-16",
+      "home": "ريال بيتيس",
+      "away": "سبورتينج براغا",
+      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/146-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/895-logo.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
+      "match_url": "https://www.yalla1shooot.com/matches/real-betis-vs-sporting-braga/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "أيكأثينا-رايوفاييكان-2026-04-16",
       "home": "أيك أثينا",
       "away": "رايو فاييكانو",
@@ -128,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
       "match_url": "https://www.yalla1shooot.com/matches/nottingham-forest-vs-porto/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالبيتيس-سبورتينجبرا-2026-04-16",
-      "home": "ريال بيتيس",
-      "away": "سبورتينج براغا",
-      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/146-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/895-logo.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, الدوري الأوروبي - ربع النهائي",
-      "match_url": "https://www.yalla1shooot.com/matches/real-betis-vs-sporting-braga/",
       "_source": "yalla1shoot"
     }
   ]
