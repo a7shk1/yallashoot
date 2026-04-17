@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "الزمالك-شباببلوزداد-2026-04-17",
-      "home": "الزمالك",
-      "away": "شباب بلوزداد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-1-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8225-logo-1.png",
-      "time_baghdad": "07:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-cs-belouizdad/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "ساسولو-كومو-2026-04-17",
       "home": "ساسولو",
       "away": "كومو",
@@ -57,8 +41,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9133-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8593-logo-1.png",
       "time_baghdad": "09:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -144,6 +128,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا للنخبة - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-saudi-vs-johor/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-شباببلوزداد-2026-04-17",
+      "home": "الزمالك",
+      "away": "شباب بلوزداد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-1-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8225-logo-1.png",
+      "time_baghdad": "07:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-cs-belouizdad/",
       "_source": "yalla1shoot"
     }
   ]
