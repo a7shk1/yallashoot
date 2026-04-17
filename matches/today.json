@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "بنفيكاتحت1-ClubBrugge-2026-04-17",
-      "home": "بنفيكا تحت 19",
-      "away": "Club Brugge U19",
-      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/27515-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/44903-logo.png",
-      "time_baghdad": "03:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال أوروبا للشباب - نصف النهائي",
-      "match_url": "https://www.yalla1shooot.com/matches/benfica-u19-vs-club-brugge-u19/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الأهليالسعو-جوهور-2026-04-17",
       "home": "الأهلي السعودي",
       "away": "جوهور",
@@ -160,6 +144,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shooot.com/matches/blackburn-rovers-vs-coventry-city/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بنفيكاتحت1-ClubBrugge-2026-04-17",
+      "home": "بنفيكا تحت 19",
+      "away": "Club Brugge U19",
+      "home_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/27515-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shooot.com/wp-content/uploads/2026/04/44903-logo.png",
+      "time_baghdad": "03:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أوروبا, دوري أبطال أوروبا للشباب - نصف النهائي",
+      "match_url": "https://www.yalla1shooot.com/matches/benfica-u19-vs-club-brugge-u19/",
       "_source": "yalla1shoot"
     }
   ]
