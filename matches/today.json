@@ -99,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ليدزيونايتد-وولفرهامبتون-2026-04-18",
+      "home": "ليدز يونايتد",
+      "away": "وولفرهامبتون",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/36-1-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/15-1-logo.png",
+      "time_baghdad": "05:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 4",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-wolverhampton-4/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "نيوكاسليونا-بورنموث-2026-04-18",
       "home": "نيوكاسل يونايتد",
       "away": "بورنموث",
@@ -115,19 +131,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليدزيونايتد-وولفرهامبتون-2026-04-18",
-      "home": "ليدز يونايتد",
-      "away": "وولفرهامبتون",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/36-1-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/15-1-logo.png",
-      "time_baghdad": "05:00",
+      "id": "نابولي-لاتسيو-2026-04-18",
+      "home": "نابولي",
+      "away": "لاتسيو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/234-1-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/236-1-logo.png",
+      "time_baghdad": "07:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN SPORTS HD 4",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/leeds-united-vs-wolverhampton-4/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/napoli-vs-lazio/",
       "_source": "yalla1shoot"
     },
     {
@@ -211,22 +227,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نهضةبركان-الجيشالملكي-2026-04-18",
-      "home": "نهضة بركان",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9974-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/renaissance-berkane-vs-royal-army-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "تشيلسي-مانشستريونا-2026-04-18",
       "home": "تشيلسي",
       "away": "مانشستر يونايتد",
@@ -240,6 +240,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/chelsea-vs-manchester-united-3/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "نهضةبركان-الجيشالملكي-2026-04-18",
+      "home": "نهضة بركان",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9974-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, دوري أبطال أفريقيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/renaissance-berkane-vs-royal-army-2/",
       "_source": "yalla1shoot"
     },
     {
