@@ -25,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-1-150x150.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8225-logo-1.png",
       "time_baghdad": "07:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "beIN Sports 3 HD",
       "commentator": "غير معروف",
@@ -144,22 +144,6 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, تشامبيونشيب",
       "match_url": "https://www.yalla1shoot.com/matches/blackburn-rovers-vs-coventry-city/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بنفيكاتحت1-ClubBrugge-2026-04-17",
-      "home": "بنفيكا تحت 19",
-      "away": "Club Brugge U19",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/27515-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/44903-logo.png",
-      "time_baghdad": "03:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال أوروبا للشباب - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/benfica-u19-vs-club-brugge-u19/",
       "_source": "yalla1shoot"
     }
   ]
