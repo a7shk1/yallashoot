@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أولمبيكآسفي-اتحادالعاصم-2026-04-20",
-      "home": "أولمبيك آسفي",
-      "away": "اتحاد العاصمة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8220-logo.png",
-      "time_baghdad": "11:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-safi-vs-usm-capital/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "فيسيلكوبي-الأهليالسعو-2026-04-20",
       "home": "فيسيل كوبي",
       "away": "الأهلي السعودي",
@@ -67,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-بولونيا-2026-04-20",
-      "home": "يوفنتوس",
-      "away": "بولونيا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/245-logo.png",
-      "time_baghdad": "09:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-bologna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريسسانجي-أولمبيكليون-2026-04-20",
       "home": "باريس سان جيرمان",
       "away": "أولمبيك ليون",
@@ -99,6 +67,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "يوفنتوس-بولونيا-2026-04-20",
+      "home": "يوفنتوس",
+      "away": "بولونيا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/245-logo.png",
+      "time_baghdad": "09:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-bologna/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "الأهليالقطر-الحسينإربد-2026-04-20",
       "home": "الأهلي القطري",
       "away": "الحسين إربد",
@@ -112,6 +96,22 @@
       "commentator": "غير معروف",
       "competition": "آسيا, دوري أبطال آسيا 2 - ربع النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/al-ahly-qatar-vs-al-hussein-irbid/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكآسفي-اتحادالعاصم-2026-04-20",
+      "home": "أولمبيك آسفي",
+      "away": "اتحاد العاصمة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8220-logo.png",
+      "time_baghdad": "11:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "أفريقيا, الكونفدرالية الافريقية - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-safi-vs-usm-capital/",
       "_source": "yalla1shoot"
     }
   ]
