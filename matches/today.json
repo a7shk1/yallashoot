@@ -126,7 +126,7 @@
       "result_text": "",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا 2 - ربع النهائي",
+      "competition": "آسيا, دوري أبطال آسيا 2 - نصف النهائي",
       "match_url": "https://www.yalla1shoot.com/matches/al-wasl-vs-al-nasr/",
       "_source": "yalla1shoot"
     },
@@ -179,22 +179,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بايرنميونخ-شتوتجارت-2026-04-19",
-      "home": "بايرن ميونخ",
-      "away": "شتوتجارت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/331-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/338-logo.png",
-      "time_baghdad": "06:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-stuttgart/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "مانشسترسيتي-أرسنال-2026-04-19",
       "home": "مانشستر سيتي",
       "away": "أرسنال",
@@ -208,6 +192,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/manchester-city-vs-arsenal/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بايرنميونخ-شتوتجارت-2026-04-19",
+      "home": "بايرن ميونخ",
+      "away": "شتوتجارت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/331-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/338-logo.png",
+      "time_baghdad": "06:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-vs-stuttgart/",
       "_source": "yalla1shoot"
     },
     {
