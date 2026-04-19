@@ -19,6 +19,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "نوتنجهامفور-بيرنلي-2026-04-19",
+      "home": "نوتنجهام فورست",
+      "away": "بيرنلي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/29-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/12-logo.png",
+      "time_baghdad": "04:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-burnley/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "موناكو-أوكسير-2026-04-19",
       "home": "موناكو",
       "away": "أوكسير",
@@ -80,22 +96,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/hellas-verona-vs-milan/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "نوتنجهامفور-بيرنلي-2026-04-19",
-      "home": "نوتنجهام فورست",
-      "away": "بيرنلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/29-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/12-logo.png",
-      "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/nottingham-forest-vs-burnley/",
       "_source": "yalla1shoot"
     },
     {
