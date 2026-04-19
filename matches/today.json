@@ -9,29 +9,13 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/290-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/235-logo.png",
       "time_baghdad": "01:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/cremonese-vs-torino/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "إيفرتون-ليفربول-2026-04-19",
-      "home": "إيفرتون",
-      "away": "ليفربول",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/107-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/108-logo.png",
-      "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-liverpool/",
       "_source": "yalla1shoot"
     },
     {
@@ -96,6 +80,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/aston-villa-vs-sunderland/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إيفرتون-ليفربول-2026-04-19",
+      "home": "إيفرتون",
+      "away": "ليفربول",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/107-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/108-logo.png",
+      "time_baghdad": "04:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/everton-vs-liverpool/",
       "_source": "yalla1shoot"
     },
     {
@@ -243,22 +243,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "يوفنتوس-بولونيا-2026-04-19",
-      "home": "يوفنتوس",
-      "away": "بولونيا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/245-logo.png",
-      "time_baghdad": "09:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-bologna/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باريسسانجي-أولمبيكليون-2026-04-19",
       "home": "باريس سان جيرمان",
       "away": "أولمبيك ليون",
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-olympique-lyonnais/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "يوفنتوس-بولونيا-2026-04-19",
+      "home": "يوفنتوس",
+      "away": "بولونيا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/245-logo.png",
+      "time_baghdad": "09:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/juventus-vs-bologna/",
       "_source": "yalla1shoot"
     },
     {
