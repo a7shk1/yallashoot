@@ -49,22 +49,6 @@
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/crystal-palace-vs-west-ham-united/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "أولمبيكآسفي-اتحادالعاصم-2026-04-20",
-      "home": "أولمبيك آسفي",
-      "away": "اتحاد العاصمة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8220-logo.png",
-      "time_baghdad": "11:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "أفريقيا, الكونفدرالية الافريقية - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-safi-vs-usm-capital/",
-      "_source": "yalla1shoot"
     }
   ]
 }
