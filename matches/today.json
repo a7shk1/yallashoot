@@ -99,6 +99,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستراسبورج-نيس-2026-04-22",
+      "home": "ستراسبورج",
+      "away": "نيس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/479-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/470-logo.png",
+      "time_baghdad": "10:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, كأس فرنسا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-nice/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "بورنموث-ليدزيونايتد-2026-04-22",
       "home": "بورنموث",
       "away": "ليدز يونايتد",
@@ -160,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/royal-army-vs-berkane-renaissance/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ستراسبورج-نيس-2026-04-22",
-      "home": "ستراسبورج",
-      "away": "نيس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/479-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/470-logo.png",
-      "time_baghdad": "10:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, كأس فرنسا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/strasbourg-vs-nice/",
       "_source": "yalla1shoot"
     },
     {
