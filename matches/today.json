@@ -1,25 +1,9 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "ليسترسيتي-هالسيتي-2026-04-21",
-      "home": "ليستر سيتي",
-      "away": "هال سيتي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/22-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/11-logo-150x150.png",
-      "time_baghdad": "09:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-hull-city/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "برايتون-تشيلسي-2026-04-21",
+      "id": "برايتون-تشيلسي-2026-04-22",
       "home": "برايتون",
       "away": "تشيلسي",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/38-logo.png",
@@ -35,23 +19,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "إنترميلان-كومو-2026-04-21",
-      "home": "إنتر ميلان",
-      "away": "كومو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/224-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/6117-logo.png",
-      "time_baghdad": "10:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, كأس إيطاليا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/inter-milan-vs-como/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "لانس-تولوز-2026-04-21",
+      "id": "لانس-تولوز-2026-04-22",
       "home": "لانس",
       "away": "تولوز",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/481-logo.png",
@@ -67,7 +35,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمدريد-ألافيس-2026-04-21",
+      "id": "ريالمدريد-ألافيس-2026-04-22",
       "home": "ريال مدريد",
       "away": "ألافيس",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/131-logo.png",
@@ -83,7 +51,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "جيرونا-ريالبيتيس-2026-04-21",
+      "id": "جيرونا-ريالبيتيس-2026-04-22",
       "home": "جيرونا",
       "away": "ريال بيتيس",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/175-logo-1.png",
@@ -99,23 +67,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ماتشيدازيرو-شبابالاهلي-2026-04-21",
-      "home": "ماتشيدا زيروبيا",
-      "away": "شباب الاهلي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/9133-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8347-logo-1-150x150.png",
-      "time_baghdad": "07:15",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الكأس 5",
-      "commentator": "غير معروف",
-      "competition": "آسيا, دوري أبطال آسيا للنخبة - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/machida-zerobia-vs-shabab-al-ahly/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أتلتيكبلباو-أوساسونا-2026-04-21",
+      "id": "أتلتيكبلباو-أوساسونا-2026-04-22",
       "home": "أتلتيك بلباو",
       "away": "أوساسونا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/144-logo.png",
@@ -131,7 +83,7 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالمايوركا-فالنسيا-2026-04-21",
+      "id": "ريالمايوركا-فالنسيا-2026-04-22",
       "home": "ريال مايوركا",
       "away": "فالنسيا",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/142-logo-1.png",
@@ -144,6 +96,38 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/real-mallorca-vs-valencia/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ليسترسيتي-هالسيتي-2026-04-22",
+      "home": "ليستر سيتي",
+      "away": "هال سيتي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/22-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/11-logo-150x150.png",
+      "time_baghdad": "09:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, تشامبيونشيب",
+      "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-hull-city/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "إنترميلان-كومو-2026-04-22",
+      "home": "إنتر ميلان",
+      "away": "كومو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/224-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/6117-logo.png",
+      "time_baghdad": "10:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, كأس إيطاليا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/inter-milan-vs-como/",
       "_source": "yalla1shoot"
     }
   ]
