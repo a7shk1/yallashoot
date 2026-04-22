@@ -19,6 +19,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "أولمبيكآسفي-نهضةالزمامر-2026-04-22",
+      "home": "أولمبيك آسفي",
+      "away": "نهضة الزمامرة",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/49266-logo.png",
+      "time_baghdad": "08:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympic-safi-vs-renaissance-of-zammara/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "إلتشي-أتلتيكومدري-2026-04-22",
       "home": "إلتشي",
       "away": "أتلتيكو مدريد",
@@ -48,22 +64,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/paris-saint-germain-vs-nantes/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أولمبيكآسفي-نهضةالزمامر-2026-04-22",
-      "home": "أولمبيك آسفي",
-      "away": "نهضة الزمامرة",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/49266-logo.png",
-      "time_baghdad": "08:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympic-safi-vs-renaissance-of-zammara/",
       "_source": "yalla1shoot"
     },
     {
