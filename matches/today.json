@@ -3,38 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "شتوتجارت-فرايبورج-2026-04-24",
-      "home": "شتوتجارت",
-      "away": "فرايبورج",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/338-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/354-logo.png",
-      "time_baghdad": "09:45",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, كأس المانيا - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-freiburg-2/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالأوفييدو-فياريال-2026-04-24",
-      "home": "ريال أوفييدو",
-      "away": "فياريال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/193-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/133-logo.png",
-      "time_baghdad": "10:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-oviedo-vs-villarreal/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "باشاكشهير-قاسمباشا-2026-04-24",
       "home": "باشاك شهير",
       "away": "قاسم باشا",
@@ -147,22 +115,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ليفانتي-إشبيلية-2026-04-24",
-      "home": "ليفانتي",
-      "away": "إشبيلية",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/150-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/135-logo.png",
-      "time_baghdad": "08:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/levante-vs-seville-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "الزمالك-بيراميدز-2026-04-24",
       "home": "الزمالك",
       "away": "بيراميدز",
@@ -195,6 +147,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "شتوتجارت-فرايبورج-2026-04-24",
+      "home": "شتوتجارت",
+      "away": "فرايبورج",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/338-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/354-logo.png",
+      "time_baghdad": "09:45",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "غير معروف",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, كأس المانيا - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/stuttgart-vs-freiburg-2/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "سالفوردسيتي-بروملي-2026-04-24",
       "home": "سالفورد سيتي",
       "away": "بروملي",
@@ -208,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, ليغ تو",
       "match_url": "https://www.yalla1shoot.com/matches/salford-city-vs-bromley/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالأوفييدو-فياريال-2026-04-24",
+      "home": "ريال أوفييدو",
+      "away": "فياريال",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/193-logo-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/133-logo.png",
+      "time_baghdad": "10:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-oviedo-vs-villarreal/",
       "_source": "yalla1shoot"
     }
   ]
