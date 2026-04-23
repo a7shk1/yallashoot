@@ -9,8 +9,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/54729-70x70-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/1344-70x70-logo.png",
       "time_baghdad": "04:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "غير معروف",
       "commentator": "غير معروف",
@@ -51,22 +51,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الزمالك-بيراميدز-2026-04-23",
-      "home": "الزمالك",
-      "away": "بيراميدز",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/22143-logo.png",
-      "time_baghdad": "09:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "أون سبورت",
-      "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-pyramids-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "رايوفاييكان-إسبانيول-2026-04-23",
       "home": "رايو فاييكانو",
       "away": "إسبانيول",
@@ -80,6 +64,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/rayo-vallecano-vs-espanyol-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الزمالك-بيراميدز-2026-04-23",
+      "home": "الزمالك",
+      "away": "بيراميدز",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/22143-logo.png",
+      "time_baghdad": "09:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "أون سبورت",
+      "commentator": "غير معروف",
+      "competition": "غير معروف",
+      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-pyramids-2/",
       "_source": "yalla1shoot"
     },
     {
