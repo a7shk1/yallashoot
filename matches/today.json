@@ -385,54 +385,6 @@
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/toulouse-vs-monaco/",
       "_source": "yalla1shoot"
-    },
-    {
-      "id": "ليسترسيتي-ميلوال-2026-04-25",
-      "home": "ليستر سيتي",
-      "away": "ميلوال",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/22-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/45-logo-1-150x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, تشامبيونشيب",
-      "match_url": "https://www.yalla1shoot.com/matches/leicester-city-vs-millwall/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "سندرلاند-نوتنجهامفور-2026-04-25",
-      "home": "سندرلاند",
-      "away": "نوتنجهام فورست",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/117-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/29-logo.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-nottingham-forest-2/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ريالبيتيس-ريالمدريد-2026-04-25",
-      "home": "ريال بيتيس",
-      "away": "ريال مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/146-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/131-logo.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-real-madrid/",
-      "_source": "yalla1shoot"
     }
   ]
 }
