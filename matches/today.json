@@ -35,22 +35,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بريست-لانس-2026-04-24",
-      "home": "بريست",
-      "away": "لانس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/534-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/481-logo.png",
-      "time_baghdad": "09:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/brest-vs-lance-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "نابولي-كريمونيسي-2026-04-24",
       "home": "نابولي",
       "away": "كريمونيسي",
@@ -64,6 +48,22 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/naples-vs-cremonese-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بريست-لانس-2026-04-24",
+      "home": "بريست",
+      "away": "لانس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/534-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/481-logo.png",
+      "time_baghdad": "09:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/brest-vs-lance-2/",
       "_source": "yalla1shoot"
     },
     {
