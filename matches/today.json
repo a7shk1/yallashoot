@@ -19,22 +19,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "بارما-بيسا-2026-04-25",
-      "home": "بارما",
-      "away": "بيسا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/241-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/248-logo-1-150x150.png",
-      "time_baghdad": "04:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/parma-vs-besa/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكليون-أوكسير-2026-04-25",
       "home": "أولمبيك ليون",
       "away": "أوكسير",
@@ -48,6 +32,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-auxerre/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "بارما-بيسا-2026-04-25",
+      "home": "بارما",
+      "away": "بيسا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/241-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/248-logo-1-150x150.png",
+      "time_baghdad": "04:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/parma-vs-besa/",
       "_source": "yalla1shoot"
     },
     {
@@ -83,6 +83,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "وولفرهامبتون-توتنهامهوتس-2026-04-25",
+      "home": "وولفرهامبتون",
+      "away": "توتنهام هوتسبر",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/15-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/114-logo.png",
+      "time_baghdad": "05:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-tottenham-hotspur/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "وستهاميونا-إيفرتون-2026-04-25",
       "home": "وست هام يونايتد",
       "away": "إيفرتون",
@@ -115,22 +131,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "وولفرهامبتون-توتنهامهوتس-2026-04-25",
-      "home": "وولفرهامبتون",
-      "away": "توتنهام هوتسبر",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/15-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/114-logo.png",
-      "time_baghdad": "05:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/wolverhampton-vs-tottenham-hotspur/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "خيتافي-برشلونة-2026-04-25",
       "home": "خيتافي",
       "away": "برشلونة",
@@ -156,7 +156,7 @@
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/hassania-agadir-vs-tangier-union/",
@@ -176,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "إيطاليا, الدوري الإيطالي",
       "match_url": "https://www.yalla1shoot.com/matches/bologna-vs-rome/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "بايرنميونيخ-برشلونة-سي-2026-04-25",
-      "home": "بايرن ميونيخ - سيدات",
-      "away": "برشلونة - سيدات",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/24126-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/24094-logo-150x150.png",
-      "time_baghdad": "07:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "غير معروف",
-      "commentator": "غير معروف",
-      "competition": "أوروبا, دوري أبطال أوروبا للسيدات - نصف النهائي",
-      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-women-vs-barcelona-women/",
       "_source": "yalla1shoot"
     },
     {
@@ -227,19 +211,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أرسنال-نيوكاسليونا-2026-04-25",
-      "home": "أرسنال",
-      "away": "نيوكاسل يونايتد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/104-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/116-logo.png",
-      "time_baghdad": "07:30",
+      "id": "بايرنميونيخ-برشلونة-سي-2026-04-25",
+      "home": "بايرن ميونيخ - سيدات",
+      "away": "برشلونة - سيدات",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/24126-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/24094-logo-150x150.png",
+      "time_baghdad": "07:15",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN Sports 3 HD",
+      "channel": "غير معروف",
       "commentator": "غير معروف",
-      "competition": "إنجلترا, الدوري الإنجليزي",
-      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-newcastle-united/",
+      "competition": "أوروبا, دوري أبطال أوروبا للسيدات - نصف النهائي",
+      "match_url": "https://www.yalla1shoot.com/matches/bayern-munich-women-vs-barcelona-women/",
       "_source": "yalla1shoot"
     },
     {
@@ -272,6 +256,22 @@
       "commentator": "غير معروف",
       "competition": "ألمانيا, الدوري الألماني",
       "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-hoffenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أرسنال-نيوكاسليونا-2026-04-25",
+      "home": "أرسنال",
+      "away": "نيوكاسل يونايتد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/104-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/116-logo.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "إنجلترا, الدوري الإنجليزي",
+      "match_url": "https://www.yalla1shoot.com/matches/arsenal-vs-newcastle-united/",
       "_source": "yalla1shoot"
     },
     {
@@ -364,7 +364,7 @@
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "غير معروف",
+      "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/marrakesh-planet-vs-wydad-athletic-club/",
@@ -403,22 +403,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "نابولي-كريمونيسي-2026-04-25",
-      "home": "نابولي",
-      "away": "كريمونيسي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/234-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/290-logo.png",
-      "time_baghdad": "09:45",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/naples-vs-cremonese-2/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بريست-لانس-2026-04-25",
       "home": "بريست",
       "away": "لانس",
@@ -435,19 +419,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ريالبيتيس-ريالمدريد-2026-04-25",
-      "home": "ريال بيتيس",
-      "away": "ريال مدريد",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/146-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/131-logo.png",
-      "time_baghdad": "10:00",
+      "id": "نابولي-كريمونيسي-2026-04-25",
+      "home": "نابولي",
+      "away": "كريمونيسي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/234-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/290-logo.png",
+      "time_baghdad": "09:45",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "إسبانيا, الدوري الإسباني",
-      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-real-madrid/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/naples-vs-cremonese-2/",
       "_source": "yalla1shoot"
     },
     {
@@ -480,6 +464,22 @@
       "commentator": "غير معروف",
       "competition": "إنجلترا, الدوري الإنجليزي",
       "match_url": "https://www.yalla1shoot.com/matches/sunderland-vs-nottingham-forest-2/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ريالبيتيس-ريالمدريد-2026-04-25",
+      "home": "ريال بيتيس",
+      "away": "ريال مدريد",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/146-logo-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/131-logo.png",
+      "time_baghdad": "10:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "beIN SPORTS HD 1",
+      "commentator": "غير معروف",
+      "competition": "إسبانيا, الدوري الإسباني",
+      "match_url": "https://www.yalla1shoot.com/matches/real-betis-vs-real-madrid/",
       "_source": "yalla1shoot"
     }
   ]
