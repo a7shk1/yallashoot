@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "أولمبيكليون-أوكسير-2026-04-25",
-      "home": "أولمبيك ليون",
-      "away": "أوكسير",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/465-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/476-logo-150x150.png",
-      "time_baghdad": "04:00",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Bein Sports HD2",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-auxerre/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بارما-بيسا-2026-04-25",
       "home": "بارما",
       "away": "بيسا",
@@ -153,8 +137,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8323-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/14596-logo.png",
       "time_baghdad": "06:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "الرياضية المغربية (3)",
       "commentator": "غير معروف",
@@ -275,19 +259,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الناديالمكن-الدفاعالحسن-2026-04-25",
-      "home": "النادي المكناسي",
-      "away": "الدفاع الحسني الجديدي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8677-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8203-logo.png",
+      "id": "أنجيه-باريسسانجي-2026-04-25",
+      "home": "أنجيه",
+      "away": "باريس سان جيرمان",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/493-logo-150x150.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/480-logo.png",
       "time_baghdad": "08:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "المغربية (5)",
+      "channel": "beIN SPORTS HD 1",
       "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/meknassi-club-vs-new-hassani-defense/",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/anger-vs-paris-saint-germain/",
       "_source": "yalla1shoot"
     },
     {
@@ -307,19 +291,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "أنجيه-باريسسانجي-2026-04-25",
-      "home": "أنجيه",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/493-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/480-logo.png",
+      "id": "الناديالمكن-الدفاعالحسن-2026-04-25",
+      "home": "النادي المكناسي",
+      "away": "الدفاع الحسني الجديدي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8677-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8203-logo.png",
       "time_baghdad": "08:00",
       "status": "NS",
       "status_text": "لم تبدأ بعد",
       "result_text": "",
-      "channel": "beIN SPORTS HD 1",
+      "channel": "المغربية (5)",
       "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/anger-vs-paris-saint-germain/",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/meknassi-club-vs-new-hassani-defense/",
       "_source": "yalla1shoot"
     },
     {
@@ -416,6 +400,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/alaves-vs-real-mallorca-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "أولمبيكليون-أوكسير-2026-04-25",
+      "home": "أولمبيك ليون",
+      "away": "أوكسير",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/465-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/476-logo-150x150.png",
+      "time_baghdad": "04:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Bein Sports HD2",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/olympique-lyonnais-vs-auxerre/",
       "_source": "yalla1shoot"
     }
   ]
