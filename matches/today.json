@@ -147,22 +147,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "باريسأف.سي.-ليل-2026-04-26",
-      "home": "باريس أف.سي.",
-      "away": "ليل",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/6075-logo-1.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/478-logo.png",
-      "time_baghdad": "06:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 5 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/paris-f-c-vs-night-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "لوآفر-ميتز-2026-04-26",
       "home": "لو آفر",
       "away": "ميتز",
@@ -192,6 +176,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/rennes-stadium-vs-nantes-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "باريسأف.سي.-ليل-2026-04-26",
+      "home": "باريس أف.سي.",
+      "away": "ليل",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/6075-logo-1.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/478-logo.png",
+      "time_baghdad": "06:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 5 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/paris-f-c-vs-night-yalla1shoot-com/",
       "_source": "yalla1shoot"
     },
     {
@@ -355,54 +355,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الناديالمكن-الدفاعالحسن-2026-04-26",
-      "home": "النادي المكناسي",
-      "away": "الدفاع الحسني الجديدي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8677-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8203-logo.png",
-      "time_baghdad": "08:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "المغربية (5)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/meknassi-club-vs-new-hassani-defense/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "اتحادتواركة-أولمبيكآسفي-2026-04-26",
-      "home": "اتحاد تواركة",
-      "away": "أولمبيك آسفي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/14597-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8210-logo.png",
-      "time_baghdad": "08:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/tawarka-union-vs-olympic-safi-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "أنجيه-باريسسانجي-2026-04-26",
-      "home": "أنجيه",
-      "away": "باريس سان جيرمان",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/493-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/480-logo.png",
-      "time_baghdad": "08:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "beIN SPORTS HD 1",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/anger-vs-paris-saint-germain/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "هيلاسفيرونا-ليتشي-2026-04-26",
       "home": "هيلاس فيرونا",
       "away": "ليتشي",
@@ -419,22 +371,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الكوكبالمرا-الودادالريا-2026-04-26",
-      "home": "الكوكب المراكشي",
-      "away": "الوداد الرياضي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8209-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8326-logo-150x150.png",
-      "time_baghdad": "10:00",
-      "status": "FT",
-      "status_text": "انتهت",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/marrakesh-planet-vs-wydad-athletic-club/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أتلتيكومدري-أتلتيكبلباو-2026-04-26",
       "home": "أتلتيكو مدريد",
       "away": "أتلتيك بلباو",
@@ -448,6 +384,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/atletico-madrid-vs-athletic-bilbao/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الكوكبالمرا-الودادالريا-2026-04-26",
+      "home": "الكوكب المراكشي",
+      "away": "الوداد الرياضي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8209-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8326-logo-150x150.png",
+      "time_baghdad": "10:00",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/marrakesh-planet-vs-wydad-athletic-club/",
       "_source": "yalla1shoot"
     },
     {
