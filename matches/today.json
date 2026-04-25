@@ -227,22 +227,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "هامبورج-هوفنهايم-2026-04-25",
-      "home": "هامبورج",
-      "away": "هوفنهايم",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/334-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/351-logo.png",
-      "time_baghdad": "07:30",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "MBC Action",
-      "commentator": "غير معروف",
-      "competition": "ألمانيا, الدوري الألماني",
-      "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-hoffenheim/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أرسنال-نيوكاسليونا-2026-04-25",
       "home": "أرسنال",
       "away": "نيوكاسل يونايتد",
@@ -275,6 +259,38 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "هامبورج-هوفنهايم-2026-04-25",
+      "home": "هامبورج",
+      "away": "هوفنهايم",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/334-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/351-logo.png",
+      "time_baghdad": "07:30",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "MBC Action",
+      "commentator": "غير معروف",
+      "competition": "ألمانيا, الدوري الألماني",
+      "match_url": "https://www.yalla1shoot.com/matches/hamburg-vs-hoffenheim/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "الناديالمكن-الدفاعالحسن-2026-04-25",
+      "home": "النادي المكناسي",
+      "away": "الدفاع الحسني الجديدي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8677-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8203-logo.png",
+      "time_baghdad": "08:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "المغربية (5)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/meknassi-club-vs-new-hassani-defense/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "اتحادتواركة-أولمبيكآسفي-2026-04-25",
       "home": "اتحاد تواركة",
       "away": "أولمبيك آسفي",
@@ -304,22 +320,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/anger-vs-paris-saint-germain/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "الناديالمكن-الدفاعالحسن-2026-04-25",
-      "home": "النادي المكناسي",
-      "away": "الدفاع الحسني الجديدي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8677-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8203-logo.png",
-      "time_baghdad": "08:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "المغربية (5)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/meknassi-club-vs-new-hassani-defense/",
       "_source": "yalla1shoot"
     },
     {
