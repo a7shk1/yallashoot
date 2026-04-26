@@ -3,30 +3,14 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "فيورنتينا-ساسولو-2026-04-26",
-      "home": "فيورنتينا",
-      "away": "ساسولو",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/228-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/266-logo.png",
-      "time_baghdad": "01:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-sassuolo-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "رايوفاييكان-ريالسوسيداد-2026-04-26",
       "home": "رايو فاييكانو",
       "away": "ريال سوسيداد",
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/174-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/154-logo.png",
       "time_baghdad": "03:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Bein Sports HD2",
       "commentator": "غير معروف",
@@ -147,6 +131,22 @@
       "_source": "yalla1shoot"
     },
     {
+      "id": "ستادرين-نانت-2026-04-26",
+      "home": "ستاد رين",
+      "away": "نانت",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/477-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/486-logo-150x150.png",
+      "time_baghdad": "06:15",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "beIN Sports 3 HD",
+      "commentator": "غير معروف",
+      "competition": "فرنسا, الدوري الفرنسي",
+      "match_url": "https://www.yalla1shoot.com/matches/rennes-stadium-vs-nantes-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
       "id": "باريسأف.سي.-ليل-2026-04-26",
       "home": "باريس أف.سي.",
       "away": "ليل",
@@ -176,22 +176,6 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/if-ever-vs-metz-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
-      "id": "ستادرين-نانت-2026-04-26",
-      "home": "ستاد رين",
-      "away": "نانت",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/477-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/486-logo-150x150.png",
-      "time_baghdad": "06:15",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "beIN Sports 3 HD",
-      "commentator": "غير معروف",
-      "competition": "فرنسا, الدوري الفرنسي",
-      "match_url": "https://www.yalla1shoot.com/matches/rennes-stadium-vs-nantes-yalla1shoot-com/",
       "_source": "yalla1shoot"
     },
     {
@@ -352,6 +336,22 @@
       "commentator": "غير معروف",
       "competition": "إسبانيا, الدوري الإسباني",
       "match_url": "https://www.yalla1shoot.com/matches/villarreal-vs-celta-vigo-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "فيورنتينا-ساسولو-2026-04-26",
+      "home": "فيورنتينا",
+      "away": "ساسولو",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/228-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/266-logo.png",
+      "time_baghdad": "01:30",
+      "status": "FT",
+      "status_text": "انتهت",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/fiorentina-vs-sassuolo-yalla1shoot-com/",
       "_source": "yalla1shoot"
     }
   ]
