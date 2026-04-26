@@ -291,22 +291,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "ميلان-يوفنتوس-2026-04-26",
-      "home": "ميلان",
-      "away": "يوفنتوس",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/227-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
-      "time_baghdad": "09:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/milan-vs-juventus-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "أولمبيكمارس-نيس-2026-04-26",
       "home": "أولمبيك مارسيليا",
       "away": "نيس",
@@ -320,6 +304,22 @@
       "commentator": "غير معروف",
       "competition": "فرنسا, الدوري الفرنسي",
       "match_url": "https://www.yalla1shoot.com/matches/olympique-marseille-vs-nice-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "ميلان-يوفنتوس-2026-04-26",
+      "home": "ميلان",
+      "away": "يوفنتوس",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/227-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/226-logo.png",
+      "time_baghdad": "09:45",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "Starzplay",
+      "commentator": "غير معروف",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/milan-vs-juventus-yalla1shoot-com/",
       "_source": "yalla1shoot"
     },
     {
