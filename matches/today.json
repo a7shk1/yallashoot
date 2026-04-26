@@ -243,22 +243,6 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "اتحاديعقوب-الجيشالملكي-2026-04-26",
-      "home": "اتحاد يعقوب المنصور",
-      "away": "الجيش الملكي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/82477-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo.png",
-      "time_baghdad": "08:00",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
-      "result_text": "",
-      "channel": "الرياضية المغربية (3)",
-      "commentator": "غير معروف",
-      "competition": "المغرب, الدوري المغربي",
-      "match_url": "https://www.yalla1shoot.com/matches/yacoub-al-mansour-union-vs-royal-army-yalla1shoot-com/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "غلطةسراي-فنربخشة-2026-04-26",
       "home": "غلطة سراي",
       "away": "فنربخشة",
@@ -288,6 +272,22 @@
       "commentator": "غير معروف",
       "competition": "المغرب, الدوري المغربي",
       "match_url": "https://www.yalla1shoot.com/matches/raja-casablanca-vs-ligamentous-opening-yalla1shoot-com/",
+      "_source": "yalla1shoot"
+    },
+    {
+      "id": "اتحاديعقوب-الجيشالملكي-2026-04-26",
+      "home": "اتحاد يعقوب المنصور",
+      "away": "الجيش الملكي",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/82477-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/5455-logo.png",
+      "time_baghdad": "08:00",
+      "status": "NS",
+      "status_text": "لم تبدأ بعد",
+      "result_text": "",
+      "channel": "الرياضية المغربية (3)",
+      "commentator": "غير معروف",
+      "competition": "المغرب, الدوري المغربي",
+      "match_url": "https://www.yalla1shoot.com/matches/yacoub-al-mansour-union-vs-royal-army-yalla1shoot-com/",
       "_source": "yalla1shoot"
     },
     {
