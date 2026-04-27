@@ -3,22 +3,6 @@
   "source_url": "https://www.yalla1shoot.com/matches-today_5/",
   "matches": [
     {
-      "id": "كالياري-أتالانتا-2026-04-27",
-      "home": "كالياري",
-      "away": "أتالانتا",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/243-logo.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/232-logo.png",
-      "time_baghdad": "07:30",
-      "status": "LIVE",
-      "status_text": "مباشر",
-      "result_text": "",
-      "channel": "Starzplay",
-      "commentator": "غير معروف",
-      "competition": "إيطاليا, الدوري الإيطالي",
-      "match_url": "https://www.yalla1shoot.com/matches/cagliari-vs-atalanta-yalla1shoot-com_end_1/",
-      "_source": "yalla1shoot"
-    },
-    {
       "id": "بيراميدز-الأهلي-2026-04-27",
       "home": "بيراميدز",
       "away": "الأهلي",
@@ -41,8 +25,8 @@
       "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/236-logo.png",
       "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/229-logo.png",
       "time_baghdad": "09:45",
-      "status": "NS",
-      "status_text": "لم تبدأ بعد",
+      "status": "LIVE",
+      "status_text": "مباشر",
       "result_text": "",
       "channel": "Starzplay",
       "commentator": "غير معروف",
@@ -83,19 +67,19 @@
       "_source": "yalla1shoot"
     },
     {
-      "id": "الزمالك-إنبي-2026-04-27",
-      "home": "الزمالك",
-      "away": "إنبي",
-      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8201-logo-150x150.png",
-      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/8300-logo.png",
-      "time_baghdad": "05:00",
+      "id": "كالياري-أتالانتا-2026-04-27",
+      "home": "كالياري",
+      "away": "أتالانتا",
+      "home_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/243-logo.png",
+      "away_logo": "https://i0.wp.com/www.yalla1shoot.com/wp-content/uploads/2026/04/232-logo.png",
+      "time_baghdad": "07:30",
       "status": "FT",
       "status_text": "انتهت",
       "result_text": "",
-      "channel": "أون سبورت ماكس",
+      "channel": "Starzplay",
       "commentator": "غير معروف",
-      "competition": "غير معروف",
-      "match_url": "https://www.yalla1shoot.com/matches/zamalek-vs-enppi-yalla1shoot-com_end_1/",
+      "competition": "إيطاليا, الدوري الإيطالي",
+      "match_url": "https://www.yalla1shoot.com/matches/cagliari-vs-atalanta-yalla1shoot-com_end_1/",
       "_source": "yalla1shoot"
     }
   ]
